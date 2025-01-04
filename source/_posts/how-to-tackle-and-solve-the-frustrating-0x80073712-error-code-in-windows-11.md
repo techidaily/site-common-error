@@ -1,7 +1,7 @@
 ---
 title: How to Tackle and Solve the Frustrating 0X80073712 Error Code in Windows 11
-date: 2024-12-19T17:15:15.266Z
-updated: 2024-12-25T16:29:45.761Z
+date: 2025-01-01T00:55:28.067Z
+updated: 2025-01-03T17:39:16.730Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try all these fixes; just work your way down the list until the problem goes away.
@@ -39,6 +35,10 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
 **Windows Update Troubleshooter**   is a useful troubleshooting tool that helps us solve common Windows update issues. Here’s how to run Troubleshooter:
@@ -46,19 +46,23 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
  1) On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Windows Update**   \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions to troubleshoot.
 
 4) Restart your computer, try Windows Update again and hopefully this problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the SFC scan
 
@@ -67,10 +71,14 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
 
@@ -78,10 +86,18 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?  
  3) Restart your computer and see if the error**0x80073712**   has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run **the DISM tool**
 
@@ -91,19 +107,11 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **the following command**   and press **Enter** :
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Wait for a while for the whole process to finishes.
   
@@ -112,10 +120,6 @@ Wait for a while for the whole process to finishes.
  4) Check Windows Update and see if it works this time.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Delete Windows Update Cache
 
@@ -129,11 +133,11 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a89c68a29.jpg)
 
- 3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
 
@@ -150,10 +154,6 @@ Wait for a while for the whole process to finishes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
 
@@ -188,24 +188,14 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-free-premiere-pro-starter-kit-with-top-templates/"><u>[New] 2024 Approved Free Premiere Pro Starter Kit with Top Templates</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-game-on-compile-your-collection-of-the-top-12-pc-clickers/"><u>[New] 2024 Approved Game On Compile Your Collection of the Top 12 PC Clickers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-hack-top-underrated-tips-and-tricks/"><u>[New] 2024 Approved Insta-Hack Top Underrated Tips and Tricks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-achieving-gentle-volume-alteration-using-fl-studio/"><u>[New] In 2024, Achieving Gentle Volume Alteration Using FL Studio</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-become-a-pro-at-networked-streams-with-vlc/"><u>2024 Approved Become a Pro at Networked Streams with VLC</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/best-artificial-intelligence-tools-innovative-options-beyond-firefly/"><u>Best Artificial Intelligence Tools: Innovative Options Beyond Firefly</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203716216-bluetooth-not-working-on-windows-11-try-these-effortless-repairs/"><u>Bluetooth Not Working on Windows 11? Try These Effortless Repairs!</u></a></li>
-<li><a href="https://common-error.techidaily.com/high-cpu-issue-resolved-in-windows-driver-framework-integration/"><u>High CPU Issue Resolved in Windows Driver Framework Integration</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-laptop-mousepad-on-windows-10-8-or-7-a-complete-guide/"><u>How to Fix a Non-Responsive Laptop Mousepad on Windows 10, 8, or 7 – A Complete Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 15 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-fix-how-to-resolve-no-battery-detected-issues-swiftly/"><u>Immediate Fix: How to Resolve 'No Battery Detected' Issues Swiftly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-s23-tactical-edition-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy S23 Tactical Edition? Fixed | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/maintain-a-positive-tone-users-are-often-looking-for-solutions-so-use-positive-words-like-guide-or-solutions-that-indicate-you-have-the-answer-theyre-seekin93/"><u>Maintain a Positive Tone: Users Are Often Looking for Solutions, so Use Positive Words Like Guide or Solutions that Indicate You Have the Answer They're Seeking. Avoid Using Negative Connotations in Your Titles.</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-unrecoverable-error-in-directx-a-comprehensive-guide/"><u>Resolving 'Unrecoverable Error' In DirectX: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-the-unexpected-closure-of-processes-in-windows-error-1067/"><u>Step-by-Step Guide to Resolve the Unexpected Closure of Processes in Windows (Error 1067)</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-hack-to-resolve-new-worlds-easy-anti-cheat-error-and-jump-into-your-quest/"><u>The Ultimate Hack to Resolve New World's Easy Anti-Cheat Error and Jump Into Your Quest</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-13-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 13 Pro 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-lowering-svchostexe-process-load-on-windows-nx-series-computers/"><u>Troubleshooting Steps for Lowering svchost.exe Process Load on Windows nX-Series Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows/"><u>Windows対応動画制作ツールと編集プログラム - ダイナミックな映像の創出</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-citizens-guide-to-poking-through-public-broadcast-archives/"><u>[Updated] A Citizen's Guide to Poking Through Public Broadcast Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-prime-cut-film-highlights/"><u>2024 Approved Prime Cut Film Highlights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-revealing-hidden-pathways-understanding-facebooks-off-activity-tracking/"><u>2024 Approved Revealing Hidden Pathways Understanding Facebook's Off-Activity Tracking</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-improving-delayed-keyboard-input-with-ease/"><u>Effective Solutions for Improving Delayed Keyboard Input with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-youtube-sound-troubleshooting-on-pcs-running-windows-10-operating-system/"><u>Effective Solutions for YouTube Sound Troubleshooting on PC's Running Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-ferramenta-de-conversao-de-arquivos-raw-para-gratuita-e-em-linha/"><u>Movavi: Ferramenta De Conversão De Arquivos RAW Para Gratuita E Em Linha</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/um-video-gear-guide-selecting-the-right-lens-for-youtube-for-2024/"><u>Premium Video Gear Guide Selecting the Right Lens for YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-msda80dll-importance-and-necessity-in-windows-system/"><u>Understanding MSDA80.DLL: Importance and Necessity in Windows System</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsuccessful-windows-10-build-1607-update-troubleshooting-guide/"><u>Unsuccessful Windows 10 Build 1607 Update: Troubleshooting Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Mysterious USB Malfunction - Descriptor Request Error Fix"
-date: 2024-12-20T18:13:23.680Z
-updated: 2024-12-25T19:48:59.366Z
+date: 2024-12-29T05:30:20.623Z
+updated: 2025-01-04T00:53:27.488Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 **4) Start** your device. Then try your touch screen and see if it can work.  
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Install system updates
 
  Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
@@ -62,17 +58,9 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
@@ -93,13 +81,17 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Reset your Surface Pro 4
@@ -111,12 +103,16 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
 
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
@@ -145,20 +145,16 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deciphering-the-innovative-world-of-youtube-studio/"><u>[New] 2024 Approved Deciphering the Innovative World of YouTube Studio</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ps4-broadcast-simplified-detailed-steps-using-obs/"><u>[New] PS4 Broadcast Simplified Detailed Steps Using OBS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-superior-tools-for-capturing-moments-with-harmony-for-2024/"><u>[Updated] Superior Tools for Capturing Moments with Harmony for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-28-malfunction-in-windows-explorer-explained-solutions-and-tips/"><u>Code 28 Malfunction in Windows Explorer Explained: Solutions and Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-basics-for-transforming-full-size-photos-into-efficient-thumbnails/"><u>In 2024, The Basics for Transforming Full-Size Photos Into Efficient Thumbnails</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-pc-mouse-gets-stuck-a-complete-solution/"><u>Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution</u></a></li>
-<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-fix-steam-cannot-write-to-disc-error-swiftly/"><u>Step-by-Step Tips to Fix Steam Cannot Write to Disc Error Swiftly</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-restore-keyboard-functionality-on-login/"><u>Step-by-Step Tips to Restore Keyboard Functionality on Login</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-8-solutions-overcome-the-persistent-windows-10-update-error-0x800f0922/"><u>Top 8 Solutions: Overcome the Persistent Windows 10 Update Error 0X800F0922</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-vertical-search-a-comprehensive-guide-and-essential-seo-strategies-with-seo-powersuite/"><u>Understanding Vertical Search: A Comprehensive Guide & Essential SEO Strategies with SEO PowerSuite</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-device-not-recognized-keeps-popping-up-solved/"><u>USB Device Not Recognized Keeps Popping Up [SOLVED]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-the-moment-iphone-time-lapse-tutorial/"><u>[New] Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-deep-dive-into-instagrams-daily-narrative-components-for-2024/"><u>[New] Deep Dive Into Instagram's Daily Narrative Components for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-dynamic-typography-guide-the-most-innovative-ae-text-ideas/"><u>[New] Dynamic Typography Guide The Most Innovative AE Text Ideas</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-symphonic-sounds-windows-edition-for-2024/"><u>[New] Symphonic Sounds Windows Edition for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-steam-apps-dll-issues/"><u>Fixing Steam App's Dll Issues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Zero 5G 2023 Turbo FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-compatibility-problems-with-windows-hello-feature-on-windows-10-pcs/"><u>Resolving Compatibility Problems with Windows Hello Feature on Windows 10 PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/share-screen-on-zoom-meeting-guide/"><u>Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing GPU Load by the Desktop Window Manager on Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-1011-how-to-restore-print-screen-functionality/"><u>Troubleshooting Windows 10/11: How to Restore Print Screen Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-success-effective-solutions-for-fixing-error-code-0x800f0922-during-windows-11-updates/"><u>Unlock Success: Effective Solutions for Fixing Error Code 0X800F0922 During Windows 11 Updates</u></a></li>
 </ul></div>
 

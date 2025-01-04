@@ -1,7 +1,7 @@
 ---
 title: "Overcome PS4 Connection Problems: An Ultimate Step-by-Step Solution Guide"
-date: 2024-08-15T10:56:09.948Z
-updated: 2024-08-16T10:56:09.948Z
+date: 2025-01-02T22:54:36.770Z
+updated: 2025-01-03T16:58:18.068Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 **USB keeps disconnecting** on your computer? Don’t worry, it’s actually quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes For USB Keeps Disconnecting
 
  Here’re 4 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -28,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 2. **[Update your USB drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Do some basic troubleshooting
 
@@ -41,8 +42,9 @@ To rule out this as a possibility:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your USB drivers
 
  This problem may occur if you are using the wrong or outdated USB drivers. So you should update your USB driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,9 +69,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Turn off USB selective suspend
 
  If your PC is configured to disable USB devices after a certain amount of time, you may have the USB keeps disconnecting problem.  
@@ -84,19 +83,21 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Change advanced power settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
@@ -110,22 +111,20 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
@@ -143,8 +142,6 @@ To make sure you’ve this setting disabled:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +149,20 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-the-role-of-look-up-tables-in-cinematic-coloring-for-2024/"><u>[New] The Role of Look-Up Tables in Cinematic Coloring for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-inadequate-system-power-to-fulfill-task-requests/"><u>Addressing Inadequate System Power to Fulfill Task Requests</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-overcome-windows-11-installer-error-code-80240020/"><u>Fix Guide: Overcome 'Windows 11 Installer Error Code 80240020'</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-to-consolidating-your-youtube-video-collection-for-2024/"><u>Guide to Consolidating Your YouTube Video Collection for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206141954-how-to-restore-sounds-in-forza-horizon-4-after-a-silent-ride-solutions-unveiled/"><u>How to Restore Sounds in Forza Horizon 4 After a Silent Ride – Solutions Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-8-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 8 Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-not-working-in-windows-1087-fixed/"><u>Lenovo Mouse Pad Not Working in Windows 10/8/7 [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-windows-10-bluetooth-connectivity-issues-instantly-step-by-step-guide/"><u>Resolve Your Windows 10 Bluetooth Connectivity Issues Instantly - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-trailblazing-google-pixel-9-now-equipped-with-satellite-based-distress-messaging-setting-a-milestone-in-android-phone-safety-and-connectivity/"><u>The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-mystery-the-essentials-of-microsofts-bing-search-platform/"><u>Unveiling the Mystery: The Essentials of Microsoft's Bing Search Platform</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mobile-3d-animation-made-easy-top-apps-for-android-and-iphone-for-2024/"><u>Updated Mobile 3D Animation Made Easy Top Apps for Android & iPhone for 2024</u></a></li>
+</ul></div>
 

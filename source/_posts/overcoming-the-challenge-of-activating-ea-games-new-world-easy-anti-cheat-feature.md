@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Activating EA Games' New World Easy Anti-Cheat Feature
-date: 2024-12-20T16:03:45.764Z
-updated: 2024-12-25T16:31:09.274Z
+date: 2025-01-03T04:47:49.450Z
+updated: 2025-01-04T05:39:43.025Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you see an error message saying “**No Pen or Touch Input is available for t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 Here are some solutions that have helped people resolve the same error. You don’t need to try them all; just work your way down the list until everything’s working again.
@@ -36,10 +40,6 @@ Here are some solutions that have helped people resolve the same error. You don�
 ### Fix 1: Force a shut down and restart
 
 As many people have resolved the “**No Pen or Touch Input is available for this Display**” error on their computer by forcing a shutdown, it never hurts to perform a force shutdown and restart your computer to fix it. As the steps to force a shutdown vary from brand to brand, you can consult your computer manufacturer to do that. For example, if you’re using a Surface Pro 4, you can press and hold the**power button**for**10 seconds**, then your screen turns off and shuts down. Then press and release the power button to turn on your Surface Pro 4\. After restart, try again and see if touch screen works now. If this method doesn’t work for you, don’t worry. There are something else to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run troubleshooter in your computer
 
@@ -56,12 +56,12 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10e9a82be.jpg)
 5. Click**Next** to process. Then follow the on-screen instructions to finish the process.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
 6. Restart your computer and see if it fixes the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Re-enable touch screen
 
@@ -69,10 +69,6 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
  and **R**  at the same time to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11575bbfb.png)
@@ -82,27 +78,31 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Try touch screen and see if it works now. The error still persists? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update touch screen driver
 
@@ -135,21 +135,24 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>[New] In 2024, From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-navigating-new-realities-metaverse-meets-omniverse/"><u>[Updated] 2024 Approved Navigating New Realities Metaverse Meets Omniverse</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-your-first-zoom-webinar-with-ease/"><u>[Updated] In 2024, Mastering Your First Zoom Webinar with Ease</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-roadmap-to-building-stellar-podcast-rss-feeds/"><u>[Updated] The Roadmap to Building Stellar Podcast RSS Feeds</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unleash-clarity-in-depth-tutorial-on-video-enhancer-22/"><u>[Updated] Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-compreenas-a-step-by-step-process-to-apply-luts-in-photoshop-cc/"><u>2024 Approved Compreenas a Step-by-Step Process to Apply LUTs in Photoshop CC</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-majority-of-respondents-say-global-equities-are-now-overbought-and-could-be-vulnerable-to-a-correction-in-coming-months-as-investors-begin-to-price-in-the92/"><u>A Majority of Respondents Say Global Equities Are Now Overbought and Could Be Vulnerable to a Correction in Coming Months as Investors Begin to Price in the Risk of Higher Inflation and Interest Rates.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-huawei-nova-y71-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Huawei Nova Y71 Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-oddworld-soulstorm-pc-game-launch-issues-complete-guide/"><u>How To Fix Oddworld Soulstorm PC Game Launch Issues - Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-a-stubborn-failed-to-update-warframe-issue/"><u>How to Resolve a Stubborn 'Failed to Update Warframe' Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-right-click-on-a-windows-10-system/"><u>How to Restore Functionality of Right-Click on a Windows 10 System</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-comedy-gold-twitters-hottest-jokes/"><u>In 2024, Comedy Gold Twitter's Hottest Jokes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/loves-anthem-top-10-songs-that-define-proposal-moments-for-2024/"><u>Love's Anthem Top 10 Songs That Define Proposal Moments for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-your-pc-finding-and-using-the-start-button-on-windows-10/"><u>Mastering Your PC: Finding and Using the Start Button on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-security-error-messages-during-firefox-login-attempts/"><u>Overcoming Security Error Messages During Firefox Login Attempts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-hp-laptop-usb-connectivity-fixes-and-solutions/"><u>Troubleshooting HP Laptop USB Connectivity: Fixes & Solutions!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-process-for-youtubes-pending-video-list/"><u>[New] 2024 Approved Clearing Process for YouTube's Pending Video List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-elitepixel-recorder-winos-series/"><u>[New] 2024 Approved ElitePixel Recorder WinOS Series</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dive-into-360-videos-iphone-edition-for-facebook-posts/"><u>[New] Dive Into 360 Videos IPhone Edition for Facebook Posts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-achieving-a-noiseless-presence-on-social-video-platforms/"><u>2024 Approved Achieving a Noiseless Presence on Social Video Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-friendly-multiview-cameras-for-professional-use-for-2024/"><u>Budget-Friendly Multiview Cameras for Professional Use for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-the-void-effective-remedies-for-laptops-persistent-white-display-problem/"><u>Clear the Void: Effective Remedies for Laptop's Persistent White Display Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-fix-oddworld-soulstorm-pc-game-crashes/"><u>Complete Guide to Fix Oddworld: Soulstorm PC Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/cracking-down-on-0x80070643-comprehensive-fixes-for-windows-update-failures/"><u>Cracking Down on 0X80070643 - Comprehensive Fixes for Windows Update Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fix-for-ps4-nat-problems-in-depth-step-by-step-strategies/"><u>DIY Fix for PS4 NAT Problems: In-Depth, Step-by-Step Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212500464-guide-activating-bluetooth-connectivity-in-windows-7-resolved/"><u>Guide: Activating Bluetooth Connectivity in Windows 7 - Resolved</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-13-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 13 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-achieving-high-res-on-twitter-vids/"><u>In 2024, Achieving High-Res on Twitter Vids</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ize-your-youtube-income-with-effective-mobile-device-strategies-for-2024/"><u>Maximize Your YouTube Income with Effective Mobile Device Strategies for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-era-facebooks-quintessential-features-showcased-for-2024/"><u>New Era Facebook's Quintessential Features Showcased for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-specified-module-missing-errors-a-step-by-step-guide/"><u>Resolving 'Specified Module Missing' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/social-media-savvy-instagrams-best-tips-for-gif-uploads-and-posting-for-2024/"><u>Social Media Savvy Instagram's Best Tips for GIF Uploads and Posting for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-failed-initializer-issues-the-ultimate-guide-updated-with-2021-fixes/"><u>Solving Failed Initializer Issues: The Ultimate Guide (Updated with 2021 Fixes)</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-the-stutter-proven-solutions-to-get-rid-of-minecraft-lag/"><u>Stop the Stutter: Proven Solutions to Get Rid of Minecraft Lag</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-remote-server-connection-errors-expert-tips-and-solutions/"><u>Troubleshooting Remote Server Connection Errors - Expert Tips and Solutions</u></a></li>
 </ul></div>
 

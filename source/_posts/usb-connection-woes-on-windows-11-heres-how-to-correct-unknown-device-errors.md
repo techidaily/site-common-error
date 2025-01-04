@@ -1,7 +1,7 @@
 ---
 title: USB Connection Woes on Windows 11? Here's How to Correct Unknown Device Errors
-date: 2024-12-18T17:34:06.122Z
-updated: 2024-12-25T16:55:00.352Z
+date: 2025-01-02T02:09:40.667Z
+updated: 2025-01-04T04:59:18.836Z
 tags:
   - win11
   - win10
@@ -45,15 +45,11 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -66,35 +62,35 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -110,11 +106,15 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
@@ -139,18 +139,20 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-switch-pro-controller-in-steam-gaming-for-2024/"><u>[New] Mastering Switch Pro Controller in Steam Gaming for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-shooting-mastery-in-mobile-devices-via-optical-image-correction/"><u>[Updated] Shooting Mastery in Mobile Devices via Optical Image Correction</u></a></li>
-<li><a href="https://common-error.techidaily.com/errtoomanyredirects-fixed-fast-solutions/"><u>ERR_TOO_MANY_REDIRECTS Fixed: Fast Solutions!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-v30-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo V30 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-a-stuck-cddvd-player-with-error-message-39-expert-advice/"><u>How to Diagnose and Fix a Stuck CD/DVD Player with Error Message 39 – Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/laptop-touchpad-malfunctioning-here-are-fixes-for-windows-users/"><u>Laptop Touchpad Malfunctioning? Here Are Fixes for Windows Users!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-refresh-and-reset-for-optimal-windows-11-performance/"><u>Mastering the Art of Refresh and Reset for Optimal Windows 11 Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/simplified-repair-methods-for-fixing-boot-selection-issues-in-windows-systems/"><u>Simplified Repair Methods for Fixing Boot Selection Issues in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/taming-the-beast-reducing-microsoft-malicious-software-removal-tools-cpu-usage-in-windows-10-issue-resolved/"><u>Taming the Beast: Reducing Microsoft Malicious Software Removal Tool's CPU Usage in Windows 10 [ISSUE RESOLVED]</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-definitive-guide-to-the-innovative-features-that-set-the-samsung-galaxy-tab-s4-apart/"><u>The Definitive Guide to the Innovative Features That Set the Samsung Galaxy Tab S4 Apart</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-9-risks-relying-on-artificial-intelligence-instead-of-professional-mental-health-support/"><u>Top 9 Risks: Relying on Artificial Intelligence Instead of Professional Mental Health Support</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-snapchat-storytelling-learn-to-zoom-like-pros-for-2024/"><u>Transform Your Snapchat Storytelling Learn to Zoom Like Pros for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-gpt-chat-and-whisper-apis-impact-on-enterprises/"><u>Unleashing GPT-Chat & Whisper APIs: Impact on Enterprises</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-exclusive-list-of-windows-10-recording-software/"><u>[Updated] In 2024, Exclusive List of Windows 10 Recording Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-immersive-gaming-unlocked-by-htcs-revolutionary-vr-headset/"><u>2024 Approved Immersive Gaming Unlocked by HTC's Revolutionary VR Headset</u></a></li>
+<li><a href="https://common-error.techidaily.com/abrupt-shutdown-devices-in-crisis/"><u>Abrupt Shutdown: Devices in Crisis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-and-launch-youtube-video-ads-on-budget-for-2024/"><u>Build & Launch YouTube Video Ads on Budget for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>In 2024, Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/movavi-pro-video-review-the-new-standard/"><u>Movavi Pro Video Review – The New Standard</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4mp3-movavi/"><u>MP4/MP3格式切換簡介：使用 Movavi 即時省力方法，不用花錢就可以自由變更音頻！</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/shortcuts-to-fluent-urdu/"><u>Shortcuts to Fluent Urdu!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-typing-troubles-diagnosing-and-repairing-a-defective-backspace-key/"><u>Solving Typing Troubles: Diagnosing and Repairing a Defective Backspace Key</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-adding-a-new-account-on-your-pc-with-yl-computing-solutions/"><u>Step-by-Step Guide: Adding a New Account on Your PC with YL Computing Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-procedure-to-counteract-the-livekernelevent-144-fault/"><u>Step-by-Step Procedure to Counteract the LiveKernelEvent 144 Fault</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-steps-activating-bluetooth-on-your-pc-with-windows-11-or-10/"><u>Successful Steps: Activating Bluetooth on Your PC with Windows 11 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-fn-key-problems-in-dell-notebook-computers/"><u>Troubleshoot and Repair FN Key Problems in Dell Notebook Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-windows-os-files-in-version-10-and-11/"><u>Ultimate Guide: Repairing Damaged Windows OS Files in Version 10 & 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-discovering-vn-video-editor-for-pc-a-brief-analysis/"><u>Updated In 2024, Discovering VN Video Editor for PC A Brief Analysis</u></a></li>
 </ul></div>
 

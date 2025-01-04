@@ -1,7 +1,7 @@
 ---
 title: "Combat Automatic Sleep Settings: Expert Advice on Maintaining Constant Connection"
-date: 2024-08-15T11:01:57.658Z
-updated: 2024-08-16T11:01:57.658Z
+date: 2024-12-31T00:51:38.803Z
+updated: 2025-01-03T16:09:38.651Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7ed
 
 **USB keeps disconnecting** on your computer? Don’t worry, it’s actually quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Fixes For USB Keeps Disconnecting
 
  Here’re 4 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -40,9 +37,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your USB drivers
 
  This problem may occur if you are using the wrong or outdated USB drivers. So you should update your USB driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,9 +61,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Turn off USB selective suspend
 
  If your PC is configured to disable USB devices after a certain amount of time, you may have the USB keeps disconnecting problem.  
@@ -78,33 +69,40 @@ To make sure you’ve this setting disabled:
 
  1) On your keyboard, press**the Windows logo key** and**R** at the same time. Then type**powercfg.cpl** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Change advanced power settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Change power management settings for USB Root Hubs
 
  Your PC system may automatically turn off the various devices on your computer in order to save power. And sometimes it can turn off your external hard drive, or USB devices specifically and cause the**USB keeps disconnecting** issue.
@@ -119,14 +117,15 @@ To make sure you’ve this setting disabled:
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -143,8 +142,6 @@ To make sure you’ve this setting disabled:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +149,23 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-lg-flat-screen-tv-insights/"><u>[New] LG Flat-Screen TV Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-preventing-frame-skips-in-live-obs-broadcasts/"><u>[New] Preventing Frame Skips in Live OBS Broadcasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>[New] Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-refining-screen-enlargement-for-clear-views/"><u>[New] Refining Screen Enlargement for Clear Views</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209147637-solution-expedite-your-pcs-performance-get-rid-of-high-cpu-load-stuck-by-shell-infrastructures/"><u>[Solution] Expedite Your PC's Performance - Get Rid of High CPU Load Stuck by Shell Infrastructures!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-screener-tech-perfect-for-youtube-videos/"><u>2024 Approved Premium Screener Tech Perfect for YouTube Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/ease-windows-wmi-process-demands/"><u>Ease Windows WMi Process Demands</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-secured-backups-on-synology-nas-devices-mastering-encryption-with-hyper-backup-software/"><u>Effortless Secured Backups on Synology NAS Devices: Mastering Encryption with Hyper Backup Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-problems-when-the-com-surrogate-worker-has-stopped-functioning/"><u>Expert Tips: Overcoming Problems When The COM Surrogate Worker Has Stopped Functioning</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computing-a-deep-dive-with-toms-hardware/"><u>Exploring the Latest in Computing - A Deep Dive with Tom's Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-mic-problem-heres-the-complete-guide-to-getting-it-working-again/"><u>Laptop Mic Problem? Here’s the Complete Guide to Getting It Working Again</u></a></li>
+<li><a href="https://fox-info.techidaily.com/prime-chrome-drawing-programs-the-ultimate-list-for-2024/"><u>Prime Chrome Drawing Programs The Ultimate List for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-dells-unresponsive-usb-connector-comprehensive-solutions/"><u>Repairing Dell's Unresponsive USB Connector - Comprehensive Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-valorants-perpetual-launch-loop-issue/"><u>Resolving Valorant's Perpetual Launch Loop Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/skyrims-unending-launch-sequence-solutions-for-a-smooth-start/"><u>Skyrim's Unending Launch Sequence - Solutions for a Smooth Start</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-30-online-music-venues-for-2024/"><u>Top 30 Online Music Venues for 2024</u></a></li>
+</ul></div>
 

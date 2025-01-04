@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Cutting Down High GPU Usage From Desktop Window Manager in Windows 11"
-date: 2024-12-23T17:26:46.507Z
-updated: 2024-12-25T19:13:16.964Z
+date: 2024-12-30T16:19:24.809Z
+updated: 2025-01-03T19:40:49.629Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,10 +50,6 @@ The solution for this bug is very simple.
 
  Disconnect your USB Type-C devices before you shut down your computer. So this bug won’t affect your shutdown process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Power Troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Power Troubleshooter to fix the slow shut down issue.
@@ -64,10 +64,6 @@ The solution for this bug is very simple.
 
 5. Reboot your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable Fast Startup feature
 
  If your Fast Startup is enabled, when you shut down the computer, you may encounter slow shutdown or back to the Windows Lock Screen.  
@@ -81,21 +77,25 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
 3. Click **Choose what the power button do** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
 4. Click **Change settings that are currently unavailable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
@@ -107,12 +107,16 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
@@ -127,19 +131,23 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
 5. Copy and paste the text into the address bar and press Enter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control** “.
 6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Reboot your computer to apply the changes.
 
@@ -154,17 +162,9 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your Windows 10 computer and check the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully, the above methods can help you to fix your problem. If you have any suggestions or questions, feel free to leave your comments below.
 
@@ -185,21 +185,17 @@ The solution for this bug is very simple.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/outube-growth-hacking-for-new-videographers-for-2024/"><u>[New] YouTube Growth Hacking for New Videographers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-10-game-changing-techniques-to-amplify-your-facebook-presence/"><u>[Updated] 10 Game-Changing Techniques to Amplify Your Facebook Presence</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-perfect-photos-ranking-the-top-11-bridge-cameras/"><u>[Updated] 2024 Approved Perfect Photos Ranking the Top 11 Bridge Cameras</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-a-step-by-step-breakdown-of-samsungs-image-enhancing-features/"><u>[Updated] A Step-by-Step Breakdown of Samsung’s Image Enhancing Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-soundscape-mac-studios-explained/"><u>[Updated] The Soundscape Mac Studios Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-to-repairing-your-astro-a40-laptops-non-working-built-in-mic/"><u>Expert Guide to Repairing Your Astro A40 Laptop's Non-Working Built-In Mic</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-and-enhance-your-laptops-touchpad-performance-with-these-simple-steps/"><u>Fix and Enhance Your Laptop's Touchpad Performance with These Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-no-audio-output-device-is-installed-error-in-windows-1011/"><u>How to Fix “No Audio Output Device Is Installed” Error in Windows 10/11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-transform-ideas-into-reality-get-movie-maker-for-w11-users/"><u>In 2024, Transform Ideas Into Reality Get Movie Maker for W11 Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-platforms-for-youtube-video-exposure/"><u>Optimal Platforms for YouTube Video Exposure</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-common-problems-for-seamless-minecraft-multiplayer-lan-play/"><u>Overcoming Common Problems for Seamless Minecraft Multiplayer LAN Play</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-geforce-experience-launch-issues-a-step-by-step-guide/"><u>Resolving GeForce Experience Launch Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/speed-and-precision-master-windows-scrolls/"><u>Speed and Precision: Master Windows Scrolls</u></a></li>
-<li><a href="https://common-error.techidaily.com/taking-all-three-drugs-at-bedtime-would-not-minimize-interactions-but-could-lead-to-unnecessary-intake-of-diuril-and-potentially-exacerbate-its-side-effects86/"><u>Taking All Three Drugs at Bedtime Would Not Minimize Interactions but Could Lead to Unnecessary Intake of Diuril and Potentially Exacerbate Its Side Effects During Sleep</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/king-higher-engagement-a-guide-to-youtube-success/"><u>Unlocking Higher Engagement A Guide to YouTube Success</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-expert-review-of-superior-pandemic-vaccine-administration-platforms-for-healthcare-providers/"><u>ZDNet's Expert Review of Superior Pandemic Vaccine Administration Platforms for Healthcare Providers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-anime-aesthetics-in-viral-tiktoks/"><u>[New] In 2024, Mastering Anime Aesthetics in Viral TikToks</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-microsoft-print-to-pdf-problems-across-windows-1011-systems/"><u>Expert Tips: Resolving Microsoft Print to PDF Problems Across Windows 10/11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-audio-control-problems-in-windows-11-a-step-by-step-guide-to-restoring-functionality/"><u>Fixing Audio Control Problems in Windows 11 – A Step-by-Step Guide to Restoring Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-35-to-gpt-4-the-evolutionary-leap/"><u>From GPT-3.5 to GPT-4: The Evolutionary Leap</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-pause-to-playback-a-new-era-for-instagram/"><u>From Pause to Playback: A New Era for Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210441599-how-to-resolve-there-was-an-error-setting-up-your-pc-bug-in-windows-11-fixed-now/"><u>How to Resolve 'There Was an Error Setting up Your PC' Bug in Windows 11 - Fixed Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-100-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor 100 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-startup-delays-effective-solutions-for-speeding-up-windows-7-boots/"><u>Resolving Startup Delays: Effective Solutions for Speeding Up Windows 7 Boots</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-13-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 13 Pro 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-and-solutions-for-persistent-usb-connection-issues/"><u>Ultimate Guide: Troubleshooting & Solutions for Persistent USB Connection Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eling-youtubes-highest-peaks-post-vidcon/"><u>Unraveling Youtube's Highest Peaks (Post-VidCon)</u></a></li>
 </ul></div>
 

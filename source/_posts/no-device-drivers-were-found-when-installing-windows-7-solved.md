@@ -1,7 +1,7 @@
 ---
 title: 'No Device Drivers Were Found' When Installing Windows 7 [Solved]
-date: 2024-08-15T10:55:43.093Z
-updated: 2024-08-16T10:55:43.093Z
+date: 2024-12-28T21:34:23.163Z
+updated: 2025-01-03T17:58:30.029Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/024d2dd817ee2619b245e6c5a3ccfe3c6aa8b0c6c
 
  If you get **Unknown USB Device (Port Reset Failed)** error in Device Manager, your USB device most probably won’t be recognized by your PC. The error could be caused by different issues. Here you will learn the top solutions to fix the problem. Try the solutions and one must work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800776f4e2c0.jpg)
 
  The error can be caused by hardware issues. So first, follow below simple instructions to do the troubleshooting.
@@ -38,9 +35,6 @@ Follow these steps:
  1\. Open[Device Manager](https://tools.techidaily.com/drivereasy/download/) and expand category**Universal Serial Bus Controllers** .  
  2\. Right-click on**Unknown USB Device (Port Reset Failed)** under this category and then click **Uninstall** to remove the device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58008bc046cc6.jpg)
 
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
@@ -51,24 +45,14 @@ Follow these steps:
 
  1\. In Device Manager, under category “Universal Serial Bus controllers”, right-click on**Generic USB Hub** device and select Update Driver Software…
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800917567e49.jpg)
 
  2\. Select**Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30bb3336f.png)
 
  3\. Select**Let me pick from a list of device drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30ea9e511.png)
 
  4\. Check the box next to “Show compatible hardware” and select**Generic USB Hub** . Click on**Next** button.
@@ -77,9 +61,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Then Windows will update the driver software for the device. If it is done successfully, a window will pop up like this.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba314393778.png)
 
  5\. Repeat the steps above to update driver software for every Generic USB Hub until the problem is resolved.
@@ -113,8 +94,6 @@ Follow below steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +101,23 @@ Follow below steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-50-must-try-virtual-bikes-for-riders/"><u>[Updated] 2024 Approved The 50 Must-Try Virtual Bikes for Riders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-building-powerful-relationships-through-strategic-social-media-engagement/"><u>[Updated] Building Powerful Relationships Through Strategic Social Media Engagement</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-tagging-elevate-your-youtube-content-for-2024/"><u>[Updated] Mastering Tagging Elevate Your YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/nativeyl-yl/"><u>使NATIVE广告产生收益的关键技巧：YL计算机公司分享专业提示 - YL软件</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211852217-decode-and-defeat-expert-strategies-to-stop-frequent-device-unrecognized-errors-on-your-pc/"><u>Decode and Defeat - Expert Strategies to Stop Frequent ‘Device Unrecognized’ Errors on Your PC.</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-common-display-issues-how-to-deal-with-input-not-supported-warnings/"><u>Fixing Common Display Issues: How to Deal with 'Input Not Supported' Warnings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unconventional-text-presentation-methods/"><u>In 2024, Unconventional Text Presentation Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-complete-guide-how-to-edit-movies-or-video-download-online/"><u>New In 2024, Complete Guide How to Edit Movies or Video Download Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-mode-off-steps-to-reactivate-sounds-on-an-acer-laptop/"><u>Silent Mode Off: Steps to Reactivate Sounds on an Acer Laptop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-world-of-predictive-ai-insights-into-functionality-and-applications/"><u>The World of Predictive AI: Insights Into Functionality & Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-sign-in-problems-due-to-user-profile-service-errors/"><u>Troubleshooting Windows 11 Sign-In Problems Due to User Profile Service Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-seamless-screen-mirroring-fixing-device-not-recognized-in-windows-11/"><u>Unlock Seamless Screen Mirroring: Fixing 'Device Not Recognized' In Windows 11</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

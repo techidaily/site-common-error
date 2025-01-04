@@ -1,7 +1,7 @@
 ---
 title: Ibuprofen as Needed; No Other Drugs
-date: 2024-12-19T20:31:41.229Z
-updated: 2024-12-25T20:20:27.494Z
+date: 2024-12-27T20:17:36.468Z
+updated: 2025-01-03T16:14:25.161Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix CS:GO crashing in Windows
 
@@ -49,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -73,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should try **Fix 3** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify integrity of game files
 
@@ -94,6 +98,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-177.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Wait until the game cache verification finishes.
 
 5) Close the windows in Steam and exit Steam.
@@ -101,10 +109,6 @@ To do so:
 6) Relaunch Steam, then run CS:GO and see if the **CSGO crashing** problem has been fixed. If the crashing problem still occurs, move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Launch CSGO in -autoconfig or -safe mode
 
@@ -123,6 +127,10 @@ To do so:
  2) In your list of games, locate and right-click on **Counter -Strike: Global Offensive** and click **Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**SET LAUNCH OPTIONS…**
 
@@ -151,7 +159,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
@@ -160,19 +168,11 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/safe.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Exit Steam.
 
 7) Re-launch CS:GO and check if the CSGO crashing issue has been resolved. If yes, then congrats! But if you still haven’t had any success, move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reacquire all CSGO game files
 
@@ -200,7 +200,7 @@ To do so:
 2. Click the**View** tab and uncheck**the box** before**Hide extensions for known file types** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
@@ -210,7 +210,7 @@ To do so:
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
@@ -237,22 +237,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-addressing-missing-image-display-in-youtubes-shorts/"><u>[New] 2024 Approved Addressing Missing Image Display in YouTubes Shorts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-building-your-digital-identity-start-a-youtube-channel-today/"><u>[New] 2024 Approved Building Your Digital Identity Start a YouTube Channel Today</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-full-mastery-guide-adobe-cloud-and-its-rival-services/"><u>[New] 2024 Approved Full Mastery Guide Adobe Cloud and Its Rival Services</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-uncharted-film-hits-of-2023/"><u>[Updated] 2024 Approved Uncharted Film Hits of 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premiere-previews-extravaganza/"><u>[Updated] Premiere Previews Extravaganza</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-explanation-overcoming-writing-errors-to-assigned-memory-space-x/"><u>Fix Explanation: Overcoming Writing Errors to Assigned Memory Space X</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-your-input-devices-back-online-a-step-by-step-guide-to-fix-usb-mouse-and-keyboard-issues-on-windows-7-systems/"><u>Getting Your Input Devices Back Online: A Step-by-Step Guide to Fix USB Mouse & Keyboard Issues on Windows 7 Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-optimize-your-pc-lower-dwm-gpu-load-on-windows-10-and-11/"><u>How to Optimize Your PC: Lower DWM GPU Load on Windows 10 & 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-responsive-bluetooth-mouse-on-pc-a-step-by-step-guide/"><u>How to Repair a Non-Responsive Bluetooth Mouse on PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-spark-10-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Spark 10 4G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-halo-4-ue4-fix-your-critical-system-failures-for-uninterrupted-playtime/"><u>Mastering Halo 4 UE4: Fix Your Critical System Failures for Uninterrupted Playtime</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-dealing-with-the-parameter-is-incorrect-alert/"><u>Quick Fixes for Dealing with the Parameter Is Incorrect Alert</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-why-arent-my-keyboard-numbers-working-and-how-to-fix-them/"><u>Quick Guide: Why Aren't My Keyboard Numbers Working? And How To Fix Them</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-employment-with-generative-ai/"><u>Reimagining Employment with Generative AI</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-end-of-an-era-understanding-why-microsoft-discontinued-the-free-windows-11-upgrade-program-zdnet-coverage/"><u>The End of an Era: Understanding Why Microsoft Discontinued the Free Windows 11 Upgrade Program | ZDNet Coverage</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-upgrade-witness-your-devices-accelerated-performance-now/"><u>Ultimate Upgrade: Witness Your Device's Accelerated Performance Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-mastery-of-ipad-video-recording-for-2024/"><u>[New] Easy Mastery of iPad Video Recording for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-document-the-drive-on-your-galaxy-screen/"><u>[Updated] Document the Drive on Your Galaxy Screen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-path-to-richer-textual-design-in-ae/"><u>2024 Approved The Path to Richer Textual Design in AE</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-the-main-language-of-steam-platform-ui/"><u>Change the Main Language of Steam Platform UI</u></a></li>
+<li><a href="https://common-error.techidaily.com/cracking-the-code-for-playback-issues-eliminating-error-224003-on-videos/"><u>Cracking The Code for Playback Issues: Eliminating Error 224003 on Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-kb450c-controller-issues-solutions-for-unresponsive-keyboards/"><u>Dell KB450C Controller Issues? Solutions for Unresponsive Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhance-your-pubg-adventure-with-these-solutions-for-building-loading-problems/"><u>Enhance Your PUBG Adventure with These Solutions for Building Loading Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-the-backspace-key-stops-working/"><u>Expert Solutions for When the Backspace Key Stops Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-download-hiccups-during-windows-7-system-upgrades/"><u>Guide to Fixing Download Hiccups During Windows 7 System Upgrades</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boost-viewers-interaction-via-youtube-cards/"><u>In 2024, Boost Viewers Interaction via YouTube Cards</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mouse-not-responding-heres-how-to-restore-functionality-in-windows-1187/"><u>Lenovo Mouse Not Responding? Here’s How to Restore Functionality in Windows 11/8/7</u></a></li>
+<li><a href="https://ai-video.techidaily.com/revolutionize-your-workflow-the-mighty-briefcase-with-up-to-amo-368tb-of-nvme-ssds-equipped-with-high-performance-components/"><u>Revolutionize Your Workflow: The Mighty Briefcase With Up to Amo 368TB of NVMe SSDs, Equipped with High-Performance Components</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-minecraft-lan-connection-issues-quick-solutions/"><u>Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862835548-upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%!</u></a></li>
 </ul></div>
 

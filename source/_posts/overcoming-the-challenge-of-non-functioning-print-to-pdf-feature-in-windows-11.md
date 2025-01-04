@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Non-Functioning Print to PDF Feature in Windows 11
-date: 2024-08-15T10:58:04.724Z
-updated: 2024-08-16T10:58:04.724Z
+date: 2025-01-03T01:57:32.356Z
+updated: 2025-01-04T00:47:07.588Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
  As you have noticed, the USB Device in[Device Manager](https://tools.techidaily.com/drivereasy/download/) has a yellow triangle on it:
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdba4d6e9aa.jpg)
 
  The error can be caused by hardware issues. So first, follow below simple instructions to do the troubleshooting.
@@ -56,16 +53,14 @@ Follow these steps:
 
  2\. Right-click on the device and select**Uninstall** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdbac0739e5.jpg)
 
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 3 : Update the USB Driver**
 
  The problem can be caused by a faulty USB driver. In this case, updating the driver would fix the problem.
@@ -87,8 +82,13 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 4: Disable Fast Startup**
 
  If Windows is booting quickly, the external device may not be detected before the boot is completed, then the problem will occur. In this case, disabling the fast boot option in Power Options can resolve the problem.
@@ -99,23 +99,24 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde28fa83dc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. View by Large Icons and click on**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
 
  4\. Select**Choose what the power buttons do** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Click on**Change settings that are corrently unavailable** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
 
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
@@ -130,23 +131,14 @@ Follow these steps:
 
  1\. In **Power Options** , click on**Show additional plans** . (If you tried Method 2, you must know how to go to Power Options. If not, go back to Method 2 and refer to the steps to open Power Options.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
  2\. Click**Change settings that are currently unavailable** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb15c69d9.jpg)
 
  3\. Select **High performance** and click on**Change plan settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
  4\. Click on**Change advanced power settings** .
@@ -155,16 +147,21 @@ Follow these steps:
 
  5\. Click on**Change settings that are currently unavailable** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6\. Locate**USB settings** and expand it.
 
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8\. Click the**Apply** button and restart your computer.
 
@@ -176,8 +173,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +180,26 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/no-charge-issue-why-your-plugged-in-laptop-isnt-charging/"><u>- No Charge Issue: Why Your Plugged-In Laptop Isn't Charging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-essential-checklist-to-amplify-video-income-on-youtube/"><u>[New] The Essential Checklist to Amplify Video Income on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-comprehensive-guide-to-discovering-dazzling-and-downloadable-images-on-pexels/"><u>[Updated] A Comprehensive Guide to Discovering Dazzling and Downloadable Images on Pexels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-beginners-blueprint-for-yourwebcamrecord-for-2024/"><u>[Updated] Beginner's Blueprint for YourWebcamRecord for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncover-the-ultimate-directory-of-no-cost-vector-art-sites/"><u>[Updated] Uncover the Ultimate Directory of No-Cost Vector Art Sites</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-creative-sound-blaster-recon3d-drivers-step-by-step-guide/"><u>Download the Latest Creative Sound Blaster Recon3D Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-resource-management-for-windows-11-addressing-msmpengexe-cpu-spikes-resolved/"><u>Efficient Resource Management for Windows 11: Addressing MsMpEng.exe CPU Spikes [RESOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-connection-woes-with-your-ps4-gamepad-practical-methods-and-strategies/"><u>Fixing Connection Woes with Your PS4 Gamepad: Practical Methods & Strategies</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y56-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y56 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/league-of-legends-update-dilemma-speed-up-your-game-install-process-now/"><u>League of Legends Update Dilemma? Speed Up Your Game Install Process Now</u></a></li>
+<li><a href="https://win-top.techidaily.com/opgeluchter-online-konvertisseur-voor-ogg-naar-mp4-videos-gratis-dienst-via-movavi/"><u>Opgeluchter Online Konvertisseur Voor OGG Naar MP4 Videos: Gratis Dienst via Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-windows-11-couldnt-be-installed-issue-error-code-802e0020-guide/"><u>Overcoming the 'Windows 11 Couldn't Be Installed' Issue - Error Code 802E0020 Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-no-more-effective-techniques-to-resolve-netflix-audio-issues/"><u>Silent No More: Effective Techniques to Resolve Netflix Audio Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-tough-professional-communications-with-gpt-3/"><u>Simplifying Tough Professional Communications with GPT-3</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209196513-step-by-step-repair-for-windows-10-mutevolume-issues-resolved/"><u>Step-by-Step Repair for Windows 10 Mute/Volume Issues - Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-complete-solutions-for-the-0x800705b4-problem-during-a-windows-10-upgrade/"><u>Troubleshooting Complete Solutions for the 0X800705b4 Problem During a Windows 10 Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-reactive-user-preferences-and-setups/"><u>Troubleshooting Non-Reactive User Preferences and Setups</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-tech-secrets-toms-authoritative-guide-to-computer-gear/"><u>Unveiling New Tech Secrets - Tom's Authoritative Guide to Computer Gear</u></a></li>
+</ul></div>
 

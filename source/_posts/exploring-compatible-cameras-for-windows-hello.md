@@ -1,7 +1,7 @@
 ---
 title: Exploring Compatible Cameras for Windows Hello
-date: 2024-12-23T18:25:10.287Z
-updated: 2024-12-25T16:13:50.901Z
+date: 2025-01-02T22:19:12.966Z
+updated: 2025-01-04T05:16:04.000Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -39,16 +39,16 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
 **Windows Update Troubleshooter**   is a useful troubleshooting tool that helps us solve common Windows update issues. Here’s how to run Troubleshooter:
 
  1) On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Windows Update**   \> **Run the troubleshooter** .
 
@@ -59,10 +59,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 4) Restart your computer, try Windows Update again and hopefully this problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the SFC scan
 
@@ -83,17 +79,21 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Run **the DISM tool**
 
 **DISM**  (**Deployment Image & Servicing Management** ) is another tool that helps us fix Windows-corruption-caused errors (**0x80073712** in this case). To run **DISM** :
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
  2) Type **the following command**   and press **Enter** :
 
@@ -102,7 +102,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Wait for a while for the whole process to finishes.
@@ -119,6 +119,10 @@ Wait for a while for the whole process to finishes.
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
  2) Scroll down to the bottom, right-click on **Windows Update**  . Then click**Stop** .
@@ -127,15 +131,19 @@ Wait for a while for the whole process to finishes.
 
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a98e3f0f6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) When asked to provide administrator permission, check**the box** before**Do this for all current items** and click**Continue** .
 
@@ -147,10 +155,6 @@ Wait for a while for the whole process to finishes.
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
 
  If all else fails, and_that_ Windows update is too important to miss, then you might consider using **Media Creation Tool** for a clean installation of Windows 10\. You can click[here](https://www.microsoft.com/en-us/software-download/windows10) for reference and proceed with caution.
@@ -158,10 +162,6 @@ Wait for a while for the whole process to finishes.
  After that, check if the**0x80073712** error code problem has been sorted.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -188,20 +188,19 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-revive-vanished-watch-video-icon/"><u>[New] In 2024, Revive Vanished Watch Video Icon</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-fake-followers-trap-on-youtube-landscapes/"><u>[New] Unveiling Fake Followers' Trap on YouTube Landscapes</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-mastering-bold-character-transformations-on-tiktok/"><u>2024 Approved Mastering Bold Character Transformations on TikTok</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tricks-to-start-your-intel-rst-service-again-overcoming-windows-10-setbacks/"><u>Expert Tricks to Start Your Intel RST Service Again – Overcoming Windows 10 Setbacks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-machine-learning-for-workout-wonders/"><u>Maximizing Machine Learning for Workout Wonders</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-update-unavailable-issue-step-by-step-fix-guide/"><u>Resolving 'Windows Update Unavailable' Issue: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-instructions-for-syncing-your-xbox-one-controller-when-connected-to-a-pc-or-console/"><u>Step-by-Step Instructions for Syncing Your Xbox One Controller When Connected to a PC or Console</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-restore-five-tips-for-solving-touchscreen-issues-in-windows-10/"><u>Troubleshoot and Restore: Five Tips for Solving Touchscreen Issues in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-missing-bluetooth-devices-in-windows-11-without-hassle/"><u>Troubleshoot Missing Bluetooth Devices in Windows 11 Without Hassle</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-integrity-of-windows-11-system-components/"><u>Troubleshooting Tips: Restoring Integrity of Windows 11 System Components</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-expert-picks-top-speech-transcription-tools-for-android-and-ios-users-for-2024/"><u>Updated Expert Picks Top Speech Transcription Tools for Android and iOS Users for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/upgrade-your-screen-update-required-incompatible-display-timeout-settings/"><u>Upgrade Your Screen: Update Required - Incompatible Display Timeout Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-much-does-pewdiepie-make/"><u>[New] How Much Does PewDiePie Make</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-farm-tastic-gaming-best-trio-of-agricultural-games/"><u>[Updated] 2024 Approved Farm-Tastic Gaming Best Trio of Agricultural Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pinnacle-mac-studio-for-unparalleled-video-and-audio-recording/"><u>[Updated] 2024 Approved Pinnacle Mac Studio for Unparalleled Video & Audio Recording</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/2024-obs/"><u>2024 연도 OBS 구성 기술: 효과적인 녹화 및 방송을 위한 전문 조언</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210308121-device-driver-compatibility-in-wow-problem-solved-optimize-your-system-now/"><u>Device Driver Compatibility in WoW: Problem Solved - Optimize Your System Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-fixing-the-missing-or-unfound-d3dx926dll-error/"><u>Expert Tips for Fixing the Missing or Unfound 'D3DX9_26.dll' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205935005-fix-0x80070643-windows-update-or-installation-errors-on-windows/"><u>Fix “0X80070643” Windows Update or Installation Errors on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-fix-the-0x800f0922-issue-in-your-windows-10-system/"><u>How to Quickly Fix the 0X800f0922 Issue in Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-windows-10-from-continuously-restarting-on-shutdown-attempts/"><u>How to Stop Windows 10 From Continuously Restarting on Shutdown Attempts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-productivity-with-auditory-storytelling/"><u>In 2024, Maximizing Productivity with Auditory Storytelling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-computing-solutions-on-desktops/"><u>In 2024, Premium Computing Solutions on Desktops</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ps4s-ce-34878-0-error-for-a-smooth-gaming-experience-tips-and-fixes/"><u>Troubleshooting PS4's CE-34878-0 Error for a Smooth Gaming Experience: Tips and Fixes</u></a></li>
 </ul></div>
 

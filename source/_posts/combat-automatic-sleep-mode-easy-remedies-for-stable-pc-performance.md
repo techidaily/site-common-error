@@ -1,7 +1,7 @@
 ---
 title: Combat Automatic Sleep Mode – Easy Remedies for Stable PC Performance
-date: 2024-08-15T10:59:17.863Z
-updated: 2024-08-16T10:59:17.863Z
+date: 2025-01-02T02:25:34.338Z
+updated: 2025-01-04T00:20:28.531Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 Getting any error codes or messages during the gameplay could be quite frustrating. This happens to some players in **[Red Dead Redemption 2](https://www.epicgames.com/store/en-US/p/red-dead-redemption-2?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=b30b6d1b4dfd4dcc93b5490be5e094e5)**  . They receive an error saying**ERR\_MEM\_VIRTUAL\_OF\_MEMORY** , which stops them from continuing the journey. Luckily, it’s fixable, simply by increasing the page file size. But some may need to try other methods in order to get rid of this error. Read on and find out how.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Not all solutions are necessary, so just work the list down until you find the one that solves your problem.
@@ -28,9 +25,6 @@ Getting any error codes or messages during the gameplay could be quite frustrati
 2. **[Change API from Vulkan to DirectX 12](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY error](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-1.png)
 
 ## How to increase the page file size
@@ -39,9 +33,6 @@ To increase the page file size, take these steps:
 
  1) In the Search box, type**advanced system settings** . Then click**View advanced system settings** from the list of results.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/advanced-system-settings.png)
 
  2) Under the**Advanced** tab, click**Settings** .  
@@ -50,9 +41,6 @@ To increase the page file size, take these steps:
 
  3) Select the**Advanced** tab and then click**Change…** .  
   
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/advanced-settings.png)
 
  4) Uncheck**Automatically manage paging file size for all drives** .  
@@ -63,6 +51,10 @@ To increase the page file size, take these steps:
   
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/custom-size.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Type in the values for**Initial size** and**Maximum size** . Then click**OK** to save the changes.  
  (Tips: Microsoft recommends that the virtual memory you set is**no less than 1.5 times and no more than 3 times** the size of your RAM. To check RAM on Windows, follow the instructions below. )
 
@@ -71,9 +63,17 @@ To increase the page file size, take these steps:
 
 ![check RAM](https://images.drivereasy.com/wp-content/uploads/2021/05/msinfor.exe_.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Scroll down and look for the**Installed Physical Memory (RAM)** entry.  
 
 ![how to check RAM](https://images.drivereasy.com/wp-content/uploads/2021/05/Total-virtual-memory.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1 GB (Gigabyte) = 1000 MB (Megabyte)
 
@@ -83,37 +83,28 @@ To increase the page file size, take these steps:
  After increasing the page file size, launch Red Dead Redemption 2 and you should be able to enjoy your gameplay without receiving the Out of virtual memory error. However, in case your issue persists, we’ve gathered some workarounds for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change API from Vulkan to DirectX 12
 
  By default, the API in Red Dead Redemption is set to Vulkan. However, players have found that most of the crashes along with error codes or messages are related to graphics API. To fix it, you can switch it to DirectX 12 and check if your problem is resolved:
 
  1) Go to the **SETTINGS** menu in the game.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/Go-to-settings-1.png)
 
  2) Click **GRAPHICS** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/click-on-graphics.png)
 
  3) Scroll down to the **Advanced Settings**  section and make sure the **Advanced Settings**  option is set to **Unlocked** .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/unlock-advanced-settings-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the **Graphics API**  section, change it to **DirectX 12**  by clicking on the arrow button.
 
@@ -137,12 +128,13 @@ To increase the page file size, take these steps:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -159,8 +151,6 @@ To increase the page file size, take these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +158,16 @@ To increase the page file size, take these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-full-review-capturing-every-angle-in-one-device-samsung/"><u>[Updated] In 2024, Full Review Capturing Every Angle in One Device - Samsung</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-techniques-for-fixing-wows-latency-problems/"><u>Comprehensive Troubleshooting Techniques for Fixing WoW's Latency Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/cxfreeze-disasters-demystified-simple-steps-to-resolve-them-easily/"><u>Cx_Freeze Disasters Demystified: Simple Steps to Resolve Them Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-asus-rog-phone-8-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Asus ROG Phone 8 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-phantom-v-flip-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Phantom V Flip to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-x9b-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor X9b? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v29es-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V29es Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-controlled-group-policies-and-settings-in-a-windows-network/"><u>Mastering Controlled Group Policies & Settings in a Windows Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-limited-capacity-issues-during-command-execution/"><u>Troubleshooting Limited Capacity Issues During Command Execution</u></a></li>
+</ul></div>
 

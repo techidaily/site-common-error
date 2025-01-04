@@ -1,7 +1,7 @@
 ---
 title: Easy Fix for Explorer Crash
-date: 2024-12-21T18:26:52.739Z
-updated: 2024-12-25T18:03:33.814Z
+date: 2024-12-30T03:53:52.643Z
+updated: 2025-01-03T23:24:49.180Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 3. **[Run the power troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your battery driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your BIOS](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your battery
 
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -62,9 +58,17 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
 
@@ -94,13 +98,13 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Power** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Next** .
 
@@ -114,19 +118,19 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your battery driver
 
@@ -158,21 +162,17 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type **msinfo32** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
@@ -204,20 +204,20 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-vegas-pros-latest-features-in-21-for-2024/"><u>[New] The Ultimate Guide to Vegas Pro's Latest Features in '21 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-bluetooth-not-found-in-logitech-mouse/"><u>[Solved] Bluetooth Not Found in Logitech Mouse</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-30-second-guide-to-fast-fortnite-graphics/"><u>[Updated] 2024 Approved 30-Second Guide to Fast Fortnite Graphics</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-capture-clearer-nights-iphone-photo-hacks/"><u>[Updated] In 2024, Capture Clearer Nights IPhone Photo Hacks</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-handling-parameter-misconfiguration-messages/"><u>Comprehensive Fixes for Handling Parameter Misconfiguration Messages</u></a></li>
-<li><a href="https://fox-making.techidaily.com/efficient-methods-for-retrieving-lost-information-on-your-micro-sd-expert-data-rescue-techniques/"><u>Efficient Methods for Retrieving Lost Information on Your Micro SD – Expert Data Rescue Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-class-not-registered-error-on-your-windows-1-1-system-solutions-and-tips/"><u>Fixing the 'Class Not Registered' Error on Your Windows 1 1 System: Solutions and Tips</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-overcoming-issues-with-stopped-igfx-modules/"><u>How to Restore Functionality: Overcoming Issues with Stopped iGFX Modules</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-feature-level-100-issue-in-wwe-2k-battlegrounds-on-direct-x-11/"><u>Resolving the 'Feature Level 10.0' Issue in WWE 2K Battlegrounds on Direct X 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-0x80070643-error-comprehensive-guide-to-fix-windows-updates-and-installations/"><u>Solving the 0X80070643 Error: Comprehensive Guide to Fix Windows Updates and Installations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-recognizing-and-preventing-5-critical-chatbot-traps/"><u>The Ultimate Guide to Recognizing and Preventing 5 Critical Chatbot Traps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-leading-netgear-router-picks-for-the-year-2024/"><u>Ultimate Guide: Leading Netgear Router Picks for the Year 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/video-editing-on-a-mac-here-are-the-best-options-for-for-2024/"><u>Video Editing on a Mac? Here Are the Best Options For for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-softwares-ultimate-ferrari-fxx-image-set-for-enthusiasts-and-collectors-alike/"><u>YL Software's Ultimate Ferrari FXX Image Set for Enthusiasts and Collectors Alike</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-djis-legacy-two-newest-drones-complimentary-luts-await/"><u>[New] 2024 Approved DJI's Legacy - Two Newest Drones Complimentary LUTS Await</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>[Updated] 2024 Approved Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unveiling-tricky-feed-functions-more-vids-please/"><u>[Updated] In 2024, Unveiling Tricky Feed Functions More Vids Please</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-live-feed-capture-via-obs-for-instagram/"><u>2024 Approved Live Feed Capture via OBS for Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-streamline-visual-content-expert-mac-tips-for-instagram-video-size/"><u>2024 Approved Streamline Visual Content Expert Mac Tips for Instagram Video Size</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/access-hq-facebook-content-anytime-offline/"><u>Access HQ Facebook Content Anytime Offline</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-popping-noise-from-speakers-solutions-for-windows-10-and-windows-7-users/"><u>Eliminate Popping Noise From Speakers: Solutions for Windows 10 & Windows 7 Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-reach-out-for-assistance-with-digiartys-online-exhibits/"><u>How To Reach Out For Assistance With Digiarty's Online Exhibits</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-print-driver-host-service-for-32-bit-programs-failed-no-longer-occurs/"><u>Resolved: Error 'Print Driver Host Service for 32-Bit Programs Failed' No Longer Occurs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-module-not-found-errors-a-step-by-step-guide/"><u>Resolving 'Module Not Found' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-uncover-the-solution-for-missing-steam-game-files-regain-complete-control/"><u>Solved: Uncover the Solution for Missing Steam Game Files – Regain Complete Control</u></a></li>
+<li><a href="https://common-error.techidaily.com/speeding-up-your-pcs-farewell-a-guide-to-fixing-windows-11-shutdown-delays/"><u>Speeding Up Your PC's Farewell: A Guide to Fixing Windows 11 Shutdown Delays</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/the-epic-faceoff-controllers-vs-digital-vinyl-systems-for-modern-djs-tech-edge-unveiled/"><u>The Epic Faceoff: Controllers Vs. Digital Vinyl Systems for Modern DJs | Tech Edge Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-updownleftright-keys-discover-easy-fixes-now/"><u>Trouble with Up/Down/Left/Right Keys? Discover Easy Fixes Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/youtube-audio-malfunctioning-in-windows-10-heres-how-to-get-it-right/"><u>YouTube Audio Malfunctioning in Windows 10? Here's How to Get It Right!</u></a></li>
 </ul></div>
 

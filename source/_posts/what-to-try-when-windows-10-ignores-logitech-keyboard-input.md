@@ -1,7 +1,7 @@
 ---
 title: What to Try When Windows 10 Ignores Logitech Keyboard Input
-date: 2024-08-15T11:00:57.853Z
-updated: 2024-08-16T11:00:57.853Z
+date: 2024-12-30T21:54:50.728Z
+updated: 2025-01-03T16:59:16.153Z
 tags:
   - win11
   - win10
@@ -15,40 +15,20 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 
 ## Why Does My Computer Freeze with Windows 11? Learn the Fixes
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 At times, Windows 10 will freeze or hang without exact reasons. This issue has already been acknowledged by Microsoft. There are many work arounds about this problem, in this post, we will be introducing one effective way that has been proved to work by a lot. 1) Go to**Control Panel**. In the view of**Small icon**, then choose**Power Options**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)2) Click**Change plan settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-plan-settings.jpg)
 
 3) Then choose**Change advanced power settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-advanced-power-settings-600x446.jpg)
 
 4) Scroll down a little bit to locate the**PCI Express**option. Expand the option, then expand**Link State Power Management**. Make sure the option in the**Setting**bar is**Off**. After that, press**Apply**button to save the change.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/link-state-power-management.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 5) If you see an option with the name**Plugged in**, make sure the settings here is**Off**too. Still, after the change, click**Apply**to save it. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/off-plugged-in-pci-express.jpg)Then click**OK**to exit. 6) Then go back to**Power Options**window, and click**Choose what the power button does**on the left side of the pane. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does-600x451.jpg)7) Choose**Change settings that are currently unavailable**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)8) Make sure the**Turn on fast startup(recommended)**option is off. Then click**Save changes**to save and exit.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdf5c9b248d-600x450.jpg)
 
 That’s all.
@@ -61,8 +41,6 @@ That’s all.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,4 +48,25 @@ That’s all.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>[New] 2024 Approved First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-destiny-2-stuck-on-initializing/"><u>[Solved] Destiny 2 Stuck on Initializing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-your-instagram-videos-size-and-quality-insights/"><u>[Updated] 2024 Approved Elevate Your Instagram Videos Size and Quality Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-ace-editing-essential-10-final-cut-pro-extensions/"><u>[Updated] Ace Editing Essential 10 Final Cut Pro Extensions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhancing-the-endurance-of-your-gopro-battery/"><u>[Updated] Enhancing the Endurance of Your GoPro Battery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-google-photos-and-your-creativity-quick-collages-made-simple/"><u>2024 Approved Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-troublesome-unregistered-class-warnings-in-your-new-windows-11-system/"><u>Bypassing Troublesome Unregistered Class Warnings in Your New Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-enable-and-use-bluetooth-in-microsofts-latest-operating-systems/"><u>Easy Steps to Enable and Use Bluetooth in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ce-youtube-trademarks-tips-on-logo-and-watermark-addition/"><u>Enhance YouTube Trademarks Tips on Logo and Watermark Addition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-security-a-critical-evaluation-of-the-ring-battery-doorbell-plus-version/"><u>Maximizing Security: A Critical Evaluation of the Ring Battery Doorbell + Version</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/phantom-slow-motion-camera-guide-for-2024/"><u>Phantom Slow Motion Camera Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-hamachi-connection-halt-error-with-these-simple-solutions/"><u>Resolve Your Hamachi Connection Halt Error with These Simple Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-console-connoisseurs-handbook-for-frequent-flyers/"><u>The Console Connoisseur's Handbook for Frequent Flyers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-nonworking-laptop-mic-completed/"><u>Troubleshooting and Repairing a Nonworking Laptop Mic [COMPLETED]</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

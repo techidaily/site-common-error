@@ -1,7 +1,7 @@
 ---
 title: Unlock Hidden Touchpad in Device Manager's Depths
-date: 2024-12-24T16:01:16.035Z
-updated: 2024-12-25T18:54:20.177Z
+date: 2024-12-28T20:28:58.051Z
+updated: 2025-01-04T01:51:03.943Z
 tags:
   - win11
   - win10
@@ -41,14 +41,14 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Add the touchpad driver back manually
 
  If you know the manufacturer of your touchpad (Synaptics and Elan are two of the most popular ones), you can also try to add the touchpad device back manually in Device Manager to see if it works for you. To do so:
@@ -75,19 +71,15 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click **Next**  to move on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select **Show All Devices** , and click **Next** .  
@@ -95,11 +87,11 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
 
  If you still can’t find your touchpad in this way, please move on to the next fix, below.
 
@@ -119,10 +111,6 @@ OR
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically update touchpad drivers
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -139,6 +127,10 @@ OR
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/03/synpatics-hid-touchpad.png)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** <atsupport@drivereasy.com>
 
@@ -169,11 +161,19 @@ Assigned BIOS hotkey
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/defalts.jpg)
 3. Once done, press the key next to**Save** and**Exit** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer to see if the issue is fixed.
 
  If this method doesn’t work, then try the last one below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupt files
 
@@ -185,12 +185,12 @@ Assigned BIOS hotkey
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, please contact[Fortect support](https://www.fortect.com/company/contacts/) **.**
 
@@ -230,19 +230,20 @@ Hot Accessories
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-excellent-video-production-experts/"><u>[New] Identifying Excellent Video Production Experts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-a-guide-to-pinpointing-posted-videos-in-fb-groups/"><u>[New] In 2024, A Guide to Pinpointing Posted Videos in FB Groups</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-sharing-tactics-igtv-for-a-larger-fb-audience/"><u>[New] Sharing Tactics IGTV for a Larger FB Audience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professional-tips-rotate-and-flip-iphone-imagery/"><u>[Updated] Professional Tips Rotate and Flip iPhone Imagery</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-your-wireless-mouse-keeps-stopping-mid-operation-on-pcs-with-windows-11-or-10/"><u>Effective Solutions for When Your Wireless Mouse Keeps Stopping Mid-Operation on PCs with Windows 11 or 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/exe-errors-tamed-explorer-on-win1011/"><u>Exe Errors Tamed – Explorer on Win10/11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-sound-blaster-audigy-fx-driver-software/"><u>Free Download: Sound Blaster Audigy Fx Driver Software</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-novice-to-netflix-virtuoso-via-korean-lessons/"><u>From Novice to Netflix Virtuoso via Korean Lessons</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guia-paso-a-paso-para-copiar-un-ssd-de-computadora-portatil-con-funcion-de-inicio-seguro-en-windows/"><u>Guía Paso a Paso Para Copiar Un SSD De Computadora Portátil Con Función De Inicio Seguro en Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-get-it-right-the-first-time-instagrams-video-sizing-guide/"><u>In 2024, Get It Right the First Time Instagram's Video Sizing Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-4-fixes-for-when-your-dns-server-isnt-working-properly/"><u>Top 4 Fixes for When Your DNS Server Isn’t Working Properly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-restore-5-techniques-for-a-functional-touchscreen-on-windows-11/"><u>Troubleshoot and Restore: 5 Techniques for a Functional Touchscreen on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-your-laptop-mouse-freezes/"><u>Troubleshooting Tips: What to Do When Your Laptop Mouse Freezes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unsuccessful-hardware-transfer-in-windows-10-systems/"><u>Troubleshooting Unsuccessful Hardware Transfer in Windows 10 Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-inside-the-revolutionary-world-of-jaunt-vr/"><u>[New] 2024 Approved Inside the Revolutionary World of Jaunt VR</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-1110-stuck-on-restarting/"><u>[SOLVED] Windows 11/10 Stuck On Restarting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ringtone-revolution-transforming-your-ios-sound/"><u>2024 Approved Ringtone Revolution Transforming Your iOS Sound</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-fast-track-building-elegant-google-photo-collage-art/"><u>2024 Approved The Fast Track Building Elegant Google Photo Collage Art</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211175885-9781396323416-from-india-to-the-planet-mars/"><u>From India to the Planet Mars | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-installation-failed-error-code-800020-step-by-step-guide/"><u>How to Fix Windows 11 Installation Failed Error Code 80#0020 - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-decoding-youtube-income-how-much-does-each-1000-viewer-earn/"><u>In 2024, Decoding YouTube Income How Much Does Each 1,000 Viewer Earn?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinterest-videos-top-5-no-pay-extractors-online/"><u>In 2024, Pinterest Videos Top 5 No-Pay Extractors Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/league-of-legends-download-speed-problem-solutions-and-tips/"><u>League of Legends Download Speed Problem: Solutions and Tips</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mp3windows-10/"><u>MP3ファイルのカット:Windows 10で実践的な手順集</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/premier-6-titan-pioneers-lmg-excellence-showcase/"><u>Premier 6 Titan Pioneers: LMG Excellence Showcase</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-dell-wireless-keyboard-solution-guide/"><u>Reviving Your Dell Wireless Keyboard - Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205780356-trouble-with-hp-laptop-usb-ports-effective-solutions-at-hand/"><u>Trouble with HP Laptop USB Ports? Effective Solutions at Hand</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-screen-mirroring-problems-making-your-windows-t-10-cast-perfectly/"><u>Troubleshooting Screen Mirroring Problems: Making Your Windows T 10 Cast Perfectly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-rpc-connection-failures-in-windows-systems/"><u>Troubleshooting Tips for Fixing RPC Connection Failures in Windows Systems</u></a></li>
 </ul></div>
 

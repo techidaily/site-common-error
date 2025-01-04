@@ -1,7 +1,7 @@
 ---
 title: Corsair Headset Mic Won't Work? Here's How to Restore Your HS50 Audio Output
-date: 2024-08-15T11:00:13.356Z
-updated: 2024-08-16T11:00:13.356Z
+date: 2024-12-28T00:01:57.491Z
+updated: 2025-01-04T03:58:03.305Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 ## Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/corsairhs50-819x1024.jpg)
 
  You and your friends are playing games together on the internet. But you can only hear your friends chatting from your headset and can’t join them because of your**Corsair HS50 mic is not working** . You must be very frustrated. Don’t worry, you can use solutions in this article to fix this problem.
@@ -25,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 Before you start:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Check your device first
 
 **Check your device’s connection** : The mic on the Corsair HS50 is removable, so check your mic connection. And if your PC/laptop doesn’t utilize 2-in-1 mic/stereo jacks, you will need to use the Y-cable to plug them in separately in their appropriate jacks.  
@@ -48,24 +46,23 @@ Before you start:
 2. [Change the audio settings on your PC](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable Microphone in Windows Settings
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
 
 1. Press the**Windows logo key** +**I** together. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Change** , then make sure the **Microphone access for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
 5. Try your Corsair HS50 mic and see if the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -88,8 +85,9 @@ Before you start:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  If your microphone is not working when used on your PC, this glitch could be caused by an old, wrong or missing audio driver. You should update the audio driver to make sure the communication is fine between your PC and mic.  
@@ -102,11 +100,12 @@ Before you start:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/a5.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/a6-1.jpg)
 4. After updating the driver, restart your computer, then try your Corsair HS50 mic and see if your problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,8 +123,6 @@ Before you start:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +130,23 @@ Before you start:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/1723203376336-fixed-we-couldnt-find-a-camera-compatible-with-windows-hello-face/"><u>[Fixed] We Couldn’t Find a Camera Compatible with Windows Hello Face</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximize-screen-tv-playback-for-youtube-clips-for-2024/"><u>[New] Maximize Screen TV Playback for YouTube Clips for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-five-new-facebook-features-you-should-know/"><u>[New] Top Five New Facebook Features You Should Know</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-strategic-use-of-youtube-cards-and-markup/"><u>[Updated] In 2024, Strategic Use of YouTube Cards & Markup</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-life-to-your-dead-laptop-battery-in-no-time-expert-tips-inside/"><u>Bring Back Life to Your Dead Laptop Battery in No Time - Expert Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-ethernet-connection-failures-on-windows-10-and-windows-7-devices/"><u>Comprehensive Guide: Overcoming Ethernet Connection Failures on Windows 10 and Windows 7 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-missing-bluetooth-in-windows-10-step-by-step-guide/"><u>Easy Fixes for Missing Bluetooth in Windows 10 – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/guide-on-transferring-samsung-data-to-windows-11-download-and-steps/"><u>Guide on Transferring Samsung Data to Windows 11 - Download and Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-amplifying-online-presence-focusing-on-details/"><u>In 2024, Amplifying Online Presence Focusing on Details</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-transition-dance-mastering-enterexit-rituals-of-terminals-focused-state/"><u>Navigating the Transition Dance: Mastering Enter/Exit Rituals of Terminal's Focused State</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208494635-noise-coming-from-your-ps4-find-out-why-and-how-you-can-repair-it/"><u>Noise Coming From Your PS4? Find Out Why and How You Can Repair It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/re-sync-your-xbox-one-controller-a-step-by-nstep-guide-on-making-it-work/"><u>Re-Sync Your Xbox One Controller: A Step-by-nStep Guide on Making It Work!</u></a></li>
+<li><a href="https://common-error.techidaily.com/uniting-msvcr71-with-existing-system/"><u>Uniting MSVCR71 with Existing System</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-pro-animation-studio-top-8-software-picks-for-mac-and-windows/"><u>Updated In 2024, Pro Animation Studio Top 8 Software Picks for Mac and Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Smart 7 HD? | Dr.fone</u></a></li>
+</ul></div>
 

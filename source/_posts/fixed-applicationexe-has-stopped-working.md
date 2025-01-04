@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Application.exe Has Stopped Working"
-date: 2024-12-19T18:50:02.739Z
-updated: 2024-12-25T19:58:01.120Z
+date: 2024-12-28T16:29:42.652Z
+updated: 2025-01-03T23:55:32.523Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
 
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -57,18 +65,10 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -80,8 +80,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
@@ -91,16 +99,12 @@ To do so:
 5. Click**OK** to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -115,10 +119,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -156,24 +156,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-lost-footage-immediate-removal-impacts/"><u>[New] 2024 Approved Lost Footage Immediate Removal Impacts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-boosting-vimeo-videos-accelerating-playback/"><u>[New] Boosting Vimeo Videos Accelerating Playback</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-best-of-the-brainless-top-zombie-game-sweepstakes/"><u>[New] In 2024, The Best of the Brainless Top Zombie Game Sweepstakes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-future-of-titles-an-innovators-playbook-for-videos/"><u>[New] The Future of Titles An Innovator's Playbook for Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-focus-on-voice-not-background-with-skype/"><u>[Updated] In 2024, Focus on Voice, Not Background with Skype</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-essential-film-edits-and-their-techniques-for-2024/"><u>10 Essential Film Edits and Their Techniques for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-winning-choice-a-detailed-look-at-the-hp-stream-14s-compromises-and-benefits/"><u>Budget Winning Choice? A Detailed Look at the HP Stream 14'S Compromises and Benefits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capturing-with-snap-zoom-guide-for-2024/"><u>Capturing with Snap Zoom Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-lost-bluetooth-connectivity-in-windows-11-steps-for-swift-resolution/"><u>Guide to Fixing Lost Bluetooth Connectivity in Windows 11: Steps for Swift Resolution</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-alpha-blending-on-incompatible-video-cards/"><u>How to Enable Alpha Blending on Incompatible Video Cards</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-miracast-troubleshooting-a-2024-guide-to-overcoming-device-limitations/"><u>Mastering Miracast Troubleshooting: A 2024 Guide to Overcoming Device Limitations</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-windows-update-issues-the-ultimate-solution-unveiled/"><u>Overcome Windows Update Issues - The Ultimate Solution Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-steam-store-access-hurdle-expert-advice-on-restoring-functionality/"><u>Overcoming the Steam Store Access Hurdle: Expert Advice on Restoring Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-windows-10-service-registration-errors/"><u>Step-by-Step Guide: Correcting Windows 10 Service Registration Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-repair-windows-11-update-problems-code-0x80240034/"><u>Step-by-Step Solutions to Repair Windows 11 Update Problems: Code 0X80240034</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-virality-equation-tiktok-vs-twitter/"><u>The Virality Equation TikTok Vs. Twitter</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-windows-1903-update-issues/"><u>Troubleshooting Tips: Resolving Windows 1903 Update Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-your-pc-do-rtx-graphics-cards-make-a-difference/"><u>Upgrading Your PC: Do RTX Graphics Cards Make a Difference?</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-pixelated-annoyances-a-fix-all-guide-to-windows-10-flickering-issues/"><u>Winning the Battle Against Pixelated Annoyances: A Fix-All Guide to Windows 10 Flickering Issues</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-eliminate-background-in-images-with-ease-using-canva/"><u>[New] Eliminate Background in Images with Ease Using Canva</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-global-communicators-guide-to-the-best-19-translation-apps/"><u>[New] The Global Communicator’s Guide to the Best 19 Translation Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-100-disk-usage-in-windows-11/"><u>[SOLVED] 100% Disk Usage in Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-crafting-video-magic-with-imovie-directed-to-youtube/"><u>[Updated] 2024 Approved Crafting Video Magic with iMovie, Directed to YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-your-online-video-quality-mastery-in-finalcut-for-youtube/"><u>[Updated] Elevate Your Online Video Quality Mastery in FinalCut for YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-picks-for-the-ultimate-offline-game-experience-on-android/"><u>[Updated] Top Picks for the Ultimate Offline Game Experience on Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-premium-virtual-playstation-simulators-for-modern-computers/"><u>2024 Approved Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-the-missing-cursor-fixes-for-windows-11-touchpad-malfunctions/"><u>Bring Back the Missing Cursor: Fixes for Windows 11 Touchpad Malfunctions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-devices-to-desktops-proven-file-transfer-ways/"><u>From Devices to Desktops Proven File Transfer Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-update-or-repair-a-missing-widevine-content-decryption-module-on-pcs/"><u>How to Update or Repair a Missing Widevine Content Decryption Module on PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-responsive-screen-brightness-settings-in-windows-11/"><u>Resolving Non-Responsive Screen Brightness Settings in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206834037-troubleshoot-and-repair-unresponsive-key-caps-on-hp-computers-fast/"><u>Troubleshoot & Repair Unresponsive Key Caps on HP Computers - Fast!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-high-network-consumption-with-svchostexe-netsvcs-tips-and-fixes/"><u>Troubleshooting High Network Consumption with svchost.exe (NETSVCS): Tips and Fixes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-your-photos-and-videos-to-give-an-old-and-vintage-feel-here-are-some-vintage-luts-premiere-pro-free-and-paid-options-avail/"><u>Updated 2024 Approved Do You Want Your Photos and Videos to Give an Old and Vintage Feel? Here Are some Vintage LUTs Premiere Pro Free and Paid Options Available to Download</u></a></li>
 </ul></div>
 

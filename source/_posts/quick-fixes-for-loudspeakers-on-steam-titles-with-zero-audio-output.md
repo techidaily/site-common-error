@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Loudspeakers on Steam Titles with Zero Audio Output
-date: 2024-08-15T10:56:29.324Z
-updated: 2024-08-16T10:56:29.324Z
+date: 2025-01-02T03:42:13.859Z
+updated: 2025-01-04T01:52:27.724Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ Follow these steps.
 
  2\. Type**msconfig** in the run box and click on**OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b682c885329.png)
 
  3\. Click the**Services** tab and check the box next to**Hide all Microsoft services** .
@@ -46,9 +43,6 @@ Follow these steps.
 
  4\. Click**Disable all** button and click**OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6832001455.jpg)
 
 5\. Restart your PC for the changes to take effect.
@@ -71,16 +65,10 @@ Follow these steps to turn off Windows Firewall.
 
  2\. View by Small icons and click on**Windows Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6836576fc6.jpg)
 
  3\. In left pane, select **Turn Windows Firewall on or off** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b68397e1a1b.jpg)
 
  4\. Select**Turn off Windows Firewall (not recommended)** . Then click**OK** button.  
@@ -102,9 +90,6 @@ Follow these steps to turn off Windows Firewall.
 
  2\. Type **services.msc** in the run box and click**OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b683dc1d976.png)
 
  3\. Find**Windows Update** service. Right-click on it and click **Stop** on the context menu.
@@ -113,9 +98,6 @@ Follow these steps to turn off Windows Firewall.
 
  4\. Open**C:\\Windows\\SoftwareDistribution** and delete all contents there.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6846034e1e.jpg)
 
  5\. Restart Windows Update service. Right-click on Windows Update service and click **Start** .
@@ -134,8 +116,6 @@ Follow these steps to turn off Windows Firewall.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +123,23 @@ Follow these steps to turn off Windows Firewall.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-choose-your-vlog-aspect-on-fb-verticalhorizontal/"><u>[Updated] In 2024, Choose Your Vlog Aspect on FB Vertical/Horizontal</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iron-out-instability-in-iphone-videography-effortlessly/"><u>[Updated] Iron Out Instability in iPhone Videography Effortlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-realm-of-free-c-span-video-archives/"><u>2024 Approved Explore the Realm of Free C-Span Video Archives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obs-studio-windowsmac/"><u>如何使用OBS Studio Windows/Mac版本：深入學習最新評論及教程，以便即時下載</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/diagnosing-sluggishness-key-factors-that-impede-pc-speed-explained-by-yl-software-experts/"><u>Diagnosing Sluggishness: Key Factors That Impede PC Speed Explained by YL Software Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-unresponsive-aoc-screen-on-your-windows-10-pc/"><u>How to Fix an Unresponsive AOC Screen on Your Windows 10 PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>In 2024, OBS and Wirecast Clash Which Tops in Live Broadcasting</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208946528-nvidia-share-unresponsive-here-are-proven-solutions/"><u>NVIDIA Share Unresponsive? Here Are Proven Solutions!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/rapid-transfer-of-sata-drives-to-solid-state-drives-in-various-windows-versions/"><u>Rapid Transfer of SATA Drives to Solid State Drives in Various Windows Versions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-ripples-in-win7-displays/"><u>Remedying Ripples in Win7 Displays</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-hp-deskjet-d1nker-printhead-installation-problems-in-multiple-windows-os-versions/"><u>Step-by-Step Guide to Fixing HP Deskjet D1nker Printhead Installation Problems in Multiple Windows OS Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-google-chrome-expert-tactics-to-refresh-and-continue/"><u>Troubleshooting Stuck Google Chrome – Expert Tactics to Refresh and Continue</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

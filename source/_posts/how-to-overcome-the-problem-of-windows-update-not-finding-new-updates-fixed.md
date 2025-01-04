@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Problem of Windows Update Not Finding New Updates [FIXED]
-date: 2024-12-21T19:49:44.440Z
-updated: 2024-12-25T16:09:32.115Z
+date: 2024-12-27T21:55:37.956Z
+updated: 2025-01-03T20:42:47.173Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Windows Update Troubleshooter is a tool released by Microsoft that can help you 
 
 Your Windows Update may fail to update your Windows because its components are corrupted. These components include the services and temporary files and folders associated with Windows Update. You can try resetting these components and see if this can fix your problem. To reset these components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right-click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * _**net stop bits**_
 * _**net stop wuauserv**_
 * _**net stop appidsvc**_
@@ -74,34 +78,30 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fafbba7758.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)** . Then search for the updates you have failed to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb3a1da130.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** In the search results, find the update that matches your**operating system**and**system type**(_x86-,_ _x64- or ARM64-based_). Then click**Download**next to the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb49473bae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click the link on the new window to download the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb79898ae2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**Open the file you’ve just downloaded and follow the on-screen instructions to install the update.
@@ -113,7 +113,7 @@ It’s also possible that your Windows Update can’t work because of the corrup
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbd72bc9a4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** In Command Prompt, to run System File Checker, type “_**sfc /scannow**_” and press**Enter**on your keyboard.
@@ -127,7 +127,7 @@ It’s also possible that your Windows Update can’t work because of the corrup
 **4)**Wait for the process to complete, then restart your computer. After that, check to see if your Windows Update recovers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Disable your antivirus
@@ -136,16 +136,12 @@ Sometimes your system can’t install new updates due to the interference from y
 
 **IMPORTANT:** Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 6: Update your drivers
 
 You may get issues with your Windows Update if you are using wrong or out-of-date device drivers. You should regularly check your device drivers and keep them up to date so as to prevent your computer from many annoying issues. But you may not have the time or patience to check and update your drivers manually. If you want to have this done easily and automatically, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee): **1) [Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy.**2)**Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png) **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 7: Restore your Windows
@@ -153,6 +149,10 @@ You may get issues with your Windows Update if you are using wrong or out-of-dat
 Perhaps the issues with your Windows come from some changes you’ve made to your system. You can perform a system restore. This will restore your system from a restore point (you need to have one that has been created before your Windows Update issue occurs) undo those changes made. To do so:**1)**Click the **Start**button in the lower corner of your screen. Then type “_**restore**_“. In the list of results, click “**Create a restore point**“. The System Properties dialog will appear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc666d51a9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**System Restore**. The System Restore wizard will pop up.
 
@@ -182,22 +182,18 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-your-computers-wired-internet-isnt-working-win-107-edition/"><u>Easy Fixes for When Your Computer's Wired Internet Isn't Working (Win 10/7 Edition)</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-razor-board-why-wont-the-keys-light-up/"><u>Fixing a Non-Responsive Razor Board: Why Won't the Keys Light Up?</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-z-flip-5-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy Z Flip 5 Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-airpod-resets-key-times-to-refresh-and-troubleshooting-tips-smartgadgetguide/"><u>Mastering AirPod Resets: Key Times to Refresh & Troubleshooting Tips | SmartGadgetGuide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-the-art-of-small-image-creation-a-thumbnail-guide/"><u>Mastering the Art of Small Image Creation A Thumbnail Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/pathway-for-pixels-transferring-data-to-computers/"><u>Pathway for Pixels Transferring Data to Computers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/redefining-mobile-gaming-mastery-an-examination-of-kinemaster/"><u>Redefining Mobile Gaming Mastery An Examination of KineMaster</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixes-and-steps-for-restoring-missing-files-in-steam/"><u>Resolved: Fixes and Steps for Restoring Missing Files in Steam</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-disabled-wireless-functionality-a-comprehensive-guide/"><u>Resolving Issues with Disabled Wireless Functionality - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210484516-revitalize-your-laptops-charging-issues-with-these-straightforward-tips/"><u>Revitalize Your Laptop's Charging Issues with These Straightforward Tips!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-windows-stop-error-0xc00000e9/"><u>Step-by-Step Solutions for Correcting Windows Stop Error 0xC00000E9</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-when-your-steam-store-fails-to-launch/"><u>Step-by-Step Troubleshooting for When Your Steam Store Fails to Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-11-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 11 Pro 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/wisdom-weavers-2024-the-finest-trivia-channel-curations/"><u>Wisdom Weavers 2024 The Finest Trivia Channel Curations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photography-tips-for-seamless-instagram-posting/"><u>[Updated] Photography Tips for Seamless Instagram Posting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplifying-video-editing-with-windows-movie-maker-for-windows-8-users/"><u>2024 Approved Simplifying Video Editing with Windows Movie Maker for Windows 8 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-screenside-card-firmware/"><u>Dark Screenside: Card Firmware</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-ethernet-functionality-in-windows-11-and-7-systems/"><u>Expert Tips for Restoring Ethernet Functionality in Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/explore-new-territory-your-guide-to-live-streaming-tiktoks/"><u>Explore New Territory Your Guide to Live-Streaming TikToks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-social-presence-the-ultimate-twitter-video-toolkit/"><u>In 2024, Elevate Your Social Presence The Ultimate Twitter Video Toolkit</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-initializing-a-hosted-network-in-windows-10/"><u>Overcoming Issues with Initializing a Hosted Network in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-unwanted-win11-restarts/"><u>Preventing Unwanted Win11 Restarts</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-your-lenovo-fingerprint-reader-easy-fixes-inside/"><u>Resolving Issues with Your Lenovo Fingerprint Reader: Easy Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-steam-updates-failing-to-download/"><u>Solving the Dilemma of Steam Updates Failing to Download</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/the-impact-of-the-mongol-conquest-on-chinas-historical-trajectory-insights-by-yl-computing-and-yl-software/"><u>The Impact of the Mongol Conquest on China's Historical Trajectory - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-dxr-file-format-a-guide-to-restoring-your-lost-data/"><u>Understanding the DXR File Format: A Guide to Restoring Your Lost Data</u></a></li>
 </ul></div>
 

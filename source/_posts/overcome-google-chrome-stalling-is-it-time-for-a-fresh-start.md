@@ -1,7 +1,7 @@
 ---
 title: "Overcome Google Chrome Stalling: Is It Time for a Fresh Start?"
-date: 2024-08-15T11:04:03.712Z
-updated: 2024-08-16T11:04:03.712Z
+date: 2024-12-29T20:46:57.014Z
+updated: 2025-01-03T21:06:46.738Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ the picture was taken by: Article\_86
  If your webpage went all red with white text saying**Google Chrome Critical ERROR** when you browsing on Google Chrome, don’t trust it! It’s a scam! And Google Chrome is not the only affected browser. Users have reported they’ve seen similar tech support scam popups on Yahoo and MSN homepage.
 
  If you close the webpage straight away without clicking any links, unfortunately, you’ve done the**WRONG** thing! But don’t worry, read this post and you’ll know how to get rid of it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## End the process
 
@@ -45,8 +49,9 @@ the picture was taken by: Article\_86
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
@@ -54,8 +59,9 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
@@ -72,10 +78,12 @@ the picture was taken by: Article\_86
 
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Relaunch Chrome to take effect.
 
 ---
@@ -89,21 +97,17 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Click **Clear data** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reset Google Chrome to default settings
 
  If you don’t remember which extension or change you’ve made before you met the scam, you can simply reset Google Chrome to default settings. This function won’t affect your saved bookmarks or passwords. It will make Chrome back to default configurations and remove all the settings that might cause this unresponsive error.
@@ -115,10 +119,12 @@ the picture was taken by: Article\_86
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
 ---
@@ -149,8 +155,6 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +162,24 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-advanced-techniques-for-better-obs-encoding/"><u>[New] In 2024, Advanced Techniques for Better OBS Encoding</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>2024 Approved Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a15-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A15 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/breezy-fixes-to-jumpstart-windows-updates-stalled-at-the-start-line/"><u>Breezy Fixes to Jumpstart Windows Updates Stalled at the Start Line</u></a></li>
+<li><a href="https://common-error.techidaily.com/couldnt-switch-to-requested-monitor-resolution-solved/"><u>Couldn't Switch to Requested Monitor Resolution [Solved]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/early-access-get-the-samsung-t5-solid-state-drive-for-nearly-half-price-on-amazon-ahead-of-octobers-prime-shopping-extravaganza-zdnet/"><u>Early Access: Get the Samsung T5 Solid State Drive for Nearly Half Price On Amazon Ahead of October's Prime Shopping Extravaganza | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-what-to-do-when-you-encounter-a-missing-d3dx939dll-error-message/"><u>Fix Guide: What to Do When You Encounter a Missing d3dx9_39.dll Error Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/game-setup-troubles-heres-how-origin-fixes-common-playing-hurdles/"><u>Game Setup Troubles? Here's How Origin Fixes Common Playing Hurdles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-narzo-60-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Narzo 60 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-k70-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi K70 Pro Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-ftddi-memory-integrity-failures-by-ensuring-driver-compatibility/"><u>Preventing FTDDI Memory Integrity Failures by Ensuring Driver Compatibility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-dciman32dll-file-not-found-step-by-step-troubleshooting-guide/"><u>Resolving 'Dciman32.dll' File Not Found: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/smooth-playback-success-how-to-eliminate-kodis-constant-buffering/"><u>Smooth Playback Success: How to Eliminate Kodi's Constant Buffering</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-mouse-keeps-double-clicking/"><u>Solved: Mouse Keeps Double Clicking</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-functionality-in-a-lenovo-keyboard-issue/"><u>Step-by-Step Guide to Restoring Functionality in a Lenovo Keyboard Issue</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-you-need-to-know-about-pidgin-messaging-software/"><u>The Pros and Cons You Need to Know About Pidgin Messaging Software</u></a></li>
+</ul></div>
 

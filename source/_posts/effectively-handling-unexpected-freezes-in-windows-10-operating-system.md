@@ -1,7 +1,7 @@
 ---
 title: Effectively Handling Unexpected Freezes in Windows 10 Operating System
-date: 2024-08-15T11:04:21.000Z
-updated: 2024-08-16T11:04:21.000Z
+date: 2025-01-01T16:34:42.282Z
+updated: 2025-01-03T16:53:03.434Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 1: Update your drivers**
 
  The Windows 10 freezing problem can be caused by outdated drivers. So to fix the problem, you can try to update the drivers. If you don’t have the time, patience, or computer skills to update the drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
  3) Click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system. (Note: Upon selecting the ‘Update All’ option, you will be asked to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . A 7-day free trial, including all Pro features like high-speed download and one-click install, is available if you’re not ready for the Pro version yet. Rest assured, you won’t incur any charges until after the 7-day trial.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check to see if your computer still freezes randomly after updating the drivers. If the problem persists, you know your drivers weren’t to blame, and you should try the next fix.
 
@@ -68,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
  1) On your keyboard, press**Windows key** and**R** at the same time, then in the Run form, type**temp** and hit**Enter** . This will invoke Windows Explorer with your Temp folder open,  showing you all the temp files on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Select all the files in the Temp folder and delete them.
@@ -95,16 +90,10 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:** )**,** and enter an Initial size and Maximum size for your virtual memory:
 
@@ -115,13 +104,18 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596c16f59cf66.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re still having problems with Windows 10 hanging after adjusting your virtual memory, try the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 4: Repair your system files**
 
  Corrupt, damaged, or missing system files can cause Windows to randomly freeze. To check if this is the exact cause, you can either use the Windows built-in tool to run a basic check or use an automatic tool to perform a complete diagnosis.
@@ -149,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  Microsoft makes it easy for you to get your original system files back. It has an in-built tool called System File Checker that will restore any broken or missing system files that could be causing your PC to freeze.
@@ -160,9 +158,6 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
  If prompted to provide administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/user-account-control.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) In the black Command Prompt window, type:
 
@@ -172,15 +167,16 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aa0c3690c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will scan your system for corrupted files, and attempt to fix any it finds. The results will display in this window, so please leave it open until the operation is complete.
 
  If the scan finds no problems, you know your system files aren’t the cause of Windows 10 randomly freezing, and you can move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Method 5: Run a memory check**
 
  A faulty memory card is one of the most common causes of computer freezes. So before you invest in a new computer, check to see if your memory card is at fault. Microsoft has a built-in tool to help you do this.
@@ -192,21 +188,23 @@ sfc /scannow
  2) If you want to check for problems immediately, click **Restart now and check for problems(recommended)** . If you want to check later, click **Check for problems the next time I start my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb6930a9d3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Windows will then restart, and you’ll see this page showing the progress of the check and the number of passes it will run on memory.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb698e7b6b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t see any errors here, your memory card probably isn’t the problem, and you should try the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 6: Run Disk Check**
 
  If you’ve come this far, it’s time for you to check if your hard disk is at fault. Don’t worry, this is easy to do, because Windows has a built in tool for the job…
@@ -216,27 +214,26 @@ sfc /scannow
 2) Click **Start > File Explorer > This PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a917ba7f6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  3) Locate the hard drive you’d like to check, right-click on it and choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9834949e.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to the **Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) If your hard disk drive is problem-free, you’ll see this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb70907dd5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This suggests your hard disk is NOT the problem, and you can move on to the next fix below.
 
@@ -244,9 +241,6 @@ sfc /scannow
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## **Method 7: Disable C-States in BIOS**
 
  “C-States” is short for “CPU States”. They’re basically power-saving options – they turn down your system’s voltage, multipliers, etc. so your computer uses as little power as possible when it’s idle. Disabling C-States (turning off the power saving options) can make your computer more stable, and reduce the chance of unexpected problems like random freezing or rebooting. To disable C-States:
@@ -270,22 +264,9 @@ sfc /scannow
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 8: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
@@ -322,8 +303,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -331,4 +310,24 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-laptop-white-screen-issue/"><u>[FIXED] Laptop White Screen Issue</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-incremental-sound-diminishment-guidebook/"><u>[Updated] In 2024, Incremental Sound Diminishment Guidebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-vr-capture-mastery-9-techniques-for-success/"><u>2024 Approved Immersive VR Capture Mastery 9 Techniques for Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-alert-missing-core-library-dll-from-os/"><u>Critical Alert: Missing Core Library Dll From OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-transform-your-wav-audio-to-mp3-with-the-help-of-audials-user-friendly-tool/"><u>Effortlessly Transform Your WAV Audio to MP3 with the Help of Audials' User-Friendly Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-solutions-tackling-problems-encountered-in-windows-1903-updates/"><u>Essential Solutions: Tackling Problems Encountered in Windows 1903 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-tailored-preferences-panel-not-working/"><u>Fix: Tailored Preferences Panel Not Working</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-lava-blaze-pro-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Lava Blaze Pro 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-and-recover-missing-options-in-your-geforce-setup/"><u>How To Restore and Recover Missing Options in Your GeForce Setup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinterest-video-extraction-the-ultimate-guide-to-the-best-tools/"><u>In 2024, Pinterest Video Extraction The Ultimate Guide to the Best Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-fifa-footage-trends-captured-in-infographics/"><u>In 2024, Top FIFA Footage Trends Captured in Infographics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-warm-up-your-visuals-a-guide-to-top-cozy-winter-backgrounds/"><u>In 2024, Warm Up Your Visuals A Guide to Top Cozy Winter Backgrounds</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210329765-master-the-art-of-keeping-your-device-alert-no-more-interruptions/"><u>Master the Art of Keeping Your Device Alert: No More Interruptions!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reestablish-visual-support-software/"><u>Reestablish Visual Support Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-strategies-for-overcoming-lag-in-windows-11-keyboards/"><u>Solution Strategies for Overcoming Lag in Windows 11 Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-dysfunctional-usb-hubs-in-modern-windows-environments/"><u>Solving the Problem of Dysfunctional USB Hubs in Modern Windows Environments</u></a></li>
+</ul></div>
 

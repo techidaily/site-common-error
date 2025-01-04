@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing Nonfunctional '@' Symbol in Emails and Text Messages"
-date: 2024-08-15T11:04:14.447Z
-updated: 2024-08-16T11:04:14.447Z
+date: 2025-01-02T20:39:44.006Z
+updated: 2025-01-03T18:22:04.177Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ Here’s how to do it:
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -62,19 +63,18 @@ Here’s how to do it:
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -88,22 +88,27 @@ To do so:
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -126,8 +131,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +138,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elite-free-screen-partnership-adventures/"><u>[New] 2024 Approved Elite Free Screen Partnership Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-add-a-countdown-timer-in-obs/"><u>[Updated] 2024 Approved How To Add a Countdown Timer in OBS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-a-compreenas-guide-to-designing-a-compelling-rss-feed/"><u>2024 Approved A Compreenas Guide to Designing a Compelling RSS Feed</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-steps-why-is-my-left-mouse-button-malfunctioning/"><u>DIY Repair Steps: Why Is My Left Mouse Button Malfunctioning?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-keyboard-function-keys-failing-to-work/"><u>Effective Solutions for Keyboard Function Keys Failing to Work</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-itel-p40-lock-screen-password-by-drfone-android/"><u>How to Reset your Itel P40 Lock Screen Password</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-calculating-the-sequence-length-of-a-20mb-file/"><u>In 2024, Calculating the Sequence Length of a 20MB File</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-proplus-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nubia Red Magic 9 Pro+ Phone Without Password?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/quick-image-transfiguration-winmac-photo-animation-pro-for-2024/"><u>Quick Image Transfiguration Win/Mac Photo Animation Pro for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-there-was-an-issue-resetting-your-computer-error-in-windows-11/"><u>Resolving the 'There Was an Issue Resetting Your Computer' Error in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamlessly-watching-flv-files-a-step-by-step-tutorial-for-iphone-and-ipad-users/"><u>Seamlessly Watching FLV Files: A Step-by-Step Tutorial for iPhone and iPad Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-compatibility-enhanced-with-new-fixes-on-google-chrome/"><u>Shockwave Flash Compatibility Enhanced with New Fixes on Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-your-apps-exe-file-crashes/"><u>Troubleshooting Guide: Why Your App's Exe File Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-update-error-code-0x802fixed/"><u>Ultimate Guide: Resolving the Windows Update Error Code 0X802^[Fixed]</u></a></li>
+</ul></div>
 

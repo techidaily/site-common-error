@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Login Obstacles: A Comprehensive Fix for User Profile Service Failure in Windows 10 & 11"
-date: 2024-08-15T10:58:53.002Z
-updated: 2024-08-16T10:58:53.002Z
+date: 2025-01-01T20:59:32.133Z
+updated: 2025-01-04T02:30:35.103Z
 tags:
   - win11
   - win10
@@ -17,16 +17,10 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
 
  If the**Cast to Device** feature on your Windows 10 PC can’t work, you will be annoyed and frustrated as you can’t use Windows Media Player to stream any content, like videos, images, and songs to other devices. Don’t panic. Usually, this is an easy problem to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e2d30d6f5.png)
 
  Read on and find out how to fix the**Cast to Device stops working** problem…  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -39,35 +33,24 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 5. Try the Cast to Device feature again to see if it succeeds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -76,34 +59,39 @@ Key features:
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
-3. Click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 6. Click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Close the Windows Media Player window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your network card driver
 
  This problem could be also due to an old network card driver.  You can update your network card driver manually or, if you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -132,8 +120,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +127,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-premiers-picks-high-definition-monitors-with-advanced-features/"><u>[New] In 2024, Premier's Picks High-Definition Monitors with Advanced Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-reviving-your-visual-story-adding-instagrams-flavor-to-old-photosvideos-for-2024/"><u>[New] Reviving Your Visual Story Adding Instagram's Flavor to Old Photos/Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lens-legends-library-your-query-guide/"><u>[Updated] Lens Legends' Library Your Query Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-vs-dailymention-spotlighting-key-aspects/"><u>[Updated] YouTube Vs. DailyMention Spotlighting Key Aspects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bug-fix-guide-how-to-stop-fall-guys-from-hanging-on-windows/"><u>Bug Fix Guide: How to Stop Fall Guys From Hanging on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-to-overcome-windows-network-error-0x800704cf-easily/"><u>Expert Advice to Overcome Windows Network Error 0X800704CF Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-bluetooth-mouse-problems-quickly-and-easily-a-comprehensive-guide/"><u>Fix Windows Bluetooth Mouse Problems Quickly and Easily – A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-adjust-monitor-settings-for-correct-signal-timing/"><u>How to Adjust Monitor Settings for Correct Signal Timing</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-action-required-fixing-error-1053-no-response-from-your-service/"><u>Immediate Action Required: Fixing Error 1053 - No Response From Your Service</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boosting-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube/"><u>In 2024, Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-netflixs-pace-adjustments/"><u>In 2024, Navigating Netflix's Pace Adjustments</u></a></li>
+<li><a href="https://win-forum.techidaily.com/launch-of-revo-uninstaller-pro-version-5-enhanced-system-cleanup/"><u>Launch of Revo Uninstaller Pro Version 5: Enhanced System Cleanup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-arrow-key-issues-with-these-proven-fixes-for-malfunctioning-buttons/"><u>Solve Your Arrow-Key Issues with These Proven Fixes for Malfunctioning Buttons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-cleaning-a-clicker-keep-it-germ-free/"><u>Step-by-Step Tutorial on Cleaning a Clicker - Keep It Germ-Free</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovos-non-responsive-fn-key-with-these-simple-steps/"><u>Troubleshoot Your Lenovo's Non-Responsive FN Key with These Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-device-not-found-error-with-fixes-for-windows-10-8-and-7-users/"><u>Troubleshooting Guide: 'Device Not Found' Error with Fixes for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-xerox-update-issue-error-code-0x800f02eb-in-windows/"><u>Troubleshooting Guide: Fixing Xerox Update Issue (Error Code 0X800f02eb) in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-correcting-error-code-mnkraekt-rror-ked-fv/"><u>Understanding and Correcting Error Code ˈmɪnɪkrækt Ɛrror Kəʊd Fɪv/</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/vyncs-link-review-solid-tracker-with-confusing-subscription-plans/"><u>Vyncs Link Review: Solid Tracker With Confusing Subscription Plans</u></a></li>
+</ul></div>
 

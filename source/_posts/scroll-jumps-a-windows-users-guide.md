@@ -1,7 +1,7 @@
 ---
 title: "Scroll Jumps: A Windows User's Guide"
-date: 2024-08-15T10:58:17.255Z
-updated: 2024-08-16T10:58:17.255Z
+date: 2025-01-01T05:09:40.949Z
+updated: 2025-01-04T04:24:32.480Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -35,6 +32,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
@@ -42,28 +43,27 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)  
 
  Choose to view on**Driver** pane.  
  Then click**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -74,10 +74,11 @@ Then click **Device Manager**  to open it.
 
  2) With **Scan Now** , it can scan out all of your outdated, missing and corrupted drivers and find the correct ones for you in less than 1 min! Your touchpad driver is no exception.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
 
@@ -85,10 +86,11 @@ Then click **Device Manager**  to open it.
 
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -103,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,22 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-gopro-v5-edge-versus-nikon-km-170-ultimate-comparison/"><u>[New] 2024 Approved GoPro V5 Edge Versus Nikon KM-170 Ultimate Comparison</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-gopros-versatility-up-against-nikons-km-170/"><u>[New] 2024 Approved GoPro's Versatility Up Against Nikon's KM-170</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-depth-look-at-facetune-complete-app-revision-for-2024/"><u>[Updated] In-Depth Look at Facetune Complete App Revision for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-in-depth-insights-into-camstudio-recording/"><u>2024 Approved In-Depth Insights Into CamStudio Recording</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-dealing-with-an-unresponsive-internet-explorer-browser/"><u>Effective Solutions for Dealing with an Unresponsive Internet Explorer Browser</u></a></li>
+<li><a href="https://fox-info.techidaily.com/generating-funny-images-through-adobe-for-2024/"><u>Generating Funny Images Through Adobe for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-errors-when-initializing-bluetooth-stack-services/"><u>Guide to Overcoming Errors When Initializing Bluetooth Stack Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-purchase-of-your-apple-vision-pro-essential-guidelines-hidden-techniques-and-ensuring-an-accurate-facial-recognition-setup/"><u>Mastering the Purchase of Your Apple Vision Pro: Essential Guidelines, Hidden Techniques, and Ensuring an Accurate Facial Recognition Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-memory-management-executables-impact-on-your-pc-windows-10/"><u>Optimizing Memory Management Executable's Impact on Your PC [WINDOWS 10]</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-set-up-problems-for-smooth-gaming-experience-with-eas-origin-platform/"><u>Resolve Set-Up Problems for Smooth Gaming Experience with EA's Origin Platform</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/smart-analytics-and-personalization-by-leveraging-cookiebot-power-optimize-your-websites-performance/"><u>Smart Analytics and Personalization by Leveraging Cookiebot Power | Optimize Your Website's Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-a-vanishing-taskbar-on-windows-10-discover-4-key-methods/"><u>The Ultimate Guide to Fixing a Vanishing Taskbar on Windows 10 - Discover 4 Key Methods</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/troubleshooting-cmd-input-problems-your-complete-handbook/"><u>Troubleshooting CMD Input Problems: Your Complete Handbook</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-ethernet-connectivity-for-windows-117-users/"><u>Troubleshooting Your Ethernet Connectivity for Windows 11/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-solution-how-to-unstuck-and-repair-your-keyboards-locked-keys/"><u>Windows Solution: How to Unstuck and Repair Your Keyboard's Locked Keys</u></a></li>
+</ul></div>
 

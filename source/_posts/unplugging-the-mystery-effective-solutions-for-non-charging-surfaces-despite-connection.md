@@ -1,7 +1,7 @@
 ---
 title: "Unplugging the Mystery: Effective Solutions for Non-Charging Surfaces Despite Connection"
-date: 2024-12-21T18:23:32.363Z
-updated: 2024-12-25T17:39:02.137Z
+date: 2025-01-02T05:05:37.698Z
+updated: 2025-01-03T20:03:25.597Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -46,15 +50,11 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **OK** .  
@@ -76,20 +76,24 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
@@ -140,20 +140,24 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-template-to-tutorial-gamers-channel-design/"><u>[Updated] From Template to Tutorial Gamers' Channel Design</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-video-appeal-20-premium-thumbnail-fonts/"><u>2024 Approved Enhancing Video Appeal 20 Premium Thumbnail Fonts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>2024 Approved Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-the-atomic-heart-catastrophe-mastering-startup-survival-tactics/"><u>Conquering the 'Atomic Heart' Catastrophe: Mastering Startup Survival Tactics</u></a></li>
-<li><a href="https://common-error.techidaily.com/corrective-actions-for-unresponsive-right-click-on-a-windows-10-pc/"><u>Corrective Actions for Unresponsive Right-Click on a Windows 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-steps-to-resolve-stop-error-in-hamachi/"><u>Fixing the Issue: Steps to Resolve Stop Error in Hamachi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210103406-9781250796783-here-hereafter/"><u>Here & Hereafter | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-integrity-of-corrupted-drive-partitions-for-windows-users/"><u>How to Restore Integrity of Corrupted Drive Partitions for Windows Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-a14-4g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy A14 4G Through Google Earth?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplify-image-editing-picart-background-shedding/"><u>In 2024, Simplify Image Editing PicArt Background Shedding</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/personalized-touchscreen-display-by-jdi-the-2vd-screen-that-sees-who-you-are-and-adapts-to-your-fingerprint/"><u>Personalized Touchscreen Display by JDI: The 2VD Screen That Sees Who You Are and Adapts to Your Fingerprint</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolutionize-your-mouse-journey/"><u>Revolutionize Your Mouse Journey</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-guide-to-resolve-microphone-not-working-in-google-hangouts/"><u>Simple Guide to Resolve 'Microphone Not Working' In Google Hangouts</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-resolving-missing-d3dx939dll-issue/"><u>Solution Steps for Resolving MISSING D3DX9_39.dll Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-recurring-restart-glitches-on-windows-operating-systems-11-and-10/"><u>Troubleshooting Recurring Restart Glitches on Windows Operating Systems (11 and 10)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-translated-subtitles-for-global-igtv-audience/"><u>[New] 2024 Approved Translated Subtitles for Global IGTV Audience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-laptop-screen-recording-techniques/"><u>[Updated] 2024 Approved A Comprehensive Guide to Laptop Screen Recording Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-eyes-in-the-sky-full-review-of-djis-phantom-4-pro/"><u>[Updated] Eyes in the Sky Full Review of DJI's Phantom 4 Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unveiling-the-simple-path-to-video-conversations-on-snapchat/"><u>[Updated] In 2024, Unveiling the Simple Path to Video Conversations on Snapchat</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-note-30-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix Note 30 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-action-choosing-from-5-leading-game-stream-webcams/"><u>2024 Approved Capturing Action Choosing From 5 Leading Game Stream Webcams</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-repairing-your-pcs-affected-app-download-cache-fixed/"><u>Comprehensive Guide: Repairing Your PC's Affected App Download Cache (FIXED)</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-the-dilemma-effective-methods-for-dealing-with-sticky-keyboard-issues-on-windows/"><u>Defeating the Dilemma: Effective Methods for Dealing with Sticky Keyboard Issues on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-smooth-chatgpt-interactions-chrome-powered-solution/"><u>Dive Into Smooth ChatGPT Interactions - Chrome-Powered Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-repair-techniques-for-the-driverpowerstatefailure-complication/"><u>Easy Repair Techniques for the DRIVER_POWER_STATE_FAILURE Complication</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-of-mic-issues-welcome-back-to-discord/"><u>End of Mic Issues, Welcome Back to Discord</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-malfunctioning-start-button-easily/"><u>Fixing Windows 11'S Malfunctioning Start Button Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-plain-out-windows-edges/"><u>How to Plain Out Windows Edges</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g22-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia G22 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-could-not-complete-the-installation-errors/"><u>Quick Fixes for 'Windows Could Not Complete the Installation' Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-to-dragon-ball-fighterzs-network-start-up-error/"><u>Solution to Dragon Ball FighterZ's Network Start-Up Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-scroll-problems-with-your-synaptics-touchpad-on-windows-11/"><u>Troubleshooting: Resolving Scroll Problems with Your Synaptics Touchpad on Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-werfuelexe-6-crucial-tips-for-seamless-operations-on-windows/"><u>Winning the Battle Against 'werfuel.exe' - 6 Crucial Tips for Seamless Operations on Windows</u></a></li>
 </ul></div>
 

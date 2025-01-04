@@ -1,7 +1,7 @@
 ---
 title: VCRUNTIME140.dll File Absent? Here's How to Fix It and Start Your Program in Windows 10
-date: 2024-12-22T20:34:57.954Z
-updated: 2024-12-25T19:48:47.117Z
+date: 2025-01-03T00:23:05.064Z
+updated: 2025-01-04T02:51:22.605Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ In a normal working computer, you can find the Start Button on the left corner o
 
  But if your Start menu is not working, or the Start button disappears, you need to read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize the Start Menu
 
 #### Resize the Start menu
@@ -44,14 +48,10 @@ In a normal working computer, you can find the Start Button on the left corner o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c.jpg)
 3. Click**Start** on the left pane. Then you can customize the Start menu in the right pane as you like.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Change Start menu colors
@@ -64,7 +64,7 @@ In a normal working computer, you can find the Start Button on the left corner o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Switch to the Start screen
@@ -75,7 +75,7 @@ In a normal working computer, you can find the Start Button on the left corner o
 3. Click**Start** on the left pane. Turn on Use Start full screen.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c3.jpg)
@@ -103,20 +103,24 @@ In a normal working computer, you can find the Start Button on the left corner o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-best-composers-for-the-ultimate-video-photographic-symphony-for-2024/"><u>[New] Best Composers for the Ultimate Video-Photographic Symphony for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elevate-your-video-step-by-step-from-sdr-to-hdri/"><u>[New] Elevate Your Video Step-by-Step From SDR to HDRI</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-skype-sessions-with-obs-streaming/"><u>[New] In 2024, The Ultimate Guide to Skype Sessions with OBS Streaming</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-perfecting-your-digital-doppelganger-a-complete-guide-to-cloning-oneself-on-tiktok/"><u>[Updated] 2024 Approved Perfecting Your Digital Doppelgänger A Complete Guide to Cloning Oneself on TikTok</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/common-fixes-for-dvd-compatibility-issues-with-your-windows-pc/"><u>Common Fixes for DVD Compatibility Issues with Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-tips-fixing-broken-or-damaged-system-files-in-modern-windows-os/"><u>Comprehensive Tips: Fixing Broken or Damaged System Files in Modern Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-tech-fixes-for-pcs-stalled-on-the-windows-installation-screen/"><u>DIY Tech Fixes for PCs Stalled on the Windows Installation Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expertly-selected-6-premier-tools-to-refine-your-images-online/"><u>Expertly Selected 6 Premier Tools to Refine Your Images Online</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a14-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A14 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>In 2024, Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-minecraft-problems-on-windows-a-guide-to-updating-video-card-drivers/"><u>Solve Your Minecraft Problems on Windows: A Guide to Updating Video Card Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-professional-reviews-by-tech-experts-zdnet/"><u>The Ultimate Guide : Professional Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-troubleshooting-and-fixing-slow-shutdown-on-windows-10/"><u>Tips for Troubleshooting and Fixing Slow Shutdown on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-your-networks-dns-server-here-are-4-efficient-remedies/"><u>Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-80s-family-flick-the-vhs-edition-of-the-goofys/"><u>[New] '80S Family Flick The VHS Edition of The Goofys</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-practices-for-documenting-youtube-live-videos/"><u>[New] Best Practices for Documenting Youtube LIVE Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-improving-video-quality-during-iphone-shoots/"><u>[New] Improving Video Quality During iPhone Shoots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-much-a-youtube-promotion/"><u>[Updated] How Much a YouTube Promotion</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-hearthstone-lag-effective-quick-fix-tips-and-tricks/"><u>Beat Hearthstone Lag: Effective Quick-Fix Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-for-the-non-plugged-in-hardware-error-code-0xc0000098-on-windows-devices/"><u>Comprehensive Troubleshooting for the Non-Plugged In Hardware Error (Code 0xC0000098) on Windows Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-mystery-of-msdia80dll-essential-insights-for-secure-system-management/"><u>Deciphering the Mystery of msdia80.dll - Essential Insights for Secure System Management</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quiet-down-a-noisy-ps4-gaming-console/"><u>How to Quiet Down a Noisy PS4 Gaming Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-geforce-experience-settings-retrieval-errors/"><u>How to Resolve GeForce Experience Settings Retrieval Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-microphone-issues-and-get-audio-working-again/"><u>How to Resolve Windows 10 Microphone Issues and Get Audio Working Again</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-save-and-export-spotifys-playlists-as-readable-files-for-offline-use/"><u>How to Save and Export Spotify's Playlists as Readable Files for Offline Use</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-editing-skills-top-10-final-cut-pro-x-plugins-for-professionals-and-beginners-for-2024/"><u>New Elevate Your Editing Skills Top 10 Final Cut Pro X Plugins for Professionals and Beginners for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-eliminate-lag-on-your-logitech-keyboard-easy-to-follow-instructions-inside/"><u>Quick Guide: Eliminate Lag on Your Logitech Keyboard - Easy-to-Follow Instructions Inside</u></a></li>
+<li><a href="https://discover-help.techidaily.com/resolving-usb-drive-issues-4-effective-solutions-for-windows-11-10-8-and-7/"><u>Resolving USB Drive Issues: 4 Effective Solutions for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-on-casting-your-ipad-screen-with-amazon-firestick/"><u>Step-by-Step Guide on Casting Your iPad Screen with Amazon Firestick</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-disconnected-external-drives-on-a-windows-operating-system/"><u>Troubleshooting Disconnected External Drives on a Windows Operating System</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-shutdown-alerts-discover-why-your-system-stops-running-and-how-to-repair-it/"><u>Troubleshooting Shutdown Alerts: Discover Why Your System Stops Running and How to Repair It</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-fixing-the-quick-scroll-jump-in-file-explorer/"><u>Troubleshooting Windows 11: Fixing the Quick Scroll Jump in File Explorer</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-unresponsive-alphabetic-characters-in-windows-11s-keyboard-layout/"><u>Ultimate Guide: Fixing Unresponsive Alphabetic Characters in Windows 11'S Keyboard Layout</u></a></li>
 </ul></div>
 

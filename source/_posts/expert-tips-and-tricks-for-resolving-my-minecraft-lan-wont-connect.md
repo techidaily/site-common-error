@@ -1,7 +1,7 @@
 ---
 title: Expert Tips and Tricks for Resolving 'My Minecraft LAN Won't Connect'
-date: 2024-08-15T10:56:27.313Z
-updated: 2024-08-16T10:56:27.313Z
+date: 2024-12-30T17:28:25.355Z
+updated: 2025-01-03T23:05:50.013Z
 tags:
   - win11
   - win10
@@ -24,9 +24,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
  **Method 3:[Check your power management settings](https://tools.techidaily.com/drivereasy/download/)**
  **Method 4:[Check your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 1: Hold down the power button
 
  The easiest way that may resolve the problem is**hold down the power button for 30 seconds or so** . This will discharge the capacitor. After that, reboot PC and check to see if the problem is resolved.  
@@ -48,8 +45,9 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows swtiches your USB controllers off when they’re not in use, and switches back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again. controller or the devices.
@@ -60,9 +58,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 
  2) Expand the**Universal Serial Bus controllers** branch.  
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b3d657b3f.png)
   
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
@@ -71,12 +66,18 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 
 4) Un-check the **Allow the computer to turn off this device to save power** checkbox, and click **OK**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4a64ced8.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your device drivers**
 
@@ -90,27 +91,27 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 Here take Intel USB 3.0 driverf for example:
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +120,26 @@ Here take Intel USB 3.0 driverf for example:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-achieving-perfect-time-lapses-with-ios-devices/"><u>[New] In 2024, Achieving Perfect Time-Lapses with iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fasttrackpodcastlive-your-straightforward-guide-to-livestreaming-success/"><u>[Updated] FastTrackPodcastLive Your Straightforward Guide to Livestreaming Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-strategies-for-high-quality-movie-recording/"><u>[Updated] In 2024, Expert Strategies for High-Quality Movie Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-simple-techniques-for-downloading-youtube-content/"><u>[Updated] Simple Techniques for Downloading YouTube Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unfollowers-alert-on-your-instagram-map/"><u>2024 Approved Unfollowers Alert on Your Instagram Map</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blur-effective-strategies-for-screen-stability/"><u>Banish Blur: Effective Strategies for Screen Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-wont-connect-solving-the-network-setup-errors-efficiently/"><u>Dragon Ball FighterZ Won't Connect: Solving The Network Setup Errors Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-eliminating-error-code-0x800704cf-and-restoring-network-functions-in-windows/"><u>Expert Tips: Eliminating Error Code 0X80ˈ0704ˈcf and Restoring Network Functions in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-browser-blues-a-comprehensive-guide-to-solving-google-chromes-dark-screen-error/"><u>Fix Your Browser Blues: A Comprehensive Guide to Solving Google Chrome's Dark Screen Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-predictive-ai-function-an-in-depth-guide-to-its-operations/"><u>How Does Predictive AI Function? An In-Depth Guide to Its Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-semaphore-timeout-period-error-error-0x80070079-in-windows/"><u>How to Fix Semaphore Timeout Period Error (Error 0X80070079) in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-elusive-entry-point-error-on-windows-systems/"><u>How to Fix the Elusive Entry Point Error on Windows Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y27 4G</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-high-disk-space-consumption-by-microsofts-compatibility-telemetry-on-windows-10/"><u>Resolving High Disk Space Consumption by Microsoft's Compatibility Telemetry on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-overload-wudfhostexe-high-resource-use-in-windows-(span)10(span)-now-rectified/"><u>Solving the Overload: WUDFHost.exe High Resource Use in Windows <Span>10</Span> Now Rectified</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-microsoft-print-to-pdf-doesnt-work-in-windows-1011/"><u>Troubleshooting Guide: Microsoft Print to PDF Doesn't Work in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-livekernelevent-117-issue/"><u>Ultimate Guide: Resolving the LiveKernelEvent 117 Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlock-joy-behind-the-walls-20-funniest-fb-detainment-scenarios/"><u>Unlock Joy Behind the Walls 20 Funniest Fb Detainment Scenarios</u></a></li>
+</ul></div>
 

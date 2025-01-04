@@ -1,7 +1,7 @@
 ---
 title: Keyboard Enthusiasts Unite! Restoring the Radiant Features of Your Corsair Board
-date: 2024-12-18T16:55:40.688Z
-updated: 2024-12-25T20:14:11.391Z
+date: 2025-01-03T02:40:11.582Z
+updated: 2025-01-03T20:26:46.112Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## For Windows Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -42,10 +46,6 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click Keyboards and select the keyboard device you want to reset.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the red cross button to uninstall the device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
@@ -53,7 +53,7 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 6. Select the same keyboard device again. Click the Update device driver button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-4.jpg)
@@ -70,16 +70,20 @@ Your keyboard should back to the default setting after reboot.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device-1.jpg)
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
 Now you’ve reset your keyboard language.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## For Mac Users
 
@@ -93,10 +97,6 @@ Now you’ve reset your keyboard language.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
@@ -112,7 +112,7 @@ Your keyboard should be back in the default settings.
 2. Click**Language and Region** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
@@ -153,15 +153,18 @@ Your keyboard should be reset successfully.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-concealed-visibility-mastering-visual-obscurity-in-videos-for-2024/"><u>[Updated] Concealed Visibility Mastering Visual Obscurity in Videos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity-for-2024/"><u>[Updated] Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/cutting-edge-tools-to-revamp-virtual-performer-voices/"><u>Cutting-Edge Tools to Revamp Virtual Performer Voices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-officejet-3830-printing-software-for-windows-users/"><u>Get the Latest HP OfficeJet 3830 Printing Software for Windows Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-tecno-spark-20c-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Tecno Spark 20C Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-astro-a40-mic-when-it-stops-working/"><u>How to Repair Your Astro A40 Mic When It Stops Working</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-sound-blaster-z-drivers-for-optimal-performance-in-windows-11/"><u>Latest Sound Blaster Z Drivers for Optimal Performance in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-when-numbers-wont-press-on-your-keyboard/"><u>Solution Guide: When Numbers Won't Press on Your Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/taming-wudfhostexe-strategies-for-optimizing-your-pcs-performance-on-windows-am/"><u>Taming wudfhost.exe: Strategies for Optimizing Your PC's Performance on Windows Am</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210105917-troubleshooting-missing-desktop-icons-on-windows-11-solved/"><u>Troubleshooting Missing Desktop Icons on Windows 11 – Solved!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-knowledge-currents-best-yt-for-academic-growth/"><u>[New] Knowledge Currents Best YT for Academic Growth</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premium-choice-top-12-apps-with-no-time-limit-feature-for-2024/"><u>[Updated] Premium Choice Top 12 Apps with No Time Limit Feature for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/back-up-your-blu-ray-films-to-a-windows-8-or-windows-10-system-with-ease/"><u>Back Up Your Blu-Ray Films to a Windows 8 or Windows 10 System with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-top-9-wellness-innovations-for-modern-living/"><u>ChatGPT’s Top 9 Wellness Innovations for Modern Living</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-audio-stuttering-when-using-bluetooth-headsets-with-windows-11-or-windows-10/"><u>Eliminating Audio Stuttering When Using Bluetooth Headsets with Windows 11 or Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-activate-group-policy-editor-gpeditmsc-on-non-professional-windows-versions/"><u>How to Activate Group Policy Editor (gpedit.msc) on Non-Professional Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huawei-matebook-x-pro-examined-the-top-14/"><u>Huawei MateBook X Pro Examined: The Top 14</u></a></li>
+<li><a href="https://win-updates.techidaily.com/story-2-the-kernel-confusion/"><u>Story 2: The Kernel Confusion</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-hack-successful-pairing-of-airpods-with-windows-1011-2024-how-to/"><u>The Ultimate Hack: Successful Pairing of AirPods with Windows 10/11 - 2024 How-To</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-correcting-file-access-denied-by-windows/"><u>Troubleshooting Guide for Correcting 'File Access Denied by Windows'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-fix-for-non-responsive-keys-and-typing-malfunctions/"><u>Troubleshooting Success: Fix for Non-Responsive Keys and Typing Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-recovering-compromised-configuration-data-on-windows-11/"><u>Troubleshooting Tips: Recovering Compromised Configuration Data on Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-create-stunning-videos-with-music-best-mobile-apps/"><u>Updated 2024 Approved Create Stunning Videos with Music Best Mobile Apps</u></a></li>
 </ul></div>
 

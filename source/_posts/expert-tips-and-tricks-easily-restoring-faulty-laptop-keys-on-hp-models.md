@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models!
-date: 2024-12-21T20:26:34.446Z
-updated: 2024-12-25T18:21:32.179Z
+date: 2024-12-28T05:11:43.176Z
+updated: 2025-01-04T04:10:22.798Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,12 +43,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -103,10 +103,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -127,7 +123,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -138,6 +134,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -147,7 +147,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -184,22 +184,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/2024-tips-how-to-fix-bluetooth-not-pairing-on-windows-10/"><u>[2024 Tips] How to Fix Bluetooth Not Pairing on Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-masterclass-in-picture-text-edits-and-overlays/"><u>[New] 2024 Approved Masterclass in Picture Text Edits and Overlays</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/fficiently-broadcasting-your-videos-as-shorts-via-computers-and-mobile-for-2024/"><u>[New] Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-sharpen-focus-expert-tips-on-the-psx-eraser-tool-for-2024/"><u>[New] Sharpen Focus Expert Tips on the PSX Eraser Tool for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-comedy-kings-the-most-popular-memes/"><u>2024 Approved Comedy Kings The Most Popular Memes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conquer-the-interview-arena-strategies-with-chatgpt/"><u>Conquer the Interview Arena: Strategies with ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-non-compatible-user-interface-messages-on-your-monitor/"><u>Dealing with Non-Compatible User Interface Messages on Your Monitor</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-windows-press-11s-startup-freeze-a-comprehensive-guide/"><u>Diagnosing and Resolving Windows Press 11'S Startup Freeze: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-frustration-to-success-with-nvidia-setup/"><u>From Frustration to Success with NVIDIA Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-file-explorer-crashes-on-windows-11-complete-guide/"><u>How to Fix File Explorer Crashes on Windows 11 – Complete Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-streamlined-solution-for-gifs-to-videos-top-5-online-services/"><u>In 2024, Streamlined Solution for GIFs to Videos Top 5 Online Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/resetting-keyboards-made-simple-an-ultimate-tutorial/"><u>Resetting Keyboards Made Simple: An Ultimate Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-excessive-cpu-usage-by-windows-audio-device-graph/"><u>Solving the Problem of Excessive CPU Usage by Windows Audio Device Graph</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-captivating-6-powerful-video-genres/"><u>The Art of Captivating 6 Powerful Video Genres</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-trick-for-bringing-back-disappeared-desktop-icons-in-windows-11/"><u>The Ultimate Trick for Bringing Back Disappeared Desktop Icons in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725290429095-tokyoloader/"><u>TokyoLoader インストールガイド: ダウンロードができないときの解決策</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tough-as-nails-the-urban-armor-gear-laptop-sleeve-for-macpro-reviewed/"><u>Tough as Nails, the Urban Armor Gear Laptop Sleeve for MacPro Reviewed!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-guide-to-the-updated-facetune-photo-editing-for-2024/"><u>[New] Comprehensive Guide to the Updated Facetune Photo Editing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-premium-top-5-budget-friendly-chromeos-recorders/"><u>[New] Premium Top 5 Budget-Friendly ChromeOS Recorders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quick-start-easy-iphone-screen-capture-methods/"><u>[New] Quick Start Easy iPhone Screen Capture Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/break-the-language-barrier-with-these-easy-to-use-no-internet-required-translation-helpers/"><u>Break the Language Barrier with These Easy-to-Use, No-Internet Required Translation Helpers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-a1-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo A1 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-devices-fail-to-sync-on-windows-11/"><u>Effective Fixes for When Your Devices Fail to Sync on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-local-safeguards-activated-for-improved-security-measures/"><u>Enhanced Local Safeguards Activated for Improved Security Measures</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-movement-in-frozen-mouse-buttons-and-scroll-wheel/"><u>Expert Tips to Restore Movement in Frozen Mouse Buttons and Scroll Wheel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-c110-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia C110</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-to-improve-your-content-and-creative-projects/"><u>How to Use ChatGPT to Improve Your Content and Creative Projects</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-your-first-step-towards-virtual-connection-facebook-tutorial/"><u>In 2024, Your First Step Towards Virtual Connection (Facebook Tutorial)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209954364-solving-your-logitech-keyboard-malfunction-in-minutes/"><u>Solving Your Logitech Keyboard Malfunction in Minutes</u></a></li>
 </ul></div>
 

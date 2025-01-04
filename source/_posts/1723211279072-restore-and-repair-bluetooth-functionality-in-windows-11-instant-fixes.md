@@ -1,7 +1,7 @@
 ---
 title: Restore and Repair Bluetooth Functionality in Windows 11 - Instant Fixes!
-date: 2024-08-15T10:57:33.368Z
-updated: 2024-08-16T10:57:33.368Z
+date: 2025-01-03T02:54:53.546Z
+updated: 2025-01-03T22:45:13.699Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 
 Did you have this experience? You open your computer ready to work or entertain, the Bluetooth mouse is not working. When you’re using a Bluetooth mouse, it stops responding. Don’t worry, we’re here to help. You’re not the only one and this post can lead your way to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,17 +29,9 @@ Did you have this experience? You open your computer ready to work or entertain,
 ---
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Reconnect your device
 
  When your mouse stops responding, the first option always reconnect the device. Normally you can reconnect by turn off and turn on the mouse, unplugging and plugging the dongle for the receiver or reboot your computer to reconnect the Bluetooth mouse with your computer.  
@@ -52,9 +41,6 @@ Did you have this experience? You open your computer ready to work or entertain,
 
 1. Press the**Windows logo key + R** together to evoke the Run box.
 2. Type**control panel** and press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Use the**Tab** key or the**arrow** keys to choose the position. When you see the square around**Category** , press the**Enter** key.
 4. Use the**arrow keys** to choose**Large icons** and press the**Enter** key.  
@@ -62,34 +48,43 @@ Did you have this experience? You open your computer ready to work or entertain,
 5. Choose**Devices and Printers** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-39-28.jpg)
 6. Choose**Add a device** and press**Enter** . Your computer will start to detect your Bluetooth mouse.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_17-57-35.jpg)
 7. Choose your Bluetooth mouse and press Enter. Follow the on-screen instructions to finish the process.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Troubleshooter
 
  If your mouse works fine on another computer, it should be a system issue. Windows has in-built troubleshooters to diagnose and fix common problems. Try this tool to fix the Bluetooth mouse not working problem.
 
 1. Press the**Windows logo key + I** together.
 2. Use the**Tab** key to choose**Update & Security** and then press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-00-03.jpg)
 3. Choose**Troubleshoot** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-59-52.jpg)
 4. Select**Bluetooth** . Activate**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-01-06.jpg)
 5. Follow the instructions to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Bluetooth mouse Power Management
 
@@ -103,11 +98,6 @@ Did you have this experience? You open your computer ready to work or entertain,
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  If there’s something wrong with your Bluetooth adapter driver or mouse driver, you may encounter this Bluetooth mouse not working problem. There are two ways you can get drivers: manually or automatically.
@@ -120,11 +110,13 @@ The powerful video editing program for your Windows PC</a>
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and use Tabchoose the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -143,8 +135,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +142,17 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-expanding-visual-presence-tiktoks-head-dilation-methods/"><u>[New] 2024 Approved Expanding Visual Presence TikTok's Head Dilation Methods</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streamline-your-fb-feeds-with-these-5-video-grabbers/"><u>[Updated] 2024 Approved Streamline Your FB Feeds with These 5 Video Grabbers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-casting-setup-learn-how-to-connect-your-phone-to-google-chromecast/"><u>Effortless Casting Setup: Learn How to Connect Your Phone to Google Chromecast</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsofts-print-to-pdf-issue-on-windows-11/"><u>How to Fix Microsoft's Print to PDF Issue on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-netflix-no-sound-issues-easily/"><u>How To Fix Netflix No Sound Issues Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/improve-engagement-with-captions-complete-guide-to-transcribing-instagram-stories/"><u>Improve Engagement with Captions - Complete Guide to Transcribing Instagram Stories</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/securing-trustedinstaller-approval-for-file-modification/"><u>Securing TrustedInstaller Approval for File Modification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battles-no-more-solving-your-wow-sound-glitches-easily/"><u>Silent Battles No More: Solving Your WoW Sound Glitches Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-error-0x80004005-unspecified-error/"><u>Solved: Error 0X80004005: Unspecified Error</u></a></li>
+</ul></div>
 

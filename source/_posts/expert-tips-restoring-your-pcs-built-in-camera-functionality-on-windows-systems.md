@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Restoring Your PC's Built-In Camera Functionality on Windows Systems"
-date: 2024-08-15T10:55:17.317Z
-updated: 2024-08-16T10:55:17.317Z
+date: 2025-01-01T21:18:00.540Z
+updated: 2025-01-03T20:17:55.152Z
 tags:
   - win11
   - win10
@@ -34,27 +34,25 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 
 1. Press the**Windows logo key + R** together to evoke the Run box.
 2. Type**devmgmt.msc** and press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click Keyboards and select the keyboard device you want to reset.
 4. Click the red cross button to uninstall the device.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/search-6.jpg)
 6. Select the same keyboard device again. Click the Update device driver button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-4.jpg)
 7. Allow the newest drivers to install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Restart your computer.
 
 Your keyboard should back to the default setting after reboot.
@@ -63,20 +61,22 @@ Your keyboard should back to the default setting after reboot.
 
 1. Press the**Windows logo key + I (“i”)** together to open Windows Settings.
 2. Click**Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device-1.jpg)
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you’ve reset your keyboard language.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## For Mac Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -89,13 +89,14 @@ Now you’ve reset your keyboard language.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your keyboard should be back in the default settings.
 
@@ -132,8 +133,6 @@ Your keyboard should be reset successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +140,24 @@ Your keyboard should be reset successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-is-my-friends-account-invisible-potential-block/"><u>[New] 2024 Approved Is My Friend's Account Invisible? Potential Block</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-guide-to-understanding-and-leveraging-instagrams-reels-for-2024/"><u>[New] The Ultimate Guide to Understanding and Leveraging Instagram's Reels for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-list-of-cost-free-industry-approved-video-callers/"><u>[New] The Ultimate List of Cost-Free, Industry-Approved Video Callers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-xbox-one-headset-not-working/"><u>[Solved] Xbox One Headset Not Working</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-broadcast-bliss-the-most-accurate-local-and-online-tv-services/"><u>2024 Approved Broadcast Bliss The Most Accurate Local and Online TV Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-stop-code-when-running-32-bit-print-drivers/"><u>Fixing the Issue: Stop Code When Running 32-Bit Print Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-realme-narzo-60x-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme Narzo 60x 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-rise-of-a-marketer-top-5-tips-from-the-prosphere/"><u>In 2024, Rise of a Marketer Top 5 Tips From the Prosphere</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia FRP Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-compatibility-telemetry-and-high-disk-utilization-issues-solutions-for-win-10-users/"><u>Microsoft Compatibility Telemetry & High Disk Utilization Issues – Solutions for Win 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-to-resolve-your-pcs-ethernet-issues-on-microsoft-operating-systems-windows-11-and-7/"><u>Quick Fixes to Resolve Your PC's Ethernet Issues on Microsoft Operating Systems (Windows 11 & 7)</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-note-30-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Note 30 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-se-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone SE on MetroPCS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-steam-shop-errors-and-restoring-functionality-quickly/"><u>Troubleshooting the Steam Shop Errors and Restoring Functionality Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-progress-how-to-resolve-frozen-update-states-on-outdated-oss-like-win7-solutions-and-troubleshooting-guide/"><u>Unlocking Progress: How to Resolve Frozen Update States on Outdated OSs Like Win7 (Solutions and Troubleshooting Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-update-failed-to-install-solved/"><u>Windows 10 Update Failed to Install [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 11 Couldn't Be Installed Error Code 80240020 [Solved]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Successfully Remedied: Stuck and Unresponsive Toshiba Keyboard Keys"
-date: 2024-12-18T17:06:47.206Z
-updated: 2024-12-25T20:33:19.656Z
+date: 2025-01-01T19:07:39.343Z
+updated: 2025-01-03T19:50:32.623Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -44,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -56,6 +60,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -81,10 +89,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -103,15 +107,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -121,10 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -138,13 +138,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,20 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-prime-listening-guide-to-youtube-standards/"><u>[New] In 2024, The Prime Listening Guide to YouTube Standards</u></a></li>
-<li><a href="https://common-error.techidaily.com/0x80244022-windows-update-error-solved/"><u>0X80244022 Windows Update Error [SOLVED]</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-survival-in-mc-top-house-ideas-and-plans/"><u>2024 Approved Survival in MC Top House Ideas & Plans</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-obstacle-winning-against-windows-11-error-0x800f0922-with-easy-fixes/"><u>Bypassing the Obstacle: Winning Against Windows 11 Error 0X800f0922 with Easy Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-for-repairing-compromised-hardware-drivers-fast/"><u>Effortless Solutions for Repairing Compromised Hardware Drivers Fast</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208689449-fixing-a-laptop-that-wont-exit-the-startup-display-issue-solution-included/"><u>Fixing a Laptop That Won't Exit the Startup Display Issue - Solution Included!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-c12-pro-lock-screen-password-by-drfone-android/"><u>How To Change Nokia C12 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-mc-shelter-design-tips/"><u>In 2024, Innovative MC Shelter Design Tips</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nubia-red-magic-9-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nubia Red Magic 9 Pro FRP</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-best-practices-video-sizes-and-formats-for-2024/"><u>Instagram's Best Practices Video Sizes and Formats for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-inactive-number-keys-on-your-computer-keypad/"><u>Resolving the Issue of Inactive Number Keys on Your Computer Keypad</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-login-issues-steps-to-repair-user-profile-service-failures/"><u>Resolving Windows 11 Login Issues: Steps to Repair User Profile Service Failures</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211418332-9798330299133-the-power-of-our-relationships/"><u>The Power of our Relationships | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-your-game-installation-woes-with-quick-tips-to-solve-steam-errors/"><u>Troubleshoot & Overcome Your Game Installation Woes with Quick Tips to Solve Steam Errors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-digital-footprint-and-interactive-iconography-honors/"><u>[New] In 2024, Digital Footprint and Interactive Iconography Honors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gastronomy-goals-attractive-food-network-branding-ideas/"><u>[New] In 2024, Gastronomy Goals Attractive Food Network Branding Ideas</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-simple-way-to-blur-faces-in-picsart/"><u>[New] In 2024, Simple Way To Blur Faces in Picsart</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>[New] Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-compatibility-score-which-phones-work-with-gear-vr/"><u>[Updated] 2024 Approved Compatibility Score Which Phones Work with Gear VR?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-explorations-reward-6-innovative-minecraft-residences/"><u>[Updated] Exploration's Reward 6 Innovative Minecraft Residences</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pioneering-play-integrating-vr-in-recreation-for-2024/"><u>[Updated] Pioneering Play Integrating VR in Recreation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-windows-10-crashes-tips-and-techniques-for-users/"><u>Addressing Windows 10 Crashes: Tips and Techniques for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207857915-google-chrome-stops-working-heres-how-you-can-resolve-it/"><u>Google Chrome Stops Working? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/improved-driver-management-minimizes-elevated-cpu-utilization-in-windows/"><u>Improved Driver Management Minimizes Elevated CPU Utilization in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-hyperlapse-storytelling/"><u>In 2024, The Ultimate Guide to Hyperlapse Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-strategies-for-harvesting-free-photo-frames-for-2024/"><u>Key Strategies for Harvesting Free Photo Frames for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-launch-errors-strategies-to-address-post-upgrade-system-hang-ups/"><u>Mastering Windows 11 Launch Errors: Strategies to Address Post-Upgrade System Hang-Ups</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-typing-speed-tackling-keyboard-stutters-on-windows-11-devices/"><u>Optimizing Typing Speed - Tackling Keyboard Stutters on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/snooze-button-off-fixing-wake-issues-on-windows-11/"><u>Snooze Button Off: Fixing Wake Issues on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-solution-to-the-frustrating-0x800705b4-update-glitch-on-windows-11-devices/"><u>The Definitive Solution to the Frustrating 0X800705b4 Update Glitch on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-dealing-with-a-black-monitor-on-dell-systems/"><u>Ultimate Troubleshooting Tips for Dealing with a Black Monitor on Dell Systems</u></a></li>
 </ul></div>
 

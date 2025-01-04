@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair Your Laptop's Persistent White Display Error Quickly!
-date: 2024-08-15T10:59:32.759Z
-updated: 2024-08-16T10:59:32.759Z
+date: 2024-12-30T18:28:54.077Z
+updated: 2025-01-03T23:51:15.011Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
  The Fn keys play an important role in saving both time and energy, especially for those who often work with Excel, PowerPoint and suchlike. That’s why it can drive you nuts when you find the**Fn keys not working** on your**Lenovo** computer. But rest assured that you’re not alone – in this post, you’ll be greeted with 3 useful methods that have helped many Windows users solve their problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 fixes for Lenovo Fn key not working
 
  Here are the 3 fixes provided for you to solve the issue. You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -32,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Modify BIOS settings
 
  The first thing you should do is to modify your BIOS settings. If you’re not so familiar with BIOS (Basic Input and Output System), you may refer to[](https://tools.techidaily.com/drivereasy/download/) **[this post](https://tools.techidaily.com/drivereasy/download/)**  for further details or simply do some online searching.
@@ -99,10 +97,11 @@ In another version of BIOS, the procedure may go like this:
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
 
@@ -112,9 +111,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your chipset/keyboard drivers
 
  Sometimes an outdated or corrupt driver may cause you trouble, like preventing the Fn keys from working properly. To cure the issue, you should consider updating both your chipset and keyboard drivers that are closely related to the normal functioning of Fn keys.
@@ -139,17 +135,19 @@ OR
 
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Follow the onscreen instructions to download and install your keyboard drivers.
 
@@ -163,17 +161,15 @@ OR
 
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
  7) Right-click on each of these devices and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
@@ -195,10 +191,11 @@ OR
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -220,8 +217,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +224,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-plating-palette-techniques-for-food-cinematography/"><u>2024 Approved The Plating Palette Techniques for Food Cinematography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-screen-savers-guide-to-recording-tech/"><u>2024 Approved The Screen Saver's Guide to Recording Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-common-problems-with-usb-to-hdmi-interface-failures/"><u>Diagnosing Common Problems with USB to HDMI Interface Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/epic-fix-fortnite-now-running-smoothly/"><u>Epic Fix: Fortnite Now Running Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-fixing-the-error-internet-explorer-not-responding/"><u>Expert Advice on Fixing the Error 'Internet Explorer Not Responding'</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-v30t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme V30T Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-warframe-patch-installation-error-and-enjoy-a-smooth-gaming-experience/"><u>How to Fix the Warframe Patch Installation Error and Enjoy a Smooth Gaming Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-12-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 12 and iPad?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-yuva-2-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Yuva 2 Face Lock?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-streaming-platforms-analyzing-obs-and-twitch-studio/"><u>Live Streaming Platforms Analyzing OBS and Twitch Studio</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-fails-correcting-the-common-error-code-5-issue/"><u>Minecraft Fails? Correcting the Common Error Code 5 Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ps-color-enhancement-simplified-approaches/"><u>PS Color Enhancement Simplified Approaches</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-steps-for-a-non-functional-igfxem-module/"><u>Resolved: Troubleshooting Steps for a Non-Functional igfxEM Module</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-zero-30-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Zero 30 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-compatibility-of-usb-devices-with-windows-10-and-11/"><u>Step-by-Step Guide: Restoring Compatibility of USB Devices with Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-stop-that-maddening-screen-lockup-once-and-for-all/"><u>Step-by-Step Solutions: Stop That Maddening Screen Lockup Once & For All!</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-edge-40-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Edge 40 fingerprint</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209834531-unraveling-the-mystery-behind-net-framework-35s-error-code-0x800f081f-fixes-inside/"><u>Unraveling the Mystery Behind .NET Framework 3.5'S Error Code 0X800F081F - Fixes Inside!</u></a></li>
+</ul></div>
 

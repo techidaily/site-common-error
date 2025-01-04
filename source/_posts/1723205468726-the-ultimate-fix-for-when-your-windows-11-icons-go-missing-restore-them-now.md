@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for When Your Windows 11 Icons Go Missing - Restore Them Now
-date: 2024-12-20T17:24:22.668Z
-updated: 2024-12-25T18:54:26.150Z
+date: 2024-12-28T18:27:43.666Z
+updated: 2025-01-03T18:57:26.549Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these tips
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,6 +39,10 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -42,10 +50,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop, click **View**, and check **Show desktop icons**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -55,18 +59,18 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -79,6 +83,10 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -87,10 +95,6 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -108,7 +112,7 @@ If your desktop icons still don’t show up, you can perform a system restore to
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -123,17 +127,13 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus tip
@@ -177,22 +177,18 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-halting-real-time-recordings-on-qt-player/"><u>[New] 2024 Approved Halting Real-Time Recordings on QT Player</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-essentials-a-comprehensive-guide-to-telegram-web-usage/"><u>[Updated] Mastering the Essentials A Comprehensive Guide to Telegram Web Usage</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/decoding-movie-issues-with-stellar-intervention/"><u>Decoding Movie Issues with Stellar Intervention</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-ways-to-fix-an-unresponsive-epic-games-launcher-on-any-device/"><u>Easy Ways to Fix an Unresponsive Epic Games Launcher on Any Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-fixes-for-restoring-access-to-vanished-steam-file-permissions/"><u>Essential Fixes for Restoring Access to Vanished Steam File Permissions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-non-operational-copy-and-paste-in-windows-os/"><u>Fixing Non-Operational Copy and Paste in Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-svchostexe-consuming-too-much-cpu-power-in-windows-10-solution-guide/"><u>How to Fix svchost.exe Consuming Too Much CPU Power in Windows 10 - Solution Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-essential-guide-to-tracking-igtv-viewership-metrics/"><u>In 2024, The Essential Guide to Tracking IGTV Viewership Metrics</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-dfu-mode-setup-and-operations-for-troubleshooting/"><u>Mastering iPhone DFU Mode Setup & Operations for Troubleshooting</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208681245-resolve-win10-upgrade-stuck-on-99-proven-solutions-that-work/"><u>Resolve Win10 Upgrade Stuck on 99%: Proven Solutions That Work!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-power-surge-on-hub-port/"><u>Solved: Power Surge on Hub Port</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-brightness-control-malfunctions-on-windows-10-machines/"><u>Step-by-Step Guide to Repair Brightness Control Malfunctions on Windows 10 Machines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ideal-guard-for-iphone-se-unmatched-defense-with-chic-designs-cnet/"><u>The Ideal Guard for iPhone SE : Unmatched Defense with Chic Designs | CNET</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-rog-phone-7-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from ROG Phone 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-90-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor 90 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-non-functional-right-click-on-mouse-under-windows-10/"><u>Troubleshooting: Fixing the Non-Functional Right Click on Mouse Under Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/untangling-the-complicated-web-of-windows-10s-0x80240034-a-step-by-step-guide-to-seamless-updates/"><u>Untangling the Complicated Web of Windows 10'S 0X80240034: A Step-by-Step Guide to Seamless Updates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ois-enhanced-smartphones-for-seamless-video-filming-experience/"><u>[New] OIS-Enhanced Smartphones for Seamless Video Filming Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-methods-for-mac-screenshot-format-change/"><u>[Updated] 2024 Approved Innovative Methods for Mac Screenshot Format Change</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-exploring-income-derived-from-each-watch-on-video-platforms/"><u>[Updated] Exploring Income Derived From Each Watch on Video Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-discover-the-best-comparing-free-video-players-vlc-and-mpc/"><u>2024 Approved Discover the Best Comparing Free Video Players (VLC and MPC)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-docu-script-writers-guide/"><u>2024 Approved The Docu-Script Writer's Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/convert-videos-effortlessly-for-your-blackberry-with-wonderfoxs-premium-converter-suite/"><u>Convert Videos Effortlessly for Your BlackBerry with WonderFox's Premium Converter Suite!</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-the-user-profile-service-failure-during-login-in-windows-1011/"><u>Diagnosing and Correcting the 'User Profile Service' Failure During Login in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-crashes-relaunch-and-fix-your-browser-issues-now/"><u>Google Chrome Crashes? Relaunch and Fix Your Browser Issues Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-issue-no-hardware-drivers-installed-for-windows-7-setup/"><u>How to Fix the Issue: No Hardware Drivers Installed for Windows 7 Setup</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-14-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 14 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-correct-damaged-configuration-information-leading-to-dvdcd-rom-failures-on-windows-10/"><u>Step-by-Step Solutions to Correct Damaged Configuration Information Leading to DVD/CD-ROM Failures on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-night-light-problem-solutions-and-fixes/"><u>Windows 11 Night Light Problem: Solutions and Fixes</u></a></li>
 </ul></div>
 

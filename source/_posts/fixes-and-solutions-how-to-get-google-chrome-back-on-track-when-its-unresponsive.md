@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Solutions: How To Get Google Chrome Back On Track When It's Unresponsive"
-date: 2024-12-19T19:04:37.296Z
-updated: 2024-12-25T20:54:50.577Z
+date: 2024-12-28T19:27:03.647Z
+updated: 2025-01-04T05:22:45.573Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -71,12 +71,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -84,10 +88,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -107,19 +107,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -142,6 +134,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -149,6 +145,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,17 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-golden-five-best-dvd-makers-for-macos-sierra-for-2024/"><u>[New] Golden Five Best DVD Makers for macOS Sierra for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snapshot-success-the-photographers-tale/"><u>[New] Snapshot Success The Photographer's Tale</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-art-of-creating-compelling-youtube-video-outlines/"><u>[Updated] In 2024, The Art of Creating Compelling YouTube Video Outlines</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-building-your-virtual-persona-with-minimal-hassle/"><u>2024 Approved Building Your Virtual Persona with Minimal Hassle</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-for-overcoming-the-windows-update-error-0x80070002/"><u>Effortless Solutions for Overcoming the Windows Update Error 0X80070002</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/embrace-9-festive-feasts-watch-holiday-epics-at-zero-cost-online-in-2024/"><u>Embrace 9 Festive Feasts Watch Holiday Epics at Zero Cost Online, In 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-guide-razer-barracuda-x-microphone-not-working-in-windows-11-and-10-systems/"><u>Fix Guide: Razer Barracuda X Microphone Not Working in Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-missing-d3dxt939dll-errors-in-windows-expert-solutions-and-tips/"><u>Fixing Missing d3dxt9_39.dll Errors in Windows - Expert Solutions and Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/implementing-stunning-visual-effects-on-zoom-calls-for-2024/"><u>Implementing Stunning Visual Effects on Zoom Calls for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-sound-functionality-in-your-acer-computer-step-by-step-troubleshooting/"><u>Restore Sound Functionality in Your Acer Computer - Step-by-Step Troubleshooting</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207450866-troubled-by-the-0x80072efd-mistake-on-your-pc-heres-how-to-resolve-it/"><u>Troubled by the 0X80072EFD Mistake on Your PC? Here’s How to Resolve It</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-voice-logging-access-and-evaluation/"><u>[New] 2024 Approved Voice Logging Access & Evaluation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-acoustic-mastery-secrets-for-exceptional-audio-capture/"><u>[New] Acoustic Mastery Secrets for Exceptional Audio Capture</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-exclusive-access-premium-youtube-film-watchlists/"><u>[Updated] In 2024, Exclusive Access Premium YouTube Film Watchlists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-syncopated-patterns-in-youtube-music-collections/"><u>[Updated] Syncopated Patterns in YouTube Music Collections</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-input-speed-learn-from-typingaid/"><u>Boost Input Speed: Learn From TypingAid</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-laughs-eyedroppermemes-for-2024/"><u>Craft Laughs EyeDropperMemes for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-guide-to-correcting-the-windows-11-0xc1900208-update-failure-best-practices/"><u>Definitive Guide to Correcting the Windows 11 0XC1900208 Update Failure [Best Practices]</u></a></li>
+<li><a href="https://common-error.techidaily.com/discover-the-tools-used-by-businesses-to-adjust-windows-configurations/"><u>Discover the Tools Used by Businesses to Adjust Windows Configurations</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-a-non-functional-asus-webcam-on-windows-11-devices/"><u>Effective Solutions for a Non-Functional ASUS Webcam on Windows 11 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nubia-z50-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nubia Z50 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-continuous-system-lag-and-keep-your-computer-running-smoothly/"><u>How to Overcome Continuous System Lag and Keep Your Computer Running Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-thaw-a-frozen-taskbar-in-windows-11-proven-methods-for-a-smooth-desktop/"><u>How to Thaw a Frozen Taskbar in Windows 11 - Proven Methods for a Smooth Desktop</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-playlist-rearrangement-made-simple/"><u>In 2024, YouTube Playlist Rearrangement Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/issue-addressed-comprehve-solutions-for-non-typing-keyboards/"><u>Issue Addressed: Comprehve Solutions for Non-Typing Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/struggling-with-printer-and-pdfs-find-swift-fixes-here/"><u>Struggling with Printer and PDFs? Find Swift Fixes Here.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-no-more-freezes-in-fallout-4-on-pc/"><u>Troubleshooting Complete: No More Freezes in Fallout 4 on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-restoring-access-to-windows-system-event-notification-services/"><u>Troubleshooting Steps: Restoring Access to Windows System Event Notification Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-directx-graphics-device-cannot-be-created-error/"><u>Understanding and Fixing the 'DirectX Graphics Device Cannot Be Created' Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tablets-user-wishes-vs-actuality-for-microsoft-surface-analysis-by-zdnet/"><u>Unveiling the Future of Tablets: User Wishes Vs. Actuality for Microsoft Surface - Analysis by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Correcting Error 0X8024200d on Your PC During Windows Updates
-date: 2024-08-15T10:59:37.086Z
-updated: 2024-08-16T10:59:37.086Z
+date: 2024-12-28T17:33:08.162Z
+updated: 2025-01-03T19:07:55.275Z
 tags:
   - win11
   - win10
@@ -17,16 +17,10 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
 
 The**80240020** error happens usually when the Windows 10 files that you downloaded was not complete and the setup process still tried to do the upgrade to Windows 10\. Or it could be that your Windows 10 installation folder is unfinished or corrupted.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-code-80240020.jpg)
 
 Luckily, this is an easy question to solve. Please follow the steps below to get this problem fixed. **Step One**1) Navigate to**C:\\$Windows.\~BT**folder. If you cannot see this folder, please make sure that you have checked the hidden items.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-bt-600x427.jpg)
 
 Delete as many files in this folder as you can. You might not be able to delete all the files due to permission issues. 2) Navigate to**C:\\Windows\\SoftwareDistribution\\Download** and delete all the files in this folder. Please note that you don’t have to delete**Download**folder, but rather, you need to delete the content in it.
@@ -35,34 +29,18 @@ Delete as many files in this folder as you can. You might not be able to delete 
 
 3) Type**cmd.exe**in the search box in**Start**panel and right click the option**cmd**and choose**Run as administrator**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/run-as-administrator.jpg)Click**Yes**at this prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/uac-command-processor.jpg)
 
 4) Type**wuauclt.exe/updatenow**and hit**Enter**key. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5394edbd33.png) **Step Two** **Warning**: Before you proceed with this step, please make sure that you have back up your registry first just in case any irreversible errors happen. Refer to this post to see[**how to backup and restore your registry**](https://tools.techidaily.com/drivereasy/download/). 1) Press**Windows key**and**R**at the same time, then type in**regedit**and hit**Enter**. When prompted for administrator permission, click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/regedit.png)
 
 2) Then follow the path:   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hkey_local_machinesoftwaremicrosoftwindowscurrentversionwindowsupdateosupgrade-600x394.jpg)
 
 3) On the right side of the pane, right click on the blank spot and select**New > DWORD (32-bit) Value**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-dword-32-bit-value-600x396.jpg)
 
 4) Rename the value to**AllowOSUpgrade**. Then double click the value and set the**Value data**to**1**. Then click**OK**to save the change.
@@ -79,8 +57,6 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +64,24 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/approved-stats-galore-visualize-youtubes-fascinating-facts-2017/"><u>2024 Approved Stats Galore! Visualize YouTube's Fascinating Facts (2017)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/create-a-research-budget/"><u>Create a Research Budget:</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-audio-pop-ups-and-cracks-when-using-a-speaker-with-windows-11-or-7-expert-tips-and-tricks/"><u>Fixing Audio Pop-Ups and Cracks When Using a Speaker with Windows 11 or 7: Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209312169-google-chrome-crashes-relaunch-and-fix-your-browser-issues-now/"><u>Google Chrome Crashes? Relaunch and Fix Your Browser Issues Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-responsive-surface-pen-problems-quickly/"><u>How to Resolve Non-Responsive Surface Pen Problems Quickly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-unique-ringtone-experiences-on-iphone/"><u>In 2024, How to Create Unique Ringtone Experiences on iPhone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-retrieving-your-private-snaps/"><u>In 2024, Snapchat Retrieving Your Private Snaps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximieren-sie-ihr-video-encoding-mit-handbrake-ein-setup-tutorial-fur-hevch2-surveys/"><u>Maximieren Sie Ihr Video-Encoding Mit HandBrake - Ein Setup-Tutorial Für HEVC/H.2 Surveys</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-driver-failed-setting-issue-a-step-by-step-guide/"><u>Resolving the 'Driver Failed' Setting Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209896242-reviving-your-computers-speed-fix-high-cpu-usage-due-to-shell-infrastructures/"><u>Reviving Your Computer’s Speed – Fix High CPU Usage Due to Shell Infrastructures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/smooth-integration-of-youtube-playlists-via-web-tech-for-2024/"><u>Smooth Integration of YouTube Playlists via Web Tech for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac569-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1ymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-ro14/"><u>YAC569 - Yamaha'aturboSound II Sound Module Based on the YMF7A1/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726222429557-avi-ogm-movavi/"><u>오피니 상점에서 자원 무료: AVI를 OGM으로 변환하는 방법 - Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

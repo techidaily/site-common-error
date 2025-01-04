@@ -1,7 +1,7 @@
 ---
 title: "Fix: Windows 11 Display Dimming Issues Resolved"
-date: 2024-12-20T19:59:56.277Z
-updated: 2024-12-25T16:31:54.417Z
+date: 2025-01-01T17:14:38.197Z
+updated: 2025-01-04T01:49:29.905Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,18 +54,22 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ad509cbf.jpg)
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 4. Click**Keep changes** if you see the verification message.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
@@ -105,17 +105,13 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
 7. Click**Apply** and**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
 
-Restart your computer in normal mode and see if it works.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Restart your computer in normal mode and see if it works.
 
 ### Fix 2: Update graphics card driver
 
@@ -140,7 +136,15 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This should fix your problem. Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Boot your computer in low-resolution mode
 
@@ -153,16 +157,12 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)  
  Note: This step is aim to bring up**Preparing Automatic Repair** screen. When Windows doesn’t boot properly, this screen pops up and Windows attempts to fix the problem by itself. If you’ve seen this screen at the first time when you power up the computer, skip this step.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then wait for Windows to diagnose your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
@@ -172,21 +172,26 @@ Restart your computer in normal mode and see if it works.
 5. Click**Advanced** **options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
@@ -199,10 +204,6 @@ Restart your computer in normal mode and see if it works.
 2. In the**Advanced** **Boot** **Options** **Menu** screen, press the**arrow up** or**arrow down** key to select**Enable VGA Mode** (or**Enable low-resolution mode** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf4111e6908.jpg)
 3. Then press**Enter** on your keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your computer will boot into the selected VGA mode and your error message should disappears.
 
@@ -226,24 +227,18 @@ Restart your computer in normal mode and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-leverage-editing-to-boost-youtube-profile-impact/"><u>[Updated] In 2024, Leverage Editing to Boost YouTube Profile Impact</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-momentum-in-motion-top-20-instagram-ideas-for-mentoring-the-masses/"><u>[Updated] Momentum in Motion Top 20 Instagram Ideas for Mentoring the Masses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/accessing-ai-dialogue-bashscripting-and-shellgpt-integration/"><u>Accessing AI Dialogue: BashScripting and ShellGPT Integration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-superior-qualities-of-an-alternative-to-macbooks-with-this-powerful-asus-laptop-zdnet-review/"><u>Discover the Superior Qualities of an Alternative to MacBooks with This Powerful Asus Laptop (ZDNet Review)</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-handling-and-correcting-missing-d3dx9nn-dll-files-in-your-programs/"><u>Expert Tips for Handling and Correcting Missing D3dx9_nN Dll Files in Your Programs</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-error-code-0x8024002e-easily/"><u>How to Fix Windows Update Error Code 0X8024002E Easily!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-hash-list-boosting-youtube-views-to-6000plus/"><u>In 2024, The Ultimate Hash List Boosting Youtube Views to $6,000+</u></a></li>
-<li><a href="https://common-error.techidaily.com/issue-resolved-writing-protection-at-specific-0x-memory-reference-encountered/"><u>Issue Resolved: Writing Protection at Specific 0X Memory Reference Encountered</u></a></li>
-<li><a href="https://common-error.techidaily.com/make-your-aoc-screen-function-again-in-win10-step-by-step-guide/"><u>Make Your AOC Screen Function Again in Win10: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206335546-missing-sd-recognition-here-to-help/"><u>Missing SD Recognition? Here to Help</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-installation-issues-with-the-windows-10-may-2019-build-1903-update/"><u>Overcoming Installation Issues with the Windows 10 May 2019 (Build 1903) Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reclaiming-lost-conversations-with-ai/"><u>Reclaiming Lost Conversations with AI</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-google-chrome-when-it-wont-start/"><u>Resolved: How to Fix Google Chrome When It Won't Start</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-why-are-my-desktop-icons-gone-on-windows-10-and-how-to-fix-them-back/"><u>Resolved! Why Are My Desktop Icons Gone on Windows 10 & How to Fix Them Back</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-display-issues-missing-touchpad-and-hardware-buttons-functionality/"><u>Resolving Display Issues: Missing Touchpad and Hardware Buttons Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-your-laptop-from-falling-asleep-unexpectedly-with-these-easy-solutions/"><u>Stop Your Laptop From Falling Asleep Unexpectedly with These Easy Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upcoming-arm-based-dell-xps-and-inspiron-series-teasers-imagery-released-anticipated-q3-launch/"><u>Upcoming ARM-Based Dell XPS & Inspiron Series Teasers: Imagery Released, Anticipated Q3 Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-and-linux-elevated-your-pcs-speed-effective-steps-to-tackle-unwanted-shell-induced-cpu-load/"><u>Windows & Linux: Elevated Your PC’s Speed - Effective Steps to Tackle Unwanted Shell-Induced CPU Load</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-crafting-success-in-youtubes-creator-hub/"><u>[New] In 2024, Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-directors-speak-the-soul-of-film-writing/"><u>[Updated] 2024 Approved Directors Speak The Soul of Film Writing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-clearer-sound-with-these-ipad-tips/"><u>2024 Approved Clearer Sound with These iPad Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-on-windows-10/"><u>How to Fix MsMpEng.exe High CPU Usage on Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-plus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Plus PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fun-on-a-budget-meme-creators-handbook/"><u>In 2024, Fun on a Budget – Meme Creator’s Handbook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-the-art-of-repair-fix-glitchy-or-no-sound-airpods-using-this-method/"><u>Mastering the Art of Repair: Fix Glitchy or No-Sound AirPods Using This Method</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solution-for-immediate-response-failure-overcoming-error-1053/"><u>Quick Solution for Immediate Response Failure - Overcoming Error 1053</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-compromised-microsoft-store-memory-bank/"><u>Solving the Problem of a Compromised Microsoft Store Memory Bank</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-11-usb-connectivity-issues-a-comprehensive-fix/"><u>Solving Windows 11 USB Connectivity Issues: A Comprehensive Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-stop-code-0xc00000e9/"><u>Troubleshooting and Solutions for Windows Stop Code 0xC00000E9</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/winkweb-meme-magic-at-your-fingertips/"><u>WinkWeb Meme Magic at Your Fingertips</u></a></li>
 </ul></div>
 

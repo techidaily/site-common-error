@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Your Unresponsive Xbox One Controllers"
-date: 2024-08-15T10:55:03.976Z
-updated: 2024-08-16T10:55:03.976Z
+date: 2024-12-27T18:24:01.216Z
+updated: 2025-01-03T21:49:29.216Z
 tags:
   - win11
   - win10
@@ -31,32 +31,26 @@ thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d
 4. [**Update your touchpad driver**](#t4)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip 1: Enable your touchpad
 
  If your touchpad isn’t working at all, it may be disabled. You can connect an external mouse to your computer, and follow these steps to enable your touchpad:
 
 1. On your keyboard, press the**Windows logo** key and**R** at the same time to invoke the Run box.
 2. Type**control** and press**Enter** to go to Control Panel.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
@@ -76,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip 3: Change your mouse pointer
 
  To fix scrolling on touchpad not working, you can also try changing your mouse pointer. It worked for some users.
@@ -89,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
 
@@ -102,13 +101,14 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,8 +124,6 @@ Hopefully, this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +131,22 @@ Hopefully, this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-28-practical-tips-for-streaming-online-courses-on-a-budget/"><u>[New] 2024 Approved 28 Practical Tips for Streaming Online Courses on a Budget</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-comparing-free-and-premium-youtube-experiences-whats-best/"><u>[New] In 2024, Comparing Free and Premium YouTube Experiences What's Best?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-fast-forward-on-snapchat-a-starters-manual/"><u>[Updated] Mastering Fast-Forward on Snapchat A Starter's Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-belief-deciphering-nine-widely-held-ai-bot-assumptions/"><u>Beyond Belief: Deciphering Nine Widely Held AI Bot Assumptions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-vcruntime140dll-file-missing-issue-a-comprehensive-guide/"><u>Fixing the VCRUNTIME140.dll File Missing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-8-plus-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 8 Plus Data Completely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-poco-x5-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Poco X5 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-solution-for-non-functioning-keys-on-your-hp-laptop/"><u>Immediate Solution for Non-Functioning Keys on Your HP Laptop</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-zte-blade-a73-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from ZTE Blade A73 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beaming-login-logout-directions/"><u>In 2024, Beaming Login / Logout Directions</u></a></li>
+<li><a href="https://common-error.techidaily.com/lung-adenocarcinoma-is-the-most-common-type-of-lung-cancer-in-non-smokers/"><u>Lung Adenocarcinoma Is the Most Common Type of Lung Cancer in Non-Smokers.</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-get-started-with-final-cut-pro-90-days-of-free-usage-ahead-for-2024/"><u>New Get Started with Final Cut Pro 90 Days of Free Usage Ahead for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-infinite-loading-loop-in-valorant-effective-solutions-inside/"><u>Overcome Infinite Loading Loop in Valorant: Effective Solutions Inside.</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-activating-bluetooth-on-windows-11-and-10-no-more-problems/"><u>Step-by-Step Guide: Activating Bluetooth on Windows 11 and 10 - No More Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-a-surface-device-that-is-plugged-in-but-not-charging/"><u>Troubleshooting Steps for a Surface Device That Is Plugged In But Not Charging</u></a></li>
+</ul></div>
 

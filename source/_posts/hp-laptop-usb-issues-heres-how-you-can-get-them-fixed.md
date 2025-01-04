@@ -1,7 +1,7 @@
 ---
 title: HP Laptop USB Issues? Here's How You Can Get Them Fixed!
-date: 2024-12-24T17:46:07.483Z
-updated: 2024-12-25T19:41:01.877Z
+date: 2025-01-03T05:27:56.530Z
+updated: 2025-01-04T00:45:01.685Z
 tags:
   - win11
   - win10
@@ -43,18 +43,14 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
 3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your camera driver
 
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0033072f1b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -97,7 +93,7 @@ To do so:
 2. Double-click on either   **Cameras** or**Imaging devices** to reveal your camera device.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00fd3e6f44.jpg)
@@ -105,13 +101,17 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
 4. Click **Yes**   to confirm the uninstall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 7. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01480c86ca.jpg)
@@ -138,17 +138,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-dark-side-of-digital-content-profitability/"><u>[New] 2024 Approved The Dark Side of Digital Content Profitability</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-secrets-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>[New] In 2024, Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-exploring-the-realm-of-physical-interaction-tech/"><u>2024 Approved Exploring the Realm of Physical Interaction Tech</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578537330-bonnes-nouvelles-en-francais-oui-bienvenue/"><u>Bonnes Nouvelles en Français: Oui, Bienvenue!</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-blocked-operation-on-hold/"><u>Code Blocked: Operation on Hold</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-cannot-activate/"><u>Code Cannot Activate</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-sticky-notes-at-startup-on-windows/"><u>How to Open Sticky Notes at Startup on Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-radio-dramaturgys-finest-works/"><u>In 2024, Radio Dramaturgy's Finest Works</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-the-art-of-efficient-workflow-capturing-mac-screens-with-just-shortcuts-for-2024/"><u>Mastering the Art of Efficient Workflow Capturing Mac Screens with Just Shortcuts for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/nvidia-web-helper-no-disk-issue-comprehensive-solutions-and-fixes/"><u>Nvidia Web Helper 'No Disk' Issue: Comprehensive Solutions and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10s-persistent-problem-unsuccessful-shutdown-followed-by-unexpected-reboot/"><u>Resolving Windows 10'S Persistent Problem: Unsuccessful Shutdown, Followed by Unexpected Reboot</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ole-of-analytics-in-youtube-shorts-management/"><u>The Role of Analytics in YouTube Shorts Management</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ranking-the-best-non-sportful-activities-at-first-row/"><u>[New] In 2024, Ranking the Best Non-Sportful Activities at First Row</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-360-immersion-to-vr-experience/"><u>2024 Approved Comparing 360° Immersion to VR Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-free-experience-death-stranding-stable-release-for-windows-users/"><u>Crash-Free Experience: Death Stranding Stable Release for Windows Users</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creating-unique-titles-for-your-online-flash-novels-using-flipbuilder-a-step-by-step-guide/"><u>Creating Unique Titles for Your Online Flash Novels Using FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-shockwave-flash-problem-that-plagues-chrome-users/"><u>How to Fix the Shockwave Flash Problem That Plagues Chrome Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-surface-device-wont-charge-issue-resolved/"><u>How to Fix: Surface Device Won't Charge Issue Resolved</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavimod-mpg/"><u>Movavi無料MOD変換サービス - MPG形式へのシームレスなオンライン調整</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-freezing-problems-with-outpost-infinity-on-computer-expert-tips-and-tricks/"><u>Overcoming Freezing Problems with Outpost: Infinity on Computer – Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/picking-a-compatible-window-hello-camera/"><u>Picking a Compatible Window Hello Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-function-fn-buttons-solutions-inside/"><u>Troubleshooting Stuck Function (Fn) Buttons – Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-driver-power-state-issues-in-windows/"><u>Ultimate Guide: Resolving Driver Power State Issues in Windows</u></a></li>
 </ul></div>
 

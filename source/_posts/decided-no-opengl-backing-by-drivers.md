@@ -1,7 +1,7 @@
 ---
 title: "Decided: No OpenGL Backing by Drivers"
-date: 2024-08-15T10:57:47.747Z
-updated: 2024-08-16T10:57:47.747Z
+date: 2024-12-30T20:21:56.482Z
+updated: 2025-01-03T20:24:48.940Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/80155af88523c332c941fe671488cc80343c6425d
 
 ## Stop Struggling with an Inverted Laptop Screen: Easy Fixes Inside
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc8033608ab1.jpg)
 
  If your computer screen goes upside down and mouse travels up when you mean to direct it down, don’t panic. Rest assured – with only a few tweaks, you can**flip the screen the right side up** back again…
@@ -35,22 +32,21 @@ thumbnail: https://thmb.techidaily.com/80155af88523c332c941fe671488cc80343c6425d
 3. **[Change the display settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Use the shortcut keys
 
 1. Right-click on the empty area of your desktop, select**Graphics Options** \>**Hot Keys** \>**Enable** to make sure the hotkeys are on. (Skip this step if you’re using Windows 7).  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc4f94c310.jpg)
 2. On your keyboard, hold down**Ctrl** ,**Shift** and press the**Arrow** keys (Up, Down, Right, Left – one at a time) until you rotate the screen to the right display.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If the trick above doesn’t help you solve the **screen going upside down** issue, then your graphics driver is most likely at fault. So you should update your graphics driver to see if it fixes the issue. There’re two ways you can update your device drivers — manually or automatically.
@@ -63,15 +59,20 @@ thumbnail: https://thmb.techidaily.com/80155af88523c332c941fe671488cc80343c6425d
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hopefully your screen displays normally again.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change the display settings
 
 **[I’m using Windows 10:](https://tools.techidaily.com/drivereasy/download/)**
@@ -91,11 +92,12 @@ thumbnail: https://thmb.techidaily.com/80155af88523c332c941fe671488cc80343c6425d
 1. Click **the Windows logo** , type**orientation** and click**Change screen orientation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0d68dca7.jpg)
 2. In**Orientation** , select**Landscape** from the drop-down list and click the **Tab** key >**Enter** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc13732354.jpg)
 3. Hopefully you have restored your screen back to normal this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -109,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/80155af88523c332c941fe671488cc80343c6425d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +118,17 @@ thumbnail: https://thmb.techidaily.com/80155af88523c332c941fe671488cc80343c6425d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-elevate-video-output-quality-mastering-aiseesoft-screencast-tech/"><u>[New] Elevate Video Output Quality Mastering Aiseesoft Screencast Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-targeted-video-appeal/"><u>[New] In 2024, Harnessing the Power of Targeted Video Appeal</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-mouse-scroll-wheel-jumps-win-1011/"><u>[SOLVED] Mouse Scroll Wheel Jumps Win 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204948974-diy-repair-techniques-for-malfunctioning-usb-jacks-get-started-now/"><u>DIY Repair Techniques for Malfunctioning USB Jacks – Get Started Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/perfecting-the-art-of-gif-to-sticker-transition-on-various-messaging-platforms/"><u>Perfecting the Art of GIF to Sticker Transition on Various Messaging Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-quick-guide-to-fixing-error-1053-unresponsive-service-delays/"><u>Resolved Issue: Quick Guide to Fixing 'Error 1053: Unresponsive Service' Delays</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-boot-loop-problems-for-a-smooth-computer-shutdown/"><u>Resolving Windows 11 Boot Loop Problems for a Smooth Computer Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-glitches-to-ensure-smooth-gameplay-on-windows-11/"><u>Tackling Steam Glitches to Ensure Smooth Gameplay on Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unveiling-top-10-gaming-talents-on-tiktok-for-2024/"><u>Unveiling Top 10 Gaming Talents on TikTok for 2024</u></a></li>
+</ul></div>
 

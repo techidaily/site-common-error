@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Overcoming Easy Steam Disk Write Errors"
-date: 2024-08-15T10:59:15.743Z
-updated: 2024-08-16T10:59:15.743Z
+date: 2024-12-30T00:42:06.502Z
+updated: 2025-01-04T00:00:00.378Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
 [**Download & Update Now**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756ceb050d3.png)
 
  Does this look familiar? If you are getting this error message in your Windows computer, don’t worry! This is a common issue and**you can fix the error easily and quickly** . The error message usually reads:
@@ -31,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
  A media driver your computer needs is missing. This could be a DVD, USB, or Hard disk driver. If you have a CD, DVD, or USB flash drive with the driver on it, please insert it now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix A media driver your computer needs is missing
 
  Here are the solutions you can try. You don’t need to try them all; Just work your way down until your problem is solved.
@@ -43,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 4. [**Change the ISO file format**](#Fix4)
 5. _[**Things you should do after trying these methods**](#Fix5)_
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why does the error occur?
 
  This error generally occurs when you are installing Windows on your PC/laptop. the possible causes can be:
@@ -56,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 * **The ISO file problem**
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Re-plug the USB drive
 
@@ -71,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
 4) Try to install Windows again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Try another USB port
 
  If re-plugging the USB drive doesn’t work, you can try another USB port:
@@ -79,15 +82,16 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
 
 4) Try to install Windows again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Change the settings in BIOS
 
  The problem can also be caused by the wrong configuration in BIOS. So you can change the BIOS settings in startup.
@@ -118,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Things you should do after trying these methods
 
  As the error message indicated, the media driver is missing in your computer, so you can try to**install the missing drivers** , and**update the outdated drivers** in your computer, in order to improve the computer performance and reduce the chances of the similar issues.
@@ -135,10 +136,11 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
@@ -159,8 +161,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +168,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/astering-the-art-of-freefire-a-gaming-youtubers-guide-for-2024/"><u>[New] Mastering the Art of FreeFire A Gaming Youtuber’s Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-pro-drone-experience-a-thorough-look-at-dji-phantom-4/"><u>[Updated] The Pro Drone Experience A Thorough Look at DJI Phantom 4</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-yoga-series-online-stay-active-and-healthy/"><u>2024 Approved Best Yoga Series Online - Stay Active & Healthy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplify-your-remote-meetings-integrating-skype-and-zoom/"><u>2024 Approved Simplify Your Remote Meetings Integrating Skype and Zoom</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208531459-alpha-blending-unsupported-by-your-graphics-card-heres-how-to-fix-it/"><u>Alpha Blending Unsupported by Your Graphics Card? Here's How to Fix It</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capturepros-a-studio-showdown-for-2024/"><u>CapturePros A Studio Showdown for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-local-security-flaw-patched-access-controls-restored/"><u>Critical Local Security Flaw Patched – Access Controls Restored</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/enhancing-your-digital-scrapbooks-with-image-comments-using-flipbuilder/"><u>Enhancing Your Digital Scrapbooks with Image Comments Using FlipBuilder</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-failure-of-your-hp-laptops-webcam-under-windows-11-a-comprehensive-guide/"><u>Fixing the Failure of Your HP Laptop's Webcam Under Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-windows-11-refusing-to-close-properly-a-step-by-step-guide/"><u>Fixing the Issue of Windows 11 Refusing to Close Properly - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-install-windows-10-update-and-fix-error-code-0xc1900208-fixed/"><u>How to Correctly Install Windows 10 Update and Fix Error Code 0Xc1900208 [FIXED]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-for-perfect-chroma-key-compositing/"><u>In 2024, Techniques for Perfect Chroma Key Compositing</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-download-obstacles-a-step-by-step-solution-to-steams-update-issues/"><u>Overcoming Download Obstacles: A Step-by-Step Solution to Steam's Update Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-poco-c65-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Poco C65</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210494794-resolving-windows-10-update-loop-at-99-or-full-get-back-on-track-now/"><u>Resolving Windows 10 Update Loop at 99% or Full - Get Back on Track Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-strategies-to-eliminate-unwanted-sounds-from-your-logitech-g-pro-x-while-gaming-2024-edition/"><u>Top Strategies to Eliminate Unwanted Sounds From Your Logitech G Pro X While Gaming – 2024 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-print-to-pdf-problems-in-windows-10-or-11/"><u>Troubleshooting Microsoft Print to PDF Problems in Windows 10 or 11</u></a></li>
+</ul></div>
 

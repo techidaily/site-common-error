@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Missing Volume Icons in Windows 10 - A Comprehensive Picture-Enhanced Article
-date: 2024-08-15T10:56:32.417Z
-updated: 2024-08-16T10:56:32.417Z
+date: 2024-12-31T23:06:50.535Z
+updated: 2025-01-03T17:41:43.093Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/2c72878e4c5b851b7d621c520b7075b9d80e911d0
 
 ## Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afe2f523108.jpg)
 
 When you met boot error with Windows 10, you hoped that automatic repair will help fix the problem. But it got you more troubles. The worse thing is that repair process seems never end. Then what to do to end the loop? Read on to find the solutions.  
@@ -50,24 +47,14 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  4\. In Choose an option screen, select**Troubleshoot** .  
   
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afef1de6d4e.png)
   
  5\. Then select**Advanced options** .  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afef50c004c.png)
   
  6\. In Advanced Options screen, select**Command Prompt** . Then a new screen will be displayed with and open command prompt. If you are prompted to enter password, enter your Windows password.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58aff028a30cf.png)
   
  After opening the Command Prompt window, use below solutions to fix the loop error.  
@@ -88,9 +75,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
   
  1\. In Command Prompt, type**bcdedit** and hit**Enter** . Then you will see the result displayed. Look for**resumeobject** item and note the number next to it (In below case, the number is 7ce0dd34-d277-11e4-8263-68f7286346fb).  
   
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58aff3f6500f3.jpg)
   
  2\. Type **bcdedit /set GUID recoveryenabled No** and hit**Enter** . Replace GUID with the number that you noted in last step. (For example, if the number is 7ce0dd34-d277-11e4-8263-68f7286346fb, the full command will be “bcdedit /set 7ce0dd34-d277-11e4-8263-68f7286346fb recoveryenabled No”)  
@@ -111,9 +95,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
   
  2\. Type**chkdsk /f /r** and hit**Enter** . You need to wait a while until the process completes.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58affd826668f.png)
   
 **Run a system file check**
@@ -136,8 +117,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +124,25 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-tips-from-pros-elevating-your-twitch-video-quality/"><u>[New] 2024 Approved Tips From Pros Elevating Your Twitch Video Quality</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>[Updated] 2024 Approved Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-sound-first-screen-second-podcasts-vs-youtube-analysis/"><u>[Updated] Sound First, Screen Second – Podcasts Vs YouTube Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/eradicating-input-lag-for-a-smoother-experience-with-windows-11-computers/"><u>Eradicating Input Lag for a Smoother Experience with Windows 11 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-solutions-for-fixing-werfaultexe-errors-in-windows/"><u>Essential Solutions for Fixing werfault.exe Errors in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-streaming-despite-errors-a-step-by-step-guide/"><u>How to Enable Miracast Streaming Despite Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-error-0x8024401c-during-updates-on-windows-11/"><u>How To Overcome The Error 0X8024401C During Updates On Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-mail-calendar-on-windows-using-chosen-images/"><u>Revamp Mail, Calendar on Windows Using Chosen Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-airpods-connection-issues-on-windows-1011-top-tips-for-2-cufflinks/"><u>Solving the AirPods Connection Issues on Windows 10/11: Top Tips for 2 Cufflinks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-for-turning-on-windows-11s-quick-start/"><u>Step-by-Step Tutorial for Turning On Windows 11'S Quick Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/touchpad-lag-or-no-response-heres-how-you-can-resolve-it/"><u>Touchpad Lag or No Response? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasformare-i-video-ogg-in-ogv-gratuitamente-tramite-movavi-guida-passo-passo/"><u>Trasformare I Video OGG in OGV Gratuitamente Tramite Movavi - Guida Passo-Passo</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/video-editor-selection-guide-understanding-filmora-and-democracy-creator/"><u>Video Editor Selection Guide Understanding Filmora and Democracy Creator</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Unexpected Pauses in Windows 11 Systems
-date: 2024-12-21T19:10:44.525Z
-updated: 2024-12-25T16:21:03.777Z
+date: 2024-12-29T21:10:55.914Z
+updated: 2025-01-04T01:14:06.555Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Disable automatically restart feature
 
  The automatic restart feature allows Windows to restart automatically when errors occur without any error messages or notifications, which can be helpful to further troubleshooting. So you can first disable this feature to see if there are any helpful crash logs. To do so:
@@ -54,15 +50,15 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78b71ef2a6.png)
 2. Click **Advanced system settings** \> **Settings…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78bc1c2002.jpg)
 3. Uncheck **Automatically restart** . Then click **OK** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78c0452d84.png)
 4. Use your computer for a while to see if it restarts randomly. If the problem remains, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -76,10 +72,22 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b7941bdec4c.png)
 3. In the**Balanced** section, click **Processor power management** \> **Minimum processor state** . Then set it to a small number, like**5%** or even**0%** . Click **Apply**  \> **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79482efc69.png)
 4. Work on your computer for a while to see if it restarts randomly. If so, please move on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphic card driver
 
@@ -95,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -106,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Run a memory check
 
@@ -122,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
@@ -130,27 +142,19 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the Windows 10 computer randomly restarts problem. In that case, please move on to the next fix.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -165,21 +169,17 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Check power issue
 
  As mentioned above, an insufficient power supply is one of the most common reasons why your computer restarts automatically. This includes the power management options on your computer, and also your power supply unit or battery.
 
  In this case, you can try to**replace the power cables** and **power supply unit** (PSU) to see if your computer still keeps restarting. If so, please move on to check other possible hardware issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Make sure the computer is not overheating
 
@@ -212,15 +212,18 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-10-premium-youtube-to-webm-converter-tools/"><u>[Updated] 2024 Approved Explore 10 Premium YouTube-to-WebM Converter Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-mac-best-screen-capture-applications-reviewed-for-2024/"><u>[Updated] Mastering Mac Best Screen Capture Applications Reviewed for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-techniques-overcoming-constant-system-freeze-problems/"><u>Comprehensive Troubleshooting Techniques: Overcoming Constant System Freeze Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-validity-fingerprint-detection-software-direct-download-link-inside/"><u>Effortless Installation of Validity Fingerprint Detection Software – Direct Download Link Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-solutions-to-prevent-your-battle-royale-game-from-crashing-down/"><u>Essential Solutions to Prevent Your Battle Royale Game From Crashing Down</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/extend-your-macbooks-charged-hours-with-expert-tips-learn-more-on-zdnet/"><u>Extend Your MacBook's Charged Hours with Expert Tips - Learn More on ZDNET</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-nord-3-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus Nord 3 5G? Try These Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-unfixable-whea-errors-on-pc-a-comprehensive-tutorial/"><u>Overcoming Unfixable WHEA Errors on PC: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-csgo-crash-issues-simple-solutions-inside/"><u>Resolving CSGO Crash Issues - Simple Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-fixes-oddworld-soulstorm-pc-game-crashes-troubleshooting-guide/"><u>Successfully Fixes Oddworld: Soulstorm PC Game Crashes - Troubleshooting Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-easy-tips-to-create-a-funny-meme/"><u>[New] In 2024, Easy Tips to Create a Funny Meme</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-best-8-free-editing-programs-to-streamline-your-youtube-projects-for-2024/"><u>[New] The Best 8 Free Editing Programs to Streamline Your YouTube Projects for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-gamers-roadmap-navigating-a-successful-youtube-channel/"><u>[Updated] The Gamers' Roadmap Navigating a Successful YouTube Channel</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-restore-your-lenovos-fingerprint-recognition-feature/"><u>Easy Solutions to Restore Your Lenovo's Fingerprint Recognition Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/entendiendo-el-formato-de-archivos-mp4-una-guia-completa-para-abrirlos/"><u>Entendiendo El Formato De Archivos MP4: Una Guía Completa Para Abrirlos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-root-of-poor-video-experiences-with-zoom/"><u>Exploring the Root of Poor Video Experiences with Zoom</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-an-irregular-picture-error-on-your-windows-operating-system/"><u>How to Correct an Irregular Picture Error on Your Windows Operating System</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-shrink-m2t-files-into-mp4-without-losing-high-definition-quality/"><u>How to Shrink M2T Files Into MP4 without Losing High-Definition Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/managing-svchostexes-network-usage-a-guide-to-fixing-netsvcs-overload-issues/"><u>Managing Svchost.exe's Network Usage: A Guide to Fixing NETsvcs Overload Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-turn-back-on-protection-features-for-local-security-management/"><u>Resolve: Turn Back On Protection Features for Local Security Management</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207380582-simple-steps-to-fix-no-battery-problem-in-your-gadget-resolved/"><u>Simple Steps to Fix 'No Battery' Problem in Your Gadget - Resolved!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-camera-driver-download-and-setup-across-multiple-windows-versions-11-10-8-and-asterisk-7/"><u>Step-by-Step Instructions for Camera Driver Download and Setup Across Multiple Windows Versions: 11, 10, 8 & Asterisk 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-keyboard-malfunctions-in-hp-computers/"><u>Step-by-Step Resolution for Keyboard Malfunctions in HP Computers</u></a></li>
 </ul></div>
 

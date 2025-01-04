@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Astro A40 Microphone Issues: Proven Solutions"
-date: 2024-12-20T19:29:32.837Z
-updated: 2024-12-25T17:43:18.701Z
+date: 2024-12-30T02:45:54.532Z
+updated: 2025-01-03T21:50:51.154Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -49,16 +45,24 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -74,20 +78,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -99,12 +95,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -112,6 +108,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
@@ -150,20 +150,16 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-connect-movie-files-in-youtv-catalog-for-2024/"><u>[New] Connect Movie Files in YouTV Catalog for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridging-the-gap-an-introduction-to-av1-for-2024/"><u>Bridging the Gap An Introduction to AV1 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-the-driverpowerstatefailure-problem/"><u>Expert Advice: Overcoming the DRIVER_POWER_STATE_FAILURE Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-nonfunctional-right-click-with-windows-11-a-step-by-step-guide/"><u>Fixing a Nonfunctional Right-Click with Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-corner-keychron-and-lemokey-reviewed-as-one/"><u>Gamer’s Corner: Keychron & Lemokey Reviewed as One</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-pop-8-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Pop 8 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-upload-tweets-no-retweets-on-mobile-in-2024/"><u>How to Upload Tweets - No Retweets on Mobile, In 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/safeguarding-your-network-spotting-phony-friend-requests-with-ease/"><u>Safeguarding Your Network: Spotting Phony Friend Requests with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-issue-nier-replicante-game-no-longer-experiences-crashes/"><u>Solved Issue: NieR: Replicante Game No Longer Experiences Crashes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-by-step-capturing-ios-device-screen-on-video-for-2024/"><u>Step-by-Step Capturing iOS Device Screen on Video for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-instructions-to-fix-unresponsive-function-fn-keys-in-dell-notebooks/"><u>Step-by-Step Instructions to Fix Unresponsive Function (Fn) Keys in Dell Notebooks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-casting-issues-how-to-fix-windows-11-devices/"><u>Troubleshooting Casting Issues: How to Fix Windows 11 Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/uncorruptible-video-basics/"><u>Uncorruptible Video Basics</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-and-hosted-networks-solving-connection-problems-successfully/"><u>Windows 11 & Hosted Networks: Solving Connection Problems Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-class-registration-fix-ultimate-guide-for-a-smooth-run/"><u>Windows 11 Class Registration Fix - Ultimate Guide for a Smooth Run</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-exclusive-insights-into-making-memorable-instagram-movies/"><u>[New] 2024 Approved Exclusive Insights Into Making Memorable Instagram Movies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-optimize-your-video-viewing-space-online/"><u>[New] 2024 Approved Optimize Your Video Viewing Space Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-insightful-analysis-of-modern-human-interaction-systems/"><u>[Updated] In 2024, Insightful Analysis of Modern Human Interaction Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-mastering-facetunes-complete-features/"><u>2024 Approved In-Depth Review Mastering Facetune's Complete Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-skype-chats-an-obs-guide-for-2024/"><u>Capturing Skype Chats An OBS Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/compatibility-issues-preventing-ftdi-bus-system-resolving-driver-mismatch/"><u>Compatibility Issues Preventing FTDI Bus System: Resolving Driver Mismatch</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-solutions-get-your-overwatch-voice-communication-back-on-track-today/"><u>Fast-Track Solutions: Get Your Overwatch Voice Communication Back on Track Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-repair-stuck-on-getting-windows-ready-errors-in-your-system/"><u>How To Diagnose and Repair 'Stuck on Getting Windows Ready' Errors in Your System</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-freeze-entire-browser-display/"><u>In 2024, Freeze Entire Browser Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-with-launching-the-microsoft-store-now-fixed/"><u>Resolved: Issues with Launching the Microsoft Store Now Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-for-unknown-usb-device-problem-and-port-reset-failures-on-windows-10-computers/"><u>The Ultimate Fix Guide for 'Unknown USB Device' Problem & Port Reset Failures on Windows 10 Computers</u></a></li>
 </ul></div>
 

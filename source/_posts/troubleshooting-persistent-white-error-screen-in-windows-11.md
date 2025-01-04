@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Persistent White Error Screen in Windows 11
-date: 2024-08-15T10:59:50.268Z
-updated: 2024-08-16T10:59:50.268Z
+date: 2024-12-30T21:05:57.010Z
+updated: 2025-01-03T22:48:33.152Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
 ## Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afe2f523108.jpg)
 
 When you met boot error with Windows 10, you hoped that automatic repair will help fix the problem. But it got you more troubles. The worse thing is that repair process seems never end. Then what to do to end the loop? Read on to find the solutions.  
@@ -42,24 +39,14 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  2\. When you go to the setup screen, select the Language that you wish to use.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afee8fe2d3c.jpg)
   
  3\. Then you will see the Windows Install screen, select**Repair your computer** at the bottom left corner.  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afee63020fa.png)
   
  4\. In Choose an option screen, select**Troubleshoot** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afef1de6d4e.png)
   
  5\. Then select**Advanced options** .  
@@ -88,9 +75,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
  1\. In Command Prompt, type**bcdedit** and hit**Enter** . Then you will see the result displayed. Look for**resumeobject** item and note the number next to it (In below case, the number is 7ce0dd34-d277-11e4-8263-68f7286346fb).  
   
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58aff3f6500f3.jpg)
   
  2\. Type **bcdedit /set GUID recoveryenabled No** and hit**Enter** . Replace GUID with the number that you noted in last step. (For example, if the number is 7ce0dd34-d277-11e4-8263-68f7286346fb, the full command will be “bcdedit /set 7ce0dd34-d277-11e4-8263-68f7286346fb recoveryenabled No”)  
@@ -111,9 +95,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
  2\. Type**chkdsk /f /r** and hit**Enter** . You need to wait a while until the process completes.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58affd826668f.png)
   
 **Run a system file check**
@@ -136,8 +117,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +124,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-hilarityhub-design-memes-with-ease-and-speed/"><u>[New] In 2024, HilarityHub Design Memes with Ease and Speed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-snappy-vids-guide-essential-info/"><u>[Updated] Snappy Vids Guide Essential Info</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-memory-integrity-failures-due-to-outdated-ftdi-bus-drivers/"><u>Diagnosing and Fixing Memory Integrity Failures Due to Outdated FTDI Bus Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-compatible-iphone-data-retrieval-tool-restore-lost-photos-videos-and-contact-information/"><u>Mac-Compatible iPhone Data Retrieval Tool: Restore Lost Photos, Videos, and Contact Information</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-taskbar-freeze-top-rated-remedies-and-fixes/"><u>Overcoming Windows 11 Taskbar Freeze: Top-Rated Remedies and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-windows-ts-0x80073712-error-with-these-effective-solutions-guide/"><u>Resolve Your Windows T's 0X80073712 Error with These Effective Solutions [GUIDE]</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-way-to-play-steam-games-anywhere-link-iphone-android/"><u>The Best Way to Play Steam Games Anywhere: Link, iPhone, Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-gone-awol-desktop-icons-for-a-seamless-windows-11-experience/"><u>Troubleshooting Gone AWOL Desktop Icons for a Seamless Windows 11 Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/bes-monetization-a-deep-dive/"><u>YouTube's Monetization A Deep Dive</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix The RPC Server Is Unavailable Error in Windows
-date: 2024-12-23T17:32:40.356Z
-updated: 2024-12-25T17:31:32.746Z
+date: 2024-12-28T18:35:56.220Z
+updated: 2025-01-03T20:19:33.441Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -116,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 `` 3) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
@@ -141,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -158,10 +162,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -173,7 +173,7 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -184,10 +184,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -197,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,22 +225,19 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-content-sharing-on-youtube-without-breaching-copyright/"><u>[New] In 2024, Mastering Content Sharing on YouTube Without Breaching Copyright</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>[New] The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-free-guide-to-premium-mp4-screen-recorders/"><u>[Updated] Free Guide to Premium MP4 Screen Recorders</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-fixes-overcoming-the-hamachi-stop-working-issue/"><u>Efficient Fixes: Overcoming the 'Hamachi Stop Working' Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/gimp-free-open-source-multi-platform-image-editor-review/"><u>GIMP Free, Open-Source, Multi-Platform Image Editor Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/guaranteed-solution-to-stop-total-war-rome-remastered-from-crashing-during-play/"><u>Guaranteed Solution to Stop Total War: Rome Remastered From Crashing During Play</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-connection-between-airpods-and-windows-1011-operating-systems-expert-tips/"><u>How to Ensure Smooth Connection Between AirPods and Windows 10/11 Operating Systems : Expert Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-7-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 7 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-no-playable-sources-error-when-trying-to-load-player-on-windows/"><u>Resolved: Fixing 'No Playable Sources' Error When Trying to Load Player on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/slash-overblown-wmi-power-draw/"><u>Slash Overblown WMi Power Draw</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-break-free-from-the-infinite-startup-loop-in-windows-11/"><u>Solved! How to Break Free From the Infinite Startup Loop in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-high-utilization-of-ntoskrnlexe-in-windows/"><u>Tackling High Utilization of ntoskrnl.exe in Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/tailoring-game-recording-features-for-windows-11-gamers/"><u>Tailoring Game Recording Features for Windows 11 Gamers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/top-13-windows-11-compatible-video-editors-of-2024-ultimate-list/"><u>Top 13 Windows 11-Compatible Video Editors of 2024: Ultimate List</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubled-by-a-disappearing-taskbar-discover-the-best-fixes-for-restoring-icon-visibility-in-windows-10/"><u>Troubled by a Disappearing Taskbar? Discover the Best Fixes for Restoring Icon Visibility in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-user-profile-services-sign-in-problems-a-comprehensive-guide/"><u>Troubleshooting Windows 11 User Profile Services Sign-In Problems - A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028288533-youtube/"><u>YouTubeから断片的なコンテンツを取得・保存する技術 - 動画の選択部分だけを安全にダウンロード</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-discover-top-8-gaming-gloves-for-vr-for-2024/"><u>[New] Discover Top 8 Gaming Gloves for VR for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-explanations-eliminating-the-no-signal-monitor-problem-easy-steps-inside/"><u>Clear Explanations: Eliminating the 'No Signal' Monitor Problem Easy Steps Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-overcoming-issues-with-usb-mice-on-personal-computers/"><u>Expert Guide: Overcoming Issues With USB Mice on Personal Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-an-iphone-15-pro-max-at-just-a-penny-unlocking-amazons-steep-discount-strategy-a-detailed-guide/"><u>Get Your Hands on an iPhone 15 Pro Max at Just a Penny: Unlocking Amazon's Steep Discount Strategy - A Detailed Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-when-windows-10-wont-load-quick-fixes-for-a-smooth-startup/"><u>How to Recover When Windows 10 Won't Load: Quick Fixes for a Smooth Startup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-grand-theft-auto-5-from-crashing-on-your-pc-or-console/"><u>How to Stop Grand Theft Auto 5 From Crashing on Your PC or Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-d3d-device-initialization-failure-problem/"><u>How to Successfully Overcome the D3D Device Initialization Failure Problem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-magix-media-pack/"><u>In 2024, Exploring MAGIX Media Pack</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tailored-thumbnail-for-twitter-clips/"><u>In 2024, Tailored Thumbnail for Twitter Clips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-10t-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme 10T 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/transform-your-videos-top-10-webm-to-mp4-conversion-tools-for-2024/"><u>Transform Your Videos Top 10 WebM to MP4 Conversion Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-your-lenovo-biometric-sensor-work-again/"><u>Troubleshooting Guide: Making Your Lenovo Biometric Sensor Work Again</u></a></li>
 </ul></div>
 

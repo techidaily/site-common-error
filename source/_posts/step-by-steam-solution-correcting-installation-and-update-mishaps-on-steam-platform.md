@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Steam Solution: Correcting Installation and Update Mishaps on Steam Platform"
-date: 2024-08-15T10:58:18.337Z
-updated: 2024-08-16T10:58:18.337Z
+date: 2025-01-02T03:28:28.877Z
+updated: 2025-01-03T21:49:42.989Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 ## Step-by-Step Solution for Stable USB Connections - No More Drops
 
 **USB keeps disconnecting** on your computer? Don’t worry, it’s actually quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes For USB Keeps Disconnecting
 
@@ -61,9 +65,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Turn off USB selective suspend
 
  If your PC is configured to disable USB devices after a certain amount of time, you may have the USB keeps disconnecting problem.  
@@ -72,17 +73,15 @@ To make sure you’ve this setting disabled:
 
  1) On your keyboard, press**the Windows logo key** and**R** at the same time. Then type**powercfg.cpl** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
  2) On your selected power option, click on**Change plan settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -90,10 +89,11 @@ To make sure you’ve this setting disabled:
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
@@ -109,23 +109,22 @@ To make sure you’ve this setting disabled:
 
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
@@ -143,8 +142,6 @@ To make sure you’ve this setting disabled:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +149,21 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-precision-camera-mount-for-optimal-field-recordings/"><u>[New] In 2024, Precision Camera Mount for Optimal Field Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-10-no-cost-gaming-recording-apps-for-gamers/"><u>[Updated] 2024 Approved Top 10 No-Cost Gaming Recording Apps for Gamers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-post-youtube-video-on-the-best-days-to-get-more-view/"><u>[Updated] Post Youtube Video on the Best Days to Get More View</u></a></li>
+<li><a href="https://common-error.techidaily.com/blackout-phenomenon-screen-quest/"><u>Blackout Phenomenon: Screen Quest</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-repairing-malfunctioning-shift-key-on-your-computer/"><u>Expert Tips: Repairing Malfunctioning Shift Key on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mystery-how-to-stop-your-pc-from-shutting-down-unexpectedly/"><u>Fixing the Mystery: How to Stop Your PC From Shutting Down Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-code-8007000e-fast-and-effective-solutions/"><u>Fixing Windows Update Error Code 8007000E: Fast and Effective Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-narzo-60x-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme Narzo 60x 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-itel-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Itel</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts-for-2024/"><u>Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-remedies-to-prevent-your-csgo-from-suddenly-shutting-down/"><u>Quick Remedies to Prevent Your CSGO From Suddenly Shutting Down</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206874291-trouble-with-updownleftright-keys-discover-easy-fixes-now/"><u>Trouble with Up/Down/Left/Right Keys? Discover Easy Fixes Now</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-streamline-your-mpeg2-videos-with-virtualdub-compression/"><u>Updated Streamline Your MPEG2 Videos with VirtualDub Compression</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-5-free-online-tone-generator-tools-for-easy-use-for-2024/"><u>Updated Top 5 Free Online Tone Generator Tools for Easy Use for 2024</u></a></li>
+</ul></div>
 

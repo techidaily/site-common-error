@@ -1,7 +1,7 @@
 ---
 title: Fast and Straightforward Fixes for Window's Perpetual 0%% Update Problem
-date: 2024-08-15T11:01:53.532Z
-updated: 2024-08-16T11:01:53.532Z
+date: 2024-12-27T21:18:13.977Z
+updated: 2025-01-04T04:25:13.266Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ It’s a nuisance to see an error pops up saying “**DirectX encountered an unr
 
 **DirectX encountered an unrecoverable error** is associated with DirectX on your computer. It’s likely that your computer doesn’t meet the requirements to play that game, such as your DirectX version is below what’s required.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -31,8 +35,9 @@ It’s a nuisance to see an error pops up saying “**DirectX encountered an unr
 6. **[Run a complete scan on your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Be sure to meet system requirements
 
  If your computer doesn’t meet the minimum requirements to play the game, you’ll run into problems like the DirectX encountered an unrecoverable error.
@@ -92,16 +97,15 @@ For details of system requirements of other games:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ed304dbc.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version for their driver (you can do this with the**FREE** version), then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ef639182.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when your click**Update All** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -111,9 +115,6 @@ Now launch your game again to see if it fixes your problem.
 
  Still no changes? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Upgrade DirectX version
 
  As this is an error about DirectX, it’s necessary to check whether the DirectX version meets the DirectX requirement for your game.
@@ -130,9 +131,11 @@ Now launch your game again to see if it fixes your problem.
 2. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6d1c42af90.jpg)
 3. In the**System** tab of the**DirectX** **Dianostic** **Tool** , you can see the**DirectX** information in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c18c7dc5dff8.jpg)
 
  Then see if the DirectX meets the DirectX requirement for the game. If not, you’ll need to upgrade the DirectX version on your computer.
@@ -145,9 +148,6 @@ Now launch your game again to see if it fixes your problem.
 
  After installing the latest Windows update or update package, restart your computer and try the game again to see if the error disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Change the Display Scaling settings
 
  You can adjust the Display Scaling settings in your computer to fix your DirectX encountered an unrecoverable error.
@@ -173,16 +173,18 @@ Here’s what you need to do:
 3. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Run a complete scan on your PC
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -207,8 +209,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +216,19 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-from-ordinary-to-outstanding-mastering-instagram-editing-skills/"><u>[New] From Ordinary to Outstanding Mastering Instagram Editing Skills</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-turn-your-instagram-stories-into-music/"><u>2024 Approved How to Turn Your Instagram Stories Into Music</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-enabling-windows-update-service-to-keep-your-pc-secure/"><u>Expert Tips on Enabling Windows Update Service to Keep Your PC Secure</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restore-corrupt-system-files-on-your-windows-machine/"><u>Guide to Restore Corrupt System Files on Your Windows Machine</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/rapidrun-framefrozen-capture-for-2024/"><u>RapidRun FrameFrozen Capture for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-6-step-approach-to-fixing-the-werfaultexe-problem-on-windows-operating-systems/"><u>The Definitive 6-Step Approach to Fixing the werfault.exe Problem on Windows Operating Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-philips-hf3505-alarm-clock-an-in-depth-review-for-a-better-wake-up-experience/"><u>The Philips HF3505 Alarm Clock – An In-Depth Review for a Better Wake-Up Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-microsoft-screen-mirroring-on-windows-10-solved/"><u>Troubleshoot Your Microsoft Screen Mirroring on Windows 10 - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-an-invalid-directory-error/"><u>Troubleshooting Tips for Overcoming an Invalid Directory Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-project-sputnik-the-secret-integration-of-ubuntu-on-premium-dell-systems-insights/"><u>Unveiling Project Sputnik: The Secret Integration of Ubuntu on Premium Dell Systems - Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On HTC U23 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

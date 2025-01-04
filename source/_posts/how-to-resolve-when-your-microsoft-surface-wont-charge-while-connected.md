@@ -1,7 +1,7 @@
 ---
 title: How to Resolve When Your Microsoft Surface Won't Charge While Connected
-date: 2024-08-15T11:04:39.150Z
-updated: 2024-08-16T11:04:39.150Z
+date: 2024-12-29T01:46:31.386Z
+updated: 2025-01-04T00:58:09.203Z
 tags:
   - win11
   - win10
@@ -26,6 +26,11 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 **NOTE:** Since your touch screen cannot work, you need other**input devices** such as a mouse, a keyboard, a Type Cover, etc, to perform some of these methods.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Perform a two button shutdown
 
  Your touch screen may stop working properly if there are corruption issues on your Surface Pro 4\. You need to perform a **two button shutdown**  to shut it down completely to see if this can clear these issues and restore your touch screen.
@@ -45,17 +50,22 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 **1)** Open **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
@@ -74,17 +84,16 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 **2)** **Run** **Driver Easy** and click the **Scan Now** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Reset your Surface Pro 4
 
  Your touch screen not working issue may result from corrupted system on your tablet. You can try resetting your device to fix your system.
@@ -92,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 **1)** Open **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **2)**  Select **Update & Security.**
 
@@ -103,15 +109,13 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c54ad3185f.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
@@ -124,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +135,26 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-creating-accessible-multilingual-content-on-igtv/"><u>[New] 2024 Approved Creating Accessible Multilingual Content on IGTV</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-champions-guide-to-martial-arts-gaming-for-2024/"><u>[Updated] The Champion's Guide to Martial Arts Gaming for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-videos-on-facebook-the-transfer-guide-for-2024/"><u>[Updated] Twitter Videos on Facebook The Transfer Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-daily-digest-downloader/"><u>2024 Approved Daily Digest Downloader</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-mend-missing-audio-files-dll-issues/"><u>Expert Tips to Mend Missing Audio Files' Dll Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-implemented-overcome-the-this-page-cant-be-shown-barrier/"><u>Fix Implemented! Overcome the 'This Page Can't Be Shown' Barrier</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-constant-disconnects-a-user-friendly-usb-troubleshoot-guide/"><u>Fixing Constant Disconnects: A User-Friendly USB Troubleshoot Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-it-when-windows-11-wont-shut-down/"><u>How to Fix It When Windows 11 Won't Shut Down</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-tier-seo-strategies-to-elevate-your-podcast-rankings/"><u>In 2024, Top-Tier SEO Strategies to Elevate Your Podcast Rankings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/professional-methodology-enabling-countdown-functionality-in-obs-for-2024/"><u>Professional Methodology Enabling Countdown Functionality in OBS for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-prevent-minecraft-from-closing-due-to-faulty-video-card-software-on-pc/"><u>Resolved: How to Prevent Minecraft From Closing Due to Faulty Video Card Software on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-dell-laptops-dead-keys-a-step-by-step-guide/"><u>Revive Your Dell Laptop's Dead Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-clicks-a-guide-to-repairing-a-nonfunctional-logitech-mouse-scroll-wheel/"><u>Reviving Your Clicks: A Guide to Repairing a Nonfunctional Logitech Mouse Scroll Wheel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-dialogue-key-traits-for-next-gen-gpt-5/"><u>Revolutionizing AI Dialogue: Key Traits for Next-Gen GPT-5</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-corsair-keyboard-wont-work/"><u>Solution Steps for When Your Corsair Keyboard Won't Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-destiny-2-server-connectivity-problems-a-step-by-step-guide/"><u>Solving Destiny 2 Server Connectivity Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-perfect-key-collection-lifetime-access-to-top-priced-black-friday-windows-11/"><u>The Perfect Key Collection - Lifetime Access to Top Priced Black Friday Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-apples-ipad-pro-vs-macbook-understanding-its-unique-appeal-insights/"><u>The Ultimate Guide to Apple's iPad Pro vs MacBook: Understanding Its Unique Appeal | Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-mousepad-in-windows-operating-systems-solutions-for-windows-1187/"><u>Troubleshooting Non-Responsive Mousepad in Windows Operating Systems - Solutions for Windows 11/8/7</u></a></li>
+</ul></div>
 

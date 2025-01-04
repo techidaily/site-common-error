@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Like a Pro: Simple Steps to Overcome 'DNS Server Unreachable'"
-date: 2024-12-20T16:36:49.184Z
-updated: 2024-12-25T16:56:02.020Z
+date: 2024-12-29T20:57:46.215Z
+updated: 2025-01-03T20:33:45.518Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
 
 If this issue persists, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  Corrupted or outdated graphics drivers may trigger Error 0x887A0006\. To fix this issue, you need to update your graphics driver to the latest version. Updating your graphics driver to the latest version can make your game run smoother and prevent many issues or errors.
@@ -92,10 +96,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 #### Modify AMD graphics card settings
@@ -105,7 +105,7 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -122,8 +122,16 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
@@ -132,20 +140,16 @@ If this issue persists, don’t worry. Try the next fix, below.
 6. Modify the settings the same way you see in the screenshot below.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch the application that crashed with Error 0x887A0006 to see if this fix works. If not, try the next fix, below.
@@ -157,10 +161,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and type**notepad** , then click**Open** to open Notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Open-Notepad.png)
 2. **Copy and paste** the following text into Notepad:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **If you are using a 64-bit system** , copy and paste this:  
  _Windows Registry Editor Version 5.00_  
@@ -178,16 +178,8 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
 7. Launch the problematic application again to see if this fix works.
@@ -201,10 +193,14 @@ If this issue persists, don’t worry. Try the next fix, below.
 3. Restart your PC to save the change.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix doesn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows update
 
@@ -213,10 +209,6 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
@@ -234,6 +226,10 @@ If this fix doesn’t work for you, try the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Adjust your Windows system for the best performance
 
  If Fix 6 fails to resolve this issue, you can also try adjusting your Windows system for the best performance to see if this error message reappears. Here is how to do it:
@@ -241,6 +237,10 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
@@ -271,22 +271,22 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fbx-guide-to-professional-gamers-footage/"><u>[New] 2024 Approved FBX Guide to Professional Gamers' Footage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-liberate-your-files-top-picks-for-20-free-cloud-storage-options-up-to-1tb/"><u>[New] Liberate Your Files Top Picks for 20 FREE Cloud Storage Options (Up To 1TB)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-step-by-step-process-for-formulating-perfect-podcast-names/"><u>[Updated] 2024 Approved Step-by-Step Process for Formulating Perfect Podcast Names</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-free-methods-to-bypass-an-ipad-lockout-no-itunes-no-passcode-required/"><u>1. Free Methods to Bypass an iPad Lockout: No iTunes, No Passcode Required</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ace-bgm-selection-perfect-backdrops-for-video-calling/"><u>2024 Approved Ace BGM Selection Perfect Backdrops for Video Calling</u></a></li>
-<li><a href="https://common-error.techidaily.com/banish-the-troublesome-0x80072efd-bug-from-your-windows-11-device-easily/"><u>Banish the Troublesome 0X80072EFD Bug From Your Windows 11 Device Easily!</u></a></li>
-<li><a href="https://common-error.techidaily.com/boost-your-pcs-boot-speed-essential-fixes-for-windows-7-delays/"><u>Boost Your PC's Boot Speed: Essential Fixes for Windows 7 Delays</u></a></li>
-<li><a href="https://common-error.techidaily.com/csgo-stability-boost-fixing-game-crashes-fast-and-without-hassle/"><u>CSGO Stability Boost: Fixing Game Crashes Fast & Without Hassle</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-enhanced-creativity-adobe-rolls-out-new-express-app-featuring-generative-ai-technology/"><u>Discover Enhanced Creativity: Adobe Rolls Out New Express App Featuring Generative AI Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-troubleshooting-for-persistent-0x800705b4-windows-11-update-failures/"><u>Expert Troubleshooting for Persistent 0X800705b4 Windows 11 Update Failures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-6-principles-to-propel-your-professional-life/"><u>Harnessing AI: 6 Principles to Propel Your Professional Life</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-download-hurdles-a-guide-for-failed-torrent-transfers/"><u>Overcoming Download Hurdles: A Guide for Failed Torrent Transfers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-effective-fixes-to-windows-onedrive-problems/"><u>Quick and Effective Fixes to Windows OneDrive Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-0x800f0831-issues-swiftly-with-a-simple-windows-update/"><u>Resolving 0X800f0#831 Issues Swiftly with a Simple Windows Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplified-guide-3-simple-methods-for-extracting-text-from-videos/"><u>Simplified Guide: 3 Simple Methods for Extracting Text From Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-resolve-availability-issues-on-destiny-2-game-servers/"><u>Steps to Resolve Availability Issues on Destiny 2 Game Servers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-keyboard-issues-solutions-and-fixes/"><u>Troubleshooting Lenovo Keyboard Issues: Solutions and Fixes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-prioritizing-visibility-a-guide-to-insta-highlights-perfection-for-2024/"><u>[New] Prioritizing Visibility A Guide to Insta Highlights Perfection for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-dynamic-musical-journeys-with-crossfading/"><u>2024 Approved Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-meets-technology-expert-ai-use-in-bing-for-android/"><u>Craftsmanship Meets Technology: Expert AI Use in Bing for Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effizientes-dvd-video-konvertierungsprogramm-der-firma-digiarty-software-eine-umfassende-einfuhrung/"><u>Effizientes DVD-Video Konvertierungsprogramm Der Firma Digiarty Software: Eine Umfassende Einführung</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-with-ghostwire-tokyo-continuous-crashes-on-windows/"><u>Fixing Issues with Ghostwire: Tokyo Continuous Crashes on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/guidelines-for-securing-trustware-trustedinstaller-approval-for-file-modification/"><u>Guidelines for Securing TrustWare TrustedInstaller Approval for File Modification</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-fatal-error-1603-and-complete-software-installation-successfully/"><u>How to Resolve 'Fatal Error 1603' & Complete Software Installation Successfully</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unveiling-the-best-5-tools-for-youtube-video-url-shortening/"><u>In 2024, Unveiling the Best 5 Tools for YouTube Video URL Shortening</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-authority-security-patched-successfully-learn-more-inside/"><u>Local Authority Security Patched Successfully - Learn More Inside</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-iphone-video-flipper-tools-updated-2023-for-2024/"><u>New Top-Rated Free iPhone Video Flipper Tools (Updated 2023) for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-civi-3-disney-100th-anniversary-edition-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Civi 3 Disney 100th Anniversary Edition Black and White | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-complete-guide/"><u>Resolving the GeForce Experience Launch Problem - A Complete Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/scrutinizing-vidmas-latest-screen-recording-tech-for-2024/"><u>Scrutinizing Vidma’s Latest Screen Recording Tech for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-rpc-server-unavailable-error-code-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the RPC Server Unavailable (Error Code 0xC0000098) in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-network-adapter-failures-on-windows-117-pcs/"><u>Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-correct-the-issue-of-failed-resets-in-windows-11-proven-methods-revealed/"><u>Troubleshoot and Correct the Issue of Failed Resets in Windows 11 – Proven Methods Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac598-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1cymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r103/"><u>YAC598 - Yamaha'aturboSound II Sound Module Based on the YMF7A1C/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

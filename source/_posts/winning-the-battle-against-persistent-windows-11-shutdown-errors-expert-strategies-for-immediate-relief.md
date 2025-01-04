@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Persistent Windows 11 Shutdown Errors – Expert Strategies for Immediate Relief
-date: 2024-12-23T18:20:02.300Z
-updated: 2024-12-25T18:22:12.944Z
+date: 2024-12-28T16:11:05.143Z
+updated: 2025-01-03T16:36:34.509Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Fixes for MsMpEng.exe Eating Up Too Much CPU
 
  You may not have to try all these fixes; just work your way down the list until the problem is resolved.
@@ -35,21 +39,17 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Virus & threat protection settings** .
@@ -57,12 +57,16 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Add an exclusion** \>**Folder** .
 
@@ -84,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the bottom, double-click on**Windows Defender** , then right-click on**Windows Defender Scheduled Scan** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
@@ -101,16 +109,12 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
@@ -130,16 +134,12 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Restart your computer and see if your computer runs normally now.
@@ -167,22 +167,17 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-beyond-boundaries-vrs-educational-potential/"><u>[Updated] In 2024, Beyond Boundaries VR's Educational Potential</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-art-of-affordable-video-ad-design-for-youtube-success/"><u>[Updated] In 2024, The Art of Affordable Video Ad Design for YouTube Success</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-utilizing-tailored-volume-reduction-in-audacity/"><u>[Updated] Utilizing Tailored Volume Reduction in Audacity</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-voice-change-innovations-for-youtubers-and-their-videos/"><u>[Updated] Voice Change Innovations for YouTubers & Their Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieving-economical-data-management-with-cloud-services/"><u>2024 Approved Achieving Economical Data Management with Cloud Services</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-note-30-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Note 30 Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-zoom-no-sound-on-pc/"><u>How to Fix Zoom No Sound on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leaders-lens-on-ai-learning-ensuring-quality-with-4-checkpoints/"><u>Leader's Lens on AI Learning: Ensuring Quality with 4 Checkpoints</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-pc-maintenannoins-strategies-to-fix-critical-error-0xc0000098-in-windows/"><u>Mastering PC Maintenannoins: Strategies to Fix Critical Error 0xC0000098 in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-dilemma-of-forced-system-closes-on-windows-11-a-step-by-step-guide/"><u>Overcoming the Dilemma of Forced System Closes on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-connectivity-problems-with-microsofts-wireless-display-on-windows-11/"><u>Resolving Connectivity Problems with Microsoft's Wireless Display on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-microsoft-print-to-pdf-problems-under-windows-11-operating-system/"><u>Resolving Microsoft Print to PDF Problems Under Windows 11 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-high-cpu-usage-by-msmpengexe-on-windows-10-troubleshooting-guide/"><u>Solve High CPU Usage by MsMpEng.exe on Windows 10 - Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-restoring-space-bar-functionality-in-windows-10/"><u>Step-by-Step Tutorial: Restoring Space Bar Functionality in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-non-functioning-wacom-tablet-problems/"><u>Troubleshooting Fixes: Resolving Non-Functioning Wacom Tablet Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-black-screen-troubleshooting-techniques-you-need-to-know/"><u>Windows 11 Black Screen Troubleshooting Techniques You Need to Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-metadata-title-and-description-for-youtube-traction/"><u>[New] Mastering Metadata Title and Description for YouTube Traction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-refine-your-iphone-hdri-expert-tips-for-clearer-results-in-premiere-pro/"><u>[New] Refine Your iPhone HDRI Expert Tips for Clearer Results in Premiere Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-skyrocketing-sales-how-ad-revenue-transforms-youtube-videos/"><u>[Updated] 2024 Approved Skyrocketing Sales How Ad Revenue Transforms YouTube Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-netizen-networks-examining-your-and-competing-channels/"><u>[Updated] In 2024, Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solution-correcting-the-monitor-not-receiving-signal-problem-a-step-by-step-tutorial/"><u>DIY Solution: Correcting the 'Monitor Not Receiving Signal' Problem - A Step by Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mysterious-darkness-solutions-to-chromes-black-screen-dilemma/"><u>Fixing the Mysterious Darkness: Solutions to Chrome's Black Screen Dilemma</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-issue-effective-fixes-for-windows-11-update-error-code-0x800f0922/"><u>Resolve the Issue: Effective Fixes for Windows 11 Update Error Code 0X800F0922</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-lowered-cpu-impact-with-improved-windows-driver-foundations/"><u>Resolved Issue: Lowered CPU Impact with Improved Windows Driver Foundations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-review-netatmo-weather-station-a-sleek-choice-for-app-companionship-and-climate-tracking/"><u>Top Review: Netatmo Weather Station – A Sleek Choice for App Companionship and Climate Tracking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974172384-tp-link-network-card-driver-update-compatible-with-win11-8-7-secure-the-latest-version-now/"><u>TP-Link Network Card Driver Update | Compatible with Win11, 8, 7 - Secure the Latest Version Now</u></a></li>
 </ul></div>
 

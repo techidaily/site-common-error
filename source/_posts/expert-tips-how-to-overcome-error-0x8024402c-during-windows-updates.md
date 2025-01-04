@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: How to Overcome Error 0X8024402c During Windows Updates"
-date: 2024-12-21T19:20:21.709Z
-updated: 2024-12-25T18:11:46.808Z
+date: 2025-01-01T18:39:30.097Z
+updated: 2025-01-03T21:21:28.734Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/063f04ddcc12d7ad0c40343a71ed623fbddb1ebfb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 1\. Enable Automatic Detect Settings**
 
  If your computer is not sure how it should connect to the Internet, it would cause Windows Update Error 0x8024402c. In this case, enable Automatic Detect Settings could fix it.
@@ -32,27 +36,19 @@ thumbnail: https://thmb.techidaily.com/063f04ddcc12d7ad0c40343a71ed623fbddb1ebfb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Check on Automatically detect settings
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -77,7 +73,7 @@ Find and click to open Command Prompt from Start menu.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Run the commands below one by one.
@@ -120,6 +116,10 @@ Double-click on your active Network Adapter.
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -132,16 +132,12 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
@@ -164,6 +160,10 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
@@ -171,7 +171,7 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -195,24 +195,22 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-smooth-shifts-audio-transition-wisdom-from-sonar-by-platinum-for-2024/"><u>[New] Smooth Shifts Audio Transition Wisdom From Sonar by Platinum for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-maximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>[Updated] 2024 Approved Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-installation-issues-resolved-a-comprehensive-guide/"><u>BattlEye Installation Issues Resolved - A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/el-charisma-techniques-for-amplifying-youtube-visibility/"><u>Channel Charisma Techniques for Amplifying YouTube Visibility</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertissez-votre-fichier-ogm-en-mp4-de-gre-a-gre-sans-cout-movavi/"><u>Convertissez Votre Fichier OGM en MP4 De Gré À Gré Sans Coût - Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/dota-2-solve-error-2024-with-quick-api-adjustment-tips/"><u>Dota 2: Solve Error 2024 with Quick 'API Adjustment' Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/eclipse-effect-screen-issue/"><u>Eclipse Effect: Screen Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/execution-path-blocked/"><u>Execution Path Blocked</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/facebook-streaming-simplified-a-comprehensive-tutorial-for-hassle-free-online-broadcasts/"><u>Facebook Streaming Simplified: A Comprehensive Tutorial for Hassle-Free Online Broadcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/fallout-4-performance-optimized-how-to-overcome-lag-issues-tips-players/"><u>Fallout 4 Performance Optimized: How to Overcome Lag Issues (Tips Players)</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-frozen-google-chrome-do-you-need-to-restart/"><u>Fixing a Frozen Google Chrome: Do You Need to Restart?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-can-i-access-iphone-pictures-that-seem-missing-despite-being-erased-discover-8-solutions/"><u>How Can I Access iPhone Pictures That Seem Missing Despite Being Erased? Discover 8 Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-uniting-communication-and-visuals-a-detailed-plan-for-slack-plus-filmora-meetings/"><u>In 2024, Uniting Communication & Visuals A Detailed Plan for Slack + Filmora Meetings</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shall-know-more-about-fina/"><u>More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-microsoft-print-to-pdf-malfunction-in-windows-11-systems/"><u>Solving the Microsoft Print to PDF Malfunction in Windows 11 Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-chroma-spectrum-now-crystal-clear-on-4k-for-2024/"><u>The Ultimate Chroma Spectrum, Now Crystal Clear on 4K for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-high-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing High GPU Consumption by the Desktop Window Manager on Windows 10 and 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-dell-bluetooth-keyboard/"><u>Troubleshooting Guide: Fixes for Non-Responsive Dell Bluetooth Keyboard</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-dynamic-interactions-key-to-enhancing-page-visibility/"><u>[New] 2024 Approved Dynamic Interactions Key to Enhancing Page Visibility</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-adobe-audition-tutorial-managing-sound-curves/"><u>[Updated] 2024 Approved Adobe Audition Tutorial Managing Sound Curves</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-securely-save-fb-high-definition/"><u>[Updated] Securely Save FB High Definition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/detailed-synopsis-gopro-silver-hero4-model-review-for-2024/"><u>Detailed Synopsis GoPro Silver Hero4 Model Review for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-fixing-unspecified-module-errors-on-pcmac/"><u>Easy Solutions for Fixing Unspecified Module Errors on PC/Mac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-31-in-windows/"><u>How to Fix Error Code 31 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-media-disconnected-in-windows/"><u>How to Fix Media Disconnected in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-cast-functionality-on-your-windows-10-computer-expert-fixes/"><u>How to Restore Cast Functionality on Your Windows 10 Computer - Expert Fixes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 15 to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-chatgpt-experience-discover-the-pluses/"><u>Maximize Your ChatGPT Experience - Discover the Pluses</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-the-common-installation-incomplete-on-windows/"><u>Quick Solutions for the Common 'Installation Incomplete on Windows'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-troubleshoot-your-non-functional-steelseries-arctis-er-audio-device/"><u>Solved! How to Troubleshoot Your Non-Functional SteelSeries Arctis Er Audio Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-boot-problems-on-your-windows-11-system/"><u>Troubleshooting Persistent Boot Problems on Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-error-code-0xc1900208-on-your-windows-10-system-resolved/"><u>Troubleshooting Tips for Fixing Error Code 0xC1900208 on Your Windows 10 System [RESOLVED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-preventing-constant-failures-in-nox-player-for-pc-users/"><u>Ultimate Guide to Preventing Constant Failures in Nox Player for PC Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-the-power-of-slow-mo-top-video-editing-software-revealed/"><u>Updated 2024 Approved Unleash the Power of Slow Mo Top Video Editing Software Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Mystery: Understanding Unexpected Restarts in Your Windows 10 PC"
-date: 2024-12-20T17:35:52.753Z
-updated: 2024-12-25T20:13:46.050Z
+date: 2024-12-29T04:52:33.363Z
+updated: 2025-01-03T22:36:21.380Z
 tags:
   - win11
   - win10
@@ -41,23 +41,19 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Display** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Check if you’re able to see the TV as a second monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can’t see your TV on the screen , follow steps below:
@@ -67,18 +63,18 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -103,6 +99,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
 **TIP:** After connecting your TV via HDMI successfully, if you can’t hear sound from the output, go to [Fix HDMI No Sound in Windows 10](https://tools.techidaily.com/drivereasy/download/) for the solutions.
@@ -126,20 +126,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-minimca-homes-the-ultimate-guide-for-entry-level-builders/"><u>[New] MiniMCA Homes The Ultimate Guide for Entry-Level Builders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-guide-to-seamless-video-integration-pip-techniques-for-mac-users/"><u>A Guide to Seamless Video Integration PIP Techniques for Mac Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/digital-dome-streamlining-your-song-posts-on-youtube-for-2024/"><u>Digital Dome Streamlining Your Song Posts on YouTube for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-troubleshooting-windows-10-bluetooth-connection-issues-tip-guide/"><u>Effective Strategies: Troubleshooting Windows 10 Bluetooth Connection Issues (Tip Guide )</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-seamlessly-install-battleye-troubleshooting-guide/"><u>How to Seamlessly Install BattlEye - Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-frame-by-frame-flair-edits-that-captivate-viewers/"><u>In 2024, Frame-by-Frame Flair Edits That Captivate Viewers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-data-buffering-for-sony-a7s-ii/"><u>In 2024, Optimal Data Buffering for Sony A7S II</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/keeping-your-audience-engaged-in-a-revised-social-lands-ward/"><u>Keeping Your Audience Engaged in a Revised Social Lands Ward</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-hdmi-connectivity-issues-windows-10-wont-recognize-your-tv/"><u>Resolving HDMI Connectivity Issues: Windows 10 Won't Recognize Your TV</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-home-connectivity-a-review-of-the-amplifi-hd-systems-capabilities-against-wi-fi-weak-spots/"><u>Revolutionize Your Home Connectivity: A Review of the Amplifi HD System's Capabilities Against Wi-Fi Weak Spots</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209040509-total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/"><u>Total War: Rome Remastered Crashes? Here's How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-restore-functionality-to-your-windows-11-start-menu/"><u>Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-livekernelevent-error-number-1e/"><u>Troubleshooting Techniques for LiveKernelEvent Error Number 1E</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-limited-system-capacity-error-a-comprehensive-guide/"><u>Understanding and Fixing the 'Limited System Capacity' Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ling-the-most-honest-youtube-growth-services-for-2024/"><u>Unveiling the Most Honest Youtube Growth Services for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unleashing-potential-gopro-karmas-journey/"><u>[New] In 2024, Unleashing Potential GoPro Karma's Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>[New] Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-beyond-basic-filters-elevating-your-snapchat-game/"><u>2024 Approved Beyond Basic Filters Elevating Your Snapchat Game</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-a2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi A2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-office-management-leveraging-slack-for-seamless-workflows/"><u>Efficient Office Management: Leveraging Slack for Seamless Workflows</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-buffering-woes-in-kodi-once-and-for-all-effective-fixes-revealed/"><u>End Buffering Woes in Kodi Once and For All: Effective Fixes Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-hp-laptop-webcam-working-again-in-windows-10-a-comprehensive-guide/"><u>How to Get Your HP Laptop Webcam Working Again in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-unknown-usb-device-issues-in-windows-n-with-these-easy-steps/"><u>Resolve 'Unknown USB Device' Issues in Windows N with These Easy Steps!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-puzzle-of-unplanned-restarts-how-your-windows-10-keeps-waking-up/"><u>The Puzzle of Unplanned Restarts: How Your Windows 10 Keeps Waking Up</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unifying-experience-corrected-asus-webcam-link-to-w10-os/"><u>Unifying Experience: Corrected Asus Webcam Link to W10 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-brightness-control-restoration-tips-and-solutions/"><u>Windows 10 Brightness Control Restoration Tips and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210906234-windows-woes-no-more-achieve-perfect-harmony-between-your-device-driver-and-os-for-a-smooth-gaming-experience/"><u>Windows Woes No More - Achieve Perfect Harmony Between Your Device Driver and OS for a Smooth Gaming Experience!</u></a></li>
 </ul></div>
 

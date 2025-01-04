@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing When You Can’t Connect to Destiny 2 Servers
-date: 2024-12-21T19:40:44.656Z
-updated: 2024-12-25T16:57:33.762Z
+date: 2024-12-29T02:01:47.745Z
+updated: 2025-01-03T16:37:15.124Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these steps
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 4. [**Update your USB driver**](#s4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Use a different USB port
@@ -55,10 +51,6 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
@@ -72,6 +64,14 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
@@ -82,11 +82,12 @@ If all your USB ports aren’t working, try Step 2, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
-8. Check if your USB port works properly now. If not, try Step 4, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
 
@@ -108,7 +109,7 @@ or
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
@@ -135,18 +136,24 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-budget-friendly-video-recorder-sets-top-11-picks/"><u>[New] 2024 Approved Budget-Friendly Video Recorder Sets Top 11 Picks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-amass-a-thousand-tactics-for-monthly-instagram-following/"><u>2024 Approved Amass a Thousand Tactics for Monthly Instagram Following</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-create-insta-highlight-cover-photos-a-complete-guide-for-2024/"><u>How to Create Insta Highlight Cover Photos A Complete Guide for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-error-0x80240017-once-and-for-all/"><u>How to Fix Windows Update Error 0X80240017 Once and For All</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-astronomys-best-showcase-10-prime-hd-sky-archives/"><u>In 2024, Astronomy's Best Showcase - 10 Prime HD Sky Archives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-flat-frames-to-bright-brilliance-the-ultimate-conversion-guide/"><u>In 2024, From Flat Frames to Bright Brilliance The Ultimate Conversion Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-cumuluspro-ergonomic-mat-for-an-ideal-standing-experience/"><u>In-Depth Analysis of the CumulusPro Ergonomic Mat for an Ideal Standing Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-system-performance-tackling-high-wudfhostexe-cpu-usage-in-windows-11/"><u>Optimizing System Performance: Tackling High WUDFHost.exe CPU Usage in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-non-functional-touchpad-scrolls-expert-tips-and-tricks/"><u>Troubleshooting & Solving Non-Functional Touchpad Scrolls: Expert Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-1011-and-airpods-connectivity-problems-expert-advice/"><u>Troubleshooting Windows 10/11 and AirPods Connectivity Problems - Expert Advice</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-accessible-controls-on-mods-new-electric-bicycle-with-integrated-carrier/"><u>Unveiling the Accessible Controls on Mod’s New Electric Bicycle with Integrated Carrier</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram/"><u>[New] 2024 Approved Transform Your Footage Effective Strategies for Cropping & Export on Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-discover-the-art-of-podcasting-essential-scriptwriting-strategies-plus-examples-for-2024/"><u>[New] Discover the Art of Podcasting Essential Scriptwriting Strategies + Examples for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-crafting-compelling-stories-unveiling-the-secrets-to-winning-facebook-bios/"><u>[Updated] Crafting Compelling Stories Unveiling the Secrets to Winning Facebook Bios</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-instagram-story-captioning-techniques-for-2024/"><u>[Updated] Streamlining Instagram Story Captioning Techniques for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nce-engagement-where-to-captivate-viewers-for-2024/"><u>Audience Engagement Where to Captivate Viewers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-troubleshooting-for-windows-users-solving-crackling-sound-issues-in-windows-107/"><u>Audio Troubleshooting for Windows Users: Solving Crackling Sound Issues in WINDOWS 10/7</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/comment-cloner-facilement-une-partition-sous-windows-11-avec-aomei-backupper-free/"><u>Comment Cloner Facilement Une Partition Sous Windows 11 Avec AOMEI Backupper Free</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-your-laptop-wont-hold-a-charge/"><u>Effective Solutions for When Your Laptop Won't Hold a Charge</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-superior-reception-with-clearstream-2v-all-in-one-hdtv-antenna-a-comprehensive-review/"><u>Experience Superior Reception with ClearStream 2V All-in-One HDTV Antenna - A Comprehensive Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-windows-camera-problem-resolving-error-0xa00f4292/"><u>Expert Tips to Overcome Windows Camera Problem: Resolving Error 0xA00F4292</u></a></li>
+<li><a href="https://fox-that.techidaily.com/extended-display-timeout-issues-with-iphones-fix-it-in-3-easy-steps/"><u>Extended Display Timeout Issues with iPhones? Fix It in 3 Easy Steps!</u></a></li>
+<li><a href="https://common-error.techidaily.com/high-cpu-drain-by-wudfhostexe-fixed-optimization-tips-for-windows-(span)10(span)/"><u>High CPU Drain by wudfhost.exe Fixed - Optimization Tips for Windows <Span>10</Span></u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-f14-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy F14 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-the-changerenderingapierror-e2024-in-dota-2-enhance-your-gaming-experience-now/"><u>Quick Solutions for the ChangeRenderingApiError (E2024) in Dota 2 - Enhance Your Gaming Experience Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-systemprofile-desktop-access-denied-on-windows-10/"><u>Resolving SystemProfile Desktop Access Denied on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-overcoming-the-rpc-server-not-found-issue-on-windows/"><u>Step-by-Step Solution: Overcoming the RPC Server Not Found Issue on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/sync-or-swim-expert-tips-for-connecting-your-unresponsive-xbox-one-controller/"><u>Sync or Swim: Expert Tips for Connecting Your Unresponsive Xbox One Controller</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211339659-windows-11-wi-fi-disappearance-solved-make-them-appear-again/"><u>Windows 11 Wi-Fi Disappearance Solved - Make Them Appear Again!</u></a></li>
 </ul></div>
 

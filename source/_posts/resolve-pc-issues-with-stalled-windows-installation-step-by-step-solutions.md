@@ -1,7 +1,7 @@
 ---
 title: Resolve PC Issues with Stalled Windows Installation Step-by-Step Solutions
-date: 2024-08-15T11:01:41.441Z
-updated: 2024-08-16T11:01:41.441Z
+date: 2025-01-01T00:50:41.120Z
+updated: 2025-01-03T21:00:22.150Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 3. [**Reinstall your system without activating it**](#c)
 4. [**Find another source of installation media**](#d)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Continue installation using Automatic Repair
 
  When your Windows installation process is stopped by the “could not complete” error, one effective method is to continue the process with the help of Advanced Recovery.
@@ -36,35 +40,35 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
 **1)** Turn on your computer, and then when your Windows starts to load, turn it off immediately. Do it two to three times until you see a message that says “**Preparing Automatic Repair** “.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698952129aa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Advanced options** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 
 **3)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Reset this PC** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698a2bd825b.png)
 
 **5)** Select**Keep my files** .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698ae3d7538.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click**Cancel** . (No, you don’t need to reset your computer. Just click**Cancel** .)
 
@@ -72,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
 **7)** Select**Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698c64b4abb.png)
 
 **8)** If this method works for you, it’ll continue the installation process and you won’t get the error again.
@@ -91,15 +92,16 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a699954165bf.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to each of your devices to download the latest and correct driver for this device. You can also click the Update All button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6999d636954.jpg)
 
 **4)** Restart your computer, then you have already had the latest drivers installed on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Method 2: Run the Windows account creation wizard
 
  This error may also occur because the Windows account is not created normally. You can run the account creation wizard to see if this fixes the problem. To do so:
@@ -108,16 +110,10 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
 **2)**  Type “_**cd %windir%/system32/oobe/**_ ” and press**Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c48a959cce0.png)
 
 **3)** Type “_**msoobe**_ ” and press**Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c48b26ea5a3.png)
 
 **4)**  Set up an account and password there on the user account creation wizard that appears.
@@ -140,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +143,22 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionize-communication-top-7-free-mac-tts-apps-uncovered/"><u>[New] Revolutionize Communication Top 7 Free Mac TTS Apps Uncovered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-your-understanding-of-copyright-on-instagram/"><u>[New] Unlocking Your Understanding of Copyright on Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-to-prevent-nier-automata-crashes-on-personal-computers/"><u>Essential Fixes to Prevent Nier: Automata Crashes on Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-your-wacom-touchpad-wont-function-correctly/"><u>Expert Solutions for When Your Wacom Touchpad Won’t Function Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-for-service-failed-error-during-logon-on-windows-11-devices/"><u>Fix Guide for 'Service Failed' Error During Logon on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-common-issues-how-to-repair-a-non-functional-dell-laptop-keyboard/"><u>Fixing Common Issues: How to Repair a Non-Functional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-stuck-or-damaged-scroll-wheel-on-your-logitech-mouse-expert-tips-and-tricks/"><u>Fixing the Stuck or Damaged Scroll Wheel on Your Logitech Mouse - Expert Tips & Tricks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-honor-90-gt-by-drfone-android/"><u>How to Bypass FRP from Honor 90 GT?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-parable-pioneers-guild-premier-peak/"><u>In 2024, Parable Pioneers Guild – Premier Peak</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nubia-z50s-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nubia Z50S Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/included-accessories-with-your-new-nintendo-switch-console/"><u>Included Accessories with Your New Nintendo Switch Console</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-add-motion-to-your-messages-top-text-animation-apps-for-phones/"><u>New Add Motion to Your Messages Top Text Animation Apps for Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-escaping-the-clutches-of-a-false-google-chrome-crisis/"><u>Step-by-Step Guide: Escaping the Clutches of a False Google Chrome Crisis</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-print-driver-host-issues-in-32-bit-systems/"><u>Troubleshooting Guide: Fixing 'Print Driver Host' Issues in 32-Bit Systems</u></a></li>
+</ul></div>
 

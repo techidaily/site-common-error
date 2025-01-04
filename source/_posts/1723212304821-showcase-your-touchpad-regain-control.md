@@ -1,7 +1,7 @@
 ---
 title: Showcase Your Touchpad, Regain Control
-date: 2024-08-15T10:59:05.837Z
-updated: 2024-08-16T10:59:05.837Z
+date: 2024-12-31T21:03:55.711Z
+updated: 2025-01-03T19:24:43.802Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
  We’ve prepared**4 fixes in the following** that have the best chance of resolving your touchpad issue. Let’s find out how!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Show hidden devices in Device Manager](#fix-1)**
@@ -28,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 5. **[Repair corrupt files](#fix-4)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Show hidden devices in Device Manager
 
  Some certain devices installed might not be displayed in the Device Manager by default or because the Windows system fails to detect the devices’ drivers. In this case, you should try the trick “**Show hidden devices** ” in Device Manager to see if your touchpad can be enabled by following the steps below:
@@ -37,50 +42,41 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 1. Press**Windows + X** keys to open the quick access menu and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. After rebooting your computer, press**Windows + I** keys to open Windows Settings and select**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-devices.jpg)
 6. Check if**Touchpad** is in the Devices list now. If it does, click the toggle to**On** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-touchpad.jpg)  
  If it doesn’t, sorry that this fix doesn’t work for you, move on to try the next below.
 
 ---
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Fix 2: Add the touchpad driver back manually
 
  If you know the manufacturer of your touchpad (Synaptics and Elan are two of the most popular ones), you can also try to add the touchpad device back manually in Device Manager to see if it works for you. To do so:
 
 1. On your keyboard, press **the Windows logo key** and **X** at the same time. Then select **Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click **Next**  to move on.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select **Show All Devices** , and click **Next** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
@@ -88,12 +84,9 @@ The ultimate burning program for all your needs!</a>
  If you still can’t find your touchpad in this way, please move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Update the touchpad driver
 
  As you may have known, this problem may occur if you are using the wrong touchpad driver or it’s out of date. So you should update your touchpad driver to see if it fixes your problem. In the condition that the Device Manager can’t work for you, there are two other ways you can update your touchpad driver:
@@ -123,6 +116,10 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/03/synpatics-hid-touchpad.png)
 4. After updating, restart your computer to take effect.
@@ -131,9 +128,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Configure the BIOS settings
 
  Whenever your computer is booted, the BIOS is the first to be activated for operating system loading and device data reading. For some reason, your touchpad may be disabled in the BIOS and therefore can’t be displayed in Device Manager. So you might need to check your BIOS and set it to default. Here’s how:
@@ -156,21 +150,19 @@ Assigned BIOS hotkey
 1. After entering the BIOS, find the option that allows you to restore the BIOS under the**Security** tab or the**Exit** tab.  
 **Note:** Depending on what motherboard you have, the name of the option allowing you to restore the BIOS could be**Reset to Default** ,**Load Factory Defaults** ,**Load Setup Defaults** ,**Load Optimized Defaults** , etc.
 2. Select**Yes** in the window for confirmation.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/defalts.jpg)
 3. Once done, press the key next to**Save** and**Exit** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer to see if the issue is fixed.
 
  If this method doesn’t work, then try the last one below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Fix 5: Repair corrupt files
 
  If none of the above fixes work for you, you might want to consider**a holistic scan for a file check** on your PC. Because if your computer has corrupted system files or critical system files missing, your touchpad also won’t function properly.
@@ -180,6 +172,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
@@ -212,8 +209,6 @@ Hot Accessories
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +216,19 @@ Hot Accessories
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/onvert-and-edit-wonders-10-best-youtube-tools-feat-audio/"><u>[New] Convert & Edit Wonders 10 Best YouTube Tools Feat. Audio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-making-every-penny-count-in-youtube-webinars/"><u>[Updated] Making Every Penny Count in Youtube Webinars</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-secrets-of-facebooks-2023-full-screen-video-settings-for-2024/"><u>[Updated] Secrets of Facebook's 2023 Full Screen Video Settings for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211417772--60-days-on-skinwalker-ranch/"><u>60 Days on Skinwalker Ranch | Free Book</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/exploring-methods-for-rapid-tiktok-editing-for-2024/"><u>Exploring Methods for Rapid TikTok Editing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-most-out-of-league-of-legends-by-fixing-sluggish-downloads-instantly/"><u>Getting the Most Out of League of Legends by Fixing Sluggish Downloads Instantly</u></a></li>
+<li><a href="https://win-online.techidaily.com/mastering-contact-collection-top-4-tips-using-massmails-powerful-solutions/"><u>Mastering Contact Collection: Top 4 Tips Using MassMail's Powerful Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-8-best-alternatives-to-windows-10-photos/"><u>New 2024 Approved 8 Best Alternatives to Windows 10 Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-issues-with-wudfhostexe-on-windows-11/"><u>Resolving Elevated CPU Consumption Issues with wudfhost.exe on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-dns-errors-in-their-tracks-with-these-4-user-friendly-fixes/"><u>Stop DNS Errors in Their Tracks with These 4 User-Friendly Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-constant-usb-mouse-disconnection-issues/"><u>Ultimate Guide: Solving Constant USB Mouse Disconnection Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/veelvoudig-maken-van-flac-liedjes-in-mp4-online-gratis-movavi-online-konverter/"><u>Veelvoudig Maken Van FLAC-Liedjes in MP4 Online, Gratis - Movavi Online Konverter</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Breaking Through: Solutions for Persistent Boot-Up Issues on Computers"
-date: 2024-08-15T10:59:36.019Z
-updated: 2024-08-16T10:59:36.019Z
+date: 2024-12-29T19:58:47.048Z
+updated: 2025-01-04T02:54:48.509Z
 tags:
   - win11
   - win10
@@ -28,8 +28,9 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -37,31 +38,23 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
@@ -70,9 +63,6 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
 This problem may occur if you are using the wrong or outdated drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
@@ -85,11 +75,18 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -107,8 +104,6 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +111,22 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-utilizing-obs-in-android-setups-a-beginners-manual/"><u>[New] 2024 Approved Utilizing OBS in Android Setups A Beginner's Manual</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-making-your-instagram-story-pop-with-youtube-vids/"><u>[Updated] In 2024, Making Your Instagram Story Pop with YouTube Vids</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-infographic-forecast-the-2023-social-landscape/"><u>[Updated] Infographic Forecast The 2023 Social Landscape</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-site-cannot-be-reached-chrome-fixes-for-getting-back-online/"><u>Dealing with 'Site Cannot Be Reached' – Chrome Fixes for Getting Back Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-restore-charging-on-your-laptop-solutions-at-hand/"><u>Easily Restore Charging on Your Laptop - Solutions at Hand</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-unresponsive-alphabet-keys-on-microsofts-latest-operating-system-windows-11/"><u>Easy Fixes for Unresponsive Alphabet Keys on Microsoft's Latest Operating System, Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-internet-access-with-windows-11s-built-in-usb-tethering-feature/"><u>Effortless Internet Access with Windows 11'S Built-In USB Tethering Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/eradicating-never-ending-startup-glitches-on-skyrims-initial-screen/"><u>Eradicating Never-Ending Startup Glitches on Skyrim's Initial Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nokia-c32-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nokia C32 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-lut-integration-in-obs-for-enhanced-visual-effects/"><u>In 2024, Mastering LUT Integration in OBS for Enhanced Visual Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-s23-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-windows-10-touch-display-with-these-5-fixes/"><u>Revitalize Your Windows 10 Touch Display with These 5 Fixes</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/safe-storage-techniques-for-your-digital-assets-a-guide-by-yl-computing/"><u>Safe Storage Techniques for Your Digital Assets: A Guide by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-hub-correcting-configuration-glitches-for-seamless-play-on-origin-platform/"><u>Solution Hub: Correcting Configuration Glitches for Seamless Play on Origin Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-laptops-touch-pad-issues-in-windows-solutions-for-win7-win8-and-win10/"><u>Troubleshooting Your Laptop's Touch Pad Issues in Windows: Solutions for Win7, Win8 & Win10</u></a></li>
+</ul></div>
 

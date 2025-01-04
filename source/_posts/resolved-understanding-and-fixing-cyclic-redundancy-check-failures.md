@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Understanding and Fixing Cyclic Redundancy Check Failures"
-date: 2024-08-15T11:02:00.836Z
-updated: 2024-08-16T11:02:00.836Z
+date: 2024-12-30T17:53:30.038Z
+updated: 2025-01-03T18:37:58.692Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
  I believe you’ve tried the most common fixes: wait for it or close the program and reboot it. But if these efforts can’t help you solve the**Google Chrome black screen** problem, you can try the methods below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these methods
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,8 +35,9 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 **[Bonus: Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Resize Chrome window
 
  According to some users, you can resize the Chrome window by clicking the**Restore Down** icon next to the Close button in the upper-right corner of Chrome.
@@ -58,6 +56,11 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart Chrome to check whether the issue is solved or not.
 5. If the issue is solved, you’ll know there is something wrong with at least one extension.
 6. Enable your installed extensions one by one to find which one is causing the problem. Then disable or remove it.
@@ -65,9 +68,9 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Add “`--disable-gpu` ” parameter
 
  Chrome creates a completely separate operating system process for each tag or extra extension you use. If you have multiple tabs open and various third-party extensions installed, you may find many processes running at the same time.
@@ -78,9 +81,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. On the Shortcuts tab, find Target. Add “`--disable-gpu` ” at the end of the text in the Target box. It should now read: …chrome.exe”`--disable-gpu` .  
 **Note** : There’s a space after**exe”** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom01.jpg)
 3. Click**OK** and then run Google Chrome.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Hit the three dots button in the upper right corner, then click**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom3.jpg)
 5. Click**Advanced** at the bottom.
 6. Deselect “**Use hardware acceleration when available** .”![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom4.jpg)
@@ -92,44 +92,43 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Run Google Chrome is a way to solve many Chrome problems. This Google Chrome black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. In the Compatibility tab, click Run this program in compatibility mode for. Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome8.jpg)
 3. Click**OK** then run Google Chrome to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your Google Chrome
 
  Updating your Google Chrome to the latest version can help you solve many issues. You can use another browser and go to the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIm77Z45T%5F4QIV%5Fh-tBh3K6Qy6EAAYASAAEgJfh%5FD%5FBwE&gclsrc=aw.ds) to download the latest version and install it manually.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Reinstall your Google Chrome
 
  The error could be caused by corrupted installation. So you can reinstall the program to solve this problem.
 
 1. Press the**Windows logo key** \+ **Pause** together then click **Control Panel** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Set Control Panel view by**Category** . Then click **Uninstall a program** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Right-click on Google Chrome and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome7.jpg)
 4. Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Install it manually and then check the issue is solved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your graphics card driver
 
@@ -157,16 +156,19 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -183,8 +185,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +192,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-fundamentals-of-online-tale-creation-methods/"><u>[New] 2024 Approved Fundamentals of Online Tale Creation Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-maximizing-productivity-activatingdeactivating-pip-on-ios/"><u>[Updated] 2024 Approved Maximizing Productivity Activating/Deactivating PIP on iOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-to-rearranging-youtube-playlists/"><u>[Updated] Step-by-Step Guide to Rearranging YouTube Playlists</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726220824243-aacmp3movavi/"><u>AAC到MP3自由下載及優化：Movavi簡易指南</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-issues-with-window-10-slow-shut-down-processes/"><u>Bypassing Issues with Window 10 Slow Shut Down Processes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-intelligent-cpu-drivers-fast-and-simple-steps/"><u>Download Intelligent CPU Drivers: Fast and Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-224003-deciphered-how-to-troubleshoot-and-resolve-unplayable-video-files/"><u>Error 224003 Deciphered: How to Troubleshoot and Resolve Unplayable Video Files</u></a></li>
+<li><a href="https://discover-great.techidaily.com/explore-the-best-manycam-substitutes-leading-live-webcam-software-solutions-for-seamless-broadcasting/"><u>Explore the Best ManyCam Substitutes: Leading Live Webcam Software Solutions for Seamless Broadcasting</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-black-screen-issue-solutions-for-your-google-chrome-woes/"><u>Fixing the Black Screen Issue: Solutions for Your Google Chrome Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-keyboard-light-up-functionality-on-mac-and-windows-systems/"><u>Fixing the Issue: How to Restore Keyboard Light Up Functionality on Mac and Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-peripherals-keyboard-and-mouse-woes-under-win7/"><u>How to Fix Unresponsive Peripherals: Keyboard and Mouse Woes Under Win7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 5G Phone without Google Account?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212310848-reveal-your-touchpad-master-device-management-solutions/"><u>Reveal Your Touchpad: Master Device Management Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-dealing-with-hp-spectre-x360-overheating-woes/"><u>Step-by-Step Fix for Dealing with HP Spectre X360 Overheating Woes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-top-11-screen-recorder-programs-for-mac/"><u>The Top 11 Screen Recorder Programs for Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-damaged-system-files-in-microsofts-latest-operating-systems/"><u>Troubleshooting Damaged System Files in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012159278-troubleshooting-metro-exodus-pc-version-crashes-solutions-unveiled/"><u>Troubleshooting Metro Exodus PC Version Crashes – Solutions Unveiled!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-quiet-output-insights-from-yl-computings-audio-experts-at-yl-software/"><u>Troubleshooting Quiet Output: Insights From YL Computing's Audio Experts at YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-getting-the-scroll-feature-back-on-your-windows-10-touchpad/"><u>Unstuck: Getting the Scroll Feature Back on Your Windows 10 Touchpad</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Non-Functional Astro A40 Microphone - Resolved
-date: 2024-12-20T16:32:32.710Z
-updated: 2024-12-25T16:52:29.342Z
+date: 2024-12-28T19:17:30.486Z
+updated: 2025-01-04T01:32:52.974Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 4. [**Update your audio driver**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -62,7 +62,7 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
@@ -71,7 +71,7 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -84,15 +84,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
@@ -119,6 +115,10 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -156,21 +156,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-which-apple-m1-machine-suits-your-lifestyle-more/"><u>[New] 2024 Approved Which Apple M1 Machine Suits Your Lifestyle More?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-achieving-perfect-time-lapses-with-ios-devices-for-2024/"><u>[New] Achieving Perfect Time-Lapses with iOS Devices for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-frame-rates-for-video-recorders-for-2024/"><u>[New] The Ultimate Guide to Frame Rates for Video Recorders for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-down-8-common-blunders-in-early-stage-youtube-success-for-2024/"><u>[Updated] Breaking Down 8 Common Blunders in Early-Stage YouTube Success for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-mix-fold-3-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Mix Fold 3</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-ways-to-turn-on-and-use-bluetooth-with-windows-11-and-10-a-complete-fix/"><u>Easy Ways to Turn On & Use Bluetooth with Windows 11 and 10 – A Complete Fix</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-issues-in-madden-22-fast-and-simple-methods-to-get-back-on-track/"><u>Fixing Issues in Madden 22 - Fast and Simple Methods to Get Back on Track</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-valorants-perpetual-loading-problem-for-smooth-gameplay/"><u>How to Resolve Valorant's Perpetual Loading Problem for Smooth Gameplay</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-poco-c55-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-v30t-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme V30T Phone that is Locked?</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-driver-conflicts-in-ftdi-bus-for-restoring-memory-data-accuracy/"><u>Overcoming Driver Conflicts in FTDI Bus for Restoring Memory Data Accuracy</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-vcruntime140dll-missing-file-message/"><u>Resolved: Fixing the VCRUNTIME140.dll Missing File Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-installation-failure-fixing-error-code-80240020/"><u>Resolving Windows 11 Installation Failure: Fixing Error Code 80240020</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-binkw32dll-not-found-issue-on-your-pc/"><u>Troubleshooting the binkw32.dll Not Found Issue on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-price-alert-apples-latest-10gen-ipad-now-just-299-after-prime-day-sale-ends-news/"><u>Unbeatable Price Alert! Apple's Latest 10Gen iPad Now Just $299 After Prime Day Sale Ends News</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-build-1607-installation-errors-and-how-to-fix-them/"><u>Windows 11 Build 1607 Installation Errors and How to Fix Them</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiled-top-10-superior-gopro-housing-options/"><u>[New] Unveiled Top 10 Superior GoPro Housing Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-synchronize-your-drone-and-its-gimbal/"><u>[Updated] In 2024, How to Synchronize Your Drone and Its Gimbal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-premier-choices-for-advanced-smart-eyewear/"><u>2024'S Premier Choices for Advanced Smart Eyewear</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-vivo-s18-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Vivo S18.</u></a></li>
+<li><a href="https://common-error.techidaily.com/breeze-through-updating-windows-with-this-guide-for-error-0x80070652-fixes/"><u>Breeze Through Updating Windows with This Guide for Error 0X80070652 Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-correctly-addressing-the-a-disk-read-error-occurred-warning-in-windows-11/"><u>Guide: Correctly Addressing the 'A Disk Read Error Occurred' Warning in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>How to Reset a Locked Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-8-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 8 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://common-error.techidaily.com/lonicera-japonica-japanese-honeysuckle-or-asian-trumpet-honeysuckle-a-vine-species-native-to-east-asia-with-trumpet-shaped-flowers-which-often-have-a-sweet-150/"><u>Lonicera Japonica (Japanese Honeysuckle or Asian Trumpet Honeysuckle): A Vine Species Native to East Asia with Trumpet-Shaped Flowers, Which Often Have a Sweet Scent and Are Typically White or Yellow.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/reduce-high-cpu-impact-from-win11s-wmi-host/"><u>Reduce High CPU Impact From Win11's WMI Host</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-10-update-issue-with-error-code-0xc1900208/"><u>Resolved: Fixing Windows 10 Update Issue with Error Code 0xC1900208</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-wwe-2k-correcting-the-dx11-feature-level-100-issue/"><u>Resolving WWE 2K: Correcting the DX11 Feature Level 10.0 Issue</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-gt-10-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from GT 10 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-windows-1ntegrity-issues-using-sfcdism-tools/"><u>The Ultimate Guide to Fixing Windows 1Ntegrity Issues Using SFC/DISM Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-windows-ebyten-10-touchscreen-issues-a-step-by-step-guide/"><u>Troubleshooting and Resolving Windows Ebyten 10 Touchscreen Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitpic-saver-streamline-ios-video-downloads-from-tweets-for-2024/"><u>TwitPic Saver Streamline iOS Video Downloads From Tweets for 2024</u></a></li>
 </ul></div>
 

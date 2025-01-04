@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Fixing Windows 10/11 Login Errors Caused by User Profile Service Glitches"
-date: 2024-08-15T11:02:09.168Z
-updated: 2024-08-16T11:02:09.168Z
+date: 2025-01-01T18:49:19.056Z
+updated: 2025-01-03T22:36:24.927Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
  If you get **Unknown USB Device (Port Reset Failed)** error in Device Manager, your USB device most probably won’t be recognized by your PC. The error could be caused by different issues. Here you will learn the top solutions to fix the problem. Try the solutions and one must work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800776f4e2c0.jpg)
 
  The error can be caused by hardware issues. So first, follow below simple instructions to do the troubleshooting.
@@ -48,9 +45,6 @@ Follow these steps:
 
  1\. In Device Manager, under category “Universal Serial Bus controllers”, right-click on**Generic USB Hub** device and select Update Driver Software…
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800917567e49.jpg)
 
  2\. Select**Browse my computer for driver software** .
@@ -63,9 +57,6 @@ Follow these steps:
 
  4\. Check the box next to “Show compatible hardware” and select**Generic USB Hub** . Click on**Next** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba312822f8b.png)
 
  Then Windows will update the driver software for the device. If it is done successfully, a window will pop up like this.
@@ -80,9 +71,6 @@ Follow these steps:
 
 You can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/)  as your final solution.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
  **5\. Change Power Management Setting**
@@ -94,16 +82,10 @@ Follow below steps.
 1. In Device Manager, under category “Universal Serial Bus controllers”,  
  Double-click the “USB Root Hub” device, and go to the **Power Management**  tab. (if there’s more than one USB Root Hub device, repeat these steps for each one.)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31da19f02.jpg)
 
 2\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31b753d11.png)
 
 <ins class="adsbygoogle"
@@ -112,8 +94,6 @@ Follow below steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +101,26 @@ Follow below steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-low-cost-digital-video-capture-software/"><u>[Updated] Essential Low-Cost Digital Video Capture Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/act-now-steams-annual-mid-year-discount-event-has-started/"><u>Act Now: Steam's Annual Mid-Year Discount Event Has Started</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-irritating-pop-ups-and-cracks-in-your-speaker-with-these-solutions-for-windows-11-or-7/"><u>Banish Irritating Pop-Ups and Cracks in Your Speaker with These Solutions for Windows 11 or 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-monster-hunters-stealthy-foes-eradicating-the-dark-screen-malfunction-when-initiating-gameplay/"><u>Conquering Monster Hunter's Stealthy Foes: Eradicating the Dark Screen Malfunction When Initiating Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-instant-remote-desktop-in-win-11/"><u>Enabling Instant Remote Desktop in Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-hp-laptop-keyboard-issues-fast-and-simple-now-solved/"><u>Fix HP Laptop Keyboard Issues Fast and Simple - Now Solved</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-your-content-potential-best-ideas-for-youtube-themes/"><u>In 2024, Unlock Your Content Potential Best Ideas for YouTube Themes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-truth-behind-winchatgpt-extension/"><u>Revealing Truth Behind WinChatGPT Extension</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-activate-wi-fi-on-any-gadget/"><u>Troubleshooting Guide: How to Activate Wi-Fi on Any Gadget</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-this-os-is-unsupported-error-when-setting-up-software/"><u>Troubleshooting Steps for 'This OS Is Unsupported Error' When Setting Up Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-solve-driver-caused-restart-problems-on-your-pc/"><u>Troubleshooting Tips: Solve Driver-Caused Restart Problems on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangle-your-fifa-19-gameplay-with-easy-fixes-for-the-notorious-directx-error/"><u>Untangle Your FIFA 19 Gameplay with Easy Fixes for the Notorious DirectX Error</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

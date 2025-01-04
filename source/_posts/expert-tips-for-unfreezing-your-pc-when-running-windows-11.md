@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Unfreezing Your PC When Running Windows 11
-date: 2024-12-20T17:52:31.357Z
-updated: 2024-12-25T17:33:45.841Z
+date: 2024-12-29T17:13:07.206Z
+updated: 2025-01-04T05:12:49.029Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Your**Windows Store** has been acting up recently.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Windows Store cache may be damaged
 
  Before you try these fixes, please make sure your computer’s date, time and time zone are set correctly.
@@ -40,19 +44,19 @@ Your**Windows Store** has been acting up recently.
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**R** at the same time, then type**wsreset.exe** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Once completed, Windows Store will pop open.
 
@@ -76,10 +80,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
 
 * If yes, rename the folder**cache.old** . Create a new folder and name it**cache** . Close the window.
@@ -100,7 +100,7 @@ Your**Windows Store** has been acting up recently.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
@@ -111,13 +111,13 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and check if the problem has been sorted out.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Want us to fix the problem for you?
 
@@ -142,22 +142,19 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/he-small-business-video-marketing-playbook/"><u>[New] The Small Business Video Marketing Playbook</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-easy-anti-cheat-failed-to-start-in-new-world-issue/"><u>[RESOLVED] How to Fix 'Easy Anti-Cheat Failed to Start in New World' Issue</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-create-impactful-youtube-videos-top-20-font-picks-for-2024/"><u>[Updated] Create Impactful YouTube Videos Top 20 Font Picks for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-10-youtube-rippers-for-media-conversion/"><u>[Updated] In 2024, Top 10 YouTube Rippers for Media Conversion</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>2024 Approved From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-insights-troubleshooting-and-repairing-the-black-screen-on-your-dell-device/"><u>Complete Insights: Troubleshooting and Repairing the Black Screen on Your Dell Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-to-launch-the-hosted-network-feature-on-windows-10-systems/"><u>Effective Fixes to Launch the Hosted Network Feature on Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-stability-monster-hunter-world-on-pc-connections/"><u>Fixing Stability: Monster Hunter World on PC Connections</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-print-screen-functionality-on-your-windows-11-or-10-computer/"><u>How to Restore Print Screen Functionality on Your Windows 11 or 10 Computer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-note-30-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Note 30 FRP Bypass</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-seamless-integration-of-luts-for-enhanced-cinematography/"><u>In 2024, Seamless Integration of LUTs for Enhanced Cinematography</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721956762295-maximize-your-ai-potential-with-our-picks-of-the-top-7-chatgpt-chrome-extensions/"><u>Maximize Your AI Potential with Our Picks of the Top 7 ChatGPT Chrome Extensions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-steam-services-not-responding-to-unlock-digital-purchases-again/"><u>Overcoming 'Steam Services Not Responding' To Unlock Digital Purchases Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-troubleshooting-unwritable-segment-at-memory-reference-point-x/"><u>Resolved Issue: Troubleshooting Unwritable Segment at Memory Reference Point X</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/seamless-mp4-to-iphone-conversion-ensure-flawless-video-playback/"><u>Seamless MP4 to iPhone Conversion: Ensure Flawless Video Playback</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-why-is-my-discord-camera-not-capturing-video/"><u>Troubleshooting Steps: Why Is My Discord Camera Not Capturing Video?</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-eradicating-screen-tear-glitch-in-your-favorite-shooter-valorant/"><u>Ultimate Guide: Eradicating Screen Tear Glitch in Your Favorite Shooter, Valorant</u></a></li>
+<li><a href="https://common-error.techidaily.com/net-framework-35-trouble-heres-how-to-fix-error-code-0x800f081f-during-installation/"><u>.NET Framework 3.5 Trouble? Here's How to Fix Error Code 0X800F081F During Installation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-instant-guide-setup-snapchat-for-mac-users/"><u>[New] 2024 Approved Instant Guide Setup Snapchat for Mac Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-essential-tutorial-for-facebook-live-on-roku-tv/"><u>[Updated] 2024 Approved The Essential Tutorial for Facebook Live on Roku TV</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gaming-beyond-reality-top-5-psvr-games-on-the-approach/"><u>[Updated] Gaming Beyond Reality Top 5 PSVR Games on the Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-universe-of-gesture-technology/"><u>2024 Approved Exploring the Universe of Gesture Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-online-collections-for-3d-typography/"><u>2024 Approved Prime Online Collections for 3D Typography</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-the-cube-androidios-edition-of-tetris-battles/"><u>Conquer the Cube: Android/iOS Edition of Tetris Battles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-epson-wf-2540-printers-on-your-laptopdesktop-with-win7-81-and-10/"><u>Easy Installation of Epson WF 2540 Printers on Your Laptop/Desktop with Win7, 8.1 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-delays-resolving-keyboard-slowdowns-on-windows-11/"><u>Fixing Persistent Delays: Resolving Keyboard Slowdowns on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-curb-microsoft-telemetrys-intensive-disk-use-on-your-windows-11-device-for-better-efficiency/"><u>How to Curb Microsoft Telemetry's Intensive Disk Use on Your Windows 11 Device for Better Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pro-starter-pack-2023-edition-free/"><u>In 2024, Premiere Pro Starter Pack - 2023 Edition (Free)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-corsair-one-pro-the-ultimate-tool-for-gamers/"><u>In-Depth Analysis of the Corsair One Pro: The Ultimate Tool for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-playing-frustratingly-fix-csgo-crash-problems-instantly/"><u>Stop Playing Frustratingly: Fix CSGO Crash Problems Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-stalled-during-setup-heres-the-fix/"><u>Windows Stalled During Setup? Here's the Fix!</u></a></li>
 </ul></div>
 

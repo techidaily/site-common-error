@@ -1,7 +1,7 @@
 ---
 title: How to Solve the Problem of Non-Functional FN Keys on Laptop/PC
-date: 2024-12-19T16:28:25.829Z
-updated: 2024-12-25T20:45:25.235Z
+date: 2025-01-02T01:33:19.937Z
+updated: 2025-01-04T01:40:45.762Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -30,6 +34,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -45,24 +53,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -79,10 +79,6 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
@@ -102,12 +98,16 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
@@ -149,18 +149,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>[New] 2024 Approved Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/"><u>[New] In 2024, Mastering Mayhem & Mystery The Essential Gaming List (Top 10)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nison-video-visionaries-finding-your-cms-for-2024/"><u>[New] Unison Video Visionaries Finding Your CMS for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-core-framework-principles-for-engaging-online-promotions-for-2024/"><u>[Updated] Core Framework Principles for Engaging Online Promotions for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/amplifying-visuals-android-video-guide/"><u>Amplifying Visuals Android Video Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-and-solving-the-chrome-plugin-load-failure-dilemma-in-windows-10/"><u>Deciphering and Solving the 'Chrome Plugin Load Failure' Dilemma in Windows 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-asus-pce-ac68-wifi-card-software-update-now/"><u>Download the Latest ASUS PCE-AC68 WiFi Card Software Update Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-restore-functionality-of-windows-key-on-win10/"><u>Effective Solutions to Restore Functionality of Windows Key on Win10</u></a></li>
-<li><a href="https://common-error.techidaily.com/facing-printer-issues-with-pdfs-here-are-fast-remedies/"><u>Facing Printer Issues with PDFs? Here Are Fast Remedies</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-13-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 13? How to Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-common-problems-with-your-wacom-tablet-expert-advice-and-solutions/"><u>Resolving Common Problems with Your Wacom Tablet - Expert Advice & Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-windows-update-error-0x802n402c-successfully/"><u>Troubleshooting Guide: Overcoming Windows Update Error 0X802n402C Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-responsive-windows-key-issue-on-windows-11/"><u>Troubleshooting the Non-Responsive Windows Key Issue on Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-anime-inspired-dance-routines-top-20-tiktok-trends/"><u>[New] Anime-Inspired Dance Routines Top 20 TikTok Trends</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-youtube-makeup-craft-color-correction-essentials/"><u>[New] The YouTube Makeup Craft Color Correction Essentials</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-spectacular-scrutiny-and-variant-solutions/"><u>[Updated] 2024 Approved Spectacular Scrutiny & Variant Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-proven-strategies-to-decrease-graphics-card-usage-from-desktop-window-manager-on-your-pc-win-10-and-11/"><u>5 Proven Strategies to Decrease Graphics Card Usage From Desktop Window Manager on Your PC (Win 10 & 11)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquering-spreadsheets-mastering-chatgpt-integration-with-excel/"><u>Conquering Spreadsheets: Mastering ChatGPT Integration with Excel</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-emergency-call-glitches-6-tips-for-iphone-users/"><u>Dealing with Emergency Call Glitches: 6 Tips for iPhone Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/diuril-and-then-lipitor-only/"><u>Diuril and Then Lipitor Only</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-keyboard-sticky-keys-problem/"><u>Fix Windows Keyboard Sticky Keys Problem</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-frame-rate-conversion-turning-120fps-videos-into-60fps-seamlessly-explained/"><u>Mastering Frame Rate Conversion: Turning 120FPS Videos Into 60FPS Seamlessly Explained!</u></a></li>
+<li><a href="https://common-error.techidaily.com/obtaining-permission-from-windows-trustedinstaller-to-edit-files-easily/"><u>Obtaining Permission From Windows' TrustedInstaller to Edit Files Easily</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/open-source-fb-songs-downloader/"><u>Open Source FB Songs Downloader</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-geforce-experience-cannot-access-configuration-details/"><u>Resolved: GeForce Experience Cannot Access Configuration Details</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-file-explorer-problems-in-windows-11-step-by-step-fixes/"><u>Troubleshooting Stuck File Explorer Problems in Windows 11 – Step-by-Step Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oneplus-11r-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from OnePlus 11R to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

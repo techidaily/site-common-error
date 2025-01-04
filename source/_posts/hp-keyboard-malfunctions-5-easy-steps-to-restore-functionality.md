@@ -1,7 +1,7 @@
 ---
 title: HP Keyboard Malfunctions? 5 Easy Steps to Restore Functionality
-date: 2024-08-15T11:00:23.918Z
-updated: 2024-08-16T11:00:23.918Z
+date: 2024-12-27T17:02:24.458Z
+updated: 2025-01-04T01:59:48.893Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -39,10 +40,6 @@ Here’s how to reinstall the keyboard driver:
 
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -54,6 +51,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -67,17 +68,15 @@ Here’s how to reinstall the keyboard driver:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -118,6 +117,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -128,25 +131,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -172,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +177,26 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-conduct-an-audiovisual-symphony-for-ppt/"><u>[New] Conduct an Audiovisual Symphony for PPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/repaired-comprehensive-tips-to-correct-the-pervasive-red-screen-of-death-problem/"><u>[REPAIRED] Comprehensive Tips to Correct the Pervasive 'Red Screen of Death' Problem</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-activatingdeactivating-picture-in-picture-feature/"><u>[Updated] In 2024, Activating/Deactivating Picture-in-Picture Feature</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-maximize-your-mobile-podcast-experience-on-iphone/"><u>[Updated] Maximize Your Mobile Podcast Experience on iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-discover-the-top-10-cost-free-video-conferencing-apps-for-businesses-and-schools/"><u>2024 Approved Discover the Top 10 Cost-Free Video Conferencing Apps for Businesses & Schools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-online-subtitle-extractors-for-budget-friendly-viewers/"><u>2024 Approved Top 10 Online Subtitle Extractors for Budget-Friendly Viewers</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fixes-for-malfunctioning-windows-keyboards-dealing-with-persistent-keys/"><u>DIY Fixes for Malfunctioning Windows Keyboards: Dealing with Persistent Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-your-system-cant-reach-the-remote-server/"><u>Effective Solutions for When Your System Can't Reach the Remote Server</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/elevate-your-music-journey-unleash-your-inner-star-in-karaoke-cloud-pro-live-sessions/"><u>Elevate Your Music Journey – Unleash Your Inner Star in Karaoke Cloud Pro Live Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-your-windows-11-touchscreen-issues/"><u>Five Effective Methods to Repair Your Windows 11 Touchscreen Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-p55plus-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel P55+ online without jailbreak</u></a></li>
+<li><a href="https://fox-making.techidaily.com/macbooksd/"><u>MacBookを使用したSDメモリカードの利用手順：詳細な案内</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-monitor-errors-a-deep-dive-into-unsupported-input-categories/"><u>Navigating Monitor Errors: A Deep Dive Into Unsupported Input Categories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-windows-for-an-exceptional-listening-experience-top-8-for-2024/"><u>Navigating Windows for an Exceptional Listening Experience (Top 8) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-persistent-update-issue-fixing-error-code-0x8024401c-in-windows-10-and-11-systems/"><u>Overcoming the Persistent Update Issue: Fixing Error Code 0X8024401c in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shielding-from-silicon-scribes-recognizing-pseudo-writings/"><u>Shielding From Silicon Scribes: Recognizing Pseudo-Writings</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-escaping-the-endless-loop-of-windows-configuration-preparation/"><u>Solution Guide: Escaping the Endless Loop of Windows Configuration Preparation</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-pc-running-windows-11-turning-on-without-command/"><u>Why Is My PC Running Windows 11 Turning on without Command?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207707840-windows-10-touchscreen-issues-fix-it-in-just-five-ways/"><u>Windows 10 Touchscreen Issues? Fix It in Just Five Ways!</u></a></li>
+</ul></div>
 

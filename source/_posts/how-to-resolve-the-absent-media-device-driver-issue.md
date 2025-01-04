@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Absent Media Device Driver Issue
-date: 2024-12-20T18:40:51.196Z
-updated: 2024-12-25T17:21:18.696Z
+date: 2024-12-27T19:23:26.700Z
+updated: 2025-01-03T19:45:36.962Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Here are some solutions that have helped people resolve the error “**Destiny 2
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Connect to the Destiny 2 server in another time
 
 It’s possible that too many people connect to the Destiny servers during the time period, so the servers are overloading and you will fail to connect. So you can wait for a while and try playing the game in another time. This issue can be automatically fixed. If you still have the error “**Destiny 2 servers are not available**”, don’t worry. There’s something else to try.
@@ -55,11 +59,7 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click**Change adapter** **settings** on the left.  
@@ -69,12 +69,12 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
@@ -83,6 +83,10 @@ It should have fixed the server issues in Destiny 2\. If not, don’t be upset. 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Use the Ethernet connection
 
 It’s recommended to use the Ethernet connection, since playing games like Destiny 2 requires a more stable and faster Internet connection. So you can switch to the**Ethernet connection**on your computer to see if it works. If you want to use the WiFi connection, or there’s no Ethernet connection available, try these steps to force your computer (and Destiny 2 included) to connect via WiFi.
@@ -90,17 +94,13 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
@@ -117,7 +117,7 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
@@ -147,16 +147,22 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-selections-premium-webcam-platforms/"><u>[New] In 2024, Ultimate Selections Premium Webcam Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-setup-canon-mx920-printer-software-for-windows-operating-systems/"><u>Download and Setup Canon MX920 Printer Software for Windows Operating Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone SE (2020) Apple ID and Apple Pay</u></a></li>
-<li><a href="https://common-error.techidaily.com/integrating-windows-hello-with-appropriate-camera/"><u>Integrating Windows Hello With Appropriate Camera</u></a></li>
-<li><a href="https://os-tips.techidaily.com/keep-every-call-a-comprehensive-method-to-store-iphone-voicemail-recordings/"><u>Keep Every Call: A Comprehensive Method to Store iPhone Voicemail Recordings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/magix-music-maker-review/"><u>Magix Music Maker Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/reset-or-refresh-a-beginners-guide-to-reviving-windows-10/"><u>Reset or Refresh - A Beginner's Guide to Reviving Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-hp-laptops-webcam-issues-on-windows-10-a-step-by-step-guide/"><u>Solving Your HP Laptop's Webcam Issues on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/m-like-never-before-turning-on-youtubes-av1/"><u>Stream Like Never Before Turning On YouTube's AV1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-ipad-air-gadgets-and-enhancements-in-2n24-your-ultimate-shopping-guide/"><u>Top-Rated iPad Air Gadgets & Enhancements in 2N24 - Your Ultimate Shopping Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203614301-trouble-with-camera-on-windows-overcome-error-0xa00f4292-here/"><u>Trouble with Camera on Windows? Overcome Error 0xA00F4292 Here!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unveiling-superior-screen-recording-obs-vs-fraps-face-off/"><u>[New] 2024 Approved Unveiling Superior Screen Recording OBS vs Fraps Face-Off</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-innovative-approaches-for-unwavering-viewership-within-limit/"><u>[Updated] In 2024, Innovative Approaches for Unwavering Viewership (Within Limit)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-portable-gba-players-on-android/"><u>[Updated] Premier Portable GBA Players on Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-seo-savvy-boosting-your-podcasts-discoverability-and-rankings/"><u>2024 Approved SEO Savvy Boosting Your Podcast's Discoverability and Rankings</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-a-broken-corsair-keyboard-now-working-perfectly/"><u>Expert Solutions for a Broken Corsair Keyboard - Now Working Perfectly</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/how-to-safeguard-your-cpanel-email-data-two-primary-techniques-and-a-great-alternative/"><u>How to Safeguard Your cPanel Email Data: Two Primary Techniques & a Great Alternative</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-how-to-polish-your-tiktok-edits-advanced-strategies-for-success/"><u>In 2024, How to Polish Your TikTok Edits Advanced Strategies for Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-peak-craft-studio-masterpiece-insight/"><u>In 2024, Peak Craft Studio Masterpiece Insight</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-address-steam-server-connection-errors-successfully/"><u>Resolved: How to Address Steam Server Connection Errors Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-hosted-network-couldnt-start-on-windows-11-devices/"><u>Solution Steps for 'Hosted Network Couldn't Start' On Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-windows-1er-update-failures-cracking-the-0x800705b4-error-code-in-windows-10/"><u>Step-by-Step Resolution for Windows 1Er Update Failures: Cracking the 0X800705B4 Error Code in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-repairing-your-pc-with-a-missing-boot-drive/"><u>Step-by-Step Solution: Repairing Your PC with a Missing Boot Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-steps-to-pair-microsoft-wireless-hdmi-with-a-windows-10-pc/"><u>Successful Steps to Pair Microsoft Wireless HDMI with a Windows 10 PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-insights-on-the-latest-gadgets/"><u>Tom's Tech Reviews: Comprehensive Insights on the Latest Gadgets</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208935337-windows-10-touchpad-woes-heres-how-to-fix-sluggish-or-nonfunctional-scroll-buttons/"><u>Windows 10 Touchpad Woes? Here's How to Fix Sluggish or Nonfunctional Scroll Buttons!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-users-rejoice-solving-chrome-error-unable-to-load-plugin-successfully-explained/"><u>Windows 11 Users Rejoice! Solving Chrome Error: Unable to Load Plugin Successfully Explained</u></a></li>
 </ul></div>
 

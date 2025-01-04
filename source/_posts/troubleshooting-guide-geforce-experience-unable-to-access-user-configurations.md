@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: 'GeForce Experience Unable to Access User Configurations'"
-date: 2024-08-15T11:00:06.244Z
-updated: 2024-08-16T11:00:06.244Z
+date: 2024-12-28T05:33:13.947Z
+updated: 2025-01-03T16:56:10.571Z
 tags:
   - win11
   - win10
@@ -28,13 +28,18 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 **IMPORTANT** : Some of the methods below require you to log into Windows. If you’re unable to use the laptop keyboard to do that, **use an external keyboard or a mouse instead** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Restart your computer
 
  Restarting computer could resolve many hardware issues instantly. So it’s recommended you try this simple fix first before moving on.
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the driver
 
@@ -50,18 +55,12 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -79,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Perform a system restore
 
  If the keyboard stopped working after you updated Windows or installed some software, performing a system restore would solve the problem. Note you need to have[restore points](https://tools.techidaily.com/drivereasy/download/) created.
@@ -91,9 +94,6 @@ If you have no idea how to do a system restore, refer steps below:
 
 2) View by **Small icons** and click **System** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
 
  3) Click**System protection** in left pane.
@@ -106,9 +106,6 @@ If you have no idea how to do a system restore, refer steps below:
 
  5) Click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
@@ -117,17 +114,19 @@ If you have no idea how to do a system restore, refer steps below:
 
  7) Click**Finish** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Click**Yes** to confirm the restore.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -142,8 +141,6 @@ If you have no idea how to do a system restore, refer steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +148,26 @@ If you have no idea how to do a system restore, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-content-structure-elevated-templates-for-yt/"><u>[Updated] Mastering Content Structure Elevated Templates for YT</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-lava-blaze-curve-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Lava Blaze Curve 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-broken-dell-webcams-in-windows-environments/"><u>Comprehensive Solutions for Broken Dell Webcams in Windows Environments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-lightest-and-slimmest-laptop-by-lg-the-cutting-edge-gram-technology-explained-next-gen-computing-insights/"><u>Discover the Lightest and Slimmest Laptop by LG: The Cutting-Edge GRAM Technology Explained - Next-Gen Computing Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficiently-convert-iphone-photos-jpg-png-into-pdf-format/"><u>Efficiently Convert iPhone Photos (JPG, PNG) Into PDF Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-annoyance-of-constant-restarts-in-windows-10-with-these-steps/"><u>End the Annoyance of Constant Restarts in Windows 10 with These Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-corrupted-or-malfunctioning-image-files-in-windows-10-and-windows-11/"><u>Fix Corrupted or Malfunctioning Image Files in Windows 10 and Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-edge-40-pro-by-drfone-android/"><u>How to Bypass FRP from Motorola Edge 40 Pro?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-highlight-reel-of-2022-skating-stars/"><u>In 2024, Ultimate Highlight Reel of 2022 Skating Stars</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-hardware-with-toms-guidance/"><u>Navigate the World of Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-record-audio-with-audacity-for-free/"><u>New In 2024, How to Record Audio with Audacity for Free?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-display-on-windows-11-updated/"><u>Optimized Display on Windows 11 Updated</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-troublesome-0x80072f8f-issue-on-windows-operating-systems/"><u>Step-by-Step Fixes for the Troublesome 0X80072F8F Issue on Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-unrecognized-headphones-on-your-laptop/"><u>Step-by-Step Solution: Unrecognized Headphones on Your Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-you-encounter-internet-explorer-has-crashed/"><u>Troubleshooting Steps When You Encounter 'Internet Explorer Has Crashed'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-right-click-issue-fixes-for-mouse-functionality-on-windows-10/"><u>Troubleshooting the Right-Click Issue: Fixes for Mouse Functionality on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-for-the-persistent-error-code-0x80073712-on-windows-10-systems/"><u>Ultimate Troubleshooting for the Persistent Error Code 0X80073712 on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209029556-why-is-my-touchpad-not-scrolling-properly-in-windows-11-solutions-inside/"><u>Why Is My Touchpad Not Scrolling Properly in Windows 11? Solutions Inside</u></a></li>
+</ul></div>
 

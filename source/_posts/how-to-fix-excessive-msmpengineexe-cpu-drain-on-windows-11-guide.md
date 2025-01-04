@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excessive MsMpEngine.exe CPU Drain on Windows 11 [GUIDE]
-date: 2024-12-21T18:04:30.100Z
-updated: 2024-12-25T18:30:36.751Z
+date: 2024-12-27T21:31:18.463Z
+updated: 2025-01-03T18:51:12.048Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  In simpler words, it’ s a legitimate Windows process when running certain Windows operations. But in certain cases, you may see the **svchost.exe**  process hogging the CPU or memory resources in **Task Manager**  without apparent reasons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **How do I fix it?**
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2: Disable certain svchost.exe services**
@@ -74,9 +74,17 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
@@ -84,21 +92,17 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9) See if the problem is resolved.
 
@@ -110,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
@@ -124,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  4) Restart your computer after this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **4: Troubleshoot Windows Updates issues**
 
  If something is wrong with your Windows Updates settings, svchost.exe will see an abnormal increase as well. To fix it:
@@ -132,21 +136,21 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -163,10 +167,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
@@ -189,18 +189,16 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/fixed-snipping-tool-not-working-on-windows-1011/"><u>[Fixed] Snipping Tool Not Working on Windows 10/11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-expert-insights-on-powerdirector-24-review/"><u>[Updated] Expert Insights on PowerDirector '24 Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/decrease-wmi-cpu-load-on-win11-quick-guide/"><u>Decrease WMI CPU Load on Win11 - Quick Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211569109-fixing-the-dota-2-changing-rendering-api-error-error-id-2024-in-minutes/"><u>Fixing the Dota 2 Changing Rendering API Error (Error ID: 2024) in Minutes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-magic-5-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Magic 5 Phone that is Locked?</u></a></li>
-<li><a href="https://common-error.techidaily.com/is-d3d-device-loss-causing-unreal-to-exit/"><u>Is D3D Device Loss Causing Unreal to Exit?</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-top-10-free-emoji-websites-to-download-emojis-online/"><u>New In 2024, Top 10 Free Emoji Websites to Download Emojis Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/noise-returns-fix-for-laptops-missing-headset-echoes/"><u>Noise Returns: Fix for Laptop's Missing Headset Echoes</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-setting-synchronization-on-geforce-software/"><u>Overcoming Challenges with Setting Synchronization on GeForce Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/technological-troubleshooting-pc-cant-cut-the-snooze/"><u>Technological Troubleshooting: PC Can't Cut the Snooze</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/the-top-techniques-for-secure-file-preservation-insights-from-the-professionals-at-yl-software/"><u>The Top Techniques for Secure File Preservation - Insights From the Professionals at YL Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/thrifty-cloud-haven-budget-storage-bulk-files-handling/"><u>Thrifty Cloud Haven Budget Storage, Bulk Files Handling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-choosing-the-best-midi-player-and-mastering-your-tracks/"><u>Ultimate Guide: Choosing the Best MIDI Player & Mastering Your Tracks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-spicing-up-videos-with-youtube-music-linking-techniques/"><u>[New] 2024 Approved Spicing Up Videos with YouTube Music Linking Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-srt-to-sub-enhancing-video-captioning/"><u>[New] From SRT to SUB Enhancing Video Captioning</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>[New] In 2024, Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-compare-metaverse-vs-omniverse-an-ultimate-guide/"><u>[Updated] Compare Metaverse Vs. Omniverse An Ultimate Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-skyrocket-traffic-the-ultimate-list-of-video-growth-techniques/"><u>[Updated] Skyrocket Traffic The Ultimate List of Video Growth Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratisk-downloads-av-instagram-videos-i-mp4-format/"><u>Gratisk Downloads Av Instagram Videos I MP4 Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-resolving-diagnostic-monitoring-service-offline-issue/"><u>Successfully Resolving 'Diagnostic Monitoring Service Offline' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-guide-for-windows-10-touchscreen-malfunctions-5-steps/"><u>The Ultimate Troubleshooting Guide for Windows 10 Touchscreen Malfunctions (5 Steps)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-12-strange-and-unmissable-tech-bargains-this-october-exclusive-black-friday-offers-on-zdnet/"><u>Top 12 Strange & Unmissable Tech Bargains This October - Exclusive Black Friday Offers on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-absent-d3dx939dll-file-solutions-and-tips/"><u>Troubleshooting the Absent d3dx9_39.dll File - Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-to-silence-crackling-audio-problems-on-your-windows-pc-or-laptop/"><u>Ultimate Fixes to Silence Crackling Audio Problems on Your Windows PC or Laptop</u></a></li>
 </ul></div>
 

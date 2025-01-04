@@ -1,7 +1,7 @@
 ---
 title: "Error Catastrophe: Hardware Deadlock"
-date: 2024-12-21T20:55:22.619Z
-updated: 2024-12-25T19:46:23.888Z
+date: 2024-12-27T17:21:31.314Z
+updated: 2025-01-04T02:35:20.502Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
  Before you try any method listed below, make sure that your PC meets the minimum requirements for Volarant.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Minimum requirements for Valorant (30 FPS)
 
 | **Operating System** | Windows 7 / 8 / 10 64-bit |
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 | **Processor**        | Intel Core 2 DUO E8400    |
 | **Memory**           | 4 GB RAM                  |
 | **Graphics Card**    | Intel HD 4000             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 1. On your keyboard, press**Win** +**S** (the Windows logo key and the S key) and type**resolution** . Then click**Change the resolution of the display** in the search results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/search-box-resolution.jpg)
 2. Scroll down to the end and select**Advanced display settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
@@ -91,12 +87,24 @@ If the problem persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/game-mode-off.jpg)
 3. On your screen or the folder where you put your game, right click the game icon and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-right-click.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **If the problem persists, you can also disable fullscreen optimizations:**
 
 1. Click the Compatibility tab. Under the settings section, check**Disable fullscreen optimizations** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-properties.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your PC and launch Valorant again to see if the problem is fixed.
 
@@ -111,10 +119,6 @@ if it is not helping, simply move on to the next fix.
 2. In the Power Options menu, click the**Show additional plans** arrow and select**High performance** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/power-high-perform.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your PC and check if anything changes.
 
@@ -132,10 +136,6 @@ If nothing changes, you might need to check your graphic drivers.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro** **version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
 
@@ -157,10 +157,6 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/right-click-nvidia.png)
 2. In the left pane, select**Manage 3D Settings** and choose the**Global Settings** tab. Then scroll down to find**Vertical sync** and click the small arrow on its right. Select**On** in the drop-down list and click**Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
  Setting Vertical sync to**Adaptive** might also be efficient, according to some players.
@@ -174,10 +170,14 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click**Always on** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
@@ -186,17 +186,13 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-vsync-on.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When VSync is on, you should turn off**Limit FPS Always** in Valorant, or the two settings might conflict with each other.
 
  To turn off Limit FPS Always in Valorant, go to**Settings** \>**VIDEO** \>**GENERAL** , then set it to**Off** :  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-limit-fps-always.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 No luck with that? Keep reading.
 
@@ -225,7 +221,7 @@ If it doesn’t help, move on to the last fix.
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
@@ -238,18 +234,22 @@ For NVIDIA users:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/right-click-nvidia.png)
 2. In the left pane, select**Manage 3D Settings** and navigate to the**Global Settings** tab. Then scroll down to find**Max Frame Rate** and click the small arrow on its right.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings-max-frame-rate.png)
 3. Select**On** and move the slider to your monitor’s refresh rate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For AMD users:
 
 1. At the bottom left of the screen, click the search box and type**amd** . Then click**AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Radeon Chill** . Enable it and move the Max FPS slider to your PC’s frame rate.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics-1.jpg)
 
@@ -272,22 +272,17 @@ For AMD users:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-essential-tips-for-navigating-telegram-web/"><u>[New] Essential Tips for Navigating Telegram Web</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-dxgierrordevicehung-easily/"><u>[SOLVED] DXGI_ERROR_DEVICE_HUNG [Easily]</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-premier-hashtags-monitoring-on-facebook-twitter-and-instagram/"><u>[Updated] 2024 Approved Premier Hashtags Monitoring on Facebook, Twitter & Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/adobe-shockwave-and-flash-player-issues-in-google-chrome-solutions/"><u>Adobe Shockwave and Flash Player Issues in Google Chrome - Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/cursor-that-wont-quit-learn-how-to-make-it-stop-blinking/"><u>Cursor that Won't Quit? Learn How to Make It Stop Blinking</u></a></li>
-<li><a href="https://win-best.techidaily.com/effiziente-methoden-zur-datenpartition-und-wiederherstellung-des-speicherplatzvolumens-expertenrat/"><u>Effiziente Methoden Zur Datenpartition Und Wiederherstellung Des Speicherplatzvolumens - Expertenrat</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ce-9-festive-feasts-watch-holiday-epics-at-zero-cost-online-for-2024/"><u>Embrace 9 Festive Feasts Watch Holiday Epics at Zero Cost Online for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-10-mouse-problems-getting-the-right-click-to-work-again/"><u>Fix Windows 10 Mouse Problems: Getting the Right Click to Work Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-bluetooth-troubles-visible-now-in-device-manager/"><u>Fix Your Bluetooth Troubles: Visible Now in Device Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-mail-apps-0x800713f-error-in-windows-11-and-11/"><u>How to Fix the Mail App’s 0X800713f Error in Windows 11 & 11</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-plus-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6s Plus to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-edge-2023-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Edge 2023</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-graphic-glitches-in-valorant-a-step-by-step-fix-for-screen-anomalies/"><u>Overcome Graphic Glitches in VALORANT - A Step-by-Step Fix for Screen Anomalies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/propel-your-tiktok-presence-with-accurate-profile-numbers/"><u>Propel Your TikTok Presence with Accurate Profile Numbers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-failed-creation-of-a-d3d-vertex-shader-context/"><u>Resolving Failed Creation of a D3D Vertex Shader Context</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-ethernet-connection-problems-in-windows-11-and-7-a-comprehensive-guide/"><u>Solving Ethernet Connection Problems in Windows 11 and 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-repairs-missing-some-file-improvements/"><u>Stellar Repairs Missing some File Improvements.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-free-after-effects-title-templates/"><u>[New] 2024 Approved Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-reclaim-lost-performance-eradicate-the-root-cause-of-high-system-load-shell-infrastructures/"><u>[Solved] Reclaim Lost Performance: Eradicate the Root Cause of High System Load – Shell Infrastructures</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-propel-your-social-impact-with-strategic-facebook-video-ads/"><u>[Updated] In 2024, Propel Your Social Impact with Strategic Facebook Video Ads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Pro Max Without iTunes</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeated-rsod-issue-easy-steps-to-repair-your-devices-crimson-crisis/"><u>Defeated RSOD Issue - Easy Steps to Repair Your Device's Crimson Crisis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-restore-access-and-secure-your-data-on-locked-android-device-without-a-password/"><u>Guide: Restore Access & Secure Your Data on Locked Android Device without a Password</u></a></li>
+<li><a href="https://article-tips.techidaily.com/numerical-leaderboard-spotlight-eighth-in-photo-blender-for-2024/"><u>Numerical Leaderboard Spotlight Eighth in Photo Blender for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premier-5-time-lapse-camera-apps-for-2024/"><u>Premier 5 Time-Lapse Camera Apps for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/quick-fire-photos-with-iphone-burst-feature-for-2024/"><u>Quick-Fire Photos with iPhone Burst Feature for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207025522-step-by-step-solution-guide-fixing-a-malfunctioning-or-missing-shift-key-on-your-computer/"><u>Step-by-Step Solution Guide: Fixing a Malfunctioning or Missing Shift Key on Your Computer.</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-print-drivers-for-32-bit-systems-after-failure/"><u>Troubleshooting Tips: Restoring Print Drivers for 32-Bit Systems After Failure</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-meizu-21-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Meizu 21 Device</u></a></li>
 </ul></div>
 

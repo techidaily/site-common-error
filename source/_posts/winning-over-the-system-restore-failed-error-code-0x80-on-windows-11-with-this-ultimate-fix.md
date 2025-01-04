@@ -1,7 +1,7 @@
 ---
 title: "Winning Over the 'System Restore Failed: Error Code 0X80' On Windows 11 with This Ultimate Fix"
-date: 2024-08-15T11:04:47.875Z
-updated: 2024-08-16T11:04:47.875Z
+date: 2024-12-31T21:34:16.503Z
+updated: 2025-01-03T18:02:08.512Z
 tags:
   - win11
   - win10
@@ -23,11 +23,19 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
  If you are dealing with this error, you can check the methods below that can help you get rid of it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Access violation error
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
 
@@ -51,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
@@ -69,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2) The application unable to start
 
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
@@ -91,13 +100,18 @@ To resolve this error, you can try the methods below.
  To use Driver Easy to fix faulty drivers, you need to download and install it. Then open the program and click on**Scan Now** button. All the devices on your computer will be scanned and checked within a few seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
 
@@ -120,8 +134,9 @@ To resolve this error, you can try the methods below.
  On Windows 10/11, click**Create a restore** **point** ,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And then in the dialog popping up, click the**System Restore** button.
@@ -131,6 +146,10 @@ To resolve this error, you can try the methods below.
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
 
@@ -147,9 +166,6 @@ To repair BCD:
  If you are using Windows 8 or 10, click   **Next > Repair your computer > Troubleshoot > Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
 
@@ -167,17 +183,11 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
@@ -191,8 +201,6 @@ bootrec /rebuildbcd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +208,22 @@ bootrec /rebuildbcd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-high-cpu-usage-by-wudfhostexe-in-windows-11/"><u>[FIXED] High CPU Usage by WUDFHost.exe in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-search-filters-on-instagram-and-get-more-filters-for-free-for-2024/"><u>[New] How to Search Filters on Instagram and Get More Filters for Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hottest-youtube-music-playback-responses-23/"><u>[Updated] 2024 Approved Hottest YouTube Music Playback Responses '23</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-repairing-windows-10-0x80072efd-error-easy-fixes-inside/"><u>Complete Guide to Repairing Windows 10 '0X80072EFD' Error - Easy Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-solution-for-fixing-the-0x80072efd-problem-on-windows-11-systems/"><u>Complete Solution for Fixing the '0X80072EFD' Problem on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-methods-to-rectify-loading-errors-on-the-steam-platform/"><u>Effective Methods to Rectify Loading Errors on the Steam Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-your-gaming-experience-by-updating-windows-graphics-drivers-for-stable-minecraft-gameplay/"><u>Enhancing Your Gaming Experience by Updating Windows Graphics Drivers for Stable Minecraft Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-next-gen-tech-discover-why-the-iphone-16s-unique-innovations-make-it-a-must-upgrade/"><u>Experience Next-Gen Tech: Discover Why the iPhone 16'S Unique Innovations Make It a Must-Upgrade!</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-best-out-of-your-touchscreen-essential-tips-for-windows-10-users/"><u>Getting the Best Out of Your Touchscreen: Essential Tips for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-boldly-step-up-claim-your-set-of-50-exquisite-cost-free-youtube-promo-materials/"><u>In 2024, Boldly Step Up Claim Your Set of 50 Exquisite, Cost-Free YouTube Promo Materials</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-through-bluetooth-hurdles-a-comprehensive-fix-for-windows-11-users/"><u>Navigate Through Bluetooth Hurdles: A Comprehensive Fix for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-asus-touchscreen-pad-installation-on-windows-10-drivers-ready/"><u>Quick & Easy ASUS Touchscreen Pad Installation on Windows 10: Drivers Ready!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-steam-marketplace-connection-issues-a-step-by-step-guide/"><u>Solving Your Steam Marketplace Connection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/tapez-le-dans-votre-navigateur-les-outils-ultraperformants-pour-le-clonage-de-disques-durs-sous-windows-server-2012/"><u>Tapez-Le Dans Votre Navigateur : Les Outils Ultraperformants Pour Le Clonage De Disques Durs Sous Windows Server 2012</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+</ul></div>
 

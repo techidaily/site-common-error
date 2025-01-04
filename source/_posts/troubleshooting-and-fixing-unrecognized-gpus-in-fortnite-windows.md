@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Unrecognized GPUs in Fortnite (Windows)
-date: 2024-08-15T10:55:54.225Z
-updated: 2024-08-16T10:55:54.225Z
+date: 2024-12-29T02:05:10.332Z
+updated: 2025-01-03T21:47:50.405Z
 tags:
   - win11
   - win10
@@ -25,25 +25,15 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
  1)Press**Windows** key +**X** key together to open quick-access menu.  
  Click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
  2)Click**View** icon and tick on**Show hidden devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
 
  3)Find and expand**Network adapters** dialog.  
@@ -51,13 +41,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Method 2\. Check your wireless network adapter
 
  1)Follow[step 1 in Method 1](https://tools.techidaily.com/drivereasy/download/) to open Device Manager.
@@ -67,12 +56,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
@@ -94,10 +84,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  3) Click**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db867abdfc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now Microsoft will detect the update for you automatically.
 
@@ -115,11 +106,17 @@ Now Microsoft will detect the update for you automatically.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -139,8 +136,6 @@ Now Microsoft will detect the update for you automatically.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +143,22 @@ Now Microsoft will detect the update for you automatically.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-instagram-video-edge-planning-for-maximum-marketing-success-for-2024/"><u>[New] The Instagram Video Edge Planning for Maximum Marketing Success for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-targeted-success-using-snapads-for-business-growth-for-2024/"><u>[Updated] Targeted Success Using SnapAds for Business Growth for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-mobile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails-for-2024/"><u>[Updated] The Mobile Filmmaker’s Playbook Crafting Compelling YouTubes Thumbnails for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-misses-the-mark-on-ai-innovation-are-two-critical-breakthroughs-still-pending/"><u>Apple Misses the Mark on AI Innovation: Are Two Critical Breakthroughs Still Pending?</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-failed-attempts-at-connecting-with-remote-servers/"><u>Diagnosing and Repairing Failed Attempts at Connecting with Remote Servers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangling-the-s-mode-trap-in-windows-10-and-11/"><u>Disentangling the 'S Mode' Trap in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-restore-connected-audiovideo-in-windows/"><u>Easy Steps to Restore Connected Audio/Video in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortlessly-install-3dconnexion-drivers-on-pc/"><u>Effortlessly Install 3Dconnexion Drivers on PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-content-game-tactics-for-optimal-youtube-featured-channels-for-2024/"><u>Elevate Your Content Game Tactics for Optimal YouTube Featured Channels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-write-protected-media-devices-usb-sd-cd-on-windows-systems/"><u>How to Fix Write-Protected Media Devices (USB, SD, CD) on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-malfunctioning-usb-connectivity-in-windows-11-systems/"><u>How to Repair Malfunctioning USB Connectivity in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-not-launching-errors-in-pubg-2024-a-step-by-step-guide/"><u>How to Resolve 'Not Launching' Errors in PUBG 2024 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-unfreeze-file-explorer-in-windows-11/"><u>How to Troubleshoot and Unfreeze File Explorer in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/los-30-mejores-programas-libres-para-fotos-con-camara-ip-guia-completa-por-movavi/"><u>Los 30 Mejores Programas Libres Para Fotos Con Cámara IP: Guía Completa Por Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-chromes-ssl-protocol-error-now-solved/"><u>Troubleshooting Guide: Dealing with Chrome's SSL Protocol Error - Now Solved</u></a></li>
+</ul></div>
 

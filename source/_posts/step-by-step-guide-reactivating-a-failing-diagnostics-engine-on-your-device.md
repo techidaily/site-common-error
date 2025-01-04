@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reactivating a Failing Diagnostics Engine on Your Device"
-date: 2024-12-22T20:47:08.565Z
-updated: 2024-12-25T16:46:59.065Z
+date: 2024-12-30T05:45:11.878Z
+updated: 2025-01-03T18:19:06.159Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -56,29 +56,25 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -90,6 +86,10 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **netsh winsock reset**
 
@@ -127,15 +127,11 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
@@ -156,6 +152,10 @@ Restart your computer to see if the error has gone.
 2. Click the**Startup** tab and find**klhkum.dll** process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
@@ -184,14 +184,24 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/bypassing-the-welcome-screen-glitch-in-windows-11-quick-fixes/"><u>Bypassing the Welcome Screen Glitch in Windows 11, Quick Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-keyboards-locked-function-buttons/"><u>How To Repair Keyboard's Locked Function Buttons</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia XR21 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-edge-40-neo-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Edge 40 Neo Without PUK Codes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-gt-3-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme GT 3 Phone?</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-craft-effective-techniques-to-overcome-black-ops-amoortomies/"><u>Mastering the Craft: Effective Techniques to Overcome Black Ops Amoortomies</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-svchostexe-netsvcs-its-functions-and-solutions-for-excessive-bandwidth-use/"><u>Understanding svchost.exe: NETSVCS, Its Functions & Solutions for Excessive Bandwidth Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>[New] 2024 Approved Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-smoothly-embed-facebook-live-on-your-site/"><u>2024 Approved How to Smoothly Embed Facebook Live on Your Site</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-effective-techniques-to-unfreeze-a-stubborn-windows-10-taskbar/"><u>5 Effective Techniques to Unfreeze a Stubborn Windows 10 Taskbar!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-your-brand-on-instagram-the-top-9-actions-of-industry-stars-for-2024/"><u>Building Your Brand on Instagram The Top 9 Actions of Industry Stars for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-y36i-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo Y36i</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/create-buzz-and-go-viral-on-tiktok-discover-these-10-effective-methods/"><u>Create Buzz and Go Viral on TikTok: Discover These 10 Effective Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-problem-of-failure-during-directx-hardware-setup/"><u>Fixing the Problem of Failure During DirectX Hardware Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-windows-7-volume-controls-working-again/"><u>Get Your Windows 7 Volume Controls Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-performance-the-necessity-of-a-d3d11-compatible-graphics-card-for-running-our-engine/"><u>How to Ensure Smooth Performance: The Necessity of a D3D11-Compatible Graphics Card for Running Our Engine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-minimize-insurance-scams-and-surpass-client-satisfaction/"><u>How to Minimize Insurance Scams & Surpass Client Satisfaction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-output-error-for-headphones-and-speakers-in-windows-operating-systems-windows-1087/"><u>How to Resolve No Sound Output Error for Headphones and Speakers in Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-a1x-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo A1x 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/magic-in-motion-wired-solution-to-wireless-error/"><u>Magic in Motion: Wired Solution to Wireless Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-mastering-file-explorer-troubleshooting-on-windows-10/"><u>Quick Solutions: Mastering File Explorer Troubleshooting on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-hang-ups-what-to-do-if-windows-11-is-unresponsive/"><u>Resolving Hang-Ups: What to Do If Windows 11 Is Unresponsive?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-application-was-unable-to-start-correctly-0xc000007b-fixed/"><u>The Application Was Unable to Start Correctly (0Xc000007b) [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/triumphant-journey-post-nvidia-setup-hurdle/"><u>Triumphant Journey Post NVIDIA Setup Hurdle</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Impact of D3D Device Disappearance on Unreal
-date: 2024-12-20T20:14:09.273Z
-updated: 2024-12-25T18:23:43.288Z
+date: 2024-12-31T02:11:47.928Z
+updated: 2025-01-03T18:46:08.047Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,13 +51,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -80,7 +84,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -107,10 +111,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -131,7 +131,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -184,18 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-proven-techniques-for-obs-broadcasting-on-fb/"><u>[New] Proven Techniques for OBS Broadcasting on FB</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-obs-game-capture-black-screen-issue/"><u>[SOLVED] OBS Game Capture Black Screen Issue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-motionmaster-win8-edition/"><u>[Updated] MotionMaster Win8 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-of-buffering-woes-ultimate-fix-guide-for-kodi-users/"><u>End of Buffering Woes: Ultimate Fix Guide for Kodi Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-tackling-and-solving-power-surges-in-hub-terminals/"><u>Expert Advice for Tackling and Solving Power Surges in Hub Terminals</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-resolving-the-critical-windows-update-problem-0x80070490-quickly/"><u>Expert Tips: Resolving the Critical Windows Update Problem 0X80070490 Quickly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S23+?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-understanding-video-storage-daylong-total-in-gbs/"><u>In 2024, Understanding Video Storage Daylong Total in GBs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-users/"><u>New Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-installation-issues-with-windows-11-version-1607-updates/"><u>Solving Installation Issues with Windows 11 Version 1607 Updates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-cinema-mastering-the-best-5-camera-tips-for-2024/"><u>The Art of Cinema Mastering the Best 5 Camera Tips for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211075518-troubleshooting-techniques-for-windows-11-non-shutting-desktops-solutions/"><u>Troubleshooting Techniques for Windows 11 Non-Shutting Desktops - Solutions!</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728475058583-windows-11/"><u>Windows 11 專業級無價圖書機 - 完美功能、用户友好型和強大的免費磁碟映像軟體</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-time-lapse-with-your-samsung-phone/"><u>[New] Mastering Time Lapse with Your Samsung Phone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-6-minecraft-oriental-house-ideas-for-2024/"><u>[New] Top 6 Minecraft Oriental House Ideas for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-this-display-does-not-support-hdcp/"><u>[SOLVED] This Display Does Not Support HDCP</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-10-iphone-virtual-reality-games-to-beat-your-high-scores/"><u>[Updated] Top 10 iPhone Virtual Reality Games to Beat Your High Scores</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-roadmap-for-visual-impact-professionals/"><u>2024 Approved The Roadmap for Visual Impact Professionals</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/audio-review-of-bose-wave-soundtouch-iv-great-sounds-unimpressive-form/"><u>Audio Review of Bose Wave SoundTouch IV: Great Sounds, Unimpressive Form</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nubia-red-magic-9-proplus-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nubia Red Magic 9 Pro+ is off? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-rectify-the-purple-screen-malfunction-on-your-computer/"><u>Effective Solutions to Rectify the Purple Screen Malfunction on Your Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-manually-power-off-a-non-responsive-windows-11-system-a-step-by-step-solution/"><u>How To Manually Power Off a Non-Responsive Windows 11 System: A Step-by-Step Solution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-magic-6-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor Magic 6 Pro Phone without PIN</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-device-recognition-in-windows-11-fixes-and-tips-for-seamless-connectivity/"><u>Mastering Bluetooth Device Recognition in Windows 11 – Fixes and Tips for Seamless Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-file-or-device-unavailable-issues-in-windows-systems/"><u>Overcoming 'File or Device Unavailable' Issues in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-unresponsive-casting-functionality-on-windows-11-devices/"><u>Step-by-Step Fixes for Unresponsive Casting Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/triumph-over-fortnites-initial-failure/"><u>Triumph Over Fortnite's Initial Failure</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unleashing-your-cellphones-potential-in-videography-for-2024/"><u>Unleashing Your Cellphone's Potential in Videography for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-to-reactivating-your-inactive-snapchat-id-a-comprehensive-walkthrough/"><u>Unlock the Secrets to Reactivating Your Inactive Snapchat ID – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/urgent-fix-required-enable-local-authorization-defenses-now/"><u>Urgent Fix Required: Enable Local Authorization Defenses Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-troubleshooting-steps-for-restoring-functionality-to-a-defective-bluetooth-mouse/"><u>Windows Troubleshooting: Steps for Restoring Functionality to a Defective Bluetooth Mouse</u></a></li>
 </ul></div>
 

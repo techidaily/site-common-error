@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB Ports Not Working Issue. Easily
-date: 2024-12-18T18:17:32.763Z
-updated: 2024-12-25T20:47:02.279Z
+date: 2025-01-02T21:29:14.244Z
+updated: 2025-01-03T16:08:54.478Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 1: Hold down the power button
@@ -53,10 +53,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows swtiches your USB controllers off when they’re not in use, and switches back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again. controller or the devices.
@@ -70,12 +66,16 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b3d657b3f.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Un-check the **Allow the computer to turn off this device to save power** checkbox, and click **OK**  .  
@@ -83,11 +83,11 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4a64ced8.png)
   
 
- 5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ## **Method 4: Check your device drivers**
 
@@ -104,7 +104,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -128,24 +128,18 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-creators-uniting-for-marvels-digital-future/"><u>[New] In 2024, Creators Uniting for Marvel's Digital Future</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-cinematographers-codex-top-shot-tips-for-the-year-2024-filmography/"><u>[New] The Cinematographer’s Codex Top Shot Tips for the Year 2024 Filmography</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-instantaneously-showcasing-archived-video-sessions-via-facebook-live/"><u>[Updated] 2024 Approved Instantaneously Showcasing Archived Video Sessions via Facebook Live</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-chill-vibes-top-idle-pc-experiences/"><u>[Updated] Chill Vibes Top Idle PC Experiences</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-excessive-cpudisk-usage-ntoskrnlexe-fixes/"><u>Addressing Excessive CPU/Disk Usage: Ntoskrnl.exe Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-missing-bluetooth-feature-on-windows-10-step-by-step-guide/"><u>How to Resolve the 'Missing' Bluetooth Feature on Windows 10 - Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-print-to-pdf-error-in-microsoft-windows-11/"><u>How to Resolve the Print to PDF Error in Microsoft Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/improve-your-workflow-advanced-file-explorer-techniques-for-windows-11-users/"><u>Improve Your Workflow: Advanced File Explorer Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-tasty-trailblazers-culinary-youtube-icons/"><u>In 2024, Tasty Trailblazers Culinary YouTube Icons</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-low-storage-alerts-during-playtime-fixing-roblox-issues-on-apples-mobile-phones/"><u>Overcoming Low Storage Alerts During Playtime: Fixing Roblox Issues on Apple's Mobile Phones</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-settings-not-working-errors-tips-and-tricks/"><u>Resolving 'Settings Not Working' Errors: Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-windows-1011-issue-fixing-error-code-0x8024401c/"><u>Resolving the Windows 10/11 Issue: Fixing Error Code 0X8024401C</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-a-non-responsive-dell-bluetooth-keyboard-a-step-by-step-guide/"><u>Reviving a Non-Responsive Dell Bluetooth Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-graphical-glitches-and-missing-details-in-cod-warzone-maps/"><u>Solving Graphical Glitches and Missing Details in COD: Warzone Maps</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-playback-problems-reactivating-audio-services-on-windows-7/"><u>Solving Playback Problems: Reactivating Audio Services on Windows 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-incorrect-parameter-issue-for-loadlibrary-failures-error-code-87/"><u>Solving the 'Incorrect Parameter' Issue for LoadLibrary Failures (Error Code 87)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-securely-locking-your-computer-with-windows-10s-command-prompt/"><u>Step-by-Step Guide: Securely Locking Your Computer with Windows 10'S Command Prompt</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/web-presence-mastery-unlocking-the-power-of-internet-exposure-for-small-businesses-a-decisive-guide-from-massmail-software/"><u>Web Presence Mastery: Unlocking the Power of Internet Exposure for Small Businesses – A Decisive Guide From Massmail Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44ov44kh44oz44k244gn44gk6kal44gb44gf5yuv55s744ks5a6j5ywo44gr6kiy6yyy44o75lplusd566h44gz44kl5oml5byv44gn/"><u>ファンザでお見せた動画を安全に記録・保管する手引き</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-tips-lipo-power-sources-for-aerial-vehicles/"><u>[New] 2024 Approved Top Tips LiPo Power Sources for Aerial Vehicles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-complete-archive-of-high-quality-online-workshops-for-2024/"><u>[Updated] The Complete Archive of High-Quality Online Workshops for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-details-a-closer-look-at-your-roblox-world/"><u>[Updated] Unraveling Details A Closer Look at Your Roblox World</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubing-upstarts-the-ideal-gadgets-list/"><u>[Updated] YouTubing Upstarts The Ideal Gadgets List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enigma-quest-unraveling-puzzles-in-a-cybernetic-world/"><u>Enigma Quest: Unraveling Puzzles in a Cybernetic World</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-80240020-explained-a-step-by-step-solution-for-windows-11-installation-problems/"><u>Error Code 80240020 Explained - A Step-by-Step Solution for Windows 11 Installation Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-junior-geometric-future-eskimo-standout-design-subdued-sound-and-moderate-usefulness/"><u>Evaluating the Junior Geometric Future Eskimo: Standout Design, Subdued Sound, and Moderate Usefulness</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-restoring-functionality-to-your-logitech-mouses-scroll-wheel/"><u>Expert Advice for Restoring Functionality to Your Logitech Mouse's Scroll Wheel</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-annotation-text-overlaying-on-images-and-videos-using-windows-photos/"><u>In 2024, Instant Annotation Text Overlaying on Images & Videos Using Windows Photos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-streamlined-steps-to-document-chat-calls-on-whatsapp/"><u>In 2024, Streamlined Steps to Document Chat Calls on WhatsApp</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sound-issues-resolve-windows-1011-audio-setup-errors-easily/"><u>Troubleshooting Sound Issues: Resolve Windows 10/11 Audio Setup Errors Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Successfully Setting Up BattlEye Service"
-date: 2024-08-15T11:02:16.620Z
-updated: 2024-08-16T11:02:16.620Z
+date: 2024-12-28T16:47:08.611Z
+updated: 2025-01-04T04:20:04.370Z
 tags:
   - win11
   - win10
@@ -30,9 +30,9 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 5. [**Reinstall Skype**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Allow Skype to access your microphone
 
  The first step to approaching the**microphone not working on Skype** problem would be to check if you’ve granted Skype access to your microphone.
@@ -40,24 +40,15 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 Here’s how:
 
 1. On your keyboard, press**the Windows logo key** and type**microphone** , then click on**Microphone privacy settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21c099eec3.jpg)
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Adjust audio settings in Skype
 
  One of the most useful fixes is to disable **Automatically adjust microphone settings** in Skype according to user feedback. So we can give it a try and see if it works:
@@ -65,12 +56,17 @@ Here’s how:
 1. In Skype, Click**the three-dot button** and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -87,17 +83,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27cb3d565f.jpg)
 3. Click the   **Update** button next to a flagged audio  driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27e508edd4.jpg)
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Tweak your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -107,22 +97,30 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Skype
 
@@ -141,8 +139,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +146,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-corsair-keyboard-not-lighting-up/"><u>[Fixed] Corsair Keyboard Not Lighting Up</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quick-access-to-quality-sound-with-easy-vrecorder-downloads/"><u>[New] In 2024, Quick Access to Quality Sound with Easy VRecorder Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-dimming-audio-with-audacity/"><u>[New] Mastering Dimming Audio with Audacity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-instagram-memories-with-these-apps/"><u>[New] Unlocking Instagram Memories with These Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-opinion-on-slomo-recording-softwares-latest-version/"><u>[Updated] Expert Opinion on SloMo Recording Software's Latest Version</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-way-to-record-podcast-remotely/"><u>[Updated] In 2024, Best Way to Record Podcast Remotely</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-maximizing-impact-adjusting-facebook-video-sizes-correctly/"><u>2024 Approved Maximizing Impact Adjusting Facebook Video Sizes Correctly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-prime-video-capturing-applications/"><u>2024 Approved Prime Video Capturing Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-scroll-wheel-on-your-laptops-touchpad/"><u>How to Fix Unresponsive Scroll Wheel on Your Laptop's Touchpad</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-optane-drive-for-windows-a-complete-guide-to-downloading-and-updating-the-essential-drivers/"><u>Intel Optane Drive for Windows - A Complete Guide to Downloading and Updating the Essential Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/lowering-cpu-intensity-on-your-pc/"><u>Lowering CPU Intensity on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-shadows-masterful-techniques-for-addressing-rainbow-six-sieges-screen-colour-disruption-on-computers/"><u>Overcoming Shadows: Masterful Techniques for Addressing Rainbow Six Siege's Screen Colour Disruption on Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-visual-disturbances-a-solution-for-screen-stuttering-on-windows-11/"><u>Overcoming Visual Disturbances: A Solution for Screen Stuttering on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-your-ps4-dualshock-controller-charging-issues/"><u>Resolved: Fixing Your PS4 Dualshock Controller Charging Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-steam-updates-that-wont-download/"><u>Resolving Issues with Steam Updates That Won't Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-resolve-the-sudden-termination-error-code-1067-in-windows-operating-system/"><u>Solved! How to Resolve the Sudden Termination Error (Code 1067) in Windows Operating System</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-handheld-gps-guide-garmin-gpsmap-64st-unveiled/"><u>Top Handheld GPS Guide: Garmin GPSMAP 64St Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-persistent-audio-glitch-in-youtube-videos-on-windows-10/"><u>Troubleshoot & Resolve the Persistent Audio Glitch in YouTube Videos on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-10-not-working-fixed/"><u>Windows Update 10 Not Working [FIXED]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving the '@' Symbol Issue: A Step-by-Step Guide"
-date: 2024-08-15T11:04:52.217Z
-updated: 2024-08-16T11:04:52.217Z
+date: 2024-12-28T22:37:40.893Z
+updated: 2025-01-03T19:10:30.715Z
 tags:
   - win11
   - win10
@@ -43,9 +43,9 @@ If the other keys stop working either, check the next question:
 2. [Update your keyboard driver](#solution2)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -55,22 +55,21 @@ Follow these:
 #### on Windows 10
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -86,24 +85,13 @@ Follow these:
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Update your keyboard driver
 
  This problem may be caused by an old, corrupted, or missing keyboard driver. If so, you can solve it by updating the keyboard driver.
@@ -119,6 +107,10 @@ Follow these:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. Your keyboard driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
@@ -136,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +135,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-delve-into-youtube-metrics-using-the-power-of-social-blade/"><u>[New] In 2024, Delve Into YouTube Metrics Using the Power of Social Blade</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-designing-dynamic-videos-with-adobe-captivate/"><u>[Updated] 2024 Approved Designing Dynamic Videos with Adobe Captivate</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-guide-to-selecting-the-best-8-open-source-calls-for-2024/"><u>[Updated] Essential Guide to Selecting the Best 8 Open Source Calls for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-reel-your-best-footage-from-instagram-with-these-aids-for-2024/"><u>[Updated] Reel Your Best Footage From Instagram With These Aids for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/adjusting-sound-levels-in-audacity-raising-the-volume-up-lowering-it-down-for-2024/"><u>Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-ev-chargers-a-deep-dive-into-level-1-level-2-and-level-3-systems/"><u>Demystifying EV Chargers: A Deep Dive Into Level 1, Level 2 & Level 3 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-unresponsive-backspace-buttons/"><u>Diagnosing and Repairing Unresponsive Backspace Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-fix-errors-where-windows-cant-find-printer-driver/"><u>Effortlessly Fix Errors Where Windows Can't Find Printer Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-getting-past-windows-installation-configuration-errors/"><u>Expert Advice: Getting Past Windows Installation Configuration Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-module-not-found-errors-in-development/"><u>Expert Tips for Overcoming 'Module Not Found' Errors in Development</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/first-steps-in-filmmaking-essentials-for-new-youtube-talents/"><u>First Steps in Filmmaking Essentials for New YouTube Talents</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-propsydll-not-detected-or-absent-issues-a-comprehensive-solution-guide/"><u>Fix PropsyDll Not Detected or Absent Issues: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/high-resolution-abstract-designs-premium-hd-wallpaper-collections-by-yl-computing/"><u>High-Resolution Abstract Designs: Premium HD Wallpaper Collections by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-recovering-fullscreen-off-screen-windows/"><u>Step-by-Step Solution for Recovering Fullscreen Off-Screen Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-airdrop-issues-fast/"><u>Troubleshooting Guide: Fixing AirDrop Issues Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-fixes-resolving-windows-11s-dark-display-dilemma/"><u>Troubleshooting the Fixes: Resolving Windows 11'S Dark Display Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-name-not-valid-in-directory-issues/"><u>Understanding and Solving 'Name Not Valid in Directory' Issues</u></a></li>
+</ul></div>
 

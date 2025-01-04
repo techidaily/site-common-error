@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My Acer Computer Hold a Charge? Solutions Inside
-date: 2024-08-15T10:55:02.946Z
-updated: 2024-08-16T10:55:02.946Z
+date: 2024-12-31T04:24:25.888Z
+updated: 2025-01-04T01:44:25.517Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 **Plugged in, not charging** is one of the infamous battery issues users might have with their laptops. If you’re an**Acer** laptop owner who are in the same boat, don’t worry. It’s fixable…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to fix**Plugged in, not charging** in Acer
 
  Here are four fixes that have helped other users resolve the battery not charging issue in Acer. Just work your way down the list until you find the fix that works for you.
@@ -31,17 +27,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. **[Update your BIOS](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Perform some basic hardware troubleshooting
 
  The battery not charging issue doesn’t always happen because of software or system issue, but the apparent little details that we could all neglect.
@@ -63,8 +51,9 @@ Here are a few basic checks you should do to rule this out as a cause:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your battery driver
 
  This**plugged in not charging** problem may occur if you are using the wrong battery driver or it’s out of date. So you should update your battery driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,11 +68,12 @@ Here are a few basic checks you should do to rule this out as a cause:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-53.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-54.png)
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -94,9 +84,6 @@ Here are a few basic checks you should do to rule this out as a cause:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Perform a battery reset
 
  A battery reset is a known fixes to all sorts of battery issues. So it’s recommended that you perform a battery reset to see if it sorts out the problem.
@@ -124,8 +111,9 @@ Here are more detailed steps on how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your BIOS
 
 **BIOS** (**Basic Input/Output System** ) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. So you can try updating our **BIOS** to see if it fixes the laptop plugged in not charging issue.
@@ -135,6 +123,10 @@ Here are more detailed steps on how to do it:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **msinfo32**  into the box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **the information** in **BIOS Version/Date**  and go to Acer’s official website.
 
@@ -157,8 +149,6 @@ Here are more detailed steps on how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +156,26 @@ Here are more detailed steps on how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-precision-filmmaking-high-definition-lens-recommendations/"><u>[New] In 2024, Precision Filmmaking High-Definition Lens Recommendations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-the-secrets-of-irecorder/"><u>[New] Unlocking the Secrets of iRecorder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-11-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus 11 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/7-device-charging-capacity-unmatched-140w-portable-battery-backup-that-lasts-longer-between-charges-spotlight-on-tech-by-zdnet/"><u>7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/brighten-your-display-fix-blurry-screen-on-windows-10-with-these-simple-tweaks/"><u>Brighten Your Display: Fix Blurry Screen on Windows 10 with These Simple Tweaks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/d500-exploration-nikons-journey-in-4k-hd/"><u>D500 Exploration Nikon's Journey in 4K HD</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-solutions-to-debugging-discords-javascript-glitches/"><u>Effortless Solutions to Debugging Discord's JavaScript Glitches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-titling-techniques-to-explore-for-2024/"><u>Innovative Titling Techniques to Explore for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-restore-bluetooth-functionality-on-your-windows-11-pc-easy-methods-inside/"><u>Quickly Restore Bluetooth Functionality on Your Windows 11 PC: Easy Methods Inside!</u></a></li>
+<li><a href="https://facebook.techidaily.com/seamlessly-integrating-sleep-mode-for-a-more-efficient-messenger-kids-use/"><u>Seamlessly Integrating Sleep Mode for a More Efficient Messenger Kids Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-cannot-access-device-pathfile-in-windows-fix-guide/"><u>Solving 'Cannot Access Device Path/File' In Windows - Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-users-guide-correcting-problems-when-setting-upupgrading-video-games/"><u>Steam User's Guide: Correcting Problems When Setting Up/Upgrading Video Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-windows-10s-critical-0x800705b4-update-failure-and-how-to-prevent-it/"><u>Step-by-Step Fix for Windows 10'S Critical 0X800705B4 Update Failure and How to Prevent It</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-windows-updates-setup-issues/"><u>Step-by-Step Solutions for Correcting Windows Updates Setup Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/stuck-on-a-pdf-not-printing-heres-how-you-can-solve-the-problem-fast/"><u>Stuck on a PDF Not Printing? Here's How You Can Solve the Problem Fast</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210762290-9781783727308-the-little-book-of-comfort/"><u>The Little Book of Comfort | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-a-malfunctioning-torrent-download/"><u>Troubleshooting Steps for a Malfunctioning Torrent Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-connection-issues-beat-device-descriptor-request-failed-with-our-expert-tips/"><u>USB Connection Issues? Beat 'Device Descriptor Request Failed' With Our Expert Tips!</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-video-recovery-recover-deleted-videos-from-xiaomi-redmi-a2-by-fonelab-android-recover-video/"><u>Xiaomi Redmi A2 Video Recovery - Recover Deleted Videos from Xiaomi Redmi A2</u></a></li>
+</ul></div>
 

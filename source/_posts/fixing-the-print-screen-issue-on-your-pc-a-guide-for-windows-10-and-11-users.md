@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Print Screen Issue on Your PC: A Guide for Windows 10 & 11 Users"
-date: 2024-12-19T16:12:56.553Z
-updated: 2024-12-25T18:54:24.330Z
+date: 2024-12-30T18:35:30.928Z
+updated: 2025-01-04T04:15:55.740Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,12 +51,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -72,14 +72,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
@@ -87,10 +87,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -108,6 +104,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -117,7 +117,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -154,19 +154,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-steps-to-adobe-audition-fade-in/"><u>[New] 2024 Approved Steps to Adobe Audition Fade In</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-opening-lines-breaking-the-ice-in-video-comments/"><u>[New] Opening Lines Breaking the Ice in Video Comments</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-bend-the-light-homegrown-animated-innovations/"><u>[Updated] 2024 Approved Bend the Light Homegrown Animated Innovations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-opening-strategies-for-growth-for-2024/"><u>[Updated] Opening Strategies for Growth for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlimited-outro-options-at-no-expense-online/"><u>[Updated] Unlimited Outro Options at No Expense Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-the-science-of-quantum-hdr/"><u>2024 Approved Mastering the Science of Quantum HDR</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guidance-for-navigating-file-explorer-in-windows-11/"><u>Effortless Guidance for Navigating File Explorer in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-hp-laptop-usb-port-back-to-life-solutions-inside/"><u>Get Your HP Laptop USB Port Back to Life - Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-reduce-high-network-consumption-by-svchostexe/"><u>How to Troubleshoot and Reduce High Network Consumption by svchost.exe</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-specified-module-missing-error-a-step-by-step-guide/"><u>Solving the 'Specified Module Missing' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unresponsive-file-explorer-on-windows-nt/"><u>Troubleshooting Guide: Dealing with Unresponsive File Explorer on Windows nT</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/troubleshooting-non-responsive-desktops-insights-by-yl-software-professionals/"><u>Troubleshooting Non-Responsive Desktops: Insights by YL Software Professionals</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-reasons-your-cars-persistent-battery-issues-explored/"><u>Unveiling the Reasons: Your Car's Persistent Battery Issues Explored</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-apples-silicon-spectrum-comparing-m1-pro-and-the-powerhouse-m1-max-for-2024/"><u>[New] Apple's Silicon Spectrum Comparing M1 Pro and the Powerhouse M1 Max for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-boost-your-visual-language-with-premium-affects-extensions/"><u>[New] In 2024, Boost Your Visual Language with Premium Affects Extensions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209666746-solved-valorant-dx11-feature-level-100-is-required-to-run-the-engine/"><u>[SOLVED] Valorant ''DX11 Feature Level 10.0 Is Required to Run the Engine</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-motorola-moto-g-5g-2023-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-solutions-for-fixing-error-code-0x80072f8f-on-your-pc-running-windows-11-or-10/"><u>Definitive Solutions for Fixing Error Code 0X80072f8f on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/detailed-instructions-for-fixing-unresponsive-function-key-issues/"><u>Detailed Instructions for Fixing Unresponsive Function Key Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-complete-blackout-issue-during-launch-of-monster-hunter-world/"><u>Fixing the Complete Blackout Issue During Launch of Monster Hunter World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-update-issue-how-to-resolve-error-code-0x80240034/"><u>Fixing the Windows 10 Update Issue: How to Resolve Error Code 0X80240034</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-lava-agni-2-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Lava Agni 2 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-first-few-weeks-of-a-telecommute-role-a-comprehensive-week-by-week-breakdown/"><u>Navigating the First Few Weeks of a Telecommute Role - A Comprehensive Week-by-Week Breakdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/opencl-dll-absence-common-troubleshooting-steps/"><u>OpenCL DLL Absence: Common Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pictomixer-dynamic-media-player-for-macos/"><u>PictoMixer Dynamic Media Player for macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-the-chatgpt-application-on-ios-devices-a-step-by-nstep-approach/"><u>Resolving Issues with the ChatGPT Application on iOS Devices: A Step-by-nStep Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-why-isnt-my-print-screen-working-solutions-for-windows-1110/"><u>Troubleshooting: Why Isn't My Print Screen Working? Solutions for Windows 11/10</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-the-file-properties-pane-a-comprehensive-guide/"><u>Understanding the File Properties Pane: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-the-infinite-waiting-screen-of-valorant-with-proven-fixes/"><u>Unstuck the Infinite Waiting Screen of Valorant with Proven Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/use-geo-targeted-keywords-if-applicable-if-youre-targeting-specific-regions-or-local-audiences-consider-incorporating-geo-targeted-keywords-into-your-titles123/"><u>Use Geo-Targeted Keywords (if Applicable): If You're Targeting Specific Regions or Local Audiences, Consider Incorporating Geo-Targeted Keywords Into Your Titles for Better Relevance and Visibility in Those Areas</u></a></li>
 </ul></div>
 

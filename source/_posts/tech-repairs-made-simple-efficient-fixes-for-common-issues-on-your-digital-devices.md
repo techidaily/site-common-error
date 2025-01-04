@@ -1,7 +1,7 @@
 ---
 title: "Tech Repairs Made Simple: Efficient Fixes for Common Issues on Your Digital Devices"
-date: 2024-08-15T10:57:23.958Z
-updated: 2024-08-16T10:57:23.958Z
+date: 2025-01-01T03:26:48.276Z
+updated: 2025-01-04T03:12:29.062Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ It’s a nuisance to see an error pops up saying “**DirectX encountered an unr
 4. **[Upgrade DirectX version](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Change the Display Scaling settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run a complete scan on your PC](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Be sure to meet system requirements
 
@@ -93,6 +97,11 @@ For details of system requirements of other games:
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version for their driver (you can do this with the**FREE** version), then install it in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ef639182.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when your click**Update All** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -116,15 +125,18 @@ Now launch your game again to see if it fixes your problem.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 2. Type**dxdiag** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6d1c42af90.jpg)
 3. In the**System** tab of the**DirectX** **Dianostic** **Tool** , you can see the**DirectX** information in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c18c7dc5dff8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then see if the DirectX meets the DirectX requirement for the game. If not, you’ll need to upgrade the DirectX version on your computer.
 
@@ -136,9 +148,6 @@ Now launch your game again to see if it fixes your problem.
 
  After installing the latest Windows update or update package, restart your computer and try the game again to see if the error disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Change the Display Scaling settings
 
  You can adjust the Display Scaling settings in your computer to fix your DirectX encountered an unrecoverable error.
@@ -158,30 +167,25 @@ Here’s what you need to do:
 
 1. Open**Control Panel** in your computer, and view by small icons or large icons.  
  Click**Display** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 2. Choose**100%** or**Smaller** for the size of text and other items on your screen, then click**Apply** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 3. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Run a complete scan on your PC
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -193,9 +197,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  So there you have it – the four effective methods to fix**DirectX encountered an unrecoverable error** . If you have any questions or suggestions, feel free to leave a comment below.
@@ -209,8 +210,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +217,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-your-computer-appears-to-be-correctly-configured-but-the-device-or-resource-is-not-responding/"><u>[SOLVED] Your Computer Appears to Be Correctly Configured, but the Device or Resource Is Not Responding</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725289558093-2024/"><u>如何在2024年有效提高图片分辨率—五个最佳技巧</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-repair-unresponsive-buttons-on-your-hp-laptop-step-by-step-guide/"><u>Easily Repair Unresponsive Buttons on Your HP Laptop - Step-by-Step Guide!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elite-selection-of-compact-tablets-for-2n24-in-depth-analysis-and-ratings-zdnet/"><u>Elite Selection of Compact Tablets for 2N24: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-unsticking-a-frozen-google-chrome-browser/"><u>Expert Tips for Unsticking a Frozen Google Chrome Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-red-dead-redemption-2-memory-crash-increase-pagefile-guide/"><u>Fix Red Dead Redemption 2 Memory Crash - Increase Pagefile Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-13-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-fidelity-graphics-on-4k-an-in-depth-look-at-proart-monitors/"><u>In 2024, High-Fidelity Graphics on 4K An In-Depth Look at ProArt Monitors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-poco-c55-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Poco C55 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-v-purse-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor V Purse To Phone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/lower-your-pcs-cpu-load-by-correcting-audio-device-isolation-issues-in-windows/"><u>Lower Your PC's CPU Load by Correcting Audio Device Isolation Issues in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-for-unknown-usb-device-and-port-issues-under-windows-11/"><u>Master the Fix for 'Unknown USB Device' And Port Issues Under Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximize-mobile-viewing-sharper-chromebook-and-phone-videos-for-2024/"><u>Maximize Mobile Viewing Sharper Chromebook and Phone Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-the-issue-how-to-restore-windows-media-player-on-windows-11/"><u>Resolving the Issue: How to Restore Windows Media Player on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-system-with-sfcdism-in-windows-11/"><u>Revitalize Your System with SFC/DISM in Windows 11</u></a></li>
+<li><a href="https://win-community.techidaily.com/revive-your-lost-png-images-top-6-free-restoration-methods/"><u>Revive Your Lost PNG Images: Top 6 FREE Restoration Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-update-windows-11-despite-error-0xc1900208-guide/"><u>Successfully Update Windows 11 Despite Error 0Xc1900208 [GUIDE]</u></a></li>
+</ul></div>
 

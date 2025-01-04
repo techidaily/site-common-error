@@ -1,7 +1,7 @@
 ---
 title: "Getting More Bangs From LoL: Overcoming Sluggish Download Times Easily"
-date: 2024-12-20T17:37:45.129Z
-updated: 2024-12-25T17:01:19.582Z
+date: 2024-12-30T04:10:08.151Z
+updated: 2025-01-04T02:57:02.381Z
 tags:
   - win11
   - win10
@@ -60,7 +60,7 @@ Downloading again to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Turn off Windows Firewall
@@ -71,17 +71,21 @@ Downloading again to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Re-download to check.
@@ -90,10 +94,6 @@ Re-download to check.
  Then move to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Manually install .NET framework 3.5
 
@@ -132,12 +132,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -165,22 +165,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/alert-paste-problematic-windows-11-feature/"><u>[ALERT] Paste Problematic Windows 11 Feature</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-essential-macsrt-editing-techniques-unveiled/"><u>[New] In 2024, Essential MacSrt Editing Techniques Unveiled</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-streamline-social-sharing-integrate-your-fb-story/"><u>[Updated] In 2024, Streamline Social Sharing Integrate Your FB Story</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/anonymizing-videos-tips-for-keeping-personal-data-hidden/"><u>Anonymizing Videos Tips for Keeping Personal Data Hidden</u></a></li>
-<li><a href="https://facebook.techidaily.com/battening-down-the-hatches-how-stablecoins-navigate-market-swings/"><u>Battening Down the Hatches: How Stablecoins Navigate Market Swings</u></a></li>
-<li><a href="https://common-error.techidaily.com/decrease-your-computers-workload-combating-high-resource-demand-by-wudfhostexe-on-windows-fixed/"><u>Decrease Your Computer's Workload: Combating High Resource Demand by WUDFHost.exe on Windows ([Fixed])</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminate-speaker-noise-on-your-pc-top-fixes-for-windows-11-and-7-systems/"><u>Eliminate Speaker Noise on Your PC: Top Fixes for Windows 11 and 7 Systems</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/essential-items-to-save-before-fresh-install-of-windows-10-a-comprehensive-checklist/"><u>Essential Items To Save Before Fresh Install of Windows 10: A Comprehensive Checklist</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-computer-freezes-when-playing-games-easily/"><u>Fix Computer Freezes when Playing Games [Easily]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-d3derr-notavailable/"><u>How To Fix D3DERR NOTAVAILABLE</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-illumination-on-a-non-responsive-corsair-keyboard/"><u>How to Restore Illumination on a Non-Responsive Corsair Keyboard</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hasten-your-windows-doc-analysis-process/"><u>In 2024, Hasten Your Windows Doc Analysis Process</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-intrepid-selection-best-slow-mo-cameras/"><u>In 2024, Intrepid Selection Best Slow-Mo Cameras</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-fake-followers-trap-on-youtube-landscapes/"><u>In 2024, Unveiling Fake Followers' Trap on YouTube Landscapes</u></a></li>
-<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-crashing-on-pc-solved/"><u>Oddworld: Soulstorm Crashing On PC [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-launching-the-hosted-network-feature-in-windows-11-after-common-hurdles/"><u>Successfully Launching the Hosted Network Feature in Windows 11 After Common Hurdles</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-the-requested-operation-requires-elevation-on-windows-11107/"><u>[FIXED] The Requested Operation Requires Elevation on Windows 11/10/7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-full-media-potential-with-funimate-tools/"><u>[New] Unlock Full Media Potential with Funimate Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-complete-routine-for-hulu-capture-on-diverse-devices/"><u>[Updated] The Complete Routine for Hulu Capture on Diverse Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlock-flawless-mac-screen-record-through-keyboard-expertise/"><u>2024 Approved Unlock Flawless Mac Screen Record Through Keyboard Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-policy-settings-with-windows-11-expertise/"><u>Accelerate Policy Settings with Windows 11 Expertise</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-tutorial-for-implementing-hyper-v-on-your-windows-n-version/"><u>Complete Tutorial for Implementing Hyper-V on Your Windows N Version</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-fixes-for-latency-problems-with-keyboards-under-windows-10-operating-system/"><u>Definitive Fixes for Latency Problems with Keyboards Under Windows 10 Operating System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-samsung-960-evo-m2-ssd-drivers-on-your-windows-pc/"><u>Download & Install Samsung 960 EVO M.2 SSD Drivers on Your Windows PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/economical-pc-graphics-saving-apps/"><u>Economical PC Graphics Saving Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fading-audio-tips-for-better-mixes-in-ableton/"><u>Fading Audio Tips for Better Mixes in Ableton</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-disconnection-steps-to-make-your-usb-mouse-work-again-on-laptops/"><u>Fixing the Disconnection: Steps to Make Your USB Mouse Work Again on Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-secure-connection-could-not-be-established-message-in-firefox-browser/"><u>How to Fix 'Secure Connection Could Not Be Established' Message in Firefox Browser</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-with-words-15-task-filled-podcast-sessions/"><u>In 2024, Navigating the World with Words 15 Task-Filled Podcast Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-when-your-lenovos-fingerprint-scanner-stops-responding/"><u>Quick Fixes When Your Lenovo's Fingerprint Scanner Stops Responding</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-13-mp3-converters-on-youtube-find-your-perfect-match/"><u>Top 13 MP3 Converters on YouTube - Find Your Perfect Match</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-update-failed-issues-in-warframe/"><u>Troubleshooting Guide: Resolving 'Update Failed' Issues in Warframe</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-non-responsive-sound-issues-in-windows-10/"><u>Ultimate Guide: Fixing Non-Responsive Sound Issues in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-black-ops-4-critical-glitches/"><u>Ultimate Guide: Resolving Black Ops 4 Critical Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-are-my-arrow-keys-not-responding-quick-solutions-inside/"><u>Why Are My Arrow Keys Not Responding? Quick Solutions Inside</u></a></li>
 </ul></div>
 

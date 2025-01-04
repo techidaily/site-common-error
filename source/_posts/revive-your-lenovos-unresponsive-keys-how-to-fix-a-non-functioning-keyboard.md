@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Lenovo's Unresponsive Keys: How to Fix a Non-Functioning Keyboard"
-date: 2024-12-19T17:39:18.774Z
-updated: 2024-12-25T19:22:11.122Z
+date: 2024-12-27T17:21:37.990Z
+updated: 2025-01-04T00:42:27.201Z
 tags:
   - win11
   - win10
@@ -32,11 +32,19 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Restart your computer
 
  Restarting computer could resolve many hardware issues instantly. So it’s recommended you try this simple fix first before moving on.
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the driver
 
@@ -54,15 +62,15 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -74,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
@@ -84,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
@@ -97,10 +105,6 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
@@ -108,10 +112,6 @@ If you have no idea how to do a system restore, refer steps below:
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Click **System Restore** .
 
@@ -155,20 +155,18 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide/"><u>[New] Curate a Perfect Playlist on YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/capture-more-with-lexars-portable-ssd-the-ideal-solution-for-iphone-shooters/"><u>Capture More with Lexar's Portable SSD - The Ideal Solution for iPhone Shooters</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-msdia80dll-functionality-is-retaining-necessary/"><u>Exploring msdia80.dll Functionality – Is Retaining Necessary?</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-start-your-diagnostic-policy-service-when-its-stopped/"><u>Fixing the Issue: How to Start Your Diagnostic Policy Service When It's Stopped</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/zero-to-hero-boosting-youtube-view-count-quickly/"><u>From Zero to Hero Boosting YouTube View Count Quickly</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/methods-for-connecting-your-airpods-to-a-nintendo-switch-is-it-feasible/"><u>Methods for Connecting Your AirPods to a Nintendo Switch - Is It Feasible?</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-your-pc-or-laptops-unwanted-hibernation-problem/"><u>Quick Fixes for Your PC or Laptop's Unwanted Hibernation Problem</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revved-up-roads-ahead-with-5-headlight-boosters/"><u>Revved-Up Roads Ahead with 5 Headlight Boosters</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-driver-power-state-issues/"><u>Step-by-Step Guide: Resolving Windows Driver Power State Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/syncing-airpods-to-your-macbook-pro-or-air-the-complete-tutorial/"><u>Syncing AirPods to Your MacBook Pro or Air: The Complete Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-complete-stucknon-responsive-keys-on-toshiba-notebooks/"><u>Troubleshooting Complete: Stuck/Non-Responsive Keys on Toshiba Notebooks</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209453975-troubleshooting-stuck-keyboard-arrows-effective-solutions-and-tips/"><u>Troubleshooting Stuck Keyboard Arrows: Effective Solutions & Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/waking-up-to-a-well-rested-win11-machine/"><u>Waking Up to a Well-Rested Win11 Machine</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/will-ai-enhance-mental-health-care-or-hinder-it/"><u>Will AI Enhance Mental Health Care or Hinder It?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-8-best-fbx-game-recorder-alternatives/"><u>[New] 2024 Approved Top 8 Best FBX Game Recorder Alternatives</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breaking-free-from-tiktoks-invisibility-unshadowban-strategies/"><u>Breaking Free From TikTok's Invisibility Unshadowban Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoo-saturn-4-ultra-reviewed-transforming-the-landscape-of-resin-based-3d-printing-innovations/"><u>Elegoo Saturn 4 Ultra Reviewed - Transforming the Landscape of Resin-Based 3D Printing Innovations</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-italys-charm-key-italian-greetings-to-learn/"><u>Embrace Italy's Charm: Key Italian Greetings to Learn</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-when-windows-cannot-execute-protection-command/"><u>Fixing The Issue When Windows Cannot Execute Protection Command</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-file-explorer-working-again-after-it-stops-responding-on-windows-cuarenta/"><u>How to Get Your File Explorer Working Again After It Stops Responding on Windows Cuarenta</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-streamlining-design-with-new-fonts-in-after-effects/"><u>In 2024, Streamlining Design with New Fonts in After Effects</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-imac-with-m1-enhanced-performance-and-stunning-display/"><u>In-Depth Analysis of the iMac with M1: Enhanced Performance & Stunning Display</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-fixes-basic-printer-and-scanner-drivers-now-included-with-windows-ten-os/"><u>New Release Fixes: Basic Printer & Scanner Drivers Now Included with Windows ˈtēn OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-the-ascent-a-guide-to-smooth-playback-and-higher-fps/"><u>Optimize 'The Ascent': A Guide to Smooth Playback and Higher FPS</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-rapid-response-fixes-error-1053-immediate-services-restoration/"><u>Resolved: Rapid Response Fixes Error 1053 – Immediate Services Restoration</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-successfully-restarting-a-computer-stuck-on-boot-sequence/"><u>Tips for Successfully Restarting a Computer Stuck on Boot Sequence</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Hot 30 5G? | Dr.fone</u></a></li>
 </ul></div>
 

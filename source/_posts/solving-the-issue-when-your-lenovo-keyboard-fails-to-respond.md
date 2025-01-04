@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue When Your Lenovo Keyboard Fails to Respond
-date: 2024-12-22T19:16:26.923Z
-updated: 2024-12-25T17:55:31.971Z
+date: 2024-12-30T02:48:00.223Z
+updated: 2025-01-04T04:17:28.645Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,13 +32,17 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
@@ -53,20 +57,12 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
 7. Reboot your computer.
 8. Go to the[Razer official website](https://www.razer.com/synapse-3) to download the latest version of Synapse.
 9. Follow the on-screen instructions to install Synapse.
 10. Launch Synapse.
 11. Plug your keyboard and check the lightening.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
 
@@ -84,11 +80,15 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
@@ -110,18 +110,24 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-highest-hits-facebooks-favorite-videos/"><u>[New] 2024 Approved Highest Hits Facebook's Favorite Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-perfect-video-demos-in-adobe-captivate/"><u>[Updated] In 2024, Perfect Video Demos in Adobe Captivate</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-a-lasting-trash-area-on-your-windows-desktop-space/"><u>Creating a Lasting Trash Area on Your Windows Desktop Space</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-zte-nubia-z60-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It ZTE Nubia Z60 Ultra Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Tecno Camon 20 Premier 5G</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-elite-selection-top-ranked-free-ae-templates/"><u>In 2024, Elite Selection Top-Ranked FREE AE Templates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-modern-components-by-toms-electronics-hub/"><u>In-Depth Analysis of Modern Components by Tom's Electronics Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-problems-fixed-restoring-functionality-of-number-pad/"><u>Keyboard Problems Fixed: Restoring Functionality of Number Pad</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-anticipates-evolving-laptop-requirements-emphasizing-enhanced-ai-and-security-features-insights/"><u>Lenovo Anticipates Evolving Laptop Requirements: Emphasizing Enhanced AI & Security Features Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210314181-overcome-laptop-charging-problems-expert-advice-to-revive-your-battery-fast/"><u>Overcome Laptop Charging Problems: Expert Advice to Revive Your Battery Fast!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-pc-reset-problems-on-windows-10-efficiently/"><u>Step-by-Step Guide: Fixing PC Reset Problems on Windows 10 Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-on-solving-constant-system-lockups/"><u>Step-by-Step Tutorial on Solving Constant System Lockups</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-teamsters-downtime-on-windows-11-10/"><u>Troubleshooting Teamsters Downtime on Windows 11, 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhance-your-tv-experience-mastering-fb-live-and-roku/"><u>[New] Enhance Your TV Experience Mastering FB Live and Roku</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-peals-of-laughter-fun-tones-websites-unveiled/"><u>[New] Peals of Laughter Fun Tones Websites Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-your-twitter-potential-premium-video-upload-tools/"><u>[New] Unleash Your Twitter Potential Premium Video Upload Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-30-best-freefire-tagshashtags-for-youtube/"><u>2024 Approved 30 Best FreeFire Tags/Hashtags For YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-beginners-guide-to-advanced-techniques-in-gopro-studio-for-2024/"><u>A Beginner's Guide to Advanced Techniques in GoPro Studio for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ace-your-phone-the-ios-podcast-downloading-guidebook/"><u>Ace Your Phone The iOS Podcast Downloading Guidebook</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/como-convertir-3gpp-a-avi-gratis-online-mediante-movavi-guia-paso-a-paso/"><u>Cómo Convertir 3GPP a AVI Gratis Online Mediante Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-to-make-bluetooth-show-up-again-in-your-computers-device-manager/"><u>Comprehensive Solution to Make Bluetooth Show Up Again in Your Computer's Device Manager</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/decoding-apple-prores-codecs-comparing-4444-xq-with/"><u>Decoding Apple ProRes Codecs - Comparing 4444 XQ With</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-securing-permissions-from-trustedinstaller-for-editing-system-files/"><u>Guide: Securing Permissions From TrustedInstaller for Editing System Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-class-not-registered-problem-in-your-windows-10-system/"><u>How to Correctly Address the 'Class Not Registered' Problem in Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-direct-x-11-compatibility-with-wwe-2k-feature-level-100-error-solutions/"><u>How to Fix Direct X 11 Compatibility with WWE 2K: Feature Level 10.0 Error Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-cannot-connect-to-rpc-server-error-error-code-0x800704cf-on-your-pc/"><u>How to Fix the 'Cannot Connect to RPC Server' Error (Error Code 0X800704CF) on Your PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-in-class-android-3d-entertainment/"><u>In 2024, Best-in-Class Android 3D Entertainment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-cloud-tech-pays-off-why-generalists-remain-essential-in-it-zdnet/"><u>Mastering Cloud Tech Pays Off - Why Generalists Remain Essential in IT | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-netflix-sound-effective-methods-for-immediate-results/"><u>Restore Netflix Sound: Effective Methods for Immediate Results</u></a></li>
+<li><a href="https://common-error.techidaily.com/revamp-high-cpu-consumption-in-win11s-wmi-host/"><u>Revamp High CPU Consumption in Win11's WMI Host</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-setup-ok-but-resource-is-mute/"><u>System Setup OK, But Resource Is Mute</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-unintended-characters-while-typing/"><u>Troubleshooting: Fixing Unintended Characters While Typing</u></a></li>
 </ul></div>
 

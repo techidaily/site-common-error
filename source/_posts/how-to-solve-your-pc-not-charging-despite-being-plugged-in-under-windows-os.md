@@ -1,7 +1,7 @@
 ---
 title: How to Solve Your PC Not Charging Despite Being Plugged In Under Windows OS
-date: 2024-12-20T19:33:02.523Z
-updated: 2024-12-25T18:59:59.481Z
+date: 2024-12-30T23:29:14.464Z
+updated: 2025-01-04T00:29:28.294Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -56,7 +60,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -70,21 +74,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change boot order in BIOS
 
@@ -94,12 +98,12 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -113,7 +117,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -123,10 +127,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,19 +154,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-minimca-manorettes-simple-and-sleek-homes-in-mc-world/"><u>[New] MiniMCA Manorettes Simple & Sleek Homes in MC World</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-syncing-songs-with-your-facebook-chronicles/"><u>[Updated] 2024 Approved Syncing Songs with Your Facebook Chronicles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-safe-ways-to-download-and-convert-youtubes-audios-as-mp3/"><u>[Updated] Safe Ways to Download and Convert YouTube's Audios as MP3</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-spark-interest-with-animated-text-a-guide-for-instagram-storytellers/"><u>[Updated] Spark Interest with Animated Text A Guide for Instagram Storytellers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-leading-websites-for-acoustic-phone-alerts/"><u>2024 Approved Leading Websites for Acoustic Phone Alerts</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-execution-issues-in-windows-media-players-server-functionality/"><u>Expert Tips for Fixing Execution Issues in Windows Media Player's Server Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-common-netflix-connectivity-problems-when-things-dont-work/"><u>How to Resolve Common Netflix Connectivity Problems When Things Don't Work</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-influencers-list-25-top-influencers-you-should-know/"><u>Instagram Influencers List 25 Top Influencers You Should Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/obs-game-streaming-flawlessness-solving-the-elusive-black-screen-hurdle/"><u>OBS Game Streaming Flawlessness: Solving the Elusive Black Screen Hurdle</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplified-guide-setup-and-utilize-microsoft-copilot-on-mac/"><u>Simplified Guide: Setup and Utilize Microsoft Copilot on Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-streaming-woes-permanent-fix-for-kodi-stutter-and-buffering/"><u>Solve Your Streaming Woes: Permanent Fix for Kodi Stutter & Buffering</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-windows-ebx-11-copy-p-paste-problem/"><u>Step-by-Step Solutions for the Windows Ebx 11 Copy-P Paste Problem</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/volume-variation-virtuosity-in-avid-pro-tools-tutorials/"><u>Volume Variation Virtuosity in Avid Pro Tools Tutorials</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-reboots-without-warning/"><u>Windows Reboots without Warning</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-v29e-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-finest-sites-offering-fresh-movie-teasers/"><u>Discover The Finest Sites Offering Fresh Movie Teasers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-audio-fix-techniques-for-a-silent-pc-get-sound-back-now/"><u>Easy Audio Fix Techniques for a Silent PC - Get Sound Back Now!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/groundbreaking-gear-for-virtual-reality-players/"><u>Groundbreaking Gear for Virtual Reality Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hidden-knowledge-interacting-with-chatgpt/"><u>Hidden Knowledge: Interacting with ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-file-explorer-on-windows-11-a-step-by-step-guide-for-seamless-navigation/"><u>Mastering File Explorer on Windows 11: A Step-by-Step Guide for Seamless Navigation</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-disk-space-in-windows-11-when-dealing-with-high-usage-microsoft-telemetry-services/"><u>Optimizing Disk Space in Windows 11 When Dealing with High-Usage Microsoft Telemetry Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-silent-mode-effective-solutions-for-windows-11-volume-malfunctions/"><u>Overcoming Silent Mode: Effective Solutions for Windows 11 Volume Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-livekernelevent-discrepancy-with-error-144/"><u>Overcoming the Challenge of LiveKernelEvent Discrepancy with Error 144</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackle-error-8007000e-on-your-windows-updates-like-a-pro-quick-and-effective-methods/"><u>Tackle Error 8007000E on Your Windows Updates Like a Pro – Quick and Effective Methods</u></a></li>
 </ul></div>
 

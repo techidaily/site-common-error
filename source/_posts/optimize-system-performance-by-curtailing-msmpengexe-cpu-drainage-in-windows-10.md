@@ -1,7 +1,7 @@
 ---
 title: Optimize System Performance by Curtailing MsMpEng.exe CPU Drainage in Windows 10
-date: 2024-12-24T20:40:41.709Z
-updated: 2024-12-25T17:40:19.530Z
+date: 2024-12-30T02:09:30.024Z
+updated: 2025-01-04T03:40:39.747Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **What is svchost.exe?**
 
  According to Microsoft,**svchost.exe** is:
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 > “a generic host process name for services that run from dynamic-link libraries”.
 
  In simpler words, it’ s a legitimate Windows process when running certain Windows operations. But in certain cases, you may see the **svchost.exe**  process hogging the CPU or memory resources in **Task Manager**  without apparent reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -48,11 +48,19 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
 
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Disable certain svchost.exe services**
 
@@ -62,25 +70,25 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
@@ -93,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
@@ -101,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
 9) See if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3: Empty event viewer log**
 
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer after this.
 
 ## **4: Troubleshoot Windows Updates issues**
@@ -140,12 +140,16 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -163,10 +167,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
@@ -189,18 +189,18 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-life-in-high-definition-the-nikon-1j5-review/"><u>[New] Capturing Life in High Definition The Nikon 1J5 Review</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-elite-list-ten-economical-desktop-sharing-apps-for-2024/"><u>[New] Elite List Ten Economical Desktop Sharing Apps for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-revenue-a-step-by-step-money-making-blueprint/"><u>[New] In 2024, Vimeo Revenue A Step-by-Step Money-Making Blueprint</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-premier-recorder-clean-and-clear-android-edition/"><u>[Updated] 2024 Approved Premier Recorder Clean and Clear Android Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-effortless-video-capturing-on-win11-os/"><u>[Updated] In 2024, Effortless Video Capturing on Win11 OS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-optimizing-video-creation-in-obs-studio-for-2024/"><u>[Updated] Optimizing Video Creation in OBS Studio for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquering-error-code-0x80070643-effective-solutions-for-windows-updateinstallation-failures/"><u>Conquering Error Code 0X80070643: Effective Solutions for Windows Update/Installation Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-there-was-a-problem-boot-failures-on-your-windows-eighteen-machine/"><u>Expert Tips for Repairing ‘There Was a Problem’ Boot Failures on Your Windows Eighteen Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-tackle-windows-update-error-0x80070002-for-smooth-operations/"><u>How to Successfully Tackle Windows Update Error 0X80070002 for Smooth Operations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/include-key-search-terms-ensure-that-high-value-keywords-eg-microsoft-compatibility-telemetry-high-disk-usage-are-prominent-in-your-title-to-improve-visibil27/"><u>Include Key Search Terms: Ensure that High-Value Keywords (E.g., Microsoft Compatibility Telemetry, High Disk Usage) Are Prominent in Your Title to Improve Visibility and Relevance for Those Searching on Related Topics</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-audio-adjustments-overcoming-windows-10s-volume-control-problems/"><u>Mastering Audio Adjustments - Overcoming Windows 10'S Volume Control Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/tech-tips-fixed-kernel32-errors/"><u>[Tech Tips] Fixed Kernel32 Errors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-10-fastest-growing-youtube-channels-to-light-up-your-mind/"><u>2024 Approved 10 Fastest Growing YouTube Channels to Light Up Your Mind</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discover-the-best-voice-interpretation-tech-for-mac-users/"><u>2024 Approved Discover the Best Voice Interpretation Tech for Mac Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-the-loop-how-to-prevent-unwanted-reboots-on-your-pc-running-windows-10/"><u>Breaking the Loop: How to Prevent Unwanted Reboots on Your PC Running Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-skype-video-not-working-on-windows-10/"><u>Easy to Fix Skype Video Not Working on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-spacebar-functionality-on-windows-10-pcs/"><u>How to Repair a Broken Spacebar Functionality on Windows 10 PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-15-pro-max-how-to-unlock-a-disabled-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 15 Pro Max How to Unlock a Disabled Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-touchpad-problems-heres-how-to-fix-them-on-windows-1187/"><u>Laptop Touchpad Problems? Here's How to Fix Them on Windows 11/8/7!</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-finding-missing-games-in-egc/"><u>Secrets to Finding Missing Games in EGC</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-adding-srt-captions-to-your-avi-videos-with-ease/"><u>Simple Steps: Adding SRT Captions to Your AVI Videos with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-lag-issues-in-world-of-warcraft-play/"><u>Step-by-Step Solution: Eliminating Lag Issues in World of Warcraft Play</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-are-videos-invisible-on-sony-a6400/"><u>Why Are Videos Invisible on Sony A6400?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again!
-date: 2024-08-15T10:57:38.129Z
-updated: 2024-08-16T10:57:38.129Z
+date: 2024-12-30T01:51:35.786Z
+updated: 2025-01-04T03:40:59.691Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 Is your**microphone not working on laptop** ? You’re certainly not alone. But don’t worry – it can be quite easy to fix…
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -30,8 +31,9 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -42,24 +44,22 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -72,18 +72,12 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -91,11 +85,13 @@ Here’s how to do it:
 To do so:
 
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
@@ -106,6 +102,10 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -131,8 +131,6 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +138,24 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-your-aspects-of-sound-and-sight-in-asmr-recording/"><u>[New] 2024 Approved Elevate Your Aspects of Sound and Sight in ASMR Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-full-features-explored-logitechs-professional-4k-cam/"><u>[New] 2024 Approved Full Features Explored Logitech’s Professional 4K Cam</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb/"><u>[New] In 2024, What Actions Can I Take if My Content Is Swiftly Stripped by FB?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-next-level-screenshots-review-of-apowersofts-pc-recorder-for-2024/"><u>[New] Next-Level Screenshots Review of Apowersoft's PC Recorder for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>[Updated] In 2024, Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-professional-graphics-with-asus-pa32u-true-to-color/"><u>2024 Approved Professional Graphics with ASUS PA32U True to Color</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/6-simple-fixes-to-restore-your-oculus-link-from-black-screen-dilemma/"><u>6 Simple Fixes to Restore Your Oculus Link From Black Screen Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-battleye-errors-easy-setup-steps-for-gamers/"><u>Bypassing BattlEye Errors: Easy Setup Steps for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-for-frozen-logitech-mouse-connectivity/"><u>Fix for Frozen Logitech Mouse Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-surface-pro-4-stylus-issues-a-comprehensive-solution-guide/"><u>Fixing Surface Pro 4 Stylus Issues: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x80071ac3-corrupt-disk-issue/"><u>How to Fix Error Code 0X80071AC3 - Corrupt Disk Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-lenovo-keyboard-issues-when-it-stops-responding/"><u>How to Fix Lenovo Keyboard Issues When It Stops Responding</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-usb-wi-fi-converters-for-seamless-internet-connection-in-2n3-best-picks-of-the-year/"><u>Leading USB Wi-Fi Converters for Seamless Internet Connection in 2N3 - Best Picks of the Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-screenshot-of-uac-dialogues/"><u>Navigating Windows Screenshot of UAC Dialogues</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-10-performance-by-managing-microsoft-compatibility-telemetrys-disk-space-use/"><u>Optimizing Windows 10 Performance by Managing Microsoft Compatibility Telemetry's Disk Space Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-with-creating-a-crash-dump-in-wolfenstein-ii/"><u>Resolved: Issues with Creating a Crash Dump in Wolfenstein II</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-overutilized-cpu-by-wudfhostexe-fix-guide-for-smooth-windows-11-experience/"><u>Tackling Overutilized CPU by wudfhost.exe: Fix Guide for Smooth Windows 11 Experience</u></a></li>
+</ul></div>
 

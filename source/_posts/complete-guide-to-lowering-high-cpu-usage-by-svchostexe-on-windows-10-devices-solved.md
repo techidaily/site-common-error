@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Lowering High CPU Usage by svchost.exe on Windows 10 Devices – Solved
-date: 2024-12-19T20:32:36.628Z
-updated: 2024-12-25T16:01:59.016Z
+date: 2024-12-27T23:21:10.537Z
+updated: 2025-01-03T23:23:17.291Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **What is svchost.exe?**
@@ -48,11 +48,19 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
 
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Disable certain svchost.exe services**
 
@@ -62,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
@@ -73,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click one of the processes and click **Stop**  to stop it.
 
@@ -84,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
@@ -98,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 9) See if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Empty event viewer log**
 
  Large log files in Windows event viewer could cause excessively high usage of CPU or memory. To fix that, you can clear Event Viewer’s log:
@@ -106,21 +114,17 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer after this.
 
@@ -132,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -165,7 +165,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
@@ -189,20 +189,24 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-frames-to-frequencies-transforming-instagram-videos/"><u>[New] In 2024, From Frames to Frequencies Transforming Instagram Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-safeguarding-your-listening-pleasure-with-3-steps/"><u>[Updated] Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-funny-photo-tool/"><u>2024 Approved Premier Funny Photo Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/breeze-through-blockages-repair-techniques-for-stalled-0-windows-updates/"><u>Breeze Through Blockages: Repair Techniques for Stalled 0% Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/cracking-down-error-1067-the-process-that-stopped-in-windows-explained-and-fixed/"><u>Cracking Down Error 1067: The Process that Stopped in Windows Explained & Fixed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortlessly-convert-your-gif-files-to-mpeg-format-at-no-cost-using-movavis-web-tool/"><u>Effortlessly Convert Your GIF Files to MPEG Format at No Cost - Using Movavi's Web Tool</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-x9a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor X9a Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-hp-laptops-camera-wont-work-with-windows-11/"><u>Quick Fixes for When Your HP Laptop's Camera Won't Work with Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-problem-occurred-while-rebooting-error-in-windows-10/"><u>Resolving the 'Problem Occurred While Rebooting' Error in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204570284-smooth-gameplay-on-demand-no-trouble/"><u>Smooth Gameplay on Demand, No Trouble</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-essential-guide-to-video-spinning-in-vlc-media-player-for-2024/"><u>The Essential Guide to Video Spinning in VLC Media Player for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-role-of-msda80dll-in-your-system-do-you-need-to-retain-it/"><u>The Role of MSDA80.DLL in Your System - Do You Need to Retain It?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-flash-content-failures-in-google-chrome-a-comprehensive-guide/"><u>Troubleshooting Flash Content Failures in Google Chrome: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-6-overlords-massive-nlp-innovators-crown/"><u>Ultimate 6 Overlords: Massive NLP Innovators Crown</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-failed-to-load-hardware-monitor-driver/"><u>[SOLVED] Failed to Load Hardware Monitor Driver</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-lightroom-crafting-breathtaking-hdr-photos/"><u>[Updated] 2024 Approved Mastering Lightroom Crafting Breathtaking HDR Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-resolve-androidios-issues-with-fb-video-playback/"><u>[Updated] Resolve Android/iOS Issues with FB Video Playback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-composition-crafting-memorable-podcast-covers/"><u>[Updated] The Ultimate Composition Crafting Memorable Podcast Covers</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-quick-tips-how-to-restore-lost-data-on-your-flash-drive-without-spending-a-penny/"><u>1. Quick Tips: How To Restore Lost Data On Your Flash Drive Without Spending A Penny</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-discovering-the-best-in-class-9-microphone-recorders-reviewed/"><u>2024 Approved Discovering the Best in Class 9 Microphone Recorders Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-correcting-your-screens-no-signal-problem-from-diagnosis-to-fix/"><u>Comprehensive Guide to Correcting Your Screen's 'No Signal' Problem: From Diagnosis to Fix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-premier-offers-for-household-energy-backup-systems-in-december-2022-insider-picks-by-zdnet/"><u>Discover the Premier Offers for Household Energy Backup Systems in December 2022 - Insider Picks by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-organization-with-windows-11-file-explorer-a-step-by-step-guide/"><u>Effortless Organization with Windows 11 File Explorer - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x887a0006-fast-and-simple-troubleshooting-steps/"><u>Error Code 0X887A0006: Fast and Simple Troubleshooting Steps!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-dealing-with-the-binkw32dll-not-present-problem/"><u>Expert Advice for Dealing with the Binkw32.dll Not Present Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-pixel-watch-3-exclusive-breaking-down-rumors-on-pricing-structure-release-windows-and-tech-specs/"><u>Google Pixel Watch 3 Exclusive – Breaking Down Rumors on Pricing Structure, Release Windows, and Tech Specs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-90-lite-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor 90 Lite Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tackle-unavailable-previews-on-windows-outlook-email/"><u>How to Tackle Unavailable Previews on Windows Outlook Email</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-usb-recognition-issues-in-windows-11-no-more-port-reset-failures/"><u>Mastering USB Recognition Issues in Windows 11: No More Port Reset Failures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamlining-cross-platform-communication-via-skype-chat-rooms/"><u>Streamlining Cross-Platform Communication via Skype Chat Rooms</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-installing-latest-windows-10-build-1607-common-issues-and-fixes/"><u>Trouble Installing Latest Windows 10 Build 1607: Common Issues and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-successfully-turning-on-bluetooth-in-windows-11-and-10/"><u>Troubleshooting Tips: Successfully Turning On Bluetooth in Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-to-do-when-you-encounter-a-monitor-lacking-hdcp-capability/"><u>What to Do When You Encounter a Monitor Lacking HDCP Capability</u></a></li>
 </ul></div>
 

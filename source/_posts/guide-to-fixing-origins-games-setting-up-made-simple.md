@@ -1,7 +1,7 @@
 ---
 title: "Guide to Fixing Origins Games: Setting Up Made Simple"
-date: 2024-08-15T10:58:48.750Z
-updated: 2024-08-16T10:58:48.750Z
+date: 2024-12-29T16:00:24.807Z
+updated: 2025-01-03T18:59:46.788Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
  In this article, we’ll explore four potential fixes that can help you get rid of the irritating blinking cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4 fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,22 +28,24 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 3. **[Update your mouse and/or keyboard driver](#c)**
 4. **[Check for Windows Updates](#d)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the keyboard troubleshooter
 
  The keyboard troubleshooter is a built-in utility in Windows designed to identify and automatically rectify common keyboard or mouse errors. To use this troubleshooter, follow these steps:
 
 **1)** On your keyboard, press the **Windows logo** key and type **troubleshoot** . Then, select **Troubleshoot settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click **Keyboard** , then click**Run the troubleshooter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
 **3)**  Wait for Windows to detect and fix your issue automatically.
@@ -67,30 +66,19 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
 **3)** Click**Mouse** .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-532-1024x753.png)
 
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
 
 **5)** Check to see if your mouse can work properly now.
 
 If your problem persists, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your mouse and/or mouse driver
 
@@ -122,14 +110,15 @@ OR
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -143,11 +132,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
 **3)**  Restart your computer after the update is complete.
@@ -167,8 +157,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +164,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-macstreaming-avoiding-common-pitfalls-in-mixer/"><u>[New] Pioneering MacStreaming Avoiding Common Pitfalls in Mixer</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-razer-keyboard-not-lighting-up/"><u>[Solved] Razer Keyboard Not Lighting Up</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchats-trendsetting-boomerangs-explained/"><u>[Updated] 2024 Approved SnapChat's Trendsetting Boomerangs Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-precision-in-film-craft-advanced-kinemaster-strategies-for-2024/"><u>[Updated] Precision in Film Craft Advanced Kinemaster Strategies for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-repair-the-steam-error-on-your-disk-drive/"><u>Effective Ways to Repair the Steam Error on Your Disk Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-scrolling-malfunction-on-a-touchpad-for-windows-10-users/"><u>How to Resolve Scrolling Malfunction on a Touchpad for Windows 10 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel S23 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-converte-le-foto-in-formato-opus-senza-costo-con-il-suo-software-personalizzato/"><u>Movavi: Converte Le Foto in Formato Opus Senza Costo Con Il Suo Software Personalizzato</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-absence-of-an-audio-device-error-on-windows-11-systems/"><u>Troubleshooting the Absence of an Audio Device Error on Windows 11 Systems</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-complimentary-guide-essential-video-editing-skills/"><u>Vimeo’s Complimentary Guide Essential Video Editing Skills</u></a></li>
+</ul></div>
 

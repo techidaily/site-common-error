@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Installation Hurdles: The Definitive Solution for Windows 10 Error Code 80240020"
-date: 2024-12-21T16:25:57.904Z
-updated: 2024-12-25T18:44:37.141Z
+date: 2025-01-03T00:55:07.096Z
+updated: 2025-01-03T21:21:22.625Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
@@ -38,7 +38,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -77,17 +77,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -100,16 +100,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -127,8 +119,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -153,20 +153,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-adding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>[New] In 2024, Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions/"><u>[New] In 2024, Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-instant-screener-chromeos-edition-for-2024/"><u>[New] Instant Screener ChromeOS Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-deleting-youtube-content-a-step-by-step-guide-for-2024/"><u>[Updated] Deleting YouTube Content A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-effortlessly-invert-colors-in-your-digital-photos/"><u>[Updated] Effortlessly Invert Colors in Your Digital Photos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/explore-the-advantages-of-consulting-chatgpt-for-medical-insights-discover-7-compelling-reasons/"><u>Explore the Advantages of Consulting ChatGPT for Medical Insights – Discover 7 Compelling Reasons</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-could-not-find-requested-module-step-by-step-tips/"><u>Fixing 'Could Not Find Requested Module' - Step-by-Step Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-stuck-or-unresponsive-function-fn-keys-on-an-asus-device/"><u>How to Fix Stuck or Unresponsive Function (Fn) Keys on an ASUS Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-problem-of-the-discontinued-print-driver-service-for-legacy-apps/"><u>How to Fix the Problem of the Discontinued Print Driver Service for Legacy Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-setup-ensuring-your-microsoft-wireless-display-adapter-works-on-windows-11/"><u>Mastering the Setup: Ensuring Your Microsoft Wireless Display Adapter Works on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/restarting-your-iphoneipad-after-changing-cables-can-help-reset-any-potential-software-conflicts-on-the-device-itself/"><u>Restarting Your iPhone/iPad After Changing Cables Can Help Reset Any Potential Software Conflicts on the Device Itself.</u></a></li>
-<li><a href="https://facebook.techidaily.com/step-by-step-to-upgrade-your-social-media-agebirthdate/"><u>Step-by-Step to Upgrade Your Social Media Age/Birthdate</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-memory-issues-in-rdr2-with-simple-system-tweaks/"><u>Troubleshoot Memory Issues in RDR2 with Simple System Tweaks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-inoperative-microphones-in-windows-10-systems/"><u>Troubleshooting Inoperative Microphones in Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-persistent-computer-mouse-connection-issues/"><u>Ultimate Guide: Resolving Persistent Computer Mouse Connection Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-principles-of-animated-visual-content/"><u>[New] 2024 Approved Essential Principles of Animated Visual Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grasping-the-essence-of-your-youtube-community/"><u>[New] 2024 Approved Grasping the Essence of Your YouTube Community</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-3-step-guide-to-ascertain-googles-profitable-potential-youtube-analysis/"><u>[New] 3-Step Guide to Ascertain Google's Profitable Potential YouTube Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-device-based-access-commence-google-meet-chat/"><u>[Updated] In 2024, Device-Based Access Commence Google Meet Chat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/acer-quiet-mode-dilemma-solved-bring-back-the-boom-with-easy-fixes/"><u>Acer Quiet Mode Dilemma Solved: Bring Back the Boom with Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-woes-no-more-fix-unpairing-issues-in-windows-11-with-these-proven-techniques/"><u>Bluetooth Woes No More: Fix Unpairing Issues in Windows 11 with These Proven Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/focused-audio-experience-using-headsets-only/"><u>Focused Audio Experience Using Headsets Only</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-steelseries-arctis-5-microphone-issues-a-step-by-step-guide/"><u>How to Fix SteelSeries Arctis 5 Microphone Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/launching-a-channel-a-comprehensive-discosteps-guide/"><u>Launching a Channel A Comprehensive DiscoSteps Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/nba-2k21s-viridian-flaw-unveiled-solutions-inside/"><u>NBA 2K21's Viridian Flaw Unveiled - Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-wdf-performance-resolving-the-high-cpu-issue/"><u>Optimized WDF Performance: Resolving the 'High CPU' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-guide-fixing-a-malfunctioning-or-missing-shift-key-on-your-computer/"><u>Step-by-Step Solution Guide: Fixing a Malfunctioning or Missing Shift Key on Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-the-mechanics-behind-tesla-dog-mode-an-in-depth-look-at-its-operation/"><u>Understanding the Mechanics Behind Tesla Dog Mode: An In-Depth Look at Its Operation</u></a></li>
 </ul></div>
 

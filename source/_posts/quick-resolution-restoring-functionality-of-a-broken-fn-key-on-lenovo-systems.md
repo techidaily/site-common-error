@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolution: Restoring Functionality of a Broken Fn Key on Lenovo Systems"
-date: 2024-12-21T17:58:34.411Z
-updated: 2024-12-25T19:27:24.438Z
+date: 2025-01-01T23:18:19.173Z
+updated: 2025-01-04T02:15:57.881Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 Fixes for Personalized Settings (Not Responding)
@@ -50,10 +50,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Switch the network connection
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
@@ -61,7 +57,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
@@ -78,13 +74,17 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a86cad1b3.jpg)
 3. Click**File** \>**Run new task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you should have your desktop back.
@@ -93,7 +93,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run SFC Command
@@ -110,10 +110,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Delete a file in regedit
 
  Please note: any modifications in regedit must be proceeded with caution to avoid further problems.
@@ -126,17 +122,21 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
 3. Right-click on**the last file** and click**Export** to back up the file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
  If this fix doesn’t help with the situation, you might want to import the file to restore the backup. Check out **[this link](https://tools.techidaily.com/drivereasy/download/)**  for further information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Right-click on**the last file** and click**Delete** .
 5. Restart your computer and see if your desktop comes back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -163,20 +163,24 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-gopro-karma-quest-for-altitude-dominance/"><u>[New] The GoPro Karma Quest for Altitude Dominance</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-party-pulse-perfect-dj-content-for-events/"><u>[Updated] Party Pulse Perfect DJ Content for Events</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-sound-of-success-tailoring-audio-for-instagram-content/"><u>[Updated] The Sound of Success Tailoring Audio for Instagram Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-issue-of-svchostexe-elevated-cpu-use-in-windows-10/"><u>Diagnosing and Fixing the Issue of svchost.exe Elevated CPU Use in Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultraportable-laptop-with-stunning-visuals-at-an-incredible-discounted-price-today-techspot/"><u>Discover the Ultraportable Laptop with Stunning Visuals at an Incredible Discounted Price Today | TechSpot.</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-top-6-nft-platforms-unlocking-creativity-for-artists/"><u>In 2024, Top 6 NFT Platforms Unlocking Creativity for Artists</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-storm-tracking-solutions-top-picks-for-the-year-2024/"><u>Leading Storm Tracking Solutions: Top Picks for the Year 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/matched-cameras-to-secure-windows-hello-access/"><u>Matched Cameras to Secure Windows Hello Access</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-nokia-130-music-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Nokia 130 Music.</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-1011-issues-tips-when-usb-ports-fail-to-work/"><u>Solving Windows 10/11 Issues: Tips When USB Ports Fail to Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-rdr2-memory-errors-with-simple-pagefile-enhancement-techniques/"><u>Troubleshoot RDR2 Memory Errors with Simple Pagefile Enhancement Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-error-code-5-in-minecraft/"><u>Troubleshooting Guide: Fixing Error Code #5 in Minecraft</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-tips-for-establishing-a-stable-connection-between-your-airpods-and-windows-os-in-202cuh3/"><u>Ultimate Tips for Establishing a Stable Connection Between Your AirPods and Windows OS in 202Cuh3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-ai-overtake-humans-insights-on-job-security-with-chatgpt/"><u>Will AI Overtake Humans? Insights on Job Security with ChatGPT.</u></a></li>
-<li><a href="https://common-error.techidaily.com/wireless-mouse-stops-and-restarts-on-windows-1110-heres-how-to-fix-it/"><u>Wireless Mouse Stops & Restarts on Windows 11/10? Here's How to Fix It</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/s-hasty-subscription-a-gateway-to-better-viewing-habits-in-2024/"><u>[New] Is Hasty Subscription a Gateway to Better Viewing Habits, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-minecraft-launching-issues-in-windows/"><u>[SOLVED] How to Fix Minecraft Launching Issues in Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-rectifying-partial-muted-sounds-in-facebook-media-shows/"><u>[Updated] 2024 Approved Rectifying Partial Muted Sounds in Facebook Media Shows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-expertly-record-and-save-your-favorite-hulu-shows/"><u>2024 Approved How To Expertly Record and Save Your Favorite Hulu Shows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-wirecast-playbook-for-engaging-youtube-streamers/"><u>2024 Approved The Ultimate WireCast Playbook for Engaging YouTube Streamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210351826-comprehensive-troubleshoot-for-windows-11s-persistent-0xc190n0028-upgrade-hurdle-solutions-included/"><u>Comprehensive Troubleshoot for Windows 11'S Persistent 0xC190n0028 Upgrade Hurdle - Solutions Included</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fixes-for-common-windows-problems-addressing-the-entry-point-not-found-error/"><u>DIY Fixes for Common Windows Problems: Addressing the Entry Point Not Found Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-ways-to-fix-windows-10-a-guide-to-using-sfc-and-dism-tools/"><u>Exploring Ways to Fix Windows 10: A Guide to Using SFC & DISM Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-connectivity-in-multiplayer-solving-minecraft-lan-problems/"><u>How to Restore Connectivity in Multiplayer: Solving Minecraft LAN Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-free-high-quality-srt-translation-services-1-8/"><u>In 2024, Free, High-Quality SRT Translation Services – #1-#8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-10-mobile-relaxation-renders-idle-games/"><u>In 2024, Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-warriors-opting-between-controller-and-stick/"><u>Pixel Warriors: Opting Between Controller and Stick</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ethernet-network-malfunctions-on-windows-117-a-step-by-step-guide/"><u>Solving Ethernet Network Malfunctions on Windows 11/7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-unresponsive-fn-keys-in-a-moment/"><u>Solving the Problem of Unresponsive Fn Keys in a Moment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-rectifying-dsounddll-file-unavailability-on-pcs/"><u>The Complete Guide to Rectifying dsound.dll File Unavailability on PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-spark-20-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Spark 20 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-nonfunctional-dell-webcams-in-windows-a-step-by-step-guide/"><u>Troubleshoot Nonfunctional Dell Webcams in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/unable-to-print-pdf-files-easy-effective-troubleshooting-steps-inside/"><u>Unable to Print PDF Files? Easy, Effective Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-codegpt-ais-role-in-software-creation/"><u>Understanding CodeGPT: AI’s Role in Software Creation</u></a></li>
 </ul></div>
 

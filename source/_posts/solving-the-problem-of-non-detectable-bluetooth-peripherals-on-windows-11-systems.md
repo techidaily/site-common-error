@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem of Non-Detectable Bluetooth Peripherals on Windows 11 Systems
-date: 2024-12-19T20:49:51.815Z
-updated: 2024-12-25T19:13:11.189Z
+date: 2024-12-29T23:38:03.852Z
+updated: 2025-01-04T03:30:28.313Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -57,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
@@ -71,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
@@ -88,29 +92,25 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -125,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -151,10 +155,6 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 * [Bluetooth](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -175,22 +175,18 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-real-time-recording-faceoff-obs-vs-shadowplay-for-2024/"><u>[New] Real-Time Recording Faceoff OBS Vs ShadowPlay for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-filer-to-fanfare-transmitting-videos-across-services/"><u>[Updated] 2024 Approved From Filer to Fanfare Transmitting Videos Across Services</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-optimal-drone-cameras-film-and-snapshot-heroes-10/"><u>[Updated] In 2024, Optimal Drone Cameras Film & Snapshot Heroes #10</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1-exploring-the-three-essential-leadership-traits-of-prime-minister-narendra-modi/"><u>1. Exploring the Three Essential Leadership Traits of Prime Minister Narendra Modi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 13 Pro Max | Stellar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asrock-motherboard-driver-download/"><u>ASRock Motherboard Driver Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-to-overcome-incomplete-windows-updates/"><u>Easy Solutions to Overcome Incomplete Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-troubleshooting-steps-for-repairing-your-lenovos-malfunctioning-fingerprint-scanner/"><u>Easy Troubleshooting Steps for Repairing Your Lenovo's Malfunctioning Fingerprint Scanner</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208725532-google-chrome-blackout-heres-how-to-restore-your-browsers-display/"><u>Google Chrome Blackout? Here's How to Restore Your Browser's Display!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/identifying-and-rectifying-self-starting-behavior-on-your-windows-10-device/"><u>Identifying & Rectifying Self-Starting Behavior on Your Windows 10 Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-5-toy-drones-reviewed/"><u>In 2024, Prime 5 Toy Drones Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-freezing-expert-tips-for-troubleshooting-nier-automata-pc-bugs/"><u>No More Freezing: Expert Tips for Troubleshooting Nier: Automata PC Bugs</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-to-overcoming-cannot-complete-installation-on-windows/"><u>Quick Guide to Overcoming 'Cannot Complete Installation' On Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-intermittent-wireless-mouse-failures-in-windows-1110/"><u>Troubleshooting Guide: Fixing Intermittent Wireless Mouse Failures in Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-restoring-access-to-remotely-located-servers/"><u>Troubleshooting Tips for Restoring Access to Remotely Located Servers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-free-floating-earphones-guide-2024-edition/"><u>Ultimate Free-Floating Earphones Guide: 2024 Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-seeking-the-finest-pixel-ringtones-online/"><u>[New] Seeking the Finest Pixel Ringtones Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-slicedmedia-studio/"><u>[New] SlicedMedia Studio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-hdr-tutorial-for-exceptional-portraits-for-2024/"><u>[New] The Ultimate HDR Tutorial for Exceptional Portraits for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-techniques-for-live-sport-broadcast-recording/"><u>[Updated] 2024 Approved Master Techniques for Live Sport Broadcast Recording</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581348580-black-friday-deals-dive-into-language-learning-at-a-steal/"><u>Black Friday Deals: Dive Into Language Learning at a Steal</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-setting-up-your-hosted-network-on-windows-11-without-starting-issues/"><u>Expert Advice: Setting Up Your Hosted Network on Windows 11 Without Starting Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-restoring-functionality-to-your-ignored-usb-device/"><u>Expert Tips: Restoring Functionality to Your Ignored USB Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/guardian-setting-for-peaceful-windows-11-rest/"><u>Guardian Setting for Peaceful Windows 11 Rest</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-the-problem-when-your-logitech-mouse-scroll-isnt-working/"><u>How to Solve the Problem When Your Logitech Mouse Scroll Isn't Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-connectivity-a-step-by-step-guide-for-windows-11-and-10/"><u>Mastering Bluetooth Connectivity: A Step-by-Step Guide for Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/reappearance-of-missing-desktop-icons-on-windows-10-quick-fix-guide/"><u>Reappearance of Missing Desktop Icons on Windows 10 - Quick Fix Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-wrf-format-transformer-how-to-change-your-webex-audiovideo-files-into-various-types/"><u>Top WRF Format Transformer: How to Change Your WebEx Audio/Video Files Into Various Types</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-14-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 14 Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
 

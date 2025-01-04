@@ -1,7 +1,7 @@
 ---
 title: Understanding and Correcting Keyboard Typos - Practical Tips & Advice
-date: 2024-08-15T10:56:43.201Z
-updated: 2024-08-16T10:56:43.201Z
+date: 2024-12-30T18:13:44.340Z
+updated: 2025-01-04T04:39:54.667Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ## Understanding & Fixing Repeated Automatic Restarts in Computers - Expert Tips Inside
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1295358_1280-1024x591.png)
 
 **Does your computer turn on and off in a loop** ? Don’t worry. You’re not the first one who have encountered this problem. You can follow the tips below to fix this problem.  
@@ -33,23 +30,14 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 7. [Clean dust](https://tools.techidaily.com/drivereasy/download/)
 8. [Replace the motherboard](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Method 1: Check if your computer has a virus  
 
  Virus can cause your computer to work strangely. They can change the computer settings without your knowledge. And they can cause your computer to turn on and off repeatedly.  
 
  So check if your computer has a virus. You can use your anti-virus software to scan your computer and remove the virus if necessary. If you haven’t installed a anti-virus software, see[Free Virus Removal Tool](https://tools.techidaily.com/drivereasy/download/) and pick the anti-virus software you trust.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Method 2: Update the drivers on your computer  
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -72,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
  You can do it for free if you like, but it partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Remove any peripherals from your computer  
 
  If the problem was caused around the time you connected peripherals to your computer, it’s probably a hardware conflict issue. You can remove the peripherals easily. If you have connected multiple peripherals to your computer, just remove the peripherals one by one.  
@@ -84,10 +69,13 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Reset CMOS to the default settings  
 
  Corrupted CMOS can cause booting errors, such as the error “computer repeatedly turns on and off”. To fix the problem, you can try to reset CMOS to the default settings.
@@ -108,16 +96,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 For example, many Dell PCs show this key like below at the first screen:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
@@ -133,11 +126,15 @@ For example, many Dell PCs show this key like below at the first screen:
 
  For laptop, you can easily replace the PSU. But for desktop, you need to open the case. This could be technical and dangerous. If you know what you’re doing, that’s fine. But if not, we recommend you to take your computer to the repair store to have it checked.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Check the fan  
 
@@ -155,9 +152,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 8: Replace the motherboard  
 
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
@@ -174,8 +168,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +175,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-diving-deep-into-screen-technologies-projection-vs-television-in-4k/"><u>[New] In 2024, Diving Deep Into Screen Technologies Projection vs Television in 4K</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elevate-your-farm-the-top-7-stardew-modifications/"><u>[Updated] In 2024, Elevate Your Farm The Top 7 Stardew Modifications</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-storytelling-anime-influencers-on-tiktok-for-2024/"><u>[Updated] Mastering Storytelling Anime Influencers on TikTok for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-infinix-smart-7-hd-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-safariblocks-fixes-and-tips-to-open-webpages-effortlessly/"><u>Bypassing Safariblocks: Fixes and Tips to Open Webpages Effortlessly</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printers-odd-behavior-unnecessary-paper-usage/"><u>Epson Printer's Odd Behavior: Unnecessary Paper Usage</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-solving-video-playback-sounds-addressing-microsofts-soundrenderer-fault-on-windows-10-youtube-fixes/"><u>Guide to Solving Video Playback Sounds: Addressing Microsoft's SoundRenderer Fault on Windows 10 - YouTube Fixes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-live-video-conferencing-systems-for-2024/"><u>Premium Live Video Conferencing Systems for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/revolutionize-your-fb-video-strategy-with-these-ideas/"><u>Revolutionize Your FB Video Strategy with These Ideas</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-audio-interface-for-your-podcaster/"><u>The Essential Audio Interface for Your Podcaster</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-8-solutions-for-resolving-windows-11-update-error-0x800f0922/"><u>Top 8 Solutions for Resolving Windows 11 Update Error: 0X800F0922</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-desktop-is-unavailable-message-in-windows-config/"><u>Troubleshooting Tips for 'Desktop Is Unavailable' Message in Windows Config</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-secrets-to-clearing-filefolder-access-blockades-in-windows-environments/"><u>Unlocking the Secrets to Clearing File/Folder Access Blockades in Windows Environments</u></a></li>
+</ul></div>
 

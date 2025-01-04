@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Effortlessly Overcoming the Crimson-Screen Dilemma on Any System"
-date: 2024-08-15T10:55:37.026Z
-updated: 2024-08-16T10:55:37.026Z
+date: 2024-12-31T19:00:15.430Z
+updated: 2025-01-04T01:24:03.477Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/featured-image-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one works for you.
@@ -62,31 +63,26 @@ Recommended System Requirements
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn off Shot Feedback
 
  Many players have tested that turning off the**Shot Feedback** fixed the green glitch. So it’s worth a shot. To do so, you can:
 
  1) Click on the**Options/Quit** tab. Under the tab, click**SETTINGS** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
 
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
 
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 3\. Update your graphics drivers
 
  our graphics driver is an essential piece of software that lets your system communicate with the graphics card. If it is outdated, it would cause noticeable performance problems. While driver updates include the latest patches for security flaws, fix problems, and sometimes even provide you with completely new features, all for free. Therefore, in order to enjoy your game to the fullest, you should make sure your graphics card is up-to-date.
@@ -99,18 +95,16 @@ Here’s how to update drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -128,14 +122,15 @@ Here’s how to update drivers with Driver Easy:
 
  1) Go to **Settings > Application Saved Data Management > Saved Data in System Storage** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-1.png)
 
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
@@ -151,17 +146,15 @@ Here’s how to update drivers with Driver Easy:
 
  1) Click on the**LIBRARY** tab, right-click on your game**NBA 2K21,** and select Properties.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
 
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
@@ -175,6 +168,10 @@ To do this, simply follow the instructions below:
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
@@ -187,10 +184,11 @@ To do this, simply follow the instructions below:
 
  1) Go to**FEATURES** in 2K.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
@@ -209,8 +207,6 @@ To do this, simply follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +214,26 @@ To do this, simply follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-instant-upload-solutions-top-5-free-online-converter-services/"><u>[New] In 2024, Instant Upload Solutions Top 5 Free Online Converter Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-reset-a-keyboard/"><u>[Solved] How to Reset a Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-request-failed-due-to-a-fatal-device-hardware-error/"><u>[SOLVED] The Request Failed Due to a Fatal Device Hardware Error</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions/"><u>[Updated] Deciphering the Divergent Aspects of YouTubes & DailyMentions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nokia-c210-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nokia C210 Unlock Without Password</u></a></li>
+<li><a href="https://common-error.techidaily.com/corrective-steps-for-accidental-character-inputs-in-typing/"><u>Corrective Steps for Accidental Character Inputs in Typing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/detecting-and-combating-overheated-cpus-a-users-guide-to-staying-cool-under-pressure/"><u>Detecting & Combating Overheated CPUs: A User's Guide to Staying Cool Under Pressure</u></a></li>
+<li><a href="https://fox-access.techidaily.com/droning-made-simple-top-picks-for-kids-and-newbies-for-2024/"><u>Droning Made Simple Top Picks for Kids & Newbies for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-40-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 40 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-on-your-windows-10-pc-solution-guide/"><u>How to Fix MsMpEng.exe High CPU Usage on Your Windows 10 PC – Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-release-a-stuck-update-on-legacy-oss-like-windows-seven-latest-techniques-and-solutions-for-better-user-experience-in-the-year-of-our-lord-two-thousa24/"><u>How To Release A Stuck Update On Legacy OSs Like WIndows Seven - Latest Techniques & Solutions For Better User Experience In The Year Of Our Lord Two Thousand And Twenty Four Edition! (Helpful Tips and Troubleshooting Steps.)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-insight-triumphs-outsmarting-algorithmic-writing-tools/"><u>Human Insight Triumphs: Outsmarting Algorithmic Writing Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-8-best-daw-app-for-android-to-accelerate-your-music-production/"><u>New In 2024, Top 8 Best DAW App for Android to Accelerate Your Music Production</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-usb-port-issues-a-step-by-step-guide/"><u>Resolving Windows 11 USB Port Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-solidity-of-studiofxs-large-softbox-lights/"><u>The Solidity of StudioFX's Large Softbox Lights</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-bluetooth-issues-on-windows-7-computers/"><u>Troubleshooting and Fixing Bluetooth Issues on Windows 7 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-steam-bootstrapper-errors-now-resolved/"><u>Troubleshooting Tips for Overcoming Steam Bootstrapper Errors – Now Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-your-smartphone-isnt-charging-even-though-its-plugged-in-fixes-and-tips/"><u>Why Your Smartphone Isn’t Charging Even Though It's Plugged In – Fixes & Tips</u></a></li>
+</ul></div>
 

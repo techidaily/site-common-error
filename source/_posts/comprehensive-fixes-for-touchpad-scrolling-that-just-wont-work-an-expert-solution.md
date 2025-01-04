@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Fixes for Touchpad Scrolling That Just Won't Work: An Expert Solution"
-date: 2024-08-15T11:01:18.378Z
-updated: 2024-08-16T11:01:18.378Z
+date: 2024-12-31T23:00:49.890Z
+updated: 2025-01-03T16:40:32.426Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
 ## Complete Fix for N64 Controllers That Aren't Responding - Expert Advice Inside
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![xp pen not working](https://images.drivereasy.com/wp-content/uploads/2020/12/cover-3.jpg)
 
  Found your XP-Pen pen or tablet not working properly? You’re not alone. Many users are reporting the same XP Pen not working issue, but the good new is that this problem is not hard to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -28,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
 * Make sure your XP Pen is fully charged.
 * Re-connect the graphics tablet to your PC, and you can also insert the USB cable or wireless receiver to another USB port to test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,14 +49,13 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**control** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-5.jpg)
 2. Select**Small icons** from the drop-down menu next to View by, and click**Power Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-7.jpg)
 3. Click**Change plan settings** next to your preferred plan.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-8.jpg)
 4. Set the time to put the computer to sleep as**Never** and click**Save changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-5.jpg)
@@ -78,11 +82,12 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click the**Update** button next to the flagged_Pentablet HID driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/udpate-tablet-driver-de.jpg)
@@ -92,41 +97,25 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
  The right and up-to-date tablet driver should make your XP Pen devices work perfectly as always. But if this method doesn’t help, keep reading the third fix below.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Disable Windows Ink Workspace
 
  Windows Ink Workspace is a new feature designed to improve the users’ experience with their digital pens on Windows 10\. While in some cases, it doesn’t bring the expected result and can cause brush lags or other similar issues with your pens. Simply remove it via the following steps and see how things go.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then type**regedit** in the field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1-3.jpg)
 2. Navigate to the following path on the left pane:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\WindowsInkWorkspace** .  
 
  If you don’t see this folder, right-click the**Microsoft key** and select**New** \>**Key** to create**WindowsInkWorkspace** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3-2.jpg)
 3. On the right pane, double-click the**AllowWindowsInkWorkspace** and set the value data to**0** . Then, click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-7.jpg)  
  As above, if you don’t see this setting, right-click any empty space on the right pane and select**New** \>**DWORD (32-bit) Value** . Then name the new key as**AllowWindowsInkWorkspace** and set its value data to**0** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4-1.jpg)
 4. Restart your PC to apply the changes.
 
@@ -146,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +142,18 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-seamless-screen-saving-on-iphone/"><u>[New] 2024 Approved Seamless Screen Saving on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-portal-to-youtubes-video-mastery-hub-for-2024/"><u>[New] Finding Your Portal to YouTube's Video Mastery Hub for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-empower-your-application-with-microsoft-azure-speech-services/"><u>[Updated] Empower Your Application with Microsoft Azure Speech Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>[Updated] Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209303466-how-to-fix-windows-update-freezing-at-98-or-100-solution-now/"><u>How to Fix Windows Update Freezing at 98% or 100% - SOLUTION NOW</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-when-your-steelseries-arctis-mic-isnt-functioning-correctly/"><u>How To Solve When Your SteelSeries Arctis ([Mic]) Isn't Functioning Correctly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a58-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A58 4G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-to-stellar-custom-shorts-thumbnails/"><u>In 2024, Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
+<li><a href="https://common-error.techidaily.com/revealing-the-trick-restoring-hidden-windows-from-outside-your-screen/"><u>Revealing the Trick: Restoring Hidden Windows From Outside Your Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-reviving-a-broken-shift-key-on-your-computer/"><u>Step-by-Step Guide To Reviving A Broken Shift Key On Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209785652-troubleshooting-non-functional-usb-ports-on-windows-10-and-11/"><u>Troubleshooting Non-Functional USB Ports on Windows 10 & 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Windows 11 Gaming Performance – Essential Adjustments & Tweaks
-date: 2024-08-15T10:59:16.788Z
-updated: 2024-08-16T10:59:16.788Z
+date: 2025-01-02T03:36:52.981Z
+updated: 2025-01-03T19:05:25.274Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
  If there’s no problem with the HDMI port and the cable, you can try the two solutions below. Start with Solution 1, then try Solution 2 if it doesn’t solve the problem.  
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -38,44 +35,43 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Display** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Check if you’re able to see the TV as a second monitor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can’t see your TV on the screen , follow steps below:
 
  1) On your keyboard, press the**Windows logo key**  and **P** at the same time.
  2) Click**Duplicate** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
  If Duplicate doesn’t work, try switching to**Extend** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 2: Update the graphics driver**
 
  Your problem may be caused by a graphics driver issue. This can happen if the Windows basic video driver is installed but not the manufacturer’s driver.  So try to update your graphics driver to fix the problem.
@@ -91,6 +87,10 @@ After that, check to see if Windows can detect your TV.
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
 
@@ -112,8 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +119,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-3d-home-theaters-top-blu-ray-player-reviews/"><u>[Updated] Ideal 3D Home Theaters Top Blu-Ray Player Reviews</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-master-the-art-of-video-editing-with-top-7-sounds-selections-for-2024/"><u>[Updated] Master the Art of Video Editing with Top 7 Sounds Selections for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722953982951-arduino-mastery-secure-your-mega-2560-drivers-in-a-flash/"><u>Arduino Mastery: Secure Your Mega 2560 Drivers in a Flash!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-command-center-mastering-your-digital-domain-for-2024/"><u>Channel Command Center Mastering Your Digital Domain for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x8024401c-a-comprehensive-fix-guide-for-windows-11-users/"><u>Error Code 0X8024401c - A Comprehensive Fix Guide for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/expedited-reinstating-logildadll/"><u>Expedited: Reinstating LogiLDA.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210270217-game-changer-unleashed-experience-lightning-speed-in-action-today/"><u>Game-Changer Unleashed: Experience Lightning Speed in Action Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-device-connected-steps-to-restore-and-activate-wi-fi/"><u>Get Your Device Connected: Steps to Restore and Activate Wi-Fi</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/high-end-audio-gear-the-top-9-mic-recorders-online-in-23-for-2024/"><u>High-End Audio Gear The Top 9 Mic Recorders Online in '23 for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/laugh-ledger-premium-free-meme-collections/"><u>Laugh Ledger Premium, FREE Meme Collections</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212019355-league-of-legends-update-woes-heres-how-you-can-fix-those-dragging-downloads/"><u>League of Legends Update Woes? Here's How You Can Fix Those Dragging Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-volume-control-issues-on-your-windows-11-system-easy-fixes-inside/"><u>Overcoming Volume Control Issues on Your Windows 지구 11 System - Easy Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-rendering-api-update-issue-2024-in-dota-2-with-ease/"><u>Resolve Your 'Rendering API Update Issue 2024' In Dota 2 with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ps4-noise-issues-diagnosing-and-repairing-the-cause/"><u>Solving PS4 Noise Issues: Diagnosing and Repairing the Cause</u></a></li>
+<li><a href="https://some-skills.techidaily.com/text-tips-enhancing-image-descriptions-for-pcmac-users-for-2024/"><u>Text Tips Enhancing Image Descriptions for PC/Mac Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-windows-11s-bluetooth-connection-issues/"><u>Troubleshooting Guide: Solving Windows 11'S Bluetooth Connection Issues</u></a></li>
+</ul></div>
 

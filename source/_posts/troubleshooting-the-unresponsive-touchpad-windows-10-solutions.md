@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the Unresponsive Touchpad: Windows 10 Solutions"
-date: 2024-08-15T11:00:14.404Z
-updated: 2024-08-16T11:00:14.404Z
+date: 2024-12-31T20:17:07.039Z
+updated: 2025-01-04T04:17:57.654Z
 tags:
   - win11
   - win10
@@ -19,11 +19,19 @@ Windows 10 update or upgrade may be causing hardware like touch screen not worki
 
  To use these solutions, you need to access Windows. Since the touch screen doesn’t work, use a mouse or keyboard instead. Tip: After plugging and setting up the mouse or keyboard, the touch screen may work again like a magic (This has worked for some Windows 10 users).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Restart your PC**
 
  Restarting Windows always fixes hardware not working issues. Try this method and your touch screen may work like a charm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef016219208.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
 
@@ -35,21 +43,23 @@ To turning the touch screen off and back on, follow steps below:
 
  2\. View by Small icons and select**Device Manager** . This is to open Device Manager dialog box where you can disable the touch screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef21aba8f33.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Expand category “**Human Interface Devices** ” and right-click on**HID-compliant touch screen** then select**Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef247d6c4d3.jpg)
 
  4\. Click**Yes** to confirm this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef234bcbb1a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Right-click on **HID-compliant touch screen** again then select**Enable** .
 
@@ -65,9 +75,6 @@ To turning the touch screen off and back on, follow steps below:
 
  2\. Expand category “ **Human Interface Devices** ” and right-click on **HID-compliant touch screen**  then select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef290945f3c.jpg)
 
  3\. Click**Driver** tab then click on**Roll Back Driver** . If you see button is grey out, it means that you can’t roll back the driver. Read on to try other solutions.
@@ -88,21 +95,16 @@ To turning the touch screen off and back on, follow steps below:
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
  3) Click the **Update** button next to the touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 5: Reset Windows 10**
 
  The final solution you can try is reset the Windows. If you are not sure how to do a reset on Windows, see[How to Reset Windows 10](https://tools.techidaily.com/drivereasy/download/) .
@@ -115,8 +117,6 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,16 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-co-marketing-brands-and-youtubes-dynamic-duo-for-2024/"><u>[New] Co-Marketing Brands and YouTube's Dynamic Duo for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-text-temporal-tinkering-tools/"><u>2024 Approved Text Temporal Tinkering Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-pair-your-gadgets-with-windows-ebox-11-expert-tips/"><u>How to Successfully Pair Your Gadgets with Windows Ebox 11: Expert Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-photo-framing-techniques-via-digital-platforms-2-written-by-user-johndoe-for-2024/"><u>Master Photo Framing Techniques via Digital Platforms (2 Written by User JohnDoe for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-windows-defender-and-system-file-checker/"><u>Overcoming Issues with Windows Defender and System File Checker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-gpu-ignored-by-cyberpunk-2077-on-windows-10-expert-advice/"><u>Resolving GPU Ignored by Cyberpunk 2077 on Windows 10 - Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-and-google-chrome-solving-the-crashing-problem-once-and-for-all/"><u>Shockwave Flash and Google Chrome - Solving the Crashing Problem Once and For All</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-loilo-game-recorder-complete-review/"><u>The LoiLo Game Recorder [Complete Review]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-error-when-applicationexe-stops-running/"><u>Troubleshooting: Fixing the Error When Application.exe Stops Running</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your PC: Fixing the WUDFHost.exe CPU Usage Surge in Windows nX"
-date: 2024-12-19T21:01:58.081Z
-updated: 2024-12-25T20:28:18.000Z
+date: 2025-01-03T01:42:22.462Z
+updated: 2025-01-04T02:50:24.839Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Fixes for MsMpEng.exe Eating Up Too Much CPU
 
  You may not have to try all these fixes; just work your way down the list until the problem is resolved.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 2. **[Disable Real-Time Protection and reschedule your Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
@@ -45,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Virus & threat protection settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
@@ -59,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
  4) Click**Add an exclusion** \>**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
 
@@ -72,25 +80,17 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the bottom, double-click on**Windows Defender** , then right-click on**Windows Defender Scheduled Scan** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
@@ -105,12 +105,16 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4829b314bed.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on **Computer Configuration** \>**Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
@@ -134,13 +134,13 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Restart your computer and see if your computer runs normally now.
 
@@ -167,22 +167,24 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-flash-vids-unpacked-whats-inside/"><u>[New] Flash Vids Unpacked What's Inside?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-growing-greatness-valheims-finest-sprouts-selection-for-2024/"><u>[New] Growing Greatness Valheim's Finest Sprouts Selection for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-8-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 8? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208263035-beating-the-windows-10-update-blues-cracking-code-0xc1900208-successfully/"><u>Beating the Windows 10 Update Blues: Cracking Code 0xC1900208 Successfully!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-free-digital-ebook-readers-top-5-choices/"><u>Best Free Digital eBook Readers: Top 5 Choices</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-the-importance-of-xinput13dll-in-systems/"><u>Deciphering the Importance of XINPUT1_3.dll in Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-call-of-duty-world-war-ii-glitch-tackling-error-code-4220/"><u>Eliminating Call of Duty World War II Glitch - Tackling Error Code 4220</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-tips-and-tricks-to-restore-system-stability/"><u>Fixing 'Windows Resource Protection Failed' - Tips and Tricks to Restore System Stability</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-f15-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/mouse-miracle-wireless-connection-reinstated/"><u>Mouse Miracle: Wireless Connection Reinstated</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-pc-a-step-by-step-guide-to-repairing-damaged-windows-11-files/"><u>Reviving Your PC: A Step-by-Step Guide to Repairing Damaged Windows 11 Files</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-se-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone SE failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-handy-guide-toolkits-tips-and-techniques-for-savvy-software-creation/"><u>Stellar's Handy Guide: Toolkits, Tips & Techniques for Savvy Software Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-gaming-smartphones-a-comprehensive-review/"><u>Top 5 Gaming Smartphones : A Comprehensive Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-fixing-the-system-event-notification-connection-issue-in-windows/"><u>Troubleshooting Guide for Fixing the System Event Notification Connection Issue in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-dell-laptop-keyboard/"><u>Troubleshooting Guide: Fixing a Nonfunctional Dell Laptop Keyboard</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-honor-play-7t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Play 7T Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-masterful-instagram-storytelling-with-templates-and-hacks/"><u>[New] 2024 Approved Masterful Instagram Storytelling with Templates & Hacks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-does-youtube-work-after-a-video-is-uploaded/"><u>[New] How Does YouTube Work After a Video Is Uploaded</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-reawakening-dormant-connections-with-your-obs-cam/"><u>[New] In 2024, Reawakening Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-to-adjusting-to-new-facebook-ranking-criteria/"><u>[New] The Ultimate Guide to Adjusting to New Facebook Ranking Criteria</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-guide-to-fetching-superior-quality-fb-videos/"><u>2024 Approved Guide to Fetching Superior Quality FB Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-to-access-apples-podcast-library/"><u>2024 Approved Innovative Methods to Access Apple's Podcast Library</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-rough-terrain-limit-driving-over-bumpy-or-uneven-surfaces-that-could-cause-additional-stress-on-your-vehiclecuots-suspension-system/"><u>Avoid Rough Terrain: Limit Driving over Bumpy or Uneven Surfaces that Could Cause Additional Stress on Your Vehicle'cuot;s Suspension System</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-resolving-dell-laptops-black-display-issue-step-by-step-solutions/"><u>Complete Guide: Resolving Dell Laptop's Black Display Issue - Step-by-Step Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-tackle-fatal-system-mishaps-in-black-ops-4/"><u>Effective Techniques to Tackle Fatal System Mishaps in Black Ops 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unknown-usb-device-port-reset-failed-issue-for-windows-10/"><u>How to Fix Unknown USB Device (Port Reset Failed) Issue for Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-responsive-mousepad-in-windows-operating-systems-guides-for-xpvistawindows-7810-users/"><u>How to Resolve Non-Responsive Mousepad in Windows Operating Systems - Guides for XP/Vista/Windows 7/8/10 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-zte-blade-a73-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track ZTE Blade A73 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-right-click-functionality-for-mice-on-windows-10/"><u>Step-by-Step Guide to Restore Right-Click Functionality for Mice on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-windows-1011-night-mode-wont-turn-on/"><u>Troubleshooting Tips for When Windows 10/11 Night Mode Won't Turn On</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-why-your-windows-10-upgrade-is-halted-at-99-and-how-to-fix-it/"><u>Troubleshooting: Why Your Windows 10 Upgrade Is Halted at 99% and How to Fix It</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208469743-why-does-my-computer-freeze-with-windows-11-learn-the-fixes/"><u>Why Does My Computer Freeze with Windows 11? Learn the Fixes</u></a></li>
 </ul></div>
 

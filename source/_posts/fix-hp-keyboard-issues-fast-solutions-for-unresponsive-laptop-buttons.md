@@ -1,7 +1,7 @@
 ---
 title: Fix HP Keyboard Issues Fast - Solutions for Unresponsive Laptop Buttons
-date: 2024-12-19T16:39:44.199Z
-updated: 2024-12-25T17:45:03.583Z
+date: 2024-12-30T23:38:46.503Z
+updated: 2025-01-03T23:01:49.220Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -52,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -75,13 +71,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -107,6 +103,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -127,7 +127,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -139,7 +139,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -184,17 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>[New] Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitter-chatter-on-the-hottest-tiktoks-for-2024/"><u>[Updated] Twitter Chatter on the Hottest TikToks for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-kernel32dll-error-woe/"><u>Fixing the Kernel32.dll Error Woe</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-repairing-bluetooth-detection-errors-in-windows-10-operating-system/"><u>Guide: Repairing Bluetooth Detection Errors in Windows 10 Operating System</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s23-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S23 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-sony-xperia-1-v-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Sony Xperia 1 V Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-top-7-strategies-for-delicious-food-vids/"><u>In 2024, Top 7 Strategies for Delicious Food Vids</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-savings-straightforward-and-diversified-methods-unveiled-for-2024/"><u>Instagram Savings Straightforward & Diversified Methods Unveiled for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/minimizing-high-gpu-usage-with-windows-11s-desktop-window-manager-effective-techniques/"><u>Minimizing High GPU Usage with Windows 11'S Desktop Window Manager: Effective Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/rapid-chargers-guide-overcoming-non-charging-laptop-batteries/"><u>Rapid Charger's Guide: Overcoming Non-Charging Laptop Batteries</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-insufficient-memory-errors-in-windows-10-systems/"><u>Step-by-Step Solution for Fixing 'Insufficient Memory' Errors in Windows 10 Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>[New] Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tepwise-guide-to-antiquated-visual-effects-in-videos-for-2024/"><u>[New] Stepwise Guide to Antiquated Visual Effects in Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-free-from-frozen-windows-updates-on-older-operating-systems-expert-advice-for-users-seeking-assistance-edition-helpful-tips-and-guides/"><u>Breaking Free From Frozen Windows Updates on Older Operating Systems – Expert Advice for Users Seeking Assistance Edition! (Helpful Tips and Guides.)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-self-scrolled-windows-with-ease-and-precision/"><u>Fix Self-Scrolled Windows with Ease and Precision</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-too-many-redirects-error-instantly-simple-solutions/"><u>Fix the 'Too Many Redirects' Error Instantly - Simple Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-windows-11-display-flickers-step-by-step-guide-for-a-stable-viewing-experience/"><u>Fix Your Windows 11 Display Flickers: Step-by-Step Guide for a Stable Viewing Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-right-click-functionality-on-a-windows-10-computer/"><u>How to Repair Right Click Functionality on a Windows 10 Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-x6-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo Find X6 by Name | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-mejores-8-aplicaciones-gratuitas-con-inteligencia-artificial-para-rescatar-fotografias-antiguas-efimeramente-olvidadas/"><u>Los Mejores 8 Aplicaciones Gratuitas Con Inteligencia Artificial Para Rescatar Fotografías Antiguas Efímeramente Olvidadas</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-an-unresponsive-hp-laptop-webcam-when-using-windows-11-best-practices/"><u>Repairing an Unresponsive HP Laptop Webcam When Using Windows 11 - Best Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-when-your-usb-to-hdmi-converter-wont-connect/"><u>Solving the Issue: When Your USB To HDMI Converter Won't Connect</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-narzo-n55-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Narzo N55</u></a></li>
+<li><a href="https://techidaily.com/unlocking-the-secrets-of-disk-management-a-beginners-tutorial-for-windows-11-users/"><u>Unlocking the Secrets of Disk Management: A Beginner's Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-error-no-more-eliminate-device-not-detected-pop-ups-forever/"><u>USB Error No More: Eliminate 'Device Not Detected' Pop-Ups Forever</u></a></li>
 </ul></div>
 

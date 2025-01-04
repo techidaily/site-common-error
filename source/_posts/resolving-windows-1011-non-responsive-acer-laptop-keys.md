@@ -1,7 +1,7 @@
 ---
 title: "Resolving: Windows 10/11, Non-Responsive Acer Laptop Keys"
-date: 2024-08-15T10:57:09.510Z
-updated: 2024-08-16T10:57:09.510Z
+date: 2025-01-01T18:31:47.860Z
+updated: 2025-01-04T00:26:03.340Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
  **Method 3:[Update your keyboard driver](#c)**
  **Method 4: [Troubleshoot the hardware issues](#d)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Completely reboot your laptop
 
  The simplest fix to your keyboard issue is to reboot your Acer laptop completely. To do so:
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 4. Plug the power cable and the battery back into your laptop.
 5. Power on your computer. Then check to see if this fixes your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Disable Filter Keys
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the laptop keyboard not working. You can try**disabling Filter Keys** to sort this issue out.
@@ -46,36 +47,29 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 ### Windows 10
 
 1. Click the Start menu (the Windows logo) at the bottom left of your screen. Then click **Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59819ff0e68f7.png)
 2. Click **Ease of Access** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Go to**Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle**Off** Filter keys.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
@@ -87,15 +81,20 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -117,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +123,22 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-get-perfect-film-endings-for-your-projects-on-the-house/"><u>[New] Get Perfect Film Endings for Your Projects - On the House</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ncovering-youtubes-top-viewed-comments/"><u>[New] Uncovering YouTube's Top Viewed Comments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-high-impact-spotify-marketing-plans/"><u>[Updated] Crafting High-Impact Spotify Marketing Plans</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-seamless-transitions-for-youtube-videos-in-adobe-premiere-for-2024/"><u>[Updated] Seamless Transitions for YouTube Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-release-latest-rumors-suggest-new-ipad-models-due-in-early-spring-of-2024-tech-news/"><u>Anticipated Release: Latest Rumors Suggest New iPad Models Due in Early Spring of 2024 | Tech News</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-the-common-disk-write-error-in-steam-platform/"><u>Effortless Fixes for the Common 'Disk Write Error' In Steam Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-video-production-achieve-optimal-quality-using-winxvideo-artificial-intelligence/"><u>Elevate Video Production: Achieve Optimal Quality Using Winxvideo Artificial Intelligence</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/enable-family-safety-settings-in-windows-11-with-step-by-step-tips-from-yl-software-solutions/"><u>Enable Family Safety Settings in Windows 11 with Step-by-Step Tips From YL Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/ftdisk-system-warning-how-incorrect-driver-installation-affects-memory-safety/"><u>FTDisk System Warning: How Incorrect Driver Installation Affects Memory Safety</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-problems-with-keyboard-light-features-on-mac-and-windows-devices/"><u>Overcoming Common Problems with Keyboard Light Features on Mac and Windows Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-restore-missing-bluetooth-on-your-windows-11-pc-with-ease/"><u>Quickly Restore Missing Bluetooth on Your Windows 11 PC with Ease!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/333715-9781416595823-unleashed/"><u>Unleashed | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206539025-unstuck-from-microsoft-store-problems-heres-how-to-open-it-successfully/"><u>Unstuck From Microsoft Store Problems? Here's How to Open It Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205644040-windows-11-update-why-cant-i-print-to-pdf-with-microsoft-heres-help/"><u>Windows 11 Update: Why Can't I Print to PDF with Microsoft? Here’s Help</u></a></li>
+</ul></div>
 

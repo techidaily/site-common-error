@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Against MsMpEng.exe: Reducing CPU Usage in Windows 11 – Effective Strategies Inside!"
-date: 2024-12-22T17:13:26.218Z
-updated: 2024-12-25T16:01:17.375Z
+date: 2024-12-30T04:54:22.865Z
+updated: 2025-01-04T01:34:39.196Z
 tags:
   - win11
   - win10
@@ -38,41 +38,37 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
  2) Click **Virus & threat protection settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Add an exclusion** \>**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
 
@@ -92,31 +88,31 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click the**Triggers** tab >**New…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
 
@@ -134,15 +130,19 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Restart your computer and see if your computer runs normally now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
 
@@ -167,16 +167,20 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-an-honored-list-top-15-stop-motion-gems-through-ages/"><u>[Updated] 2024 Approved An Honored List Top 15 Stop-Motion Gems Through Ages</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-cyberlinks-screen-recorder-an-expert-evaluation-for-2024/"><u>[Updated] Cyberlink's Screen Recorder An Expert Evaluation for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-for-transforming-youtube-videos-into-animated-gifs/"><u>[Updated] The Ultimate Guide for Transforming YouTube Videos Into Animated GIFs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-sierra-icloud-document-and-desktop-guide/"><u>2024 Approved The Ultimate Sierra iCloud Document & Desktop Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-errors-with-microsofts-print-to-pdf-service-on-windows-11-systems/"><u>Overcoming Errors with Microsoft's Print to PDF Service on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-persistent-windows-11-update-error-code-0x802/"><u>Resolved: Fixing the Persistent Windows 11 Update Error Code 0X802#</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-with-ease-the-ultimate-tutorial-on-using-chkdsk-in-windows-os/"><u>Troubleshooting with Ease: The Ultimate Tutorial on Using Chkdsk in Windows OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-ai-authenticity-does-chatgpt-commit-plagiarism/"><u>Unveiling AI Authenticity: Does ChatGPT Commit Plagiarism?</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-mouse-issue-how-to-restore-the-missing-cursor-effectively/"><u>Windows 10 Mouse Issue: How to Restore the Missing Cursor Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-restarts-uninvited/"><u>Windows 10 Restarts Uninvited</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-behind-the-sequence-celebrating-youtubes-top-cosmetics-artists/"><u>[New] Behind the Sequence Celebrating YouTube's Top Cosmetics Artists</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssential-business-youtube-sites-you-must-follow/"><u>[New] Essential Business YouTube Sites You Must Follow</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-ultimate-windows-recordings-made-simple/"><u>[New] In 2024, Ultimate Windows Recordings Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-virtual-presentations-expert-screen-share-tips-for-social-media/"><u>[Updated] In 2024, Virtual Presentations Expert Screen-Share Tips for Social Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts/"><u>2024 Approved Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-approach-to-fix-your-hardware-driver-for-a-seamless-world-of-warcraft-experience/"><u>A Step-by-Step Approach to Fix Your Hardware Driver for a Seamless World of Warcraft Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/aiming-for-the-stars-select-7-top-shooter-experiences/"><u>Aiming for the Stars Select 7 Top Shooter Experiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-game-launch-issues-how-to-recover-missing-physxloaderdll/"><u>Fix Your Game Launch Issues: How to Recover Missing physxloader.dll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-activate-and-restart-your-iphone-without-button-functionality-easy-fixes-for-common-issues/"><u>How To Activate and Restart Your iPhone Without Button Functionality - Easy Fixes for Common Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-t2-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo T2 Pro 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-safely-resolve-the-critical-error-warning-in-your-google-chrome-browser/"><u>How To Safely Resolve The Critical Error Warning In Your Google Chrome Browser</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-c55-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme C55 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://common-error.techidaily.com/instant-fixes-for-failed-pdf-printer-connections/"><u>Instant Fixes for Failed PDF Printer Connections</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-windows-update-error-0x800701f/"><u>Step-by-Step Guide: Overcoming Windows Update Error 0X80070#1F</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-tricks-to-thaw-your-stuck-windows-11-taskbar-quickly/"><u>Top Tricks to Thaw Your Stuck Windows 11 Taskbar Quickly</u></a></li>
 </ul></div>
 

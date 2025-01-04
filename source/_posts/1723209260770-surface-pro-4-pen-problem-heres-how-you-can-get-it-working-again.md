@@ -1,7 +1,7 @@
 ---
 title: Surface Pro 4 Pen Problem? Here’s How You Can Get It Working Again!
-date: 2024-08-15T10:59:43.842Z
-updated: 2024-08-16T10:59:43.842Z
+date: 2024-12-29T19:10:21.610Z
+updated: 2025-01-03T23:23:04.949Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
 
 ## Keyboard Dilemma? Here's How to Get Your Backspace Working Again
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0655f1dbae0.jpg)
 
  Make your backspace work again by updating the keyboard driver automatically via **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,29 +37,27 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
 
  1) Type**ease** in the search box from Start. Then click **Ease of Access keyboard settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0677fb8600d.png)
 
  2) Make sure the status of Sticky Keys and Filter Keys are all set to **Off** . If you see **On** , switch to **Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a067818b6a47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Windows 11
 
 1. Press the **Windows logo key**  and **R**  simultaneously to open Settings.
 2. Select**Accessibility** on the left panel, then scroll down the list on the right and click**Keyboard** under the Interaction section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key1.jpg)
 3. Under the Sticky, Filter, and Toggle keys section, make sure the status of**Sticky Keys** and**Filter Keys** are all set to **Off** . If you see On, switch to Off.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your backspace key should work now. Check to see if it works. If unfortunately not, please try the next solution.
 
@@ -76,16 +71,21 @@ Follow these:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/win-key-1.png)**  and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066acd62fb2.png)
 
  3) Right-click on your keyboard software in the Keyboards section. Then click **Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066e71dd09a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Reboot your computer; Windows should then reinstall your keyboard automatically. Then check to see if your backspace key works.
 
@@ -101,10 +101,11 @@ Follow these:
 
  2) Click **Scan Now** . All driver problems of your computer would be detected in less than 1 min. Your keyboard driver is no exception.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a06730e567d8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) If you try the Free version, click **Update**  next to your flagged keyboard driver to automatically download and install the correct version of this driver.
 
@@ -123,8 +124,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +131,18 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-troubleshooting-common-obs-issues/"><u>[Updated] 2024 Approved Troubleshooting Common OBS Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fast-and-efficient-snipping-on-a-pc-top-5-screen-grabber-reviews/"><u>[Updated] Fast & Efficient Snipping on a PC Top 5 Screen Grabber Reviews</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-optimizing-ad-reach-on-social-medias-leading-platform/"><u>2024 Approved Optimizing Ad Reach on Social Media's Leading Platform</u></a></li>
+<li><a href="https://win-forum.techidaily.com/defend-against-threats-with-these-five-simple-steps-to-secure-your-windows-computer/"><u>Defend Against Threats with These Five Simple Steps to Secure Your Windows Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-keyboard-delay-issues-on-windows-10/"><u>Fixing Persistent Keyboard Delay Issues on Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-collage-creation-a-step-by-step-guide-for-google-images/"><u>In 2024, Quick Collage Creation A Step-by-Step Guide for Google Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-obstacle-of-error-0x800n1ac3-comprehensive-steps-for-cleaning-a-corrupted-volume/"><u>Overcoming the Obstacle of Error 0X800n1AC3: Comprehensive Steps for Cleaning a Corrupted Volume</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/preview-of-pcdj-dex-3-mixing-platform-with-customizable-four-deck-interface/"><u>Preview of PCDJ Dex 3 Mixing Platform with Customizable Four Deck Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-troubleshooting-and-fixing-a-nonfunctional-shift-key/"><u>Solved: Troubleshooting and Fixing a Nonfunctional Shift Key</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-unresponsive-night-light-feature-in-windows-10-and-11/"><u>Troubleshooting Guide: Fixing the Unresponsive Night Light Feature in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-when-the-steam-store-wont-load/"><u>Troubleshooting Guide: Resolving Issues When The Steam Store Won't Load</u></a></li>
+</ul></div>
 

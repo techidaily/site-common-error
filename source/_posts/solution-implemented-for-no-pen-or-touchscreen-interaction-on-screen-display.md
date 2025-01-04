@@ -1,7 +1,7 @@
 ---
 title: Solution Implemented for No Pen or Touchscreen Interaction on Screen Display
-date: 2024-08-15T10:57:16.681Z
-updated: 2024-08-16T10:57:16.681Z
+date: 2024-12-30T02:35:41.125Z
+updated: 2025-01-03T22:47:10.924Z
 tags:
   - win11
   - win10
@@ -18,9 +18,9 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 If you find**Internet Explorer won’t open** in Windows, here are some trouble-shooting steps you may try to fix the problem. They are tips recommended by many users. You may not have to try them all. Just work your way down the list until you find the one that works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these tips
 
 1. [**Run Internet Explorer as administrator**](https://tools.techidaily.com/drivereasy/download/)
@@ -29,10 +29,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 4. [**Disable your security software**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Restore your system to a restore point**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Tip 1: Run Internet Explorer as administrator
 
  A quick fix for your problem would be**running IE as administrator** . Here’re a few ways to do so:
@@ -42,10 +38,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * If you can’t find the IE icon on your Desktop, you can type**internet explorer** in the search box,**right click** on the matching result and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b973b893efd1.jpg)
 * **Windows 7** users can simply click the**Start** button >**All Programs** \> right-click**Internet Explorer** and select**Run as administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9743f37f2ea.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -56,19 +58,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Make sure Internet Explorer is closed.
 2. Search Windows for**Internet Options** and select the matching result.
 3. Click the**Advanced** tab.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976cc6b5241.jpg)
 4. Under**Reset Internet Explorer settings** , click the**Reset** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976cde69f2c.jpg)
 5. Click**Reset** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c49cc984.jpg)
 6. Click**Close** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c985acfc.png)
@@ -79,8 +72,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip 3: Run System File Checker
 
  As Internet Explorer is a built-in browser, corrupted system files could cause IE not responding properly. Then you can use **System File Scanner**  to run a scan.
@@ -91,24 +85,30 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. **Right-click**  on **Command Prompt**  and select **Run as administrator**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97754fa8fce.jpg)
 3. Click **Yes**  at the **User Account Control** prompt.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97756bba070.jpg)
 4. Once Command Prompt is open, type the **sfc /scannow**  command and press **Enter**  on your keyboard.  
-**Note:**  There’s a space between **sfc**  and **/scannow**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note:**  There’s a space between **sfc**  and **/scannow**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977592dab5b.jpg)
 5. When the verification reaches 100%, you’ll see something like this if issues were found and corrected:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Windows Resource Protection found corrupt files and successfully repaired them.**  
  If that’s the case, restart your PC.
 6. Check if you can open IE normally.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Disable your security software
 
@@ -117,22 +117,21 @@ The powerful video editing program for your Windows PC</a>
 1. Right-click on the Taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977d9f3f6d2.jpg)
 2. Click the**Startup** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977dc8cdc2e.png)
 3. Select the program(s) you want to disable and click the**Disable** button in the bottom right corner. Then, IE should open normally.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 5: **Restore your system to a restore point**
 
  If none of the above works, you may try using System Restore to undo system changes and sort out the issue. Following are steps of how to restore your system to a restore point.
 
 1. Type **restore** in the Windows search box and select **Create a restore point**  or **System Restore** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977ba6da9ba.jpg)
 2. When the **System Restore**  window pops up, select **Choose a different restore point**  and click **Next**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bc3e7e53.jpg)
@@ -141,6 +140,11 @@ The powerful video editing program for your Windows PC</a>
 4. Save any open files on your PC, then click   **Finish.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bff6dfa0.jpg)
 5. Click **Yes**  , and your PC will restart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977c223e7c1.png)
 
 Hopefully this can help you out.
@@ -159,9 +163,6 @@ Hopefully this can help you out.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9785a75eb28.jpg)
 3. Click the **Update** button next to your network adapter driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -180,8 +181,6 @@ Please do reply if you got your problem fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +188,24 @@ Please do reply if you got your problem fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-multimedia-adding-apple-music-to-videos/"><u>[New] Mastering Multimedia Adding Apple Music to Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-dell-camera-not-working-on-windows/"><u>[SOLVED] Dell Camera Not Working on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-closing-an-outdated-linkedin-profile-a-step-by-step-guide-for-2024/"><u>[Updated] Closing an Outdated LinkedIn Profile A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-fix-windows-update-failure-error-0x80240017-effectively/"><u>Expert Tips to Fix Windows Update Failure (Error 0X80240017) Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-easily-solve-the-persistent-0x800705b4-problem-on-your-windows-10-system/"><u>How to Easily Solve the Persistent 0X800705b4 Problem on Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-error-1053-service-failure-to-start-promptly-on-your-pc/"><u>How to Resolve 'Error 1053: Service Failure to Start Promptly' On Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12plus-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12+ 5G</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-deciphering-instagrams-video-snippet-size/"><u>In 2024, Deciphering Instagram's Video Snippet Size</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-play-8t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Play 8T to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-ten-titles-that-triumph-top-8-apps-to-gain-facebook-likeability/"><u>In 2024, Ten Titles That Triumph Top 8 Apps to Gain Facebook Likeability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simply-streamlined-steps-for-new-windows-11-dossiers/"><u>Simply Streamlined Steps for New Windows 11 Dossiers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-resource-protection-unable-to-begin-fixing-files-error/"><u>Solution Steps for 'Windows Resource Protection' Unable To Begin Fixing Files Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-addressing-windows-11s-unresponsive-night-light-feature/"><u>Solution Steps: Addressing Windows 11'S Unresponsive Night Light Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-repairing-the-0x8024402c-windows-update-issue-resolved/"><u>Step-by-Step Solutions for Repairing the 0X8024402C Windows Update Issue [Resolved]</u></a></li>
+<li><a href="https://discover-best.techidaily.com/step-by-step-tutorial-for-transforming-zoom-recordings-into-mp4-format/"><u>Step-by-Step Tutorial for Transforming Zoom Recordings Into MP4 Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-end-of-an-era-unreal-engine-and-d3d/"><u>The End of an Era: Unreal Engine and D3D</u></a></li>
+</ul></div>
 

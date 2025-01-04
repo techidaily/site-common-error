@@ -1,7 +1,7 @@
 ---
 title: How to Diagnose and Fix Windows Driver Power State Malfunctions
-date: 2024-08-15T10:58:06.395Z
-updated: 2024-08-16T10:58:06.395Z
+date: 2024-12-27T20:03:02.841Z
+updated: 2025-01-03T20:31:47.712Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ Depending on which mouse isn’t working:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Try the function keys
 
  Sometimes the mouse-isn’t-moving issue happens just because you’ve pressed the function keys and disabled trackpad unknowingly. If that’s the case, we might have to press the keys again to turn it back on. Here’s how:
@@ -50,6 +51,10 @@ Depending on which mouse isn’t working:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: **Check mouse properties**
 
  Another possible cause for this mouse-got-stuck problem is trackpad is turned off. To get your mouse unstuck:
@@ -57,11 +62,12 @@ Depending on which mouse isn’t working:
 1. On your keyboard, press **the**   **Windows logo key**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 2. Click the **Device Settings** tab > **your device** \> **Enable** \> **Apply** \> **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)
 3. Hopefully this time your mouse gets unfrozen and works fine. If the problem persists, try **Fix 4** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -81,18 +87,16 @@ Depending on which mouse isn’t working:
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b569e2129fd3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the **mouse frozen on laptop** issue is resolved. If yes, then congrats! But if the issue remains, you should try**Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  Missing or corrupt system files could also cause the mouse to freeze on your computer. To eliminate it as a cause, you can run a Windows repair. There’re two ways to repair your system files:
@@ -114,11 +118,11 @@ Here’s how to use Fortect to repair system files on your PC:
 
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
@@ -140,9 +144,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  2) In the command prompt window, type **sfc /scannow** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -161,8 +162,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +169,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-groundbreaking-tools-for-analyzing-computer-sounds-and-mics-for-2024/"><u>[New] Groundbreaking Tools for Analyzing Computer Sounds & Mics for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-stream-instagram-and-youtube-a-step-by-step-guide-for-2024/"><u>[New] Stream Instagram & YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-multiple-monitors/"><u>[Updated] In 2024, How to Record Multiple Monitors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-interactive-realities-compared-metaverse-and-multiverse/"><u>2024 Approved Interactive Realities Compared Metaverse and Multiverse</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-comparative-analysis-of-top-10-budget-friendly-video-calls/"><u>A Comparative Analysis of Top 10 Budget-Friendly Video Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/determined-opengl-not-advocated-by-driver/"><u>Determined: OpenGL Not Advocated by Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-connect-airpods-to-windows-11-expert-advice/"><u>Easy Fixes to Connect AirPods to Windows 11 - Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-around-the-device-cant-receive-miracast-problem-with-simple-fixes/"><u>Getting Around the 'Device Can't Receive Miracast' Problem with Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correcting-missing-module-alerts-on-your-computer/"><u>Guide to Correcting Missing Module Alerts on Your Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-psyche-up-with-customized-console-voices/"><u>In 2024, Psyche Up with Customized Console Voices</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-fixes-with-system-file-checker-and-deployment-image-servicing-management-utilities/"><u>Mastering Windows 11 Fixes with System File Checker and Deployment Image Servicing Management Utilities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/network-nirvana-access-resurrected/"><u>Network Nirvana Access Resurrected</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-stuttering-gameplay-a-players-guide-to-resolving-fallout-4-lags/"><u>Overcoming Stuttering Gameplay: A Player's Guide to Resolving Fallout 4 Lags</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/premium-photographic-archives/"><u>Premium Photographic Archives</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-this-page-cannot-be-displayed/"><u>Solved: This Page Cannot Be Displayed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-the-constant-white-screen-on-your-computer/"><u>Solving the Mystery of the Constant White Screen on Your Computer!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-1-sound-problem-resolving-mic-malfunctions-effectively/"><u>SteelSeries Arctis 1 Sound Problem: Resolving Mic Malfunctions Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-corrupted-file-structures-on-windows-11/"><u>Step-by-Step Solution for Fixing Corrupted File Structures on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-signal-received-code-on-hold/"><u>Stop Signal Received, Code On Hold</u></a></li>
+</ul></div>
 

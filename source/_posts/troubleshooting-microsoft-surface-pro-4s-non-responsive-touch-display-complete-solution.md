@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Microsoft Surface Pro 4'S Non-Responsive Touch Display - Complete Solution
-date: 2024-08-15T11:04:07.516Z
-updated: 2024-08-16T11:04:07.516Z
+date: 2024-12-30T17:54:09.123Z
+updated: 2025-01-04T04:09:12.169Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
  In this post, we’ll show you some easy and effective solutions to fix the USB mouse not working problem on your Windows laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause of USB Mouse Not Working
 
 * **Hardware Damage**
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 * **Inappropriate surface**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 solutions you can try. You may not have to try them all; just work your way until your mouse works again.
@@ -39,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 4. [Update your mouse driver](#fix4)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware damage
 
  The very first thing is to check if there’s anything cracked or missing. Check the surface of your mouse carefully and also clean it while you’re doing so.
@@ -49,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
  If you’re sure it’s caused by hardware damage, it’s time for a total replacement, rather than having them repaired, given their relatively low prices.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Replug your USB cable or USB reciever
 
  If you’re using a wired mouse or a wireless USB mouse, when it’s not working, the first thing you can do is to check if your mouse is connected correctly to your laptop. You can try to plug your USB cable or USB receiver into the same USB port or a different one to check if it works.
@@ -59,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 1) Unplug your USB cable or USB receiver from your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8efba92bc.png)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
 
@@ -72,15 +72,13 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 4) Try to use your mouse to see if works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Restart your laptop
 
  Sometimes a simple restart can help you fix a lot of computer woes, including your mouse not working issue. So if after you reconnect your mouse to the laptop, it still keeps not working, restart your laptop, please. After getting into Windows, try your mouse to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your mouse driver
 
  If you’ve tried all of the basic troubleshooting methods but still failed to fix it, don’t be frustrated. Your USB mouse not working issue could be caused by an old, incompatible, or corrupted mouse driver.
@@ -105,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Driver-Easy-Scan-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your flagged mouse driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -127,8 +129,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,16 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-5-drone-racing-headsets-ultimate-vr-experience/"><u>[New] 2024 Approved Top 5 Drone Racing Headsets Ultimate VR Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube/"><u>[New] In 2024, Brand Battlegrounds Mastery of Marketing Metrics on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamline-video-production-with-free-music/"><u>[Updated] Streamline Video Production with Free Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-media-transformation-from-xml-to-srt/"><u>[Updated] Streamlining Media Transformation From XML to SRT</u></a></li>
+<li><a href="https://common-error.techidaily.com/dll-error-wins-kernel32-solved/"><u>DLL Error: Win's Kernel32 Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-to-correctly-address-error-0xc0000098-on-your-pc/"><u>Expert Strategies to Correctly Address Error 0xC0000098 on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-frustrating-lag-effective-ways-to-prevent-csgo-from-crashing/"><u>Say Goodbye to Frustrating Lag: Effective Ways to Prevent CSGO From Crashing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-6-online-background-cleansers-for-pristine-photo-edits/"><u>Top 6 Online Background Cleansers for Pristine Photo Edits</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-7-freezes-hangs-or-locks-up-randomly-solved/"><u>Windows 7 Freezes, Hangs or Locks Up Randomly [Solved]</u></a></li>
+</ul></div>
 

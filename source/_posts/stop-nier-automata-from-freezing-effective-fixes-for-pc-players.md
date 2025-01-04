@@ -1,7 +1,7 @@
 ---
 title: "Stop Nier Automata From Freezing: Effective Fixes for PC Players"
-date: 2024-08-15T10:56:12.017Z
-updated: 2024-08-16T10:56:12.017Z
+date: 2024-12-31T04:27:54.227Z
+updated: 2025-01-04T03:21:01.756Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 * [Mac](https://tools.techidaily.com/drivereasy/download/)
 * [Hard reset](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## For Windows Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -34,11 +38,13 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 
 1. Press the**Windows logo key + R** together to evoke the Run box.
 2. Type**devmgmt.msc** and press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click Keyboards and select the keyboard device you want to reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the red cross button to uninstall the device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
@@ -54,17 +60,15 @@ Your keyboard should back to the default setting after reboot.
 
 1. Press the**Windows logo key + I (“i”)** together to open Windows Settings.
 2. Click**Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device-1.jpg)
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you’ve reset your keyboard language.
 
@@ -78,13 +82,15 @@ Now you’ve reset your keyboard language.
 #### Back to default settings
 
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
 
@@ -93,21 +99,17 @@ Your keyboard should be back in the default settings.
 #### Change the keyboard language
 
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Language and Region** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
-4. Wait for the computer to reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Wait for the computer to reboot.
+
 ## Hard Reset
 
  If you’re experiencing unexpectable behavior like one functional key is not working or keyboard lighting issues, after trying a soft reset on your computer, you may want to try a hard reset.
@@ -132,8 +134,6 @@ Your keyboard should be reset successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,24 @@ Your keyboard should be reset successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-camera-compendium-best-in-class-filmmaking-gear/"><u>[New] Camera Compendium Best in Class Filmmaking Gear</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-in-a-nutshell-the-video-sharing-experience/"><u>[Updated] In 2024, Vimeo in a Nutshell The Video Sharing Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-tale-weavers-hub-hall-of-fame-picks-for-2024/"><u>[Updated] Tale Weavers Hub - Hall of Fame Picks for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y78plus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-error-code-80240020-a-troubleshooters-guide-to-successfully-installing-windows-10/"><u>Bypassing Error Code 80240020: A Troubleshooter's Guide to Successfully Installing Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-restoring-corrupted-data-on-your-windows-11-pc/"><u>Comprehensive Solutions for Restoring Corrupted Data on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/cracking-down-on-distorted-sounds-fix-your-windows-107-speaker-problems/"><u>Cracking Down on Distorted Sounds: Fix Your Windows 10/7 Speaker Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-unexpected-shutdowns-with-error-code-167-in-windows-systems/"><u>How to Resolve Unexpected Shutdowns with Error Code 1#67 in Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-se-2020-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone SE (2020) Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/kindle-on-a-budget-why-the-2019-model-still-reigns-as-the-best-affordable-e-book-device/"><u>Kindle on a Budget: Why the 2019 Model Still Reigns as the Best Affordable E-Book Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-guide-to-fast-league-of-legends-downloading-say-goodbye-to-delays/"><u>Quick-Fix Guide to Fast League of Legends Downloading: Say Goodbye to Delays!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-windows-sign-in-issues-fixing-user-profile-service-failures/"><u>Resolve Your Windows Sign-In Issues: Fixing User Profile Service Failures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-illusion-of-reality-in-marketing-debunking-ad-ploys-as-thats-no-moon/"><u>The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-hdr-images-into-professional-grade-time-lapses-with-gopro-studio-for-2024/"><u>Transform Your HDR Images Into Professional-Grade Time Lapses with GoPro Studio for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-csgo-issues-fast-fixes-for-no-more-game-crashes/"><u>Troubleshoot CSGO Issues - Fast Fixes for No More Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-file-explorer-wont-respond-in-windows-10/"><u>Troubleshooting Guide: When File Explorer Won't Respond in Windows 10</u></a></li>
+</ul></div>
 

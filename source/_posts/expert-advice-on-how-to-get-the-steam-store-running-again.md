@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on How To Get The Steam Store Running Again
-date: 2024-08-15T11:00:48.386Z
-updated: 2024-08-16T11:00:48.386Z
+date: 2024-12-31T20:50:23.753Z
+updated: 2025-01-03T18:18:26.195Z
 tags:
   - win11
   - win10
@@ -17,14 +17,12 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
 **[NBA 2K21](https://www.epicgames.com/store/en-US/p/nba-2k21?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=6b3b9698082c43cd9dcd7f68e3365e79)**  is available! There you definitely can have a variety of basketball experiences. But players have reported getting green glitch with error screen, and then got kicked out of the game. If you happened to be one of them, don’t worry. Here are some working fixes for you.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/featured-image-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one works for you.
@@ -38,9 +36,9 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
    * [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Make sure your PC meets the specs
 
  In order to play NBA 2K21, you need to make sure that your PC meets the minimum system requirements. If you want to have a better gaming experience, then it’s supposed to meet the recommended system requirements.
@@ -75,22 +73,20 @@ Recommended System Requirements
 
  1) Click on the**Options/Quit** tab. Under the tab, click**SETTINGS** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
 
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 3\. Update your graphics drivers
 
  our graphics driver is an essential piece of software that lets your system communicate with the graphics card. If it is outdated, it would cause noticeable performance problems. While driver updates include the latest patches for security flaws, fix problems, and sometimes even provide you with completely new features, all for free. Therefore, in order to enjoy your game to the fullest, you should make sure your graphics card is up-to-date.
@@ -103,9 +99,6 @@ Here’s how to update drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
@@ -125,6 +118,10 @@ Here’s how to update drivers with Driver Easy:
 [Steam](https://tools.techidaily.com/drivereasy/download/)
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PlayStation: download files from MyCAREER
 
  1) Go to **Settings > Application Saved Data Management > Saved Data in System Storage** .
@@ -138,6 +135,10 @@ Here’s how to update drivers with Driver Easy:
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
 
@@ -165,23 +166,22 @@ To do this, simply follow the instructions below:
 
  1) Click on the**LIBRARY** tab, right-click on your game**NBA 2K21,** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) When the process is completed, restart Steam and launch your game again.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Xbox One: make sure the language is set to English
 
  If you don’t set the language to English, then it’s one of the reasons you got the green glitch.
@@ -192,9 +192,6 @@ To do this, simply follow the instructions below:
 
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/language-set-to-English-1.png)
 
 ---
@@ -210,8 +207,6 @@ To do this, simply follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +214,26 @@ To do this, simply follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-macs-top-mp4-cutters-for-youtube-success/"><u>[New] 2024 Approved Mac's Top MP4 Cutters for YouTube Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hack-your-way-to-speedy-youtube-video-processing/"><u>[Updated] 2024 Approved Hack Your Way to Speedy YouTube Video Processing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recognizing-disconnected-social-network-for-2024/"><u>[Updated] Recognizing Disconnected Social Network for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-transform-faithful-chants-into-personalized-tones/"><u>2024 Approved How to Transform Faithful Chants Into Personalized Tones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-errors-missing-dll-mfc71u-in-os/"><u>Addressing Errors: Missing DLL – Mfc71u in OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-problems-and-remedies-when-your-key-malfunctions/"><u>Common Problems and Remedies When Your '@' Key Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-resolve-livekernelevent-code-117-issue/"><u>Effective Techniques to Resolve LiveKernelEvent Code 117 Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-slow-response-times-from-your-keyboard-on-windows-11-systems/"><u>Eliminating Slow Response Times From Your Keyboard on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-no-more-faulty-mac-or-windows-keyboard-light/"><u>Fixing the Issue: No More Faulty Mac or Windows Keyboard Light</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/guia-paso-a-paso-para-convertir-mbr-a-gpt-en-disco-duro-usando-windows-1011/"><u>Guía Paso a Paso Para Convertir MBR a GPT en Disco Duro Usando Windows 10/11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Zero 5G 2023 Turbo FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-compatibility-problems-with-input-devices-and-screens/"><u>Overcoming Compatibility Problems with Input Devices and Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/ps4-volume-woes-heres-what-you-need-to-know-and-how-to-fix-it/"><u>PS4 Volume Woes? Here's What You Need to Know and How to Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-boot-issues-tips-for-unsticking-a-pc-from-windows-preparation-mode/"><u>Resolving Boot Issues: Tips for Unsticking a PC From 'Windows Preparation Mode'</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme 11 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-top-5-expertly-curated-ai-course-rankings/"><u>The Ultimate Guide to Top 5 Expertly Curated AI Course Rankings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/too-much-memory-used-by-antivirus-how-to-manage/"><u>Too Much Memory Used by Antivirus? How to Manage</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-smartaudio-start-up-failures-solutions-inside/"><u>Troubleshooting SmartAudio Start-Up Failures – Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-volume-icon-in-windows-10-a-step-by-step-guide-with-images/"><u>Troubleshooting the Missing Volume Icon in Windows 10: A Step-by-Step Guide with Images</u></a></li>
+</ul></div>
 

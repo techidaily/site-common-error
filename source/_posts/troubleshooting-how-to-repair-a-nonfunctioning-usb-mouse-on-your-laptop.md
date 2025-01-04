@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair a Nonfunctioning USB Mouse on Your Laptop"
-date: 2024-12-20T20:41:06.538Z
-updated: 2024-12-25T19:08:26.986Z
+date: 2024-12-30T01:07:56.160Z
+updated: 2025-01-04T04:26:58.339Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -34,6 +34,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. **[Update the Corsair Keyboard driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your keyboard
 
  Most Corsair keyboards have a reset function to fix unexpected issues, including the lighting failure. Depending on the type of Corsair keyboard you’re using, here’s how to reset it:
@@ -41,6 +45,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 #### Wired keyboard
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Unplug your keyboard from your computer.
 2. Press and hold the**ESC** key (or the**FN + F4** keys).
@@ -52,7 +60,7 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Turn off your keyboard.
@@ -60,10 +68,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update the Corsair keyboard driver
 
@@ -77,10 +81,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -91,12 +91,12 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
@@ -124,17 +124,22 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-art-of-expanded-viewport-in-social-vids/"><u>[New] 2024 Approved The Art of Expanded Viewport in Social Vids</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-speeding-up-your-instagram-video-watch-time/"><u>[New] In 2024, Speeding Up Your Instagram Video Watch Time</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-a-symphony-for-screens-music-in-instagram-visuals/"><u>[Updated] 2024 Approved A Symphony for Screens Music in Instagram Visuals</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-astronaut-eyes-choosing-the-finest-fps-games/"><u>[Updated] In 2024, Astronaut Eyes Choosing the Finest FPS Games</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-link-unifying-hub-with-new-oses-successfully/"><u>How to Link Unifying Hub with New OSes Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-touchpad-functionality-and-fix-scrolling-on-your-windows-10-device/"><u>How to Restore Touchpad Functionality and Fix Scrolling on Your Windows 10 Device</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-unlocking-the-potential-of-live-broadcasting-on-discord/"><u>In 2024, Unlocking the Potential of Live Broadcasting on Discord</u></a></li>
-<li><a href="https://common-error.techidaily.com/revived-fix-and-illuminate-your-corsair-keyboard-with-ease/"><u>Revived: Fix & Illuminate Your Corsair Keyboard with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-non-functional-astro-a40-mic-how-to/"><u>Solution Steps for Non-Functional Astro A40 Mic – How To</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-on-correcting-ps4-nat-problems-for-optimal-connectivity/"><u>Step-by-Step Tutorial on Correcting PS4 NAT Problems for Optimal Connectivity</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/outuber-revolutionary-jake-pauls-content-conquest/"><u>The YouTuber Revolutionary Jake Paul's Content Conquest</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/understanding-instagrams-video-restriction-for-2024/"><u>Understanding Instagram's Video Restriction for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-experience-all-episodes-offline-with-our-top-10-savers-apps/"><u>[New] 2024 Approved Experience All Episodes Offline with Our Top 10 Savers Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-8-best-zombie-games/"><u>[New] Top 8 Best Zombie Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-drivers-not-showing-up-heres-how-to-resolve-the-issue-on-your-computer/"><u>Bluetooth Drivers Not Showing Up? Here’s How to Resolve the Issue on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-blackout-glitch-when-launching-monster-hunter-world/"><u>Effective Solutions for Blackout Glitch When Launching Monster Hunter: World</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-windows-11-updates-overcoming-the-persistent-code-0xc1900208/"><u>Error-Free Windows 11 Updates: Overcoming the Persistent Code 0xC1900208</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-itel-a70-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Itel A70</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-10t-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-svchost-process-eating-up-your-cpu-in-windows-11/"><u>How to Fix the Svchost Process Eating Up Your CPU in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-minimize-windows-10-shutdown-interruptions-with-ongoing-activities/"><u>How to Minimize Windows 10 Shutdown Interruptions with Ongoing Activities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-bring-your-pics-to-life-with-easy-text-editing-apps/"><u>In 2024, Bring Your Pics to Life with Easy Text Editing Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/is-netflix-experiencing-downtime-a-guide-to-identifying-and-solving-connectivity-issues/"><u>Is Netflix Experiencing Downtime? A Guide to Identifying and Solving Connectivity Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-applicationexe-has-stopped-error/"><u>Resolved: Fixing the 'Application.Exe Has Stopped' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-unfreeze-windows-update-on-old-operating-systems-a-complete-solution-for-users-in-need-of-assistance-in-the-newest-edition-guide-he153/"><u>Step-by-Step Approach to Unfreeze Windows Update on Old Operating Systems – A Complete Solution for Users in Need of Assistance in the Newest Edition! (Guide, Helpful Tips and Troubleshooting Steps.)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-miracast-now-works-after-fixing-graphics-driver/"><u>Troubleshooting Success: Miracast Now Works After Fixing Graphics Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-flickering-problem-for-smooth-gameplay-experience/"><u>Troubleshooting Warzone's Flickering Problem for Smooth Gameplay Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unchecked-faith-in-ai-consider-these-6-reasons-instead/"><u>Unchecked Faith in AI? Consider These 6 Reasons Instead</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-ai-hallucination-and-how-do-you-spot-it/"><u>What Is AI Hallucination, and How Do You Spot It?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Control: How to Recover Windows That Wandered Off-Screen"
-date: 2024-12-18T19:53:19.449Z
-updated: 2024-12-25T18:31:01.794Z
+date: 2024-12-29T21:25:35.225Z
+updated: 2025-01-03T23:56:26.539Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ You don’t have to try them all; just work your way down the list until you fin
 6. [**Bonus tip**](#t7)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 1: Enable Show desktop icons
@@ -55,19 +55,15 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -97,18 +93,18 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -127,10 +123,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -147,12 +147,12 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -177,17 +177,21 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ow-to-easily-disableremove-youtube-shorts-permanently/"><u>[New] How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-vidvault-capture-fb-videos/"><u>[Updated] In 2024, VidVault Capture FB Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-zoom-meetings-for-beginners-a-comprehensive-introduction-guide/"><u>2024 Approved Zoom Meetings for Beginners A Comprehensive Introduction Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/affordable-and-effective-non-microsoft-spreadsheets-a-comparative-guide/"><u>Affordable and Effective Non-Microsoft Spreadsheets: A Comparative Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-dealing-with-download-timeouts-on-the-web/"><u>Comprehensive Solutions for Dealing with Download Timeouts on the Web</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-tricks-to-erase-gridlines-in-microsoft-excel-worksheets-a-complete-tutorial/"><u>Easy Tricks to Erase Gridlines in Microsoft Excel Worksheets: A Complete Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-to-your-broken-backspace-key-on-a-pc-or-mac/"><u>How to Restore Functionality to Your Broken Backspace Key on a PC or Mac</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/optimal-git-id-tips-for-seamless-setup-of-active-kodi-extensions-and-depots-on-github/"><u>Optimal Git ID Tips for Seamless Setup of Active Kodi Extensions & Depots on GitHub</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-defender-and-system-file-checker-hurdles-a-step-by-estep-guide/"><u>Overcoming Windows Defender and System File Checker Hurdles: A Step-by-eStep Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-bluetooth-connection-effective-solutions-for-the-unresponsive-issue/"><u>Restore Your Bluetooth Connection: Effective Solutions for the Unresponsive Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-repairing-an-unsupported-or-absent-operating-system-error/"><u>The Ultimate Guide to Repairing an Unsupported or Absent Operating System Error</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-game-streamers-for-your-watchlist/"><u>[New] 2024 Approved Essential Game Streamers for Your Watchlist</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-step-by-step-embedding-youtube-content-in-slideshows/"><u>[New] In 2024, Step-by-Step Embedding YouTube Content in Slideshows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-locating-your-own-playlists-on-youtube/"><u>[New] Locating Your Own Playlists on Youtube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-boomerangs-demystified-your-comprehensive-guide/"><u>[Updated] 2024 Approved Snapchat Boomerangs Demystified Your Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exclusive-reveal-top-downloading-tools-for-fans-of-apples-ios-and-facebook/"><u>2024 Approved Exclusive Reveal Top Downloading Tools for Fans of Apple's iOS and Facebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-students-guide-to-top-10-best-history-youtube-sources/"><u>2024 Approved Student's Guide to Top 10 Best History YouTube Sources</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-what-to-do-when-you-encounter-d3derror-notavailable/"><u>Fixing the Issue: What to Do When You Encounter D3Derror NotAvailable</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-clean-up-computer-to-make-it-run-faster/"><u>How to Clean Up Computer to Make It Run Faster</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-compatibility-telemetry-excessive-storage-use-in-windows-10/"><u>How to Fix Microsoft Compatibility Telemetry Excessive Storage Use in Windows 10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-optimizing-your-vlc-livestream-over-the-net/"><u>In 2024, Optimizing Your VLC Livestream over the Net</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202925255-lose-not-the-tracking-of-your-sd-cards/"><u>Lose Not the Tracking of Your SD Cards</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplify-your-pc-management-expert-guide-to-using-file-explorer-in-windows-11/"><u>Simplify Your PC Management: Expert Guide to Using File Explorer in Windows 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/solution-immediate-securisation-reussie-de-lacces-au-profil-utilisateur-apres-le-dysfonctionnement-initial/"><u>Solution Immédiate : Sécurisation Réussie De L'accès Au Profil Utilisateur Après Le Dysfonctionnement Initial</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-common-opengl-issues-in-minecraft-a-comprehensive-guide/"><u>Solving Common OpenGL Issues in Minecraft: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-television-display-with-simple-adjustments-top-5-settings-to-elevate-picture-quality/"><u>Upgrade Your Television Display with Simple Adjustments: Top 5 Settings to Elevate Picture Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/vcruntime140-dll-missing-start-your-windows-11-applications-effortlessly-comprehensive-fix-guide/"><u>VCRUNTIME140 DLL Missing? Start Your Windows 11 Applications Effortlessly – Comprehensive Fix Guide</u></a></li>
 </ul></div>
 

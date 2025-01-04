@@ -1,7 +1,7 @@
 ---
 title: "Resolving Non-Functional Keys on Windows 10 and 11: Step-by-Step Guide"
-date: 2024-08-15T10:59:00.833Z
-updated: 2024-08-16T10:59:00.833Z
+date: 2024-12-29T02:59:06.252Z
+updated: 2025-01-04T03:33:01.774Z
 tags:
   - win11
   - win10
@@ -24,8 +24,9 @@ thumbnail: https://thmb.techidaily.com/c3e502f20e7efdaa79fe7247c347cba062451d0a1
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -46,8 +47,9 @@ If the other keys stop working either, check the next question:
 2. [Update your keyboard driver](#solution2)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -56,9 +58,6 @@ Follow these:
 
 #### on Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
  2) Click **Ease of Access** .
@@ -67,9 +66,6 @@ Follow these:
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -80,16 +76,25 @@ Follow these:
 
  2) From the left navigation panel, select**Accessibility** , then click**Keyboard** from the right.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -111,9 +116,6 @@ Follow these:
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -126,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[New] 2024 Approved Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-pinnacle-deskviewers-elite-all-in-one-display-hubs/"><u>[Updated] 2024 Approved Pinnacle DeskViewers Elite All-in-One Display Hubs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-compreayer-guide-to-iphone-hdr-mastery/"><u>[Updated] 2024 Approved The Compreayer Guide to iPhone HDR Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-watch-live-streaming-football-for-free-on-pc-or-mobile/"><u>[Updated] How to Watch Live Streaming Football for Free on PC or Mobile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-laughlinelab-picchuckleworkshop/"><u>[Updated] LaughLineLab PicChuckleWorkshop</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-how-to-repair-a-dysfunctional-keyboard-when-logging-in/"><u>Fix Guide: How to Repair a Dysfunctional Keyboard When Logging In</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-a-stuck-spacebar-key-on-your-windows-10-device/"><u>How to Troubleshoot a Stuck Spacebar Key on Your Windows 10 Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-discovering-elite-camera-operators-best-practices/"><u>In 2024, Discovering Elite Camera Operators' Best Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-how-to-fix-microsoft-store-not-launching/"><u>Solving the Issue: How to Fix Microsoft Store Not Launching</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-non-functional-microsoft-print-to-pdf-feature-in-latest-windows-os/"><u>Troubleshooting Steps for Non-Functional Microsoft Print to PDF Feature in Latest Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-non-functional-cddvd-drives-on-your-windows-pc/"><u>Troubleshooting Steps: Resolving Non-Functional CD/DVD Drives on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-undetected-bluetooth-gadgets-in-windows-11/"><u>Troubleshooting: How to Fix Undetected Bluetooth Gadgets in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zombie-sketch-specialist/"><u>Zombie Sketch Specialist</u></a></li>
+</ul></div>
 

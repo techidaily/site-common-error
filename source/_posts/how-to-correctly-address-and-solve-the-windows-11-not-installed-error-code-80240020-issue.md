@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue
-date: 2024-12-23T16:03:58.326Z
-updated: 2024-12-25T20:07:43.273Z
+date: 2024-12-28T16:27:39.488Z
+updated: 2025-01-04T00:12:12.519Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ A lot Windows 10 users reported that system restore did not complete successfull
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
@@ -63,7 +63,7 @@ When prompted by User Account Control, click   **Yes.**
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3)  
@@ -89,7 +89,7 @@ When it finish rebooting, run System Restore again.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -105,6 +105,10 @@ Then click **Update & security**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
@@ -113,7 +117,7 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 c)  
@@ -121,10 +125,6 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2)  
 
@@ -156,19 +156,18 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fasttrackpodcastlive-your-straightforward-guide-to-livestreaming-success/"><u>[New] FastTrackPodcastLive Your Straightforward Guide to Livestreaming Success</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-understanding-the-shift-navigating-posting-in-an-algorithm-world/"><u>[New] Understanding the Shift Navigating Posting in an Algorithm World</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-beginner-friendly-steps-to-record-your-mac-display/"><u>[Updated] 2024 Approved Beginner-Friendly Steps to Record Your Mac Display</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>2024 Approved Ultimate Phone & Camera Mounts Precision Focus Tracking</u></a></li>
-<li><a href="https://common-error.techidaily.com/eclipse-of-vision-screen-phenomenon/"><u>Eclipse of Vision: Screen Phenomenon</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211280401-how-to-fix-hosted-network-cant-be-started-error-in-windows-11-solved/"><u>How to Fix 'Hosted Network Can't Be Started' Error in Windows 11 - Solved</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung ?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-minecraft-game-stalling-overcome-error-code-amartz/"><u>How to Repair Minecraft Game Stalling - Overcome Error Code Amartz</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-restart-your-ps4-after-safe-mode-activation-a-comprehensive-guide/"><u>How to Restart Your PS4 After Safe Mode Activation – A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>In 2024, Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-microsoft-outlooks-mysterious-error-your-step-by-step-guide-for-solving-unspecified-error-0x8004005/"><u>Overcoming Microsoft Outlook's Mysterious Error: Your Step-by-Step Guide for Solving Unspecified Error 0X800#4005</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-effective-household-budget-planning-using-microsoft-excel/"><u>Strategies for Effective Household Budget Planning Using Microsoft Excel</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/top-intelligent-document-management-suite-revolutionizes-with-advanced-intelligence-features/"><u>Top Intelligent Document Management Suite Revolutionizes with Advanced Intelligence Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-common-opengl-issues-in-minecraft/"><u>Ultimate Guide: Solving Common OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aute-couture-at-home-makeup-tools-and-techniques-for-2024/"><u>[New] Haute Couture at Home Makeup, Tools & Techniques for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-efficient-scheduling-techniques-for-effective-google-meeting/"><u>[New] In 2024, Efficient Scheduling Techniques for Effective Google Meeting</u></a></li>
+<li><a href="https://common-error.techidaily.com/asus-laptops-resolving-stuck-or-malfunctioning-function-fn-keys-problems/"><u>ASUS Laptops: Resolving Stuck or Malfunctioning Function (Fn) Keys Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-your-windows-11-mouse-cant-right-click/"><u>Easy Fixes for When Your Windows 11 Mouse Can't Right-Click</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-windows-1110-endless-reboot-loop-solutions-unveiled/"><u>Fixes for Windows 11/10 Endless Reboot Loop: Solutions Unveiled</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-reno-8t-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo Reno 8T 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g14-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G14?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-motorola-moto-g34-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Motorola Moto G34 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-8-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-ultimate-guide-to-resolving-issues-with-your-corsair-hs50-microphone/"><u>Troubleshooting and Fixing: The Ultimate Guide to Resolving Issues with Your Corsair HS50 Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-what-to-do-if-your-torrent-download-fails/"><u>Troubleshooting Steps: What to Do If Your Torrent Download Fails?</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-woes-effective-solutions-for-error-code-0xc0000098/"><u>Winning Against Windows Woes: Effective Solutions for Error Code 0Xc0000098</u></a></li>
 </ul></div>
 

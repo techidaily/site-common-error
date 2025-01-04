@@ -1,7 +1,7 @@
 ---
 title: Solving Your PC's 'Cannot Find d3dcompiler_43.dll' Problem
-date: 2024-08-15T10:58:21.475Z
-updated: 2024-08-16T10:58:21.475Z
+date: 2024-12-29T02:36:59.943Z
+updated: 2025-01-03T20:56:30.828Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -33,11 +34,11 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 On your keyboard, press **Windows**  key + **X**  key together to open quick-access menu.
 Then click **Device Manager**  to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)  
 
@@ -51,23 +52,18 @@ Then click **Device Manager**  to open it.
  Choose to view on**Driver** pane.  
  Then click**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -78,10 +74,11 @@ Then click **Device Manager**  to open it.
 
  2) With **Scan Now** , it can scan out all of your outdated, missing and corrupted drivers and find the correct ones for you in less than 1 min! Your touchpad driver is no exception.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
 
@@ -90,6 +87,10 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -104,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +112,21 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-why-my-photos-are-upside-down-on-instagram-feed/"><u>[Updated] 2024 Approved Why My Photos Are Upside Down on Instagram Feed?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>[Updated] IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-perfectly-inserting-songs-on-instagram-stories/"><u>2024 Approved Step-by-Step Perfectly Inserting Songs on Instagram Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-asus-rog-phone-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Asus ROG Phone 8 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-these-mistakes-fixing-the-most-frequent-chatgpt-problems/"><u>Avoid These Mistakes: Fixing the Most Frequent ChatGPT Problems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/efficient-routes-to-google-pixel-soundscapes/"><u>Efficient Routes to Google Pixel Soundscapes</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x802n-2400d-winning-the-battle-against-windows-update-failures-strategies-discussed/"><u>Error 0X802n-2400D: Winning the Battle Against Windows Update Failures [STRATEGIES DISCUSSED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/instant-remedies-mend-your-google-hangouts-microphone-without-hassle/"><u>Instant Remedies: Mend Your Google Hangouts Microphone Without Hassle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/los-mejores-programas-de-captura-de-pantalla-para-windows-ideales-para-win10-8-o-7/"><u>Los Mejores Programas De Captura De Pantalla Para Windows: Ideales Para Win10, 8 O 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-device-unavailable-error-code-24-on-windows-1187/"><u>Resolving 'Device Unavailable' Error Code 24 on Windows 11/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-to-reactivate-dimmed-or-dead-keylights-in-your-laptop/"><u>Solution Steps to Reactivate Dimmed or Dead Keylights in Your Laptop</u></a></li>
+<li><a href="https://win-news.techidaily.com/solving-the-blue-screen-of-death-expert-tips-from-yl-computings-guide-yl-software-solutions/"><u>Solving the Blue Screen of Death: Expert Tips From YL Computing's Guide - YL Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-struggling-with-an-inverted-laptop-screen-easy-fixes-inside/"><u>Stop Struggling with an Inverted Laptop Screen: Easy Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-printing-your-pdf-discover-fast-solutions/"><u>Trouble Printing Your PDF? Discover Fast Solutions</u></a></li>
+</ul></div>
 

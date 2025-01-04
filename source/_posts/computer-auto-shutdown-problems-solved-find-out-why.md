@@ -1,7 +1,7 @@
 ---
 title: Computer Auto-Shutdown Problems Solved - Find Out Why!
-date: 2024-08-15T11:04:44.506Z
-updated: 2024-08-16T11:04:44.506Z
+date: 2025-01-02T22:44:01.962Z
+updated: 2025-01-03T22:28:02.574Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -61,22 +65,20 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -96,14 +98,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -113,16 +116,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -132,20 +129,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -171,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +177,23 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-answers-to-questions-related-to-filmora/"><u>[New] In 2024, Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-downloaders-unveiled-top-8-of-2023/"><u>[New] In 2024, Innovative Downloaders Unveiled Top 8 of 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-capturing-the-world-in-full-circle-experts-360-cams-review-2023-for-2024/"><u>[Updated] Capturing the World in Full Circle - Expert's 360 Cams Review, 2023 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-art-of-live-recording-sporting-events-on-screen/"><u>[Updated] The Art of Live Recording Sporting Events on Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-spyro-triple-threat-reborn-minuscule-mythic-hero-packs-a-punch/"><u>Assessing Spyro Triple Threat Reborn: Minuscule Mythic Hero Packs a Punch</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-sony-xperia-1-v-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Sony Xperia 1 V? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-photo-repair-software-to-repair-corrupt-photos/"><u>Best Photo Repair Software to Repair Corrupt Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-fix-failed-steam-game-updates-and-patches/"><u>Effective Solutions to Fix Failed Steam Game Updates and Patches</u></a></li>
+<li><a href="https://win-dash.techidaily.com/freshly-released-intel-hd-and-igp-graphics-655-iris-plus-driver-update-for-enhanced-compatibility-on-windows-10-and-11/"><u>Freshly Released: Intel® HD & IGP Graphics 655 (Iris Plus) Driver Update for Enhanced Compatibility on Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-repair-ps4-controller-power-problems-solutions-found/"><u>How to Troubleshoot and Repair PS4 Controller Power Problems - Solutions Found</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reinstating-sound-on-hdmi-tips-for-computer-to-monitortv-connections/"><u>Reinstating Sound on HDMI: Tips for Computer-to-Monitor/TV Connections</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-fixing-program-malfunction-a-complete-guide/"><u>Resolved Issue: Fixing Program Malfunction - A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-a-stuck-spacebar-on-your-windows-11-keyboard/"><u>Step-by-Step Solution for a Stuck Spacebar on Your Windows 11 Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-store-error-0x80n2ee7/"><u>Troubleshooting and Solutions for Windows Store Error 0X80n2ee7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-how-to-fix-computer-stuck-on-windows-10-login-screen/"><u>Troubleshooting Steps: How to Fix Computer Stuck on Windows 10 Login Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-corporate-control-over-windows-settings-a-comprehensive-guide-to-organizational-management/"><u>Unraveling Corporate Control Over Windows Settings – A Comprehensive Guide to Organizational Management</u></a></li>
+</ul></div>
 

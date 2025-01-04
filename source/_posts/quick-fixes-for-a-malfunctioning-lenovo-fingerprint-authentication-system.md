@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for a Malfunctioning Lenovo Fingerprint Authentication System
-date: 2024-12-22T17:30:39.048Z
-updated: 2024-12-25T20:13:41.039Z
+date: 2024-12-30T05:34:34.550Z
+updated: 2025-01-03T18:27:50.112Z
 tags:
   - win11
   - win10
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
@@ -73,9 +73,17 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
@@ -84,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -99,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
@@ -107,19 +115,11 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Check the**Support TabletPC** box, as shown below.
 
@@ -128,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -165,6 +161,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -187,15 +187,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
 
@@ -206,7 +206,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Uncheck “Enable Windows Ink”
@@ -217,13 +217,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -260,19 +260,24 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-compiling-top-notch-video-grabbers-for-win11-devices/"><u>[New] 2024 Approved Compiling Top-Notch Video Grabbers for Win11 Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>[New] In 2024, Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transcription-and-task-execution-on-the-go-fee-free/"><u>[New] Transcription and Task Execution on the Go – Fee-Free</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-smartcapture-hd-v2/"><u>2024 Approved SmartCapture HD V2</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bringing-virtuality-closer-a-tale-of-two-cardboards-and-gear-vrs-for-2024/"><u>Bringing Virtuality Closer A Tale of Two Cardboards & Gear VRs for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-breakdown-of-recuva-the-premier-choice-for-restoring-lost-files/"><u>Comprehensive Breakdown of Recuva: The Premier Choice for Restoring Lost Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-fatal-freezing-fixing-ghostrunner-stuck-scenes-on-windows-10-systems/"><u>Dealing with Fatal Freezing: Fixing Ghostrunner Stuck Scenes on Windows 10 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-keyboard-commands-for-3d-painting/"><u>Essential Keyboard Commands for 3D Painting</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solution-for-overcoming-errors-disrupting-your-applications-functionality/"><u>Expert Solution for Overcoming Errors Disrupting Your Application’s Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-correcting-device-not-detected-in-windows-operating-systems-understanding-error-code-24/"><u>Guide to Correcting 'Device Not Detected' In Windows Operating Systems: Understanding Error Code 24</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-audio-enhancements-expert-advice-for-clearer-sounds/"><u>Mastering Windows Audio Enhancements – Expert Advice for Clearer Sounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-system-recovery-how-sfc-and-dism-restore-windows-10-stability/"><u>Navigating System Recovery: How SFC and DISM Restore Windows 10 Stability</u></a></li>
-<li><a href="https://common-error.techidaily.com/preventing-unprompted-restartboot-issues-essential-fixes-for-windows-operating-systems/"><u>Preventing Unprompted Restart/Boot Issues: Essential Fixes for Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-overcoming-the-windows-10-couldnt-be-installed-error-code-eb80240020-challenge-a-comprehensive-guide/"><u>Successfully Overcoming the 'Windows 10 Couldn't Be Installed (Error Code Eb80240020)' Challenge – A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-identifying-instagrams-newly-disconnected/"><u>[New] 2024 Approved Identifying Instagram's Newly Disconnected</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-10plus-sites-accessible-free-visuals-for-everyone-for-2024/"><u>[Updated] 10+ Sites Accessible, Free Visuals for Everyone for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtubes-music-magic-best-free-tools-for-wav-conversion/"><u>[Updated] 2024 Approved YouTube's Music Magic Best Free Tools for WAV Conversion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-tackling-the-irritating-quirks-urgent-solutions-apple-must-implement-for-iphone-users-insights/"><u>1. Tackling the Irritating Quirks: Urgent Solutions Apple Must Implement for iPhone Users - Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-error-successful-miracast-setup-with-unsupported-gadgets/"><u>Beat the Error: Successful Miracast Setup with Unsupported Gadgets</u></a></li>
+<li><a href="https://common-error.techidaily.com/disabling-touchpad-on-windows-10-whenever-a-mouse-is-connected-a-simple-guide/"><u>Disabling Touchpad on Windows 10 Whenever a Mouse Is Connected – A Simple Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-fixing-a-nonfunctional-mic-on-your-astro-a40-laptop/"><u>Effective Remedies for Fixing a Nonfunctional Mic on Your Astro A40 Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-functional-mic-issue-in-windows-11-troubleshooting-guide/"><u>Fixing a Non-Functional Mic Issue in Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-persistent-screen-shimmer-on-windows-11/"><u>Fixing the Persistent Screen Shimmer on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-huawei-p60-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Huawei P60</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-x50-gt-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X50 GT phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X50 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>In 2024, Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-for-errors-during-steam-game-installation-or-update-process/"><u>Troubleshooting: Fixes for Errors During Steam Game Installation or Update Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/us-caribbean/"><u>U.S. Caribbean</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209616525-unstick-your-windows-update-clearing-that-persistent-100-barrier-now-solved/"><u>Unstick Your Windows Update: Clearing that Persistent 100% Barrier – Now Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-unexpected-reboots/"><u>Windows 10: Unexpected Reboots</u></a></li>
+<li><a href="https://solve-info.techidaily.com/windows-11-unveiled-compare-32-bit-and-64-bit-versions-for-optimal-performance-with-expert-advice-from-yl-software/"><u>Windows 11 Unveiled: Compare 32-Bit and 64-Bit Versions for Optimal Performance with Expert Advice From YL Software</u></a></li>
 </ul></div>
 

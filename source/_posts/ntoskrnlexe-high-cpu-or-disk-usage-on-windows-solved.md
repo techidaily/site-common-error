@@ -1,7 +1,7 @@
 ---
 title: ntoskrnl.exe High CPU or Disk Usage on Windows [Solved]
-date: 2024-12-20T19:19:38.518Z
-updated: 2024-12-25T17:14:24.401Z
+date: 2024-12-29T17:28:01.182Z
+updated: 2025-01-03T23:53:13.433Z
 tags:
   - win11
   - win10
@@ -34,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 2. **[Disable Real-Time Protection and reschedule your Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
@@ -59,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
@@ -68,54 +76,50 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the bottom, double-click on**Windows Defender** , then right-click on**Windows Defender Scheduled Scan** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click the**Triggers** tab >**New…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
@@ -129,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
  2) Locate and double-click on **Computer Configuration** \>**Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
@@ -167,18 +167,16 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-elite-8s-imagery-merging-digital-software/"><u>[New] 2024 Approved Elite 8’S Imagery Merging Digital Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-behind-the-sequence-celebrating-youtubes-top-cosmetics-artists/"><u>[New] In 2024, Behind the Sequence Celebrating YouTube's Top Cosmetics Artists</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-hunters-choice-top-5-ultimate-shot-recording-gear/"><u>[Updated] 2024 Approved Hunters' Choice Top 5 Ultimate Shot-Recording Gear</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/buy-now-the-premier-eraser-for-iphone-users-touchscreen-friendly-and-smudge-free/"><u>Buy Now: The Premier Eraser for iPhone Users - Touchscreen Friendly & Smudge Free</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210142536-hdmi-through-usb-failure-heres-how-you-can-resolve-it/"><u>HDMI Through USB Failure? Here’s How You Can Resolve It!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-bluetooth-devices-showing-as-connected-but-inaccessible-in-windows-10/"><u>How to Fix Bluetooth Devices Showing as Connected but Inaccessible in Windows 10</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-full-length-video-view-remove-youtube-preview/"><u>In 2024, Full-Length Video View Remove YouTube Preview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-insider-insights-unpacking-the-dji-phantom-3-pro-features/"><u>In 2024, Insider Insights Unpacking the DJI Phantom 3 Pro Features</u></a></li>
-<li><a href="https://win-hot.techidaily.com/machddtime-machine/"><u>Macデータをスムーズに外付けHDDに転送しバックアップできるTime Machineガイド</u></a></li>
-<li><a href="https://extra-information.techidaily.com/monetizing-media-earnings-analysis-for-pewdiepie/"><u>Monetizing Media Earnings Analysis for PewDiePie</u></a></li>
-<li><a href="https://common-error.techidaily.com/quickly-restore-charging-functionality-to-your-laptop-expert-tips-inside/"><u>Quickly Restore Charging Functionality to Your Laptop: Expert Tips Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-with-unshuttable-windows-10-systems-fixed/"><u>Winning the Battle with Unshuttable Windows 10 Systems [FIXED]</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-newly-improved-and-budget-friendly-apple-ipad-102-the-latest-eighth-generation-model/"><u>Comprehensive Review of the Newly Improved and Budget-Friendly Apple iPad 10.2 - The Latest Eighth Generation Model</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/explore-ideal-media-types-for-playback-on-iphone-876-versus-latest-iphones-xsxrxs-maxiphone-11/"><u>Explore Ideal Media Types for Playback on iPhone 8/7/6 Versus Latest iPhones XS/XR/XS Max/iPhone 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-functional-sound-driver-in-windows-7/"><u>Fixing the Non-Functional Sound Driver in Windows 7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-secure-new-nvidia-rtx-2070-driver-updates-ideal-for-windows-users-10-8-and-7/"><u>How to Secure New NVIDIA RTX 2070 Driver Updates: Ideal for Windows Users (10, 8 & 7)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-v30-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo V30 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/organizational-oversight-in-windows-setup-configured-system-parameters/"><u>Organizational Oversight in Windows Setup - Configured System Parameters</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-keyboard-solutions-for-unresponsive-keys/"><u>Reviving Your Lenovo Keyboard: Solutions for Unresponsive Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-to-get-your-lenovo-fingerprint-reader-working-again/"><u>Simple Fixes to Get Your Lenovo Fingerprint Reader Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-ethernet-connectivity-issues-in-windows-117/"><u>Step-by-Step Solutions to Ethernet Connectivity Issues in Windows 11/7</u></a></li>
 </ul></div>
 
