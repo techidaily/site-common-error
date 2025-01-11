@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: How to Resolve Nier: Automata PC Game Crash Issues"
-date: 2024-08-15T11:02:24.495Z
-updated: 2024-08-16T11:02:24.495Z
+date: 2025-01-07T17:33:00.591Z
+updated: 2025-01-10T21:44:02.333Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 When you are enjoying Nier Automata, but the**Nier Automata crashing** on your PC. Don’t worry. Although it’s incredibly frustrating, there are fixes that can help you get rid of it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Try these fixes**
 
  Here’s a list of fixes that have helped some Nier Automata players solve the problem. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -88,14 +85,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ) :  
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
 
@@ -106,6 +102,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
@@ -119,9 +119,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 5. Restart your computer, and see if the problem is fixed or not.
@@ -129,8 +126,9 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
  Fix Automata Resolution (FAR) is developed by Nier Automata. By manipulating the graphics requirements of the game, users with lower specs can play the game. But FAR can be the reason for the Nier Automata crashing problem.
@@ -140,23 +138,24 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
 
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -170,8 +169,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +176,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-powerpoint-presentation-soundtracking-secrets/"><u>[New] PowerPoint Presentation Soundtracking Secrets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-updated-query-catalog-to-connect-with-podcast-loyalists/"><u>[New] Updated Query Catalog to Connect with Podcast Loyalists</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-pathway-to-preserving-instagram-videos-with-ease-pcmac-methodology/"><u>[Updated] 2024 Approved Pathway to Preserving Instagram Videos with Ease (PC/Mac Methodology)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-noise-reduction-for-videographers-best-freepriced-choices/"><u>[Updated] In 2024, Noise Reduction for Videographers Best Free/Priced Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-best-title-maker-online/"><u>5 Best Title Maker Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-scribblers-ios-and-androids-leading-image-editors-for-2024/"><u>Best Scribblers IOS & Android's Leading Image Editors for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/demystifying-gopro-fisheye-photos-with-editing-tricks-for-2024/"><u>Demystifying GoPro Fisheye Photos with Editing Tricks for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-fixes-getting-your-mouse-and-keyboard-back-to-life-on-windows-7/"><u>Expert Fixes: Getting Your Mouse and Keyboard Back to Life on Windows 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-newest-amd-rx-5700-xt-drivers-across-various-windows-platforms-11-10-8-and-7/"><u>How to Install the Newest AMD RX 5700 XT Drivers Across Various Windows Platforms (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-corsair-hs50-when-the-microphone-wont-work/"><u>How to Repair Your Corsair HS50 when the Microphone Won't Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-computer-from-experiencing-werfaultexe-errors-a-users-manual/"><u>How To Stop Your Computer From Experiencing WerFault.exe Errors - A User's Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-xerox-printer-error-0x800f020b-on-windows-systems/"><u>Resolving Xerox Printer Error 0X800F020B on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-minecraft-local-network-woes-effective-strategies-and-advice/"><u>Solve Your Minecraft Local Network Woes - Effective Strategies and Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-tips-for-repairing-your-ps4-microphone-issues/"><u>Top Tips for Repairing Your PS4 Microphone Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-hdcp-compliant-displays-solutions-and-tips/"><u>Troubleshooting Non-HDCP Compliant Displays - Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-failed-to-start-problem/"><u>Ultimate Guide: Resolving the 'Windows Failed to Start' Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-overvoltage-situations-on-your-devices-connector-point/"><u>Understanding and Fixing Overvoltage Situations on Your Device's Connector Point</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/next-favorite-youtuber-might-be-just-a-test-away-six-categories-explored-for-2024/"><u>Your Next Favorite YouTuber Might Be Just a Test Away Six Categories Explored for 2024</u></a></li>
+</ul></div>
 

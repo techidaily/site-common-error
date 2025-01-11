@@ -1,7 +1,7 @@
 ---
 title: "Successfully Remedied: Stuck and Unresponsive Toshiba Keyboard Keys"
-date: 2025-01-01T19:07:39.343Z
-updated: 2025-01-03T19:50:32.623Z
+date: 2025-01-08T18:36:57.105Z
+updated: 2025-01-10T22:32:43.485Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -48,12 +48,16 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -62,7 +66,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -82,6 +86,10 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -113,10 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -137,10 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,22 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-digital-footprint-and-interactive-iconography-honors/"><u>[New] In 2024, Digital Footprint and Interactive Iconography Honors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gastronomy-goals-attractive-food-network-branding-ideas/"><u>[New] In 2024, Gastronomy Goals Attractive Food Network Branding Ideas</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-simple-way-to-blur-faces-in-picsart/"><u>[New] In 2024, Simple Way To Blur Faces in Picsart</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>[New] Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-compatibility-score-which-phones-work-with-gear-vr/"><u>[Updated] 2024 Approved Compatibility Score Which Phones Work with Gear VR?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-explorations-reward-6-innovative-minecraft-residences/"><u>[Updated] Exploration's Reward 6 Innovative Minecraft Residences</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-pioneering-play-integrating-vr-in-recreation-for-2024/"><u>[Updated] Pioneering Play Integrating VR in Recreation for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-windows-10-crashes-tips-and-techniques-for-users/"><u>Addressing Windows 10 Crashes: Tips and Techniques for Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207857915-google-chrome-stops-working-heres-how-you-can-resolve-it/"><u>Google Chrome Stops Working? Here's How You Can Resolve It!</u></a></li>
-<li><a href="https://common-error.techidaily.com/improved-driver-management-minimizes-elevated-cpu-utilization-in-windows/"><u>Improved Driver Management Minimizes Elevated CPU Utilization in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-hyperlapse-storytelling/"><u>In 2024, The Ultimate Guide to Hyperlapse Storytelling</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/key-strategies-for-harvesting-free-photo-frames-for-2024/"><u>Key Strategies for Harvesting Free Photo Frames for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-launch-errors-strategies-to-address-post-upgrade-system-hang-ups/"><u>Mastering Windows 11 Launch Errors: Strategies to Address Post-Upgrade System Hang-Ups</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-typing-speed-tackling-keyboard-stutters-on-windows-11-devices/"><u>Optimizing Typing Speed - Tackling Keyboard Stutters on Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/snooze-button-off-fixing-wake-issues-on-windows-11/"><u>Snooze Button Off: Fixing Wake Issues on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-solution-to-the-frustrating-0x800705b4-update-glitch-on-windows-11-devices/"><u>The Definitive Solution to the Frustrating 0X800705b4 Update Glitch on Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-dealing-with-a-black-monitor-on-dell-systems/"><u>Ultimate Troubleshooting Tips for Dealing with a Black Monitor on Dell Systems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[New] Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-building-a-brand-in-the-metaverse-ecosystem/"><u>[New] In 2024, Building a Brand in the Metaverse Ecosystem</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-text-to-screen-srt-to-subc-transformation-tips/"><u>[Updated] 2024 Approved From Text to Screen SRT-to-SUBC Transformation Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-41-in-windows-kernel-overcome/"><u>Error Code 41 in Windows Kernel Overcome</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-how-to-resolve-geforce-experience-not-syncing-preferences/"><u>Fixing Issues: How to Resolve 'GeForce Experience' Not Syncing Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-decreasing-dwm-driven-gpu-strain-on-your-windows-machine/"><u>Master the Art of Decreasing DWM-Driven GPU Strain on Your Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-error-code-31-a-comprehensive-guide/"><u>Resolving Windows Error Code 31: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/setting-up-automated-data-protection-with-windows-servers-wbadmin-feature-a-step-by-step-guide/"><u>Setting Up Automated Data Protection with Windows Server's WBAdmin Feature: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-for-broken-system-drivers-boost-performance-swiftly/"><u>Simple Fixes for Broken System Drivers: Boost Performance Swiftly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/up-strategy-guide-affordable-channels-to-monetize/"><u>Startup Strategy Guide Affordable Channels to Monetize</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-listening-experience-how-to-add-podcasts-via-ipadiphone-for-2024/"><u>The Ultimate Listening Experience How to Add Podcasts via iPad/iPhone for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-25-social-stars-essential-instagram-icons-for-2024/"><u>Top 25 Social Stars Essential Instagram Icons for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-smart-televisions-expert-reviews-and-comparisons-zdnet/"><u>Top Rated Smart Televisions - Expert Reviews & Comparisons | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-logitech-g930-microphone-dead-spots/"><u>Ultimate Guide: Fixing Logitech G930 Microphone Dead Spots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-security-protocol-concealing-firewall-areas/"><u>Window’s Security Protocol: Concealing Firewall Areas</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-paste-problem-persists/"><u>Windows 11: Paste Problem Persists</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac559-yamahaaturbosound-ii-sound-module-based-on-the-ymf794eymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r44/"><u>YAC559 - Yamaha'aturboSound II Sound Module Based on the YMF794E/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

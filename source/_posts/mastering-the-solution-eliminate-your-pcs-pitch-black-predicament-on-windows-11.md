@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Solution: Eliminate Your PC's Pitch-Black Predicament on Windows 11"
-date: 2024-08-22T19:12:26.673Z
-updated: 2024-08-23T19:12:26.673Z
+date: 2025-01-04T16:46:09.761Z
+updated: 2025-01-10T22:41:32.524Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 **IMPORTANT:** To perform these methods, you need to have a**Windows 10 installation media** , like a USB drive or a DVD. If you don’t,[**create one with a USB** **drive**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Run a Startup Repair
 
  The Startup Repair can repair the files necessary for the startup of your computer. To run a Startup Repair to fix your issue:
@@ -43,12 +47,17 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Troubleshoot** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Select **Startup Repair** .
 
@@ -56,16 +65,14 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 **6)**  Select**Windows 10** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968812f12e1e.png)
 
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Run system checks
 
  Your Windows 10 computer may get stuck on the welcome screen when there are corrupted system files on your computer. You can run some checks on your computer to see if it is the corrupted files that cause your problem.
@@ -74,9 +81,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 **2)** Select the language and region.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
 **3)** Click**Repair your computer** .
@@ -86,6 +90,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 **4)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Select**Command Prompt** .
 
@@ -100,18 +108,12 @@ _**bootrec /fixboot**_
 _**bootrec /scanos**_
  _**bootrec /rebuildbcd**_
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
 
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Reset your Windows 10
 
  It is possible that your Windows 10 was damaged and it can’t start up normally.**Resetting your operating system** can help you get it back to normal.
@@ -122,9 +124,6 @@ _**bootrec /scanos**_
 
 **2)** Select the language and region.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
 **3)** Boot your computer from your Windows 10 installation media. After selecting the language and region, click on**Install now** .
@@ -141,8 +140,6 @@ _**bootrec /scanos**_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +147,26 @@ _**bootrec /scanos**_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-compre-written-in-html-a-journey-through-web-content-creation/"><u>[Updated] 2024 Approved The Compre Written in HTML A Journey Through Web Content Creation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-roadmap-to-engaging-youtube-trailers-through-filmora/"><u>[Updated] 2024 Approved The Roadmap to Engaging YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-eradicating-youtube-content-in-a-device-friendly-way/"><u>[Updated] Eradicating YouTube Content in a Device-Friendly Way</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-9-free-android-mp3-extractors/"><u>[Updated] In 2024, Top 9 FREE Android MP3 Extractors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-small-scale-screenplay-idea-for-2024/"><u>[Updated] Small-Scale Screenplay Idea for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-rebooted-login-claiming-back-to-facebook/"><u>2024 Approved Rebooted Login Claiming Back to Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-vscos-creative-palette-for-2024/"><u>A Deep Dive Into VSCO's Creative Palette for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-your-systems-bass-and-treble-a-guide-for-fixing-weak-sounds-on-windows-11-computers/"><u>Boosting Your System's Bass and Treble: A Guide for Fixing Weak Sounds on Windows 11 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-easy-anti-cheat-troubles-for-a-smooth-new-world-game-launch/"><u>Bypassing Easy Anti-Cheat Troubles for a Smooth New World Game Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fix-guide-tackling-failed-renderer-initialization-updates/"><u>Easy Fix Guide: Tackling Failed Renderer Initialization Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/ftdi-bus-system-and-memory-safety-troubleshooting-driver-mismatches-for-optimal-performance/"><u>FTDI Bus System and Memory Safety: Troubleshooting Driver Mismatches for Optimal Performance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-s-top-free-video-hosting-options-for-online-publishers/"><u>New 2024 Approved S Top Free Video Hosting Options for Online Publishers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-11/"><u>Resolving Svchost.exe's Excessive CPU Consumption in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-unidentified-usb-peripheral-error-and-port-reset-failure-on-windows-10/"><u>Resolving the Unidentified USB Peripheral Error and Port Reset Failure on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-how-to-fix-a-sluggish-loading-league-of-legends-game/"><u>Solving the Puzzle: How to Fix a Sluggish Loading League of Legends Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/technological-termination-device-fatality/"><u>Technological Termination: Device Fatality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125758-9781609252335-the-heart-of-wicca/"><u>The Heart of Wicca | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-the-0x800705b4-setup-problem-in-windows-11-updates/"><u>Troubleshooting and Solving the 0X800705b4 Setup Problem in Windows 11 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-applicationexe-halted-errors/"><u>Troubleshooting Tips: Overcoming 'Application.Exe' Halted Errors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Keyboard Enthusiasts Unite! Restoring the Radiant Features of Your Corsair Board
-date: 2025-01-03T02:40:11.582Z
-updated: 2025-01-03T20:26:46.112Z
+date: 2025-01-04T00:33:08.165Z
+updated: 2025-01-10T17:43:32.467Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## For Windows Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -46,15 +42,15 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click Keyboards and select the keyboard device you want to reset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the red cross button to uninstall the device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/search-6.jpg)
 6. Select the same keyboard device again. Click the Update device driver button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-4.jpg)
 7. Allow the newest drivers to install.
@@ -71,15 +67,11 @@ Your keyboard should back to the default setting after reboot.
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
@@ -100,8 +92,17 @@ Now you’ve reset your keyboard language.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your keyboard should be back in the default settings.
 
@@ -111,14 +112,14 @@ Your keyboard should be back in the default settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Language and Region** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
 
 4. Wait for the computer to reboot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hard Reset
 
@@ -153,18 +154,15 @@ Your keyboard should be reset successfully.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-knowledge-currents-best-yt-for-academic-growth/"><u>[New] Knowledge Currents Best YT for Academic Growth</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-premium-choice-top-12-apps-with-no-time-limit-feature-for-2024/"><u>[Updated] Premium Choice Top 12 Apps with No Time Limit Feature for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/back-up-your-blu-ray-films-to-a-windows-8-or-windows-10-system-with-ease/"><u>Back Up Your Blu-Ray Films to a Windows 8 or Windows 10 System with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-top-9-wellness-innovations-for-modern-living/"><u>ChatGPT’s Top 9 Wellness Innovations for Modern Living</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-audio-stuttering-when-using-bluetooth-headsets-with-windows-11-or-windows-10/"><u>Eliminating Audio Stuttering When Using Bluetooth Headsets with Windows 11 or Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-activate-group-policy-editor-gpeditmsc-on-non-professional-windows-versions/"><u>How to Activate Group Policy Editor (gpedit.msc) on Non-Professional Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huawei-matebook-x-pro-examined-the-top-14/"><u>Huawei MateBook X Pro Examined: The Top 14</u></a></li>
-<li><a href="https://win-updates.techidaily.com/story-2-the-kernel-confusion/"><u>Story 2: The Kernel Confusion</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-hack-successful-pairing-of-airpods-with-windows-1011-2024-how-to/"><u>The Ultimate Hack: Successful Pairing of AirPods with Windows 10/11 - 2024 How-To</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-correcting-file-access-denied-by-windows/"><u>Troubleshooting Guide for Correcting 'File Access Denied by Windows'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-success-fix-for-non-responsive-keys-and-typing-malfunctions/"><u>Troubleshooting Success: Fix for Non-Responsive Keys and Typing Malfunctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-recovering-compromised-configuration-data-on-windows-11/"><u>Troubleshooting Tips: Recovering Compromised Configuration Data on Windows 11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-create-stunning-videos-with-music-best-mobile-apps/"><u>Updated 2024 Approved Create Stunning Videos with Music Best Mobile Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-8-cutting-edge-skins-perfect-for-your-laptop/"><u>2024 Approved 8 Cutting-Edge Skins Perfect for Your Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-your-game-top-tips-for-enhancing-pc-gaming-in-windows-11/"><u>Boost Your Game: Top Tips for Enhancing PC Gaming in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-claude-pros-innovations-versus-gptplusplusplus/"><u>Dissecting Claude Pro's Innovations Versus GPT++Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-note-30-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix Note 30</u></a></li>
+<li><a href="https://common-error.techidaily.com/improve-bluetooth-pairing-with-these-fixes-for-windows-10-users/"><u>Improve Bluetooth Pairing with These Fixes for Windows 10 Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/leveraging-snapchat-for-professional-networking-and-sales-for-2024/"><u>Leveraging Snapchat for Professional Networking & Sales for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-the-world-of-instagram-stories-easily/"><u>Navigating the World of Instagram Stories Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-sync-successful/"><u>Surface Sync Successful</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-essential-mac-live-streaming-apps-for-2024/"><u>Top 5 Essential Mac Live Streaming Apps for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-effective-solutions-for-error-1067-the-process-terminated/"><u>Troubleshooting Windows: Effective Solutions for Error 1067 'The Process Terminated'</u></a></li>
 </ul></div>
 

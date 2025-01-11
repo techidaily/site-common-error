@@ -1,7 +1,7 @@
 ---
 title: "Revive Your HP Laptop's Dead USB: Troubleshooting and Fixes"
-date: 2024-12-29T03:28:25.456Z
-updated: 2025-01-03T16:12:20.719Z
+date: 2025-01-07T21:56:42.548Z
+updated: 2025-01-10T18:49:50.824Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Having an error on Destiny 2 saying:**Destiny 2 servers are not available**? Don
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,7 +48,7 @@ It’s possible that too many people connect to the Destiny servers during the t
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable DHCP for your connection
@@ -62,24 +58,24 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click**Change adapter** **settings** on the left.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
@@ -89,7 +85,7 @@ It should have fixed the server issues in Destiny 2\. If not, don’t be upset. 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
@@ -104,10 +100,18 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -120,10 +124,6 @@ A missing or outdated network card driver will cause connection issues in your c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Open Destiny 2 and see the servers not available error has been removed.
 
@@ -149,22 +149,16 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-captivating-collections-frames-and-organizers-of-the-future/"><u>[Updated] 2024 Approved Captivating Collections Frames & Organizers of the Future</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-step-by-step-guide-to-youtube-video-enhancement-with-wmm/"><u>[Updated] 2024 Approved Step-by-Step Guide to YouTube Video Enhancement with WMM</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans-for-2024/"><u>[Updated] From Passive to Active Earnings Unlocking Youtube with 500+ Fans for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-maximizing-your-camera-masterful-android-time-lapse-videography-for-2024/"><u>[Updated] Maximizing Your Camera Masterful Android Time-Lapse Videography for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-perfection-reviewing-the-best-5-hd-webcams-with-audio-for-2024/"><u>Capture Perfection Reviewing The Best 5 HD Webcams with Audio for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/contact-hp-support/"><u>Contact HP Support</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/deceiving-plugin-for-chatgpt-larcensively-saps-fb-logins/"><u>Deceiving Plugin for ChatGPT: Larcensively Saps FB Logins</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhanced-fixes-when-system-resources-are-overstretched/"><u>Enhanced Fixes When System Resources Are Overstretched</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-netflix-errors-steps-to-get-your-streaming-up-and-running-again/"><u>Fixing Netflix Errors: Steps to Get Your Streaming Up and Running Again</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-gt-neo-5-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme GT Neo 5 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-multiplayer-lag-solve-your-lan-woes-here/"><u>Minecraft Multiplayer Lag? Solve Your LAN Woes Here!</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-to-resolve-your-persistent-windows-10-restarts/"><u>Quick Solutions to Resolve Your Persistent Windows 10 Restarts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-tier-srt-transformations-for-mac-and-windows-pcs-for-2024/"><u>Top-Tier SRT Transformations for Mac & Windows PCs for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-enhance-your-file-explorer-experience-in-windows-11/"><u>Troubleshoot & Enhance Your File Explorer Experience in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-resolving-windows-10-taskbar-issues-quickly/"><u>Troubleshooting Tips for Resolving Windows 10 Taskbar Issues Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-connection-how-to-tell-if-nintendo-switch-online-is-down/"><u>Troubleshooting Your Connection: How to Tell If Nintendo Switch Online Is Down</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-touchpad-not-scrolling-heres-how-to-solve-it/"><u>Windows 10 Touchpad Not Scrolling? Here’s How to Solve It!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-free-and-fast-guide-to-detecting-fraudulent-accounts-among-instragrammers/"><u>[Updated] In 2024, Free & Fast Guide to Detecting Fraudulent Accounts Among Instragrammers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-best-screen-capture-apps-a-guide-for-educators/"><u>2024 Approved The Best Screen Capture Apps A Guide for Educators</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/brain-boosting-techniques-transforming-language-learning-experience/"><u>Brain Boosting Techniques Transforming Language Learning Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-solved-accessing-cwindowssystem32configsystemprofiledesktop-errors-corrected/"><u>Error Solved: Accessing C: Windows system32 config systemprofile Desktop Errors Corrected</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restart-your-diagnostic-policy-service-if-its-not-active/"><u>Expert Tips to Restart Your Diagnostic Policy Service if It's Not Active</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-note-50-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme Note 50 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-google-pixel-fold-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Google Pixel Fold Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-to-overcome-the-outlook-cannot-be-opened-issue/"><u>Solutions to Overcome the 'Outlook Cannot Be Opened' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-directx-device-creation-errors-a-comprehensive-approach-to-graphical-hardware-initialization/"><u>Solving DirectX Device Creation Errors: A Comprehensive Approach to Graphical Hardware Initialization</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-lowering-gpu-consumption-by-desktop-window-manager-in-windows-11/"><u>Troubleshooting Techniques: Lowering GPU Consumption by Desktop Window Manager in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-user-errors-fixing-invalid-profiles-in-w1111/"><u>Unraveling User Errors: Fixing Invalid Profiles in W11/11</u></a></li>
 </ul></div>
 

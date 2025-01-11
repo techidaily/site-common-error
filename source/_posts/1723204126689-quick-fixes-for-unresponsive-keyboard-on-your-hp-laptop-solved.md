@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Unresponsive Keyboard on Your HP Laptop - Solved
-date: 2024-08-22T19:16:07.898Z
-updated: 2024-08-23T19:16:07.898Z
+date: 2025-01-07T17:14:13.478Z
+updated: 2025-01-10T20:15:02.909Z
 tags:
   - win11
   - win10
@@ -36,14 +36,15 @@ Here’s how to reinstall the keyboard driver:
 
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -51,9 +52,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,8 +77,9 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -103,10 +102,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -119,9 +119,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -130,17 +127,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -171,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +177,26 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-discovering-visual-narratives-merging-photography-and-videography-using-pixiz/"><u>[New] Discovering Visual Narratives Merging Photography and Videography Using Pixiz</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mixed-reality-blending-physical-and-virtual-worlds-for-2024/"><u>[New] Mixed Reality Blending Physical and Virtual Worlds for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rime-selections-convert-youtube-videos-quickly-for-2024/"><u>[New] Prime Selections Convert YouTube Videos Quickly for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-vuebell-doorbell-insights-top-rated-budget-friendly-security/"><u>Affordable VueBell Doorbell Insights: Top-Rated Budget Friendly Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-returns-unboxing-and-reverse-shipping-instructions-for-optimal-experience/"><u>Apple Vision Pro Returns: Unboxing and Reverse Shipping Instructions for Optimal Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-enabling-high-definition-content-on-non-hdcp-screens/"><u>Guide: Enabling High Definition Content on Non-HDCP Screens</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-n30-se-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus Nord N30 SE Phone without Any Data Loss</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-fast-tip-mastering-green-screen-techniques/"><u>In 2024, Fast Tip Mastering Green Screen Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y27-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y27 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-error-code-0x80072f8f-detailed-walkthroughs-to-overcome-issues-in-windows-11-and-10/"><u>Mastering Error Code 0X80072f8f: Detailed Walkthroughs to Overcome Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-guide-locating-compatible-printer-drivers-in-windows/"><u>Resolved Guide: Locating Compatible Printer Drivers in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-laptops-silent-mic-comprehensive-solutions-for-common-problems/"><u>Revive Your Laptop's Silent Mic: Comprehensive Solutions for Common Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-to-affordable-gopro-acquisitions/"><u>Secrets to Affordable GoPro Acquisitions</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-mystery-of-svchostexe-understanding-netsvcs-and-solutions-to-reduce-its-heavy-network-consumption/"><u>Tackling the Mystery of svchost.exe: Understanding NETsvcs & Solutions to Reduce Its Heavy Network Consumption</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-missing-dll-vcruntime130-on-windows-11-for-smooth-program-execution/"><u>Troubleshoot and Resolve Missing DLL: VCRUNTIME130 on Windows 11 for Smooth Program Execution</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210185584-troubleshooting-guide-revive-a-non-charging-laptop-battery-in-no-time/"><u>Troubleshooting Guide: Revive a Non-Charging Laptop Battery in No Time</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-overcoming-issues-with-pen-and-touch-not-working-on-your-screen/"><u>Troubleshooting: Overcoming Issues with Pen and Touch Not Working on Your Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/what-is-haul-video-and-how-to-create-a-catchy-try-on-haul-video-for-2024/"><u>What Is Haul Video and How to Create a Catchy Try on Haul Video for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-with-windows-11-enabling-your-hosted-wifi-network-successfully/"><u>Winning the Battle with Windows 11: Enabling Your Hosted WiFi Network Successfully</u></a></li>
+</ul></div>
 

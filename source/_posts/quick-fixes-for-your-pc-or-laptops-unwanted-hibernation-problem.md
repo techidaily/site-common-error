@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Your PC or Laptop's Unwanted Hibernation Problem
-date: 2024-08-22T19:16:28.112Z
-updated: 2024-08-23T19:16:28.112Z
+date: 2025-01-05T21:57:20.467Z
+updated: 2025-01-10T23:18:46.333Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 
  You must be familiar with AirDrop if you are a fan of Apple. If**AirDrop is not working** on your iOS devices and Mac, it would be very disappointing because your can’t transfer wirelessly between Apple devices. But don’t be upset! This guideline summarizes the**top fixes for AirDrop not working** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How do I fix Airdrop not working?
 
 1. [**Check if your device is discoverable**](https://tools.techidaily.com/drivereasy/download/)
@@ -30,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 7. [**Check Firewall on Mac**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **What is AirDrop?**
 
  AiDrop is a super cool feature AirDrop that enables you to wirelessly transfer**pictures** ,**videos** ,**files** and**more** between**iPhone** /**iPad** /**iPod** **Touch** /**Mac** nearby. With iOS 10 and later, you can also share links to apps with AirDrop. It makes our life and work much more convenient.
@@ -46,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 
 **Note** : All the screenshots below are shown on iOS 10, but the fixes apply to other iOS versions as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### **Step 1: Configure AirDrop settings correctly**
 
 **On iOS devices** :
@@ -65,10 +67,11 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 **Contacts Only** : Only your contacts can see your device.  
 **Everyone** : All nearby iOS devices using AirDrop can see your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45fe56bb738.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **On Mac OS** :
 
@@ -78,23 +81,14 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 
  3) Choose**Everyone** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![airdrop on mac](https://www.tenorshare.com/images/topics/os-x/airdrop-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Step 2: Make sure all the devices are within detected range**
 
  As mentioned, AirDrop works based on WiFi and Bluetooth, so your devices must be within the WiFi and Bluetooth range to be able to detected. You can’t AirDrop to users who are out of the defined range.
 
  It’s recommended to be as**closer** as possible when using AirDrop, and do not beyond**20 feet** (**6 meters** ), which may make your device undiscoverable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Step 3: Turn off your AirPlane mode**
 
  The Airplane mode cuts off your iPhone’s connection to all wireless networks, both cellular and Wi-Fi, so your AirDrop won’t be working if your AirPlane mode is on.
@@ -105,15 +99,12 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a460c603cd38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Try your AirDrop again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### **Step 4: Make sure your device screen is on when using AirDrop**
 
  If the iOS device screen is off when AirDrop items, you would fail to send/receive the items. So**make sure your iOS device screen is on** when using AirDrop.
@@ -121,17 +112,15 @@ No advertising on the website.
  As for Mac, you can use AirDrop when your Mac screen is off, but make sure it’s**not in sleep mode** . Sleep mode will stop AirDrop from working properly, too.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Step 5: Do not to transfer files of different types**
 
  For now, you can transfer many types of files by AirDrop, but you can’t transfer different types of files at one time with AirDrop. Please make sure you**transfer the same type of file once a time** .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 2: Resign in your iCloud account**
 
  The AirDrop not working issue can be caused by the iCloud issue.**Signing out and Signing in again** can solve the problem.
@@ -154,6 +143,10 @@ No advertising on the website.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check the Bluetooth and WiFi**
 
  As mentioned above, AirDrop can work properly when both the WiFi and Bluetooth perform well. If there is something wrong with your WiFi or Bluetooth, AirDrop may not work.
@@ -166,22 +159,24 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a460846969db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Back to**Settings** \>**Bluetooth** .
 
  4) Tap**Bluetooth** button to turn it off, and tap again to turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4607f0c3ee9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Try AirDrop again.
 
 **Tips** : Please make sure your WiFi connection works well. Sometimes if your WiFi doesn’t work, your AirDrop can’t transfer items.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 4: Check Personal Hotspot**
 
  This is a step that people may forget to check: Personal Hotsopt. It lets you share the cellular data connection of your iPhone or iPad (Wi-Fi + Cellular) when you don’t have access to a Wi-Fi network.
@@ -192,9 +187,6 @@ No advertising on the website.
 
  2) Tap the button next to**Personal Hotspot** to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4608a486d7a.jpg)
 
 3) Reopen your AirDrop and try it again.
@@ -225,12 +217,13 @@ No advertising on the website.
 
 If it doesn’t work well, try another WiFi then.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Step 2: Make sure the devices are in the same network**
 
  Please make sure that your iOS devices and Mac that are using AirDrop are in the**same WiFi network** , and that can help solve the problem, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 3: Reset network settings**
 
@@ -240,20 +233,10 @@ You can try to reset your network to fix AirDrop not working.
 
  1) Go to**Settings** \>**General** \>**Reset** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea3391f22f.jpg)
 
  2) Choose**Reset Network Settings** , then enter your**Passcode** to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d694399482.jpg)
 
 3) Select your WiFi, enter the password to connect again.
@@ -261,6 +244,10 @@ No advertising on the website.
 3) Try to use AirDrop again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 7: Check Firewall on Mac**
 
@@ -293,8 +280,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -302,4 +287,17 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-nailing-the-art-of-powerpoint-to-video-conversion/"><u>[Updated] 2024 Approved Nailing the Art of PowerPoint to Video Conversion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-non-indexable-content-decoding-the-unlisted-phenomenon/"><u>[Updated] YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-cornerstone-crash-devices-no-longer-functional/"><u>Critical Cornerstone Crash: Devices No Longer Functional</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-fix-semaphore-exceeds-allotted-time-limit-problem-solved/"><u>Critical Fix: Semaphore Exceeds Allotted Time Limit, Problem Solved</u></a></li>
+<li><a href="https://win-special.techidaily.com/is-tweaking-windows-registry-safe-uncover-potential-pitfalls-with-expert-advice-by-yl-software/"><u>Is Tweaking Windows Registry Safe? Uncover Potential Pitfalls with Expert Advice by YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-the-world-of-directed-interaction/"><u>Navigating Through the World of Directed Interaction</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-techniques-for-streamlining-your-twitter-content-calendar/"><u>Top Techniques for Streamlining Your Twitter Content Calendar</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-error-messages-for-unmigrated-devices/"><u>Troubleshooting Windows 10 Error Messages for Unmigrated Devices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mastering-video-editing-with-windows-movie-maker-a-step-by-step-guide/"><u>Updated 2024 Approved Mastering Video Editing with Windows Movie Maker A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategies-for-effective-windows-update-recovery/"><u>Winning Strategies for Effective Windows Update Recovery</u></a></li>
+</ul></div>
 

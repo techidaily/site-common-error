@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB Ports Not Working Issue. Easily
-date: 2025-01-02T21:29:14.244Z
-updated: 2025-01-03T16:08:54.478Z
+date: 2025-01-05T16:53:29.120Z
+updated: 2025-01-10T22:25:54.887Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 1: Hold down the power button
 
  The easiest way that may resolve the problem is**hold down the power button for 30 seconds or so** . This will discharge the capacitor. After that, reboot PC and check to see if the problem is resolved.  
@@ -53,6 +49,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows swtiches your USB controllers off when they’re not in use, and switches back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again. controller or the devices.
@@ -67,16 +67,12 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Un-check the **Allow the computer to turn off this device to save power** checkbox, and click **OK**  .  
 
@@ -84,10 +80,14 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your device drivers**
 
@@ -103,15 +103,15 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 Here take Intel USB 3.0 driverf for example:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,18 +128,19 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-tips-lipo-power-sources-for-aerial-vehicles/"><u>[New] 2024 Approved Top Tips LiPo Power Sources for Aerial Vehicles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-complete-archive-of-high-quality-online-workshops-for-2024/"><u>[Updated] The Complete Archive of High-Quality Online Workshops for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unraveling-details-a-closer-look-at-your-roblox-world/"><u>[Updated] Unraveling Details A Closer Look at Your Roblox World</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubing-upstarts-the-ideal-gadgets-list/"><u>[Updated] YouTubing Upstarts The Ideal Gadgets List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enigma-quest-unraveling-puzzles-in-a-cybernetic-world/"><u>Enigma Quest: Unraveling Puzzles in a Cybernetic World</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-80240020-explained-a-step-by-step-solution-for-windows-11-installation-problems/"><u>Error Code 80240020 Explained - A Step-by-Step Solution for Windows 11 Installation Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-the-junior-geometric-future-eskimo-standout-design-subdued-sound-and-moderate-usefulness/"><u>Evaluating the Junior Geometric Future Eskimo: Standout Design, Subdued Sound, and Moderate Usefulness</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-restoring-functionality-to-your-logitech-mouses-scroll-wheel/"><u>Expert Advice for Restoring Functionality to Your Logitech Mouse's Scroll Wheel</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instant-annotation-text-overlaying-on-images-and-videos-using-windows-photos/"><u>In 2024, Instant Annotation Text Overlaying on Images & Videos Using Windows Photos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-streamlined-steps-to-document-chat-calls-on-whatsapp/"><u>In 2024, Streamlined Steps to Document Chat Calls on WhatsApp</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-sound-issues-resolve-windows-1011-audio-setup-errors-easily/"><u>Troubleshooting Sound Issues: Resolve Windows 10/11 Audio Setup Errors Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-best-practices-for-uploading-windows-media-content-to-vimeo/"><u>[New] 2024 Approved Best Practices for Uploading Windows Media Content to Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-m1-advantage-high-speed-smooth-video-editing-experience/"><u>[New] M1 Advantage High-Speed, Smooth Video Editing Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-warframe-crashing-on-pc/"><u>[Solved] Warframe Crashing on PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ephemeral-video-wizard/"><u>[Updated] 2024 Approved Ephemeral Video Wizard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-european-union-written-by-your-name/"><u>Dissecting the European Union' Written By: [Your Name]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-tips-for-youtube-shorts-success/"><u>Essential Tips for YouTube Shorts Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-spacebar-issue-solutions-for-unresponsive-keyboard-keys-in-windows-10/"><u>Fixing the Spacebar Issue: Solutions for Unresponsive Keyboard Keys in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-microsoft-wi-fi-display-connection-problems-under-windows-10/"><u>How to Resolve Microsoft Wi-Fi Display Connection Problems Under Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-update-issues-solving-the-error-0x8024401c-in-windows-11/"><u>Overcoming Update Issues: Solving the Error 0X8024401c in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/quick-editing-incorporating-jump-cuts-in-video-content-for-2024/"><u>Quick Editing Incorporating Jump Cuts in Video Content for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-for-accessing-samsung-product-launches-virtually/"><u>Ultimate Guide for Accessing Samsung Product Launches Virtually</u></a></li>
+<li><a href="https://common-error.techidaily.com/wi-fi-not-working-learn-how-to-restore-your-lost-internet-connection-here/"><u>Wi-Fi Not Working? Learn How To Restore Your Lost Internet Connection Here</u></a></li>
+<li><a href="https://win-superb.techidaily.com/work-comfort-meets-playtime-comparing-office-and-gaming-chairs-for-optimal-seating/"><u>Work Comfort Meets Playtime: Comparing Office and Gaming Chairs for Optimal Seating</u></a></li>
 </ul></div>
 

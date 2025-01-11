@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for a Nonfunctional Corsair Keyboard"
-date: 2025-01-03T05:02:29.540Z
-updated: 2025-01-04T04:12:11.854Z
+date: 2025-01-07T00:03:25.972Z
+updated: 2025-01-10T22:13:10.630Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for my keyboard won’t type
@@ -53,6 +53,10 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766057d7181.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your computer is running**Windows 7** , use your mouse to click the**Start** button, then click the**more options icon** to select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7664a26b24c.jpg)
@@ -60,7 +64,7 @@ See how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Adjust your keyboard settings
@@ -80,10 +84,6 @@ If your computer is running Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your computer is running Windows 11:
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
@@ -92,7 +92,7 @@ If your computer is running Windows 11:
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
@@ -110,7 +110,7 @@ If your computer is running Windows 7:
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Try to type some words using your keyboard to see if it works.
@@ -118,10 +118,6 @@ Try to type some words using your keyboard to see if it works.
  If you could type using your keyboard, great! If your keyboard keeps not typing, don’t worry, try something else below…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Reinstall your keyboard driver
 
@@ -134,12 +130,20 @@ See how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Keyboards** , then right-click on your keyboard driver software to select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7669dd744ff.jpg)
 4. Once you do, restart your computer. Windows should then reinstall the driver for your keyboard automatically.
 
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your keyboard driver
 
@@ -155,10 +159,6 @@ See how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766c7750279.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
@@ -208,21 +208,24 @@ Try to type some words using your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-will-your-tv-screen-showcase-fb-feeds-soon/"><u>[Updated] 2024 Approved Will Your TV Screen Showcase FB Feeds Soon?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebook-story-complete-guide/"><u>2024 Approved Facebook Story Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/ace-your-pc-experience-tackling-slow-shutdown-in-windows-10/"><u>Ace Your PC Experience: Tackling Slow Shutdown in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-comfort-discover-why-the-steelcase-series-1-is-a-top-pick-for-ergonomic-desk-chairs/"><u>Affordable Comfort: Discover Why the Steelcase Series 1 Is a Top Pick for Ergonomic Desk Chairs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-speeds-for-optimal-performance-a-guide-to-your-pcs-true-potential/"><u>Essential Speeds for Optimal Performance: A Guide to Your PC's True Potential</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-x100-by-drfone-android/"><u>Full Guide to Unlock Your Vivo X100</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-buttons-on-your-windows-laptops-keyboard-win-1011/"><u>How to Repair Unresponsive Buttons on Your Windows Laptop's Keyboard (Win 10/11)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-fix-error-0x800705b4-in-your-windows-10-system-update/"><u>How to Successfully Address and Fix Error 0X800705b4 in Your Windows 10 System Update</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/how-to-zoom-in-google-meet/"><u>How to Zoom In Google Meet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p40plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P40+ to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-g2-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo G2 Easily?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-era-for-sony-blu-ray-player-s6700-for-2024/"><u>New Era for Sony Blu-Ray Player S6700 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-10-a-comprehensive-fix/"><u>Resolving svchost.exe's Excessive CPU Consumption in Windows 10 – A Comprehensive Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-remedies-for-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Effective Remedies for Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dark-display-issue-on-your-dell-notebook/"><u>Ultimate Troubleshooting Guide: Resolving the Dark Display Issue on Your Dell Notebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-strategies-for-reducing-high-cpu-usage/"><u>Windows 10: Strategies for Reducing High CPU Usage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/huckle-chronicles-top-10-humoristic-youtube-video-plans/"><u>[New] Chuckle Chronicles Top 10 Humoristic YouTube Video Plans</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[Updated] 2024 Approved Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-obs-game-capture/"><u>[Updated] 2024 Approved Unveiling the Secrets of OBS Game Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>[Updated] Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-connectivity-with-metaverse-strategies/"><u>2024 Approved Crafting Connectivity with Metaverse Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-apples-vision-pro-release-in-february-a-revolutionary-step-up-in-the-purchasing-journey-tech-insights-on-zdnet/"><u>Anticipating Apple's Vision Pro Release in February: A Revolutionary Step-Up In The Purchasing Journey | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-to-overcome-error-0x80070426-in-windows-11-environments/"><u>Comprehensive Solution to Overcome Error 0X80070426 in Windows 11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-dns-quick-and-effective-4-strategies/"><u>Fix a Non-Responsive DNS: Quick & Effective 4 Strategies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-11-pro-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme 11 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-rectify-werfaultexe-application-errors-a-step-by-ease-guide-for-windows-enthusiasts/"><u>How to Quickly Rectify 'WerFault.exe' Application Errors: A Step-by-Ease Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-cheats-gone-wrong-deactivate-the-nba-2k21-emerald-hack-now/"><u>Master Cheats Gone Wrong? Deactivate the NBA 2K21 Emerald Hack Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-no-audio-output-device-found-issue-on-windows-1011/"><u>Solving the 'No Audio Output Device Found' Issue on Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Solving the Binkw32.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-videos-seamlessly-try-our-no-cost-3gp-converter-today/"><u>Transform Your Videos Seamlessly: Try Our No-Cost 3GP Converter Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210845032-troubleshoot-malfunctioning-keyboard-arrows-top-solutions/"><u>Troubleshoot Malfunctioning Keyboard Arrows - Top Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-dealing-with-the-persistent-windows-camera-error-0xa00f4292/"><u>Troubleshooting Tips for Dealing with the Persistent Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-resolving-windows-n-11-media-streaming-problems-cast-not-working/"><u>Ultimate Guide to Resolving Windows N 11 Media Streaming Problems (Cast Not Working)</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-your-budget-is-better-spent-elsewhere-not-on-hdr/"><u>Why Your Budget Is Better Spent Elsewhere, Not on HDR</u></a></li>
 </ul></div>
 

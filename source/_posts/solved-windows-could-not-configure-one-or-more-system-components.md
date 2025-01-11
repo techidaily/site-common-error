@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Windows Could Not Configure One or More System Components"
-date: 2024-12-31T23:50:58.676Z
-updated: 2025-01-03T20:49:53.862Z
+date: 2025-01-03T22:07:39.322Z
+updated: 2025-01-10T16:24:00.269Z
 tags:
   - win11
   - win10
@@ -34,19 +34,23 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -60,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -77,7 +81,11 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
@@ -88,29 +96,21 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -121,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
  4-2) Click **Scan Now** . All driver problems of your computer would be detected in less than 1 minute. Your Bluetooth driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
@@ -175,24 +175,19 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-boost-engagement-top-8-youtube-video-trackers-unveiled/"><u>[New] 2024 Approved Boost Engagement - Top 8 YouTube Video Trackers Unveiled</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-luts-and-film-aesthetics-bridging-the-gap/"><u>[New] In 2024, Luts and Film Aesthetics Bridging the Gap</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[Updated] 2024 Approved Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726222476085-mkv-mjpeg-movavi/"><u>在線免費提供 MKV 轉換成 MJPEG格式 - 利用 Movavi 工具進行切換</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cinema-classics-and-hits-to-stream-immediately-as-chosen-by-lifewire/"><u>Cinema Classics & Hits to Stream Immediately, as Chosen by Lifewire</u></a></li>
-<li><a href="https://common-error.techidaily.com/connect-your-airpods-to-windows-pc-easy-fixes-and-tips/"><u>Connect Your AirPods to Windows PC : Easy Fixes & Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-overactive-cpu-by-wudfhostexe-a-guide-for-windows-11-users/"><u>Dealing with Overactive CPU by WUDFHost.exe: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-restoring-functionality-for-broken-login-keyboards/"><u>Expert Advice: Restoring Functionality for Broken Login Keyboards</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-restarting-intel-realsense-streaming-technology-in-windows-10-systems/"><u>Guide: Restarting Intel RealSense Streaming Technology in Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-updatefailed-message-on-windows-10-solving-error-code-0x80240034/"><u>How to Fix the 'Update_Failed' Message on Windows 10: Solving Error Code 0X80240034</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-essential-tips-for-engaging-with-youtube-comments/"><u>In 2024, Essential Tips for Engaging with YouTube Comments</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966316520-latest-audio-interface-drivers-for-microsoft-windows-get-your-free-downloads/"><u>Latest Audio Interface Drivers for Microsoft Windows - Get Your FREE Downloads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/save-more-with-these-6-excellent-coupon-websites-that-offer-great-bargains/"><u>Save More with These 6 Excellent Coupon Websites That Offer Great Bargains</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-restore-functionality-in-windows-11-sound-volume-buttons/"><u>Solved: How To Restore Functionality in Windows 11 Sound Volume Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-win32-exception-error-a-detailed-walkthrough-to-resolve-error-0xc0000005/"><u>Tackling Win32 Exception Error: A Detailed Walkthrough to Resolve Error 0xC0000005</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-your-bluetooth-keyboard-connection-issues-with-windows/"><u>Troubleshooting Guide: How to Fix Your Bluetooth Keyboard Connection Issues with Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oneplus-ace-3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from OnePlus Ace 3 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/yac558-yamahaaturbosound-ii-sound-module-based-on-the-ymf794dymu793-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-142/"><u>YAC558 - Yamaha'aturboSound II Sound Module Based on the YMF794D/YMU79^3 (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-comprehensive-ultimate-guide-to-instagram-stories-for-2024/"><u>[New] Comprehensive Ultimate Guide to Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-incorporating-time-features-into-youtube-video-formats/"><u>[Updated] 2024 Approved Incorporating Time Features Into YouTube Video Formats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-to-a-perfectly-arranged-youtube-queue/"><u>[Updated] Step-by-Step to a Perfectly Arranged YouTube Queue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-strategies-to-exclude-recommended-podcasts-in-spotify/"><u>2024 Approved Strategies to Exclude Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/apex-of-hd-technology-leading-recorder-brands-decoded/"><u>Apex of HD Technology Leading Recorder Brands Decoded</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-non-responsive-usb-ports-on-hp-computers/"><u>Diagnosing and Fixing Non-Responsive USB Ports on HP Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-limited-system-resources-issues/"><u>Effective Solutions for Overcoming Limited System Resources Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-rpc-communication-errors-in-microsoft-windows-environments/"><u>Expert Tips for Fixing RPC Communication Errors in Microsoft Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-stubborn-usb-mouse-that-wont-work-on-your-laptop-expert-tips-inside/"><u>Fixing a Stubborn USB Mouse That Won't Work on Your Laptop – Expert Tips Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-bypassing-madden-22s-constant-boot-screen-glitches/"><u>Guide to Bypassing Madden 22'S Constant Boot Screen Glitches</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>In 2024, Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplified-steps-to-resolve-windows-cant-finish-installing/"><u>Simplified Steps to Resolve Windows Can't Finish Installing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-compatibility-issues-on-ftdi-systems-ensuring-memory-reliability-with-proper-drivers/"><u>Troubleshooting Compatibility Issues on FTDI Systems: Ensuring Memory Reliability with Proper Drivers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/44k544op44kk44oj44k344on44o85lit44gr6yyy6zplusz44gm44gn44gn44gq44ge44go44gn44gr5b2556ul44gk77yx44gk44gu44os44oz44oi/"><u>スライドショー中に録音ができないときに役立つ７つのヒント</u></a></li>
 </ul></div>
 

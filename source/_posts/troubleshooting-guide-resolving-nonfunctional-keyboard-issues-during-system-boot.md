@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Nonfunctional Keyboard Issues During System Boot"
-date: 2025-01-02T01:02:19.362Z
-updated: 2025-01-03T23:43:39.981Z
+date: 2025-01-04T21:02:15.238Z
+updated: 2025-01-10T21:03:25.187Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 4. **[Update your keyboard driver](#Fix4)**
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
@@ -63,15 +63,11 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -115,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -127,6 +131,10 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
@@ -134,7 +142,7 @@ If this method didn’t work for you, check out the last fix.
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -144,16 +152,8 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,20 +176,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-your-creations-the-7-most-innovative-nft-generators/"><u>[New] In 2024, Elevate Your Creations - The 7 Most Innovative NFT Generators</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-explore-12-prime-flip-screen-cameras-revolutionizing-vlogs/"><u>[Updated] In 2024, Explore 12 Prime Flip Screen Cameras Revolutionizing Vlogs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ppt-presentations-merging-audio-and-imagery-fluently/"><u>[Updated] In 2024, PPT Presentations Merging Audio & Imagery Fluently</u></a></li>
-<li><a href="https://common-error.techidaily.com/ace-your-fixes-handling-the-080072efd-glitch-in-windows-11-effortlessly/"><u>Ace Your Fixes: Handling the 0#80072EFD Glitch in Windows 11 Effortlessly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-controlling-wudfhostexes-high-resource-use-on-windows-10/"><u>Effective Strategies for Controlling wudfhost.exe's High Resource Use on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-crash-how-to-repair-print-driver-host-on-32-bit-programs/"><u>Fixing the Crash: How to Repair 'Print Driver Host' On 32-Bit Programs</u></a></li>
-<li><a href="https://common-error.techidaily.com/games-causing-pc-restarts/"><u>Games Causing PC Restarts</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209423436-how-to-fix-error-651-in-windows-easily/"><u>How to Fix Error 651 in Windows. Easily</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>In 2024, Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insta-fame-blueprint-10-proven-strategies-for-a-viral-sensation/"><u>Insta-Fame Blueprint: 10 Proven Strategies for a Viral Sensation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/screen-grab-pros-comprehensive-analysis-for-2024/"><u>Screen Grab Pros Comprehensive Analysis for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tips-for-optimizing-hdr-video-experience-on-your-computer-using-vlc/"><u>Step-by-Step Tips for Optimizing HDR Video Experience on Your Computer Using VLC</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-maintenance-made-easy-with-resetrefresh-options/"><u>Windows 10 Maintenance Made Easy with Reset/Refresh Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-updates-now-successfully-installed-fix-guide/"><u>Windows Updates Now Successfully Installed: Fix Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-economical-mic-options-for-youtube-vloggers-for-2024/"><u>[New] Economical Mic Options for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pixelated-palace-beginner-friendly-home-design-guide/"><u>[Updated] 2024 Approved Pixelated Palace Beginner-Friendly Home Design Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quality-improvement-for-skype-video-calls/"><u>[Updated] 2024 Approved Quality Improvement for Skype Video Calls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-maximizing-b-roll-creative-uses-and-integration-for-2024/"><u>[Updated] Maximizing B-Roll Creative Uses and Integration for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-pioneering-video-tech-s-camera-race/"><u>[Updated] Pioneering Video Tech 'S Camera Race</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-storage-capacity-64gb-vs-128gb-for-video-files/"><u>[Updated] Storage Capacity 64GB vs 128GB for Video Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-and-solve-the-reset-your-pc-problem-on-windows-11-expert-advice-and-strategies/"><u>Decode and Solve the 'Reset Your PC' Problem on Windows 11: Expert Advice & Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-your-league-of-legends-download-with-these-simple-solutions/"><u>Fast-Track Your League of Legends Download with These Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-darkness-to-light-a-step-by-step-guide-to-fixing-your-windows-screen-issues/"><u>From Darkness to Light: A Step-by-Step Guide to Fixing Your Windows Screen Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-quick-fix-for-skyrims-constant-loading-bug-now/"><u>Master the Quick Fix for Skyrim's Constant Loading Bug Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-the-shift-key-failure-issue-on-your-pclaptop/"><u>Quick Solutions: Resolving the 'Shift Key Failure' Issue on Your PC/Laptop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-engaging-with-advanced-ai-through-quoras-integration-of-chatbots-and-llms/"><u>Step-by-Step Guide: Engaging with Advanced AI Through Quora's Integration of Chatbots and LLMs</u></a></li>
+<li><a href="https://common-error.techidaily.com/stuck-on-a-non-printable-pdf-effortless-strategies-for-immediate-results/"><u>Stuck on a Non-Printable PDF? Effortless Strategies for Immediate Results</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-windows-update-issue-0x8024401c-in-windows-11-systems/"><u>Troubleshooting and Fixing Windows Update Issue 0X8024401c in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-graphics-driver-unavailable-issue-in-detail/"><u>Troubleshooting the 'Graphics Driver Unavailable' Issue in Detail</u></a></li>
+<li><a href="https://facebook.techidaily.com/turn-the-tables-on-fb-with-off-facebook-activity-insight/"><u>Turn the Tables on FB with Off-Facebook Activity Insight</u></a></li>
+<li><a href="https://common-error.techidaily.com/unauthorized-access-denied-solutions-inside/"><u>Unauthorized Access Denied: Solutions Inside</u></a></li>
 </ul></div>
 

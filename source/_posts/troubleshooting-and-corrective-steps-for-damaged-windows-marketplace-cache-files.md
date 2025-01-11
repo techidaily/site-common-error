@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Corrective Steps for Damaged Windows Marketplace Cache Files
-date: 2024-08-22T19:12:17.827Z
-updated: 2024-08-23T19:12:17.827Z
+date: 2025-01-04T18:25:03.102Z
+updated: 2025-01-10T16:40:39.708Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
  If the file is damaged or missing somehow, you’re likely to run into the**d3dx9\_39.dll missing** error when trying to run programs that require Microsoft DirectX, such as Warhammer, League of Legends, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes to try
 
 * [Fix 1: Restore the D3DX9_39.dll file automatically](#c)
@@ -47,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 
  3) Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with a 60-day Money-Back Guarantee.)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-2.png)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -67,11 +65,11 @@ The D3dx9\_39.dll file is an essential component of Microsoft DirectX.
 
 **1)** Go to **[Microsoft official DirectX End-User Runtime Web Installer download page](https://www.microsoft.com/en-us/Download/confirmation.aspx?id=35)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_18-17-26-1024x526.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Your download will start automatically once the page is open. Wait for the process to be complete
 
@@ -95,37 +93,27 @@ If your problem continues to occur, read on and try the fix below.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-40-2.jpg)
 
 **2)** Type**control** , then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_11-58-24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Under**View by** , select**Category** , then click**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_11-59-29.jpg)
 
 **4)** Right-click the program you’re having trouble with, then click**Uninstall/Change** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_12-01-26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Follow the on-screen instructions to uninstall the program.
 
@@ -134,8 +122,9 @@ If your problem continues to occur, read on and try the fix below.
  After your game is installed, relaunch it to test your issue. If the issue continues to occur, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your graphics driver
 
  If you keep getting the d3dx9\_39.dll missing error, it’s unlikely that an outdated graphics driver is the core issue, but you should rule out the possibility. There are two ways you can get the correct driver for your hardware:
@@ -176,19 +165,17 @@ If your problem continues to occur, read on and try the fix below.
 
  If the problem still exists, don’t fret. There is still 1 more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Check for Windows updates
 
  Windows releases regular updates to fix bugs. So, you should always ensure that your computer has all of the latest recommended Windows updates to keep your applications running smoothly. Here is how to do it:
 
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_18-16-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -210,8 +197,6 @@ If your problem continues to occur, read on and try the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +204,21 @@ If your problem continues to occur, read on and try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-to-extend-gopro-battery-hours/"><u>[New] Strategies to Extend GoPro Battery Hours</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-dominating-the-digital-realm-youtube-marketing-secrets-for-2024/"><u>[Updated] Dominating the Digital Realm YouTube Marketing Secrets for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-up-fuzzy-display-on-your-windows-11-screen-quick-fixes-inside/"><u>Clear Up Fuzzy Display on Your Windows 11 Screen - Quick Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-blank-canvas-a-guide-to-overcoming-laptop-white-screens/"><u>Fixing the Blank Canvas: A Guide to Overcoming Laptop White Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gpd-reveals-sneak-peek-of-revolutionary-dual-display-oled-laptop-a-new-contender-against-asus-zenbook-duo/"><u>GPD Reveals Sneak Peek of Revolutionary Dual-Display OLED Laptop, a New Contender Against Asus ZenBook Duo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-xcom-2-crashing-problems-in-windows-effectively/"><u>How to Overcome XCOM 2 Crashing Problems in Windows Effectively</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12t-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12T Pro Phones with/without a PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-hp-envy-5530-with-win10-os/"><u>Integrate HP Envy 5530 with Win10 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-fast-paced-minecraft-by-conquering-game-lags-once-and-for-all/"><u>Master the Art of Fast-Paced Minecraft by Conquering Game Lags Once and for All</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-frustrating-ce-34878-0-problem-in-your-ps4-effective-strategies-revealed/"><u>Overcoming the Frustrating CE-34878-0 Problem in Your PS4 – Effective Strategies Revealed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/propel-your-instagram-videos-into-the-public-eye-for-2024/"><u>Propel Your Instagram Videos Into the Public Eye for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-repairing-issues-with-windows-store-caching-system/"><u>Resolved: Repairing Issues with Windows Store Caching System</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-aoc-display-problems-on-windows-10-easy-steps-for-users/"><u>Solve AOC Display Problems on Windows 10 - Easy Steps for Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unveiling-the-action-potential-of-polaroids-camplus-for-2024/"><u>Unveiling the Action Potential of Polaroid's Cam+ for 2024</u></a></li>
+</ul></div>
 

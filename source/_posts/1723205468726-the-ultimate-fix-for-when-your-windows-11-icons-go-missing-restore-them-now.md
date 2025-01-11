@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for When Your Windows 11 Icons Go Missing - Restore Them Now
-date: 2024-12-28T18:27:43.666Z
-updated: 2025-01-03T18:57:26.549Z
+date: 2025-01-04T18:55:24.535Z
+updated: 2025-01-10T22:59:03.360Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these tips
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,7 +36,7 @@ You don’t have to try them all; just work your way down the list until you fin
 6. [**Bonus tip**](#t7)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 1: Enable Show desktop icons
@@ -50,6 +46,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop, click **View**, and check **Show desktop icons**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -62,15 +62,11 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -82,10 +78,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -105,15 +97,15 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -127,14 +119,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -151,8 +143,16 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -177,18 +177,18 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-ois-enhanced-smartphones-for-seamless-video-filming-experience/"><u>[New] OIS-Enhanced Smartphones for Seamless Video Filming Experience</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-methods-for-mac-screenshot-format-change/"><u>[Updated] 2024 Approved Innovative Methods for Mac Screenshot Format Change</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-exploring-income-derived-from-each-watch-on-video-platforms/"><u>[Updated] Exploring Income Derived From Each Watch on Video Platforms</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-discover-the-best-comparing-free-video-players-vlc-and-mpc/"><u>2024 Approved Discover the Best Comparing Free Video Players (VLC and MPC)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-docu-script-writers-guide/"><u>2024 Approved The Docu-Script Writer's Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/convert-videos-effortlessly-for-your-blackberry-with-wonderfoxs-premium-converter-suite/"><u>Convert Videos Effortlessly for Your BlackBerry with WonderFox's Premium Converter Suite!</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-the-user-profile-service-failure-during-login-in-windows-1011/"><u>Diagnosing and Correcting the 'User Profile Service' Failure During Login in Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/google-chrome-crashes-relaunch-and-fix-your-browser-issues-now/"><u>Google Chrome Crashes? Relaunch and Fix Your Browser Issues Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-issue-no-hardware-drivers-installed-for-windows-7-setup/"><u>How to Fix the Issue: No Hardware Drivers Installed for Windows 7 Setup</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-14-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 14 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-correct-damaged-configuration-information-leading-to-dvdcd-rom-failures-on-windows-10/"><u>Step-by-Step Solutions to Correct Damaged Configuration Information Leading to DVD/CD-ROM Failures on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-night-light-problem-solutions-and-fixes/"><u>Windows 11 Night Light Problem: Solutions and Fixes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-professional-techniques-for-superior-audacity-sessions/"><u>[Updated] Professional Techniques for Superior Audacity Sessions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypassing-file-restrictions-a-how-to-for-forcing-deletes-with-revouninstaller-in-windows-1011/"><u>Bypassing File Restrictions: A How-To for Forcing Deletes with RevoUninstaller in Windows 10/11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/city-planning-for-climate-action-a-comprehensive-guide/"><u>City Planning for Climate Action A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-connection-microsoft-wireless-display-adapter-in-windows-11/"><u>Guide to Restoring Connection: Microsoft Wireless Display Adapter in Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-personalize-and-change-ringtones-on-your-iphone-for-2024/"><u>How to Personalize and Change Ringtones on Your iPhone for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-amplify-slides-with-melodies-in-ppt/"><u>In 2024, Amplify Slides with Melodies in PPT</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-xp-error-code-0xfffffff-fixing-print-issues/"><u>Overcoming XP Error Code 0xFFFFFFF: Fixing Print Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-cannot-locate-resources-in-overwatch-expert-advice/"><u>Troubleshooting 'Cannot Locate Resources' In Overwatch - Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solution-for-class-registration-problems-on-windows-10/"><u>Troubleshooting and Solution for Class Registration Problems on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-keyboard-latency-on-your-windows-11-pc-solved/"><u>Troubleshooting Keyboard Latency on Your Windows 11 PC: Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-wireless-network-access-is-not-available/"><u>Troubleshooting Steps When Wireless Network Access Is Not Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-shutdown-issues-how-i-solved-my-computers-mysterious-power-off-problem/"><u>Unexpected Shutdown Issues: How I Solved My Computer's Mysterious Power-Off Problem</u></a></li>
 </ul></div>
 

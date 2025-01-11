@@ -1,7 +1,7 @@
 ---
 title: Fixing 'Windows Resource Protection Failed' - Tips and Tricks to Restore System Stability
-date: 2024-08-22T19:16:04.719Z
-updated: 2024-08-23T19:16:04.719Z
+date: 2025-01-09T17:07:06.736Z
+updated: 2025-01-10T19:35:08.182Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  If you get a **missing file privileges**  error while waiting for your game to install/update on **Steam** , you’re not alone. M any users have had this headache too. Luckily they have successfully tackled the problem with the following steps, so check them out.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6 fixes for Steam **missing file privileges**
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** . You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 5. **[Give administrator privileges to Steam](#F5)**
 6. **[Want us to fix the problem for you?](#F6)**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: End  igfxEm Module in Task Manager
 
  Killing **igfxEm Module** , as reported by most users, is one of the most effective methods in solving this **Steam missing file privileges** problem. To do so:
@@ -56,18 +50,15 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  1) Open Steam. Then click**Steam** \>**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44283e9e804.jpg)
 
  2) Click**Downloads** , then change**download region** in the drop-down list and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44299d19c87.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Re-download/update the game and see if it works now.
 
@@ -85,9 +76,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  3) Click**Downloads** \>**STEAM LIBRARY FOLDERS** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442db2f1da4.jpg)
 
  4) Right-click inside the Window and click **Repair Library Folder** .
@@ -98,6 +86,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 4: Verify the integrity of game cache**
 
 Fix 4 is to verify that our game files are not corrupt. To do so:
@@ -105,6 +97,10 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  1) Click**LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4430add5c05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click on the game that gives the error and click **Properties** .
 
@@ -118,16 +114,10 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Give administrator privileges to Steam
 
  Sometimes **Steam missing file privileges**  happens because you don’t have full permissions to run Steam. So to**give Steam administrator privileges** :
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R** at the same time. Then copy & paste **%ProgramFiles(x86)%** into the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/programfile.jpg)
@@ -135,31 +125,37 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  2) Right-click on**Steam** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/steam2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Security** \>**Advanced** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44509268b60.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Make sure**the first two rows** are granted**Full control** . If not, click edit to change accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4453eca629e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Run Steam as administrator and check if the mid-download/update problem gets fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 6: Want us to fix the problem for you?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10e3465cf33.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is[**buy a 1-year subscription to Driver Easy**](https://tools.techidaily.com/drivereasy/download/)   (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -176,8 +172,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +179,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-elite-video-influencers/"><u>[New] 2024 Approved Elite Video Influencers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expert-advice-elevating-your-nba-live-viewing-for-2024/"><u>[New] Expert Advice Elevating Your NBA Live Viewing for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-navigate-through-itunes-recording-like-a-pro-for-2024/"><u>[New] Navigate Through iTunes Recording Like a Pro for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-key-dimensions-youtube-titles-and-images-that-work/"><u>2024 Approved Key Dimensions YouTube Titles & Images That Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/cant-print-pdf-try-these-quick-fixes/"><u>Can’t Print PDF? Try These Quick Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-correctly-address-stop-work-order-for-windows-host-process-using-rundll32/"><u>Easy Steps to Correctly Address Stop Work Order for Windows Host Process Using Rundll32</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-audience-interest-with-effective-strategies-in-video-outros/"><u>Ignite Audience Interest with Effective Strategies in Video Outros</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-effective-cross-language-communication/"><u>Leveraging ChatGPT for Effective Cross-Language Communication</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-issues-with-geforce-shadowplay-installation-effective-solutions/"><u>Overcome Issues with GeForce ShadowPlay Installation – Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-windows-error-0x80072ee7-in-store-apps-top-tips-for-quick-resolution/"><u>Overcoming the Windows Error 0X80072EE7 in Store Apps: Top Tips for Quick Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-overcome-perpetual-boot-loops-on-pcs/"><u>Troubleshooting Steps to Overcome Perpetual Boot Loops on PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-cryptocurrency-hardware-wallets-a-comprehensive-guide/"><u>Understanding Cryptocurrency Hardware Wallets: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-miracast-support-by-updating-graphics-card-software/"><u>Unlock Miracast Support by Updating Graphics Card Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-lenovo-keyboard-responding-fixes-for-common-issues/"><u>Why Isn't My Lenovo Keyboard Responding? Fixes for Common Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-bluetooth-woes-heres-how-to-get-your-controller-syncing-again/"><u>Xbox One Bluetooth Woes? Here's How to Get Your Controller Syncing Again!</u></a></li>
+</ul></div>
 

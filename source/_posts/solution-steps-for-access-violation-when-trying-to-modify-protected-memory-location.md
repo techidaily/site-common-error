@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for Access Violation When Trying to Modify Protected Memory Location
-date: 2024-08-15T11:02:32.027Z
-updated: 2024-08-16T11:02:32.027Z
+date: 2025-01-06T20:50:25.243Z
+updated: 2025-01-10T18:33:28.361Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 4) Check to see if Sims 4 opens.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Solution 2: Update the video card driver
 
 **Sims 4 crashing at startup issue** is probably caused by outdated video card drivers. So to fix the problem, you can try to update the video card driver.
@@ -61,25 +58,20 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged video card driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
 ## Solution 3: Update the network controller driver
 
  The faulty network controller driver could also be the cause. If updating video card doesn’t work for you, try to update the network controller driver. To save time, you can also use[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) to help update the network controller driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 4: Reset Sims 4
 
 **Sims 4 not launching** problem can be caused by corrupted save files. So you can try to**[reset the game](#reset)** to reload the files.
@@ -92,18 +84,27 @@ How to back up the game:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac3442808b23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on**The Sims 4** , then select**Copy** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac3467fc47f9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Copy the folder to your**Desktop** .
 
  4) Right-click on the copied folder and select**Rename** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac344bfdd6b0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Change the name of the folder  to something you’ll remember, like**Sims 4 Backup** .
 
@@ -113,9 +114,6 @@ How to back up the game:
 
  2) Right-click on**The Sims 4** , then select**Delete** . If you’re prompted to confirm the deletion, click**Yes** to confirm you want to delete the folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac346a049930.jpg)
 
  3) Empty your**Recycle Bin** .
@@ -128,10 +126,11 @@ How to back up the game:
 
  1) On your computer, go to**Documents** \->**Electronic Arts** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac3442808b23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click on The Sims 4, then select**Delete** . If you’re prompted to confirm the deletion, click**Yes** to confirm you want to delete the folder.
 
@@ -147,9 +146,6 @@ How to back up the game:
 
  When you can’t open Sims 4 successfully, you can try to**reinstall the game** . If reinstalling the game doesn’t work, try to**reinstall the Origin client** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 6: Perform a clean boot
 
  The problem can be caused by software conflict. You can perform a clean boot to troubleshoot the software causing this issue. For detailed instructions about how to perform a clean boot, please see[How to Perform a Clean Boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-boot-in-windows) .
@@ -165,8 +161,6 @@ How to back up the game:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +168,22 @@ How to back up the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-silencing-distractions-enhancing-youtube-videos/"><u>[New] 2024 Approved Silencing Distractions Enhancing YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-hook-it-game-winning-podcast-beginnings/"><u>[New] The Hook-It Game Winning Podcast Beginnings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ords-in-motion-a-guide-to-lively-animation-methods-for-2024/"><u>[New] Words in Motion A Guide to Lively Animation Methods for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits-for-2024/"><u>[Updated] 3-Part Blueprint to Monitor and Maximize Your YouTube Profits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-dreamcolor-spectrum-redefined-insight-into-the-z32x-monitor/"><u>[Updated] The DreamColor Spectrum Redefined Insight Into the Z32X Monitor</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-sfc-and-dism-essential-tools-for-fixing-windows-10-issues/"><u>Exploring SFC & DISM: Essential Tools for Fixing Windows 10 Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208883988-fixes-for-endless-load-time-in-valorant-get-back-into-battle/"><u>Fixes for Endless Load Time in Valorant - Get Back Into Battle!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-unresponsive-home-button-top-5-fast-solutions/"><u>Iphone's Unresponsive Home Button: Top 5 Fast Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/maximize-your-systems-efficiency-how-to-fix-unnecessary-cpu-usage-caused-by-shell-infrastructure/"><u>Maximize Your System’s Efficiency: How to Fix Unnecessary CPU Usage Caused By Shell Infrastructure</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-of-errors-related-to-cyclical-redundancy-in-data-transmission/"><u>Step-by-Step Resolution of Errors Related to Cyclical Redundancy in Data Transmission</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-mixing-on-youtube-music-for-2024/"><u>The Art of Mixing on YouTube Music for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-persistent-0x80070490-error-encountered-in-windows-update-process/"><u>The Ultimate Fix for the Persistent 0X80070490 Error Encountered in Windows Update Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-restore-your-windows-11-start-menu/"><u>Troubleshooting Guide: How To Restore Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-usb-ports-on-pc-with-windows-10-or-11/"><u>Troubleshooting Non-Functional USB Ports on PC with Windows 10 or 11</u></a></li>
+</ul></div>
 

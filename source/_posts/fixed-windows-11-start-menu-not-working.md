@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Windows 11 Start Menu Not Working"
-date: 2024-08-22T19:14:29.811Z
-updated: 2024-08-23T19:14:29.811Z
+date: 2025-01-06T17:00:14.917Z
+updated: 2025-01-10T21:38:06.431Z
 tags:
   - win11
   - win10
@@ -20,17 +20,15 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 1: Try the keyboard on another computer**
 
  If the keyboard is broken, this issue would occur. If possible, use the keyboard on another computer. If it doesn’t work on another computer, the issue is caused by the keyboard. You might need to replace it with a new keyboard.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 2: Check if the keyboard is connected correctly**
 
  The error may be caused by a loose connection, so you can try checking the connection.  
@@ -53,9 +51,6 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### **Method 5: Update Drivers**
 
  The issue can be caused by faulty keyboard or wireless drivers. You can try updating the drivers.  
@@ -72,6 +67,10 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-driver-scan-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a keyboard or wireless adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-driver-update-2.jpg)
@@ -82,9 +81,6 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### **Method 6: Turn off Filter keys**
 
  The most common reason is that the Filter keys are turned on. If you are not sure where to check that in Windows, follow steps below and turn it off if you need.
@@ -93,25 +89,27 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
  2) View by Category and click**Ease of Access** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db5b2ae799b.jpg)
 
  3) Click**Change how your keyboard works** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db5b510dd3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under “Make it easier to type”, if you see**Turn on Filter Keys** is selected, de-select it.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db5cdb2d390.png)
 
  5) Click on**Apply** button then**OK** button.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 7: Login to Windows with a new user account**
 
@@ -129,11 +127,12 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db6699eb94c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Manage User Accounts** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db66af713c8.jpg)
 
  5) Click**Add** button.
@@ -154,8 +153,6 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +160,24 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-in-class-music-video-platforms/"><u>[New] Best-in-Class Music Video Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-chatbot-guide-you-through-survival-scenarios/"><u>Can AI Chatbot Guide You Through Survival Scenarios?</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-guide-to-restore-brightness-overcome-black-screens-on-dell-computers/"><u>Comprehensive Solution Guide to Restore Brightness - Overcome Black Screens on Dell Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-solutions-to-common-data-validation-problems/"><u>Cyclic Redundancy Check – Solutions to Common Data Validation Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foundations-of-virtual-reality-speak/"><u>Foundations of Virtual Reality Speak</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-disabling-games-on-windows-11-list/"><u>Guide to Disabling Games on Windows 11 List</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207362435-hosted-network-not-working-fix-your-connection-issues-in-windows-10/"><u>Hosted Network Not Working? Fix Your Connection Issues in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-enhance-boot-performance-for-your-windows-11-computer/"><u>How to Enhance Boot Performance for Your Windows 11 Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-poco-x6-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Poco X6 Pro Without PUK Codes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-flavorful-footage-kitchen-film-making-101/"><u>In 2024, Flavorful Footage Kitchen Film-Making 101</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guidance-to-rectify-youtube-video-scaling-issues/"><u>In 2024, Guidance to Rectify YouTube Video Scaling Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connectivity-hurdles-with-bungies-latest-update-for-destiny-2-players/"><u>Overcoming Connectivity Hurdles with Bungie's Latest Update for Destiny 2 Players</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-1-grokinit-file-explorer-vertical-scrolling-trouble/"><u>Solution Steps for Windows 1 Grok_init File Explorer Vertical Scrolling Trouble</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-to-rectify-vcruntime140dll-error-on-your-pc/"><u>Solution Steps to Rectify VCRUNTIME140.dll Error on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unidentified-usb-devices-in-windows-10-fixing-failed-port-resets-effectively/"><u>Troubleshooting Unidentified USB Devices in Windows 10 - Fixing Failed Port Resets Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-podcast-potential-the-ultimate-guide-to-seo-excellence-for-2024/"><u>Unleash Your Podcast Potential The Ultimate Guide to SEO Excellence for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-lost-desktop-symbols-in-windows-10-effective-strategies-applied/"><u>Winning Against Lost Desktop Symbols in Windows 10 – Effective Strategies Applied</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Instantly Fix: Solve 'No Battery Found' Error with Simple Steps"
-date: 2024-08-22T19:12:22.395Z
-updated: 2024-08-23T19:12:22.395Z
+date: 2025-01-07T23:20:41.298Z
+updated: 2025-01-10T16:46:06.868Z
 tags:
   - win11
   - win10
@@ -36,15 +36,13 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 **[4) Correct your system date and time](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1) Test with other browsers
 
  The ERR\_TOO\_MANY\_REDIRECTS error may result from the web browser you are using. You can try visiting the same URL using**other browsers** . If the error still persists, the issue may come from the server side. You may need to log on the website at another time. If the error doesn’t appear on a new browser, try the methods below to fix issues on your original browser.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2) Clear your browser data
 
  Browser data like browsing history, cache, cookies, etc can contain faulty files that cause the ERR\_TOO\_MANY\_REDIRECTS error. Clearing these data is an effective way to fix the error. To clear the browsing data:
@@ -53,34 +51,37 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
 **a)** Type “_**chrome://settings**_ ” in the address bar and press **Enter** , and then click on**Show advanced settings** at the**bottom** of the Settings page.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f58f4389cc.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5932c4650.png)
 
 **b)** Click on **Clear browsing data** button.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a02deb5a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  Click **Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a4277ce0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And on **Mozilla Firefox** :
 
 **a)**  Click the**Menu** button of Firefox, and then select**Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c7cb124c.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c93bf987.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **b)** Select**Privacy** and then**clear your recent history** .
 
@@ -88,16 +89,14 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
 **c)** Select**Everything** for Time range to clear and then click **Clear Now** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5e6e3334a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the browser data are cleared, you can try logging in the website and see if the error is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3) Check your browser extensions
 
  The ERR\_TOO\_MANY\_REDIRECTS may be caused by a wrong browser extension. You should open the extension manager in your browser to check the extensions you have installed on your browser.
@@ -114,6 +113,10 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
  You can **disable all the extensions** to see if this fix the problem. If it does, you can enable**one extension at a time** to identify the one that causes the trouble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4) Correct your system date and time
 
  Usually you meet the ERR\_TOO\_MANY\_REDIRECTS error due to the incorrect or outdated date and time settings on your system. To correct your system date and time.
@@ -128,24 +131,18 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 **c)** Select**Internet Time** tab, and then click on**Change settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f83de02494.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **d)** In Internet Time Settings, tick **Synchronize with an Internet time server** and select a**time server** . Then click on**Update now** , and hit**OK** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f84b23c29a.png)
 
 The date and time on your system is now updated.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## You may also want to read…
 
 [**How to connect your computer to VPN.**](https://tools.techidaily.com/drivereasy/download/)
@@ -159,8 +156,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +163,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagrams-visual-spectacle-with-step-by-step-slow-motion-guide/"><u>[New] 2024 Approved Mastering Instagram’s Visual Spectacle with Step by Step Slow Motion Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effective-ways-to-save-your-ps4-games-for-2024/"><u>[Updated] Effective Ways to Save Your PS4 Games for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-twister-timber-titmice/"><u>[Updated] In 2024, Twister Timber Titmice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-guide-to-streaming-and-recording-webcasts-professionally/"><u>[Updated] In-Depth Guide to Streaming and Recording Webcasts Professionally</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206042857-dealing-with-windows-error-0xc0000098-heres-how-you-can-fix-it/"><u>Dealing with Windows Error 0Xc0000098? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-continuous-device-not-found-warnings-in-your-computer-system/"><u>Expert Solutions for Continuous 'Device Not Found' Warnings in Your Computer System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-computer-unresponsive-to-headphones/"><u>Fixed: Computer Unresponsive To Headphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tactics-to-maximize-engagement-with-every-reddit-post/"><u>In 2024, Tactics to Maximize Engagement with Every Reddit Post</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-gt-10-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix GT 10 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/missing-charge-indicators-on-windows-11-easy-fixes-for-a-fully-functional-pc/"><u>Missing Charge Indicators on Windows 11 – Easy Fixes for a Fully Functional PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-latency-problems-in-guilty-gear-strive/"><u>Resolved: Overcoming Latency Problems in Guilty Gear Strive</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-hdcp-issues-with-incompatible-monitors-and-tvs/"><u>Resolving HDCP Issues with Incompatible Monitors and TVs</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-problems-handling-and-correcting-windows-camera-error-code-0xa00f4292/"><u>Say Goodbye to Problems: Handling and Correcting Windows Camera Error Code 0Xa00f4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-common-issues-and-fixes-for-a-dark-razer-keyboard-screen/"><u>Unveiling Common Issues and Fixes for a Dark Razer Keyboard Screen</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-11-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 11</u></a></li>
+</ul></div>
 

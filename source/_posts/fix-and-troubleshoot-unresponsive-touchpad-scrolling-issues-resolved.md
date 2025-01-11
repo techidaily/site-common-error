@@ -1,7 +1,7 @@
 ---
 title: "Fix & Troubleshoot: Unresponsive Touchpad Scrolling Issues Resolved"
-date: 2024-08-22T19:12:36.457Z
-updated: 2024-08-23T19:12:36.457Z
+date: 2025-01-06T00:03:25.612Z
+updated: 2025-01-10T21:46:59.828Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 3. **[Power cycle your console](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your controller software](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Check the status of your controller
 
  You should check the basic status of your controller and see if there is any issue that causes the problem.
@@ -36,6 +33,10 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **1)** Check the**connection status** of your controller: Make sure your wireless controller is **close enough** to the console. Ensure that there is no**objects (such as a wireless router or a microwave oven)** or**USB or wireless devices (such as a headset or a flash drive)** that may interfere in the connection.
 
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Re-sync your controller
 
@@ -47,10 +48,11 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **2)**  Press and hold the**connect** button on the back of the controller till the**Xbox button flashes** . After a few seconds you can see it switch back to a**solid light** , which means it is re-synced.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ebcab3903.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method works for you, the connection between your controller and your console will recover.
 
@@ -75,8 +77,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **3)** Check and see if your controller can connect to the console.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Update your controller software
 
  The problem may occur if the controller software is wrong or out of date. You can update your controller software to see if it can bring back your controller connection. To do so:
@@ -87,16 +90,14 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **3)** Press the**Menu** button on your controller, and then select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select**Devices & accessories** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
 
 **5)**  Select the controller you are using.
@@ -109,10 +110,11 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **7)**  Select**Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
 
@@ -126,8 +128,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,22 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/oining-the-elite-your-roadmap-to-2024-ytp-benefits/"><u>[New] Joining the Elite Your Roadmap to 2024 YTP Benefits</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-the-freeze-effective-strategies-for-dealing-with-windows-11-lag-and-pauses/"><u>Beating the Freeze: Effective Strategies for Dealing with Windows 11 Lag and Pauses</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-activate-bluetooth-in-windows-7-solution-guide/"><u>Easy Steps to Activate Bluetooth in Windows 7 - Solution Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhancing-visual-narratives-through-vsco-editing-for-2024/"><u>Enhancing Visual Narratives Through VSCO Editing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-80240020-no-longer-a-barrier-installing-windows-11-without-hiccups/"><u>Error Code 80240020 No Longer a Barrier: Installing Windows 11 Without Hiccups</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-audio-device-not-installed-error-effectively-for-windows-users/"><u>Fix the 'Audio Device Not Installed' Error Effectively for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-tips-how-to-repair-unresponsive-touchpad-scrolling-issues/"><u>Fixes & Tips: How to Repair Unresponsive Touchpad Scrolling Issues</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guia-expertos-como-rescatar-partidas-desaparecidas-en-disco-unknown-para-playstation-4/"><u>Guía Expertos: Cómo Rescatar Partidas Desaparecidas en Disco Unknown Para PlayStation 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-update-fix-for-the-absent-msvcr110dll-error-message/"><u>Helldivers 2 Update Fix for the Absent MSVCR110.dll Error Message</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 4G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-resolving-no-battery-found-issues-on-your-device/"><u>Quick Fix: Resolving 'No Battery Found' Issues on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-update-failed-to-install-solved/"><u>Windows 11 Update Failed to Install [SOLVED]</u></a></li>
+</ul></div>
 

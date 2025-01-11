@@ -1,7 +1,7 @@
 ---
 title: Surface Pen Not Working [Solved]
-date: 2025-01-01T16:18:16.543Z
-updated: 2025-01-03T22:33:48.793Z
+date: 2025-01-04T19:37:34.446Z
+updated: 2025-01-10T22:21:01.671Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 fixes to try
@@ -49,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Wait for Windows to detect and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust your pointer speed
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 **1)** On your keyboard, press the **Windows logo key**  and type control. Then click Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-530.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Under**View by** , select **Large icons** .
 
@@ -117,6 +117,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
@@ -124,10 +128,6 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Updates
 
@@ -137,13 +137,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer after the update is complete.
 
@@ -171,20 +171,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-experts-top-picks-for-creating-art-on-windows/"><u>[New] 2024 Approved Expert's Top Picks for Creating Art on Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-constructing-unique-instagram-story-banners/"><u>[Updated] 2024 Approved Constructing Unique Instagram Story Banners</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-cold-weather-spectacle-of-beijing-2022/"><u>[Updated] 2024 Approved The Cold-Weather Spectacle of Beijing 2022</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1-step-by-step-guide-converting-wma-to-mp3-files-top-5-methods/"><u>1. Step-by-Step Guide: Converting WMA to MP3 Files - Top 5 Methods</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-comprehensive-update-best-android-apps-for-downloading-facebook-videos/"><u>2024 Approved Comprehensive Update Best Android Apps for Downloading Facebook Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimize-your-video-consumption-the-guide-to-auto-play-youtube-on-facebook/"><u>2024 Approved Optimize Your Video Consumption The Guide to Auto-Play Youtube on Facebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/detailed-fixes-for-the-d3dx939dll-file-not-located-problem-on-your-computer/"><u>Detailed Fixes for the d3dx9_39.dll File Not Located Problem on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-guide-activating-your-pcs-bluetooth-connectivity-in-windows-11-or-10/"><u>Easy Guide: Activating Your PC's Bluetooth Connectivity in Windows 11 or 10</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/exploring-earning-potential-an-uncomplicated-triad-technique-for-youtube-profit-analysis/"><u>Exploring Earning Potential An Uncomplicated Triad Technique for YouTube Profit Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-problem-of-erroneous-keystrokes-while-typing/"><u>Fixing the Problem of Erroneous Keystrokes While Typing</u></a></li>
-<li><a href="https://common-error.techidaily.com/good-news-your-missing-pages-are-now-fully-functional/"><u>Good News - Your Missing Pages Are Now Fully Functional</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-troublesome-windows-update-issue-error-0x8024401c-in-widows-1011/"><u>Resolving the Troublesome Windows Update Issue: Error 0X8024401c in Widows 10/11</u></a></li>
-<li><a href="https://facebook.techidaily.com/setting-facebook-profile-as-secure/"><u>Setting Facebook Profile as Secure</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-unresponsive-laptop-pad-on-any-window-version-top-strategies-fixed/"><u>Troubleshoot and Fix Unresponsive Laptop Pad on Any Window Version – Top Strategies [FIXED]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-clips-android-reversal-technique/"><u>2024 Approved Flip Clips Android Reversal Technique</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-p55-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel P55 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-windows-strategies-for-device-id-discovery/"><u>Essential Windows Strategies for Device ID Discovery</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-issues-when-your-laptop-cant-shut-down-win-10/"><u>Expert Tips for Resolving Issues When Your Laptop Can’t Shut Down Win 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-diagnostic-services-up-and-running-again/"><u>Expert Tips to Get Your Diagnostic Services Up and Running Again</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/free-guide-to-capturing-windows-3-quick-steps/"><u>Free Guide to Capturing Windows (3 Quick Steps)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/income-accumulation-with-cosmetic-videos/"><u>Income Accumulation with Cosmetic Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/infinite-space-explorers-unveiling-the-premier-2024-storage/"><u>Infinite Space Explorers Unveiling the Premier 2024 Storage</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-sound-engineers-approach-to-detaching-bass-from-mixed-tracks/"><u>New 2024 Approved The Sound Engineers Approach to Detaching Bass From Mixed Tracks</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-remote-server-not-reachable-error-practical-steps-to-follow/"><u>Overcoming 'Remote Server Not Reachable' Error: Practical Steps to Follow</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-fn-key-malfunction-on-your-dell-pc-a-comprehensive-guide/"><u>Resolving the Fn-Key Malfunction on Your Dell PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-to-eliminate-steamdll-absence/"><u>Strategies to Eliminate SteamDll Absence</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-windows-10-cant-be-installed-error-80240020/"><u>Troubleshoot and Resolve the 'Windows 10 Can't Be Installed - Error 80240020'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-the-dell-laptop-keys-fail-to-function/"><u>Troubleshooting Steps When the Dell Laptop Keys Fail to Function</u></a></li>
+<li><a href="https://common-error.techidaily.com/tutorial-correcting-the-overspent-timer-in-your-semaphore-system-issue-0x80070079/"><u>Tutorial: Correcting The Overspent Timer in Your Semaphore System (Issue 0X80070079)</u></a></li>
 </ul></div>
 

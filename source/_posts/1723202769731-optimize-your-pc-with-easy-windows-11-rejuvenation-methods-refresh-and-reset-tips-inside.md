@@ -1,7 +1,7 @@
 ---
 title: Optimize Your PC with Easy Windows 11 Rejuvenation Methods – Refresh & Reset Tips Inside!
-date: 2024-08-22T19:13:38.278Z
-updated: 2024-08-23T19:13:38.278Z
+date: 2025-01-09T22:29:49.839Z
+updated: 2025-01-10T20:39:57.967Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
 ## Windows 11 Laptop Woes? Restore the Battery Icon with Our Simple Solutions
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-3.png)
 
  You want to check the remaining battery time on your Windows 10 laptop. Oops, the battery icon is missing. You can’t see it now. You must be annoyed and frustrated. But don’t be worried.  
@@ -30,31 +27,32 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Make sure **Power** is on.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
   
 5) Make sure**Power**icon is enabled.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -65,17 +63,28 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
@@ -88,9 +97,6 @@ Follow these:
 
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -101,8 +107,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +114,22 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-building-brilliance-top-6-minecraft-homes-for-2024/"><u>[New] Building Brilliance Top 6 Minecraft Homes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-efficient-broadcast-strategies-utilizing-obs-for-youtube-and-twitch-success/"><u>[New] Efficient Broadcast Strategies Utilizing OBS for YouTube & Twitch Success</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-creating-high-impact-short-waterway-previews/"><u>2024 Approved Creating High-Impact Short Waterway Previews</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-defective-keyboard-letters-solutions-for-windows-1011-devices/"><u>Addressing Defective Keyboard Letters - Solutions for Windows 10/11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-re-enable-bluetooth-in-windows-11-swift-solutions-unveiled/"><u>How To Re-Enable Bluetooth in Windows 11: Swift Solutions Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-gopro-potential-model-by-model-insight/"><u>In 2024, Unlocking Gopro Potential Model By Model Insight</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-fixes-for-the-0x80070643-problem-ensuring-smooth-windows-update-processes/"><u>Mastering Fixes for the 0X80070643 Problem: Ensuring Smooth Windows Update Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-touchscreen-repair-in-windows-11-discover-these-5-techniques/"><u>Mastering the Art of Touchscreen Repair in Windows 11: Discover These 5 Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movaviape/"><u>Movavi提供線上免費的APE類型音效更換工具</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-broken-usb-connectivity-in-hp-notebooks/"><u>Step-by-Step Fix for Broken USB Connectivity in HP Notebooks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12 5G Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-skype-microphone-malfunctions-successful-fixes-and-tips/"><u>Troubleshooting Skype Microphone Malfunctions – Successful Fixes and Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-fixed-why-your-screen-may-not-accept-current-video-signals/"><u>Understanding [FIXED]: Why Your Screen May Not Accept Current Video Signals</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleash-web-success-harnessing-the-strength-of-cookiebot/"><u>Unleash Web Success: Harnessing the Strength of Cookiebot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-gadgets-with-toms-hardware-guides/"><u>Unveiling the Latest in Gadgets with Tom's Hardware Guides</u></a></li>
+</ul></div>
 

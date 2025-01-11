@@ -1,7 +1,7 @@
 ---
 title: "Clear Computer Visual Disruptions: A Guide to Correcting Vertical Line Issues on Your Monitor"
-date: 2024-12-30T20:17:18.288Z
-updated: 2025-01-04T02:50:44.988Z
+date: 2025-01-09T18:50:55.167Z
+updated: 2025-01-10T23:31:49.204Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -41,6 +45,10 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -66,10 +74,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Turn off USB selective suspend
 
  If your PC is configured to disable USB devices after a certain amount of time, you may have the USB keeps disconnecting problem.  
@@ -80,10 +84,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
@@ -92,10 +92,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
@@ -103,10 +99,6 @@ To make sure you’ve this setting disabled:
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -120,17 +112,25 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -156,24 +156,22 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-expert-guide-to-shooting-awe-inspiring-igtv-content-on-mobile-and-dslrs/"><u>[New] 2024 Approved Expert Guide to Shooting Awe-Inspiring IGTV Content on Mobile & DSLRs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-friends-sharing-seeking-complete-viewability-via-smschat-services/"><u>[New] 2024 Approved Friends’ Sharing Seeking Complete Viewability via SMS/Chat Services</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-prime-video-capture-leaders-revealed-for-2024/"><u>[New] Prime Video Capture Leaders Revealed for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010504135-solved-epic-games-launcher-wont-open-quickly-and-easily/"><u>[SOLVED] Epic Games Launcher Won't Open | Quickly & Easily</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure/"><u>[Updated] 2024 Approved Television or Projector? Unraveling the Best for 4K Viewing Pleasure</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-best-youtube-mp3-downloader-compilation-top-10-for-2024/"><u>[Updated] Best YouTube Mp3 Downloader Compilation (Top 10) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-savvy-strategists-guide-to-understanding-engagement-figures-for-2024/"><u>[Updated] The Instagram Savvy Strategist’s Guide to Understanding Engagement Figures for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-free-windows-updates-solving-the-0x8024401c-error-on-windows-1110/"><u>Error-Free Windows Updates: Solving the 0X8024401c Error on Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-how-to-fix-non-compatible-signal-issues-with-your-computer-screen/"><u>Expert Advice: How to Fix Non-Compatible Signal Issues with Your Computer Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/gearheads-guide-to-restoring-audio-on-your-forza-horizon-4-tracks/"><u>Gearhead's Guide to Restoring Audio on Your Forza Horizon 4 Tracks</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-resolving-windows-10-boot-problems-preventing-proper-shutdown/"><u>Guide: Resolving Windows 10 Boot Problems Preventing Proper Shutdown</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-continuous-mistyped-keys-on-your-keyboard/"><u>How to Correct Continuous Mistyped Keys on Your Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-activate-bluetooth-in-windows-1110-quickly-and-easily/"><u>How To: Activate Bluetooth in Windows 11/10 Quickly & Easily</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-peculiar-picasso-creating-quirky-quick-memes/"><u>In 2024, Peculiar Picasso Creating Quirky, Quick Memes</u></a></li>
-<li><a href="https://common-error.techidaily.com/instant-solution-guidelines-fixing-the-missing-battery-alert-with-ease/"><u>Instant Solution Guidelines: Fixing the Missing Battery Alert with Ease</u></a></li>
-<li><a href="https://win-great.techidaily.com/mastering-the-virtual-presidency-a-step-by-step-guide-to-playing-the-president-on-your-pc/"><u>Mastering the Virtual Presidency: A Step-by-Step Guide to Playing 'The President' On Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-livekernelevent-issue-117/"><u>Step-by-Step Guide: Correcting LiveKernelEvent Issue #117</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-a-non-loading-steam-store-interface/"><u>Step-by-Step Solution for a Non-Loading Steam Store Interface</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-access-to-icloud-settings-on-your-device-top-4-fixes/"><u>Unlock Access to iCloud Settings on Your Device: Top 4 Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-halo-4-ue4-fatal-error-crash-2024/"><u>[SOLVED] Halo 4 UE4 Fatal Error Crash 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-gigglegif-genius/"><u>[Updated] In 2024, GiggleGif Genius</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertisseur-videos-wtv-a-mkv-sans-frais-guide-utilisateur-de-movavi/"><u>Convertisseur Vidéos WTV À MKV Sans Frais – Guide Utilisateur De Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-connection-failures-with-distant-networked-servers/"><u>Expert Tips for Resolving Connection Failures with Distant Networked Servers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-intel-rst-services-on-your-windows-10-pc-step-by-step-recovery-tips/"><u>How to Enable Intel RST Services on Your Windows 10 PC – Step-by-Step Recovery Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-minecraft-local-network-play-problems-successfully/"><u>How to Resolve 'Minecraft Local Network Play' Problems Successfully</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-downloading-fb-videos-made-easy-our-top-5-selection/"><u>In 2024, Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-to-mp3-converter-tool/"><u>In 2024, Facebook to MP3 Converter Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/operating-oversights-sudden-system-stops-while-playing/"><u>Operating Oversights: Sudden System Stops While Playing</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211044554-overcome-keyboard-responsiveness-issues-on-windows-11-solutions-found/"><u>Overcome Keyboard Responsiveness Issues on Windows 11 - Solutions Found!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-keyboard-delays-in-windows-10/"><u>Resolved: Fixing Persistent Keyboard Delays in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-lenovo-laptop-webcam-issues-a-step-by-step-guide/"><u>Solving Your Lenovo Laptop Webcam Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-reviving-your-squads-silent-mic-as-of-2024/"><u>Step-by-Step Guide to Reviving Your Squad's Silent Mic as of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-google-play-games-console-compatibility/"><u>Understanding Google Play Games Console Compatibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722174161736-unheard-truth-talk-to-chatgpt-now/"><u>Unheard Truth: Talk to ChatGPT Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-aerial-thrills-at-home-an-expert-review-of-the-syma-yali-672-rc-helicopter/"><u>Unleashing Aerial Thrills at Home: An Expert Review of the Syma Yali 672 RC Helicopter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808279422-whats-my-ip-address-free-ip-address-lookup/"><u>What's My IP Address - Free IP Address Lookup</u></a></li>
 </ul></div>
 

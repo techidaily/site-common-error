@@ -1,7 +1,7 @@
 ---
 title: "Fixing 'Windows 10 Can't Be Installed' Error Code 80240020: A Complete Walkthrough"
-date: 2024-08-22T19:13:05.992Z
-updated: 2024-08-23T19:13:05.992Z
+date: 2025-01-03T16:41:04.278Z
+updated: 2025-01-10T17:49:25.508Z
 tags:
   - win11
   - win10
@@ -29,40 +29,22 @@ Delete as many files in this folder as you can. You might not be able to delete 
 
 3) Type**cmd.exe**in the search box in**Start**panel and right click the option**cmd**and choose**Run as administrator**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/run-as-administrator.jpg)Click**Yes**at this prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/uac-command-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Type**wuauclt.exe/updatenow**and hit**Enter**key. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5394edbd33.png) **Step Two** **Warning**: Before you proceed with this step, please make sure that you have back up your registry first just in case any irreversible errors happen. Refer to this post to see[**how to backup and restore your registry**](https://tools.techidaily.com/drivereasy/download/). 1) Press**Windows key**and**R**at the same time, then type in**regedit**and hit**Enter**. When prompted for administrator permission, click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/regedit.png)
 
 2) Then follow the path:   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hkey_local_machinesoftwaremicrosoftwindowscurrentversionwindowsupdateosupgrade-600x394.jpg)
 
 3) On the right side of the pane, right click on the blank spot and select**New > DWORD (32-bit) Value**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-dword-32-bit-value-600x396.jpg)
 
 4) Rename the value to**AllowOSUpgrade**. Then double click the value and set the**Value data**to**1**. Then click**OK**to save the change.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58140207aba43-600x394.jpg)
 
  Your**Windows Update** panel should come out in a couple of seconds. If it won’t open automatically, you can open this panel from Control Panel manually. Then, you should be able to download your Windows 10 from scratch.
@@ -75,8 +57,6 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +64,23 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-list-the-top-10-thrilling-action-packed-games/"><u>[New] In 2024, Ultimate List The Top 10 Thrilling Action-Packed Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-detailed-guide-to-whatsapps-audio-chat-features/"><u>[Updated] In 2024, Detailed Guide to WhatsApp's Audio Chat Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-beginner-to-expert-navigating-instagrams-virtual-conversations/"><u>[Updated] In 2024, From Beginner to Expert Navigating Instagram’s Virtual Conversations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>[Updated] In 2024, The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mold-memorable-memes-via-giphy/"><u>2024 Approved Mold Memorable Memes via Giphy</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-bug-effective-fixes-for-windows-device-managers-code-groan-error/"><u>Beat the Bug: Effective Fixes for Windows Device Manager’s Code Groan Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficiently-lower-wmi-power-consumption/"><u>Efficiently Lower WMI Power Consumption</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-drones-for-gopro/"><u>In 2024, Best Drones for GoPro</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-why-your-pc-failed-to-boot-properly/"><u>Resolving the Issue: Why Your PC Failed to Boot Properly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-making-the-switch-from-dvds-to-avi-seamlessly/"><u>Step-by-Step Tutorial: Making the Switch From DVDs to AVI Seamlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pesky-sound-glitches-in-windows-operating-systems-including-10-and-7/"><u>Troubleshooting Pesky Sound Glitches in Windows Operating Systems, Including 10 & #7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210744820-windows-10-microphone-issues-heres-how-you-can-resolve-them/"><u>Windows 10 Microphone Issues? Here's How You Can Resolve Them!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

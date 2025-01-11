@@ -1,7 +1,7 @@
 ---
 title: Resolving High Disk Usage by Microsoft Compatibility Telemetry in Windows 11
-date: 2024-12-29T05:26:11.100Z
-updated: 2025-01-03T20:24:04.643Z
+date: 2025-01-05T18:56:57.527Z
+updated: 2025-01-10T19:54:42.715Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Check the status of the Bluetooth service
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -100,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -175,15 +175,24 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-edited-essence-unlocking-techniques-for-visual-impact/"><u>[New] In 2024, The Edited Essence Unlocking Techniques for Visual Impact</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-new-frontiers-in-mobile-videography-alternatives-to-periscope/"><u>[Updated] 2024 Approved New Frontiers in Mobile Videography - Alternatives to Periscope</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-perfect-for-every-task-our-choice-in-8-5k-displays/"><u>[Updated] 2024 Approved Perfect for Every Task Our Choice in 8 5K Displays</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-ultimate-guide-5-top-earning-instagram-strategies-for-2024/"><u>[Updated] Ultimate Guide 5 Top-Earning Instagram Strategies for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-8-most-critical-blunders-to-elude-as-a-rookie-youtuber/"><u>2024 Approved The 8 Most Critical Blunders to Elude as a Rookie YouTuber</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/decouvrez-comment-convertir-automatiquement-un-fichier-asterisk-3gp-en-format-mp3-sur-terrain-solution-gratuite-de-movavi/"><u>Découvrez Comment Convertir Automatiquement Un Fichier Asterisk 3GP en Format MP3 Sur Terrain - Solution Gratuite De Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-touchscreen-on-windows-11/"><u>Five Effective Methods to Repair a Malfunctioning Touchscreen on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-keyboard-wont-type/"><u>Fixed: Keyboard Won't Type</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-the-sluggish-shutdown-problem-in-windows-11/"><u>Quick Fixes: Resolving the Sluggish Shutdown Problem in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-isnt-your-windows-10-screen-saver-working/"><u>Troubleshooting Guide: Why Isn't Your Windows 10 Screen Saver Working?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlock-the-potential-of-your-online-social-presence/"><u>[New] 2024 Approved Unlock the Potential of Your Online Social Presence</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boost-your-game-presence-a-comprehensible-guide-to-freegame-hashtags/"><u>[New] Boost Your Game Presence A Comprehensible Guide to FreeGame Hashtags</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-frequency-fluctuations-for-game-mastery/"><u>[Updated] Frequency Fluctuations for Game Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-shielding-your-media-what-does-unlisted-mean-in-youtube-for-2024/"><u>[Updated] Shielding Your Media What Does Unlisted Mean in YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-uniting-social-networks-sharing-tiktok-on-facebook/"><u>[Updated] Uniting Social Networks Sharing TikTok on Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-windows-store-cache-corruption-expert-advice/"><u>Comprehensive Fixes for Windows Store Cache Corruption: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensure-seamless-gameplay-solving-crashes-in-nier-automata-for-pc-users/"><u>Ensure Seamless Gameplay: Solving Crashes in Nier: Automata for PC Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-novice-to-master-the-definitive-guide-to-playing-pokemon-go/"><u>From Novice to Master: The Definitive Guide to Playing Pokémon GO</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oppo-a59-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Oppo A59 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-0x80amake-sure-to-use-relevant-keywords-like-windows-11-system-restore-error-and-error-0x80070091-in-each-title-as-it-helps-with-seo-rankings91/"><u>Overcoming the 0X80amake Sure to Use Relevant Keywords Like Windows 11, System Restore Error, and Error 0X80070091 in Each Title, as It Helps with SEO Rankings by Making the Content More Discoverable for Those Specific Terms.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connection-issues-how-to-troubleshoot-your-airpods-on-windows-11/"><u>Resolving Connection Issues: How to Troubleshoot Your AirPods on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-ensure-compatibility-of-device-drivers-for-smooth-world-of-warcraft-gaming-experience/"><u>Solution Found: Ensure Compatibility of Device Drivers for Smooth World of Warcraft Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-effective-strategies-to-resolve-error-code-31-on-your-pc/"><u>Solving the Puzzle: Effective Strategies to Resolve Error Code 31 on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-comprehensive-handbook-for-recording-calls/"><u>The Comprehensive Handbook for Recording Calls</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixes-for-sticky-keys-in-microsoft-windows-systems/"><u>Troubleshooting and Fixes for Sticky Keys in Microsoft Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-disk-use-from-microsofts-telemetry-feature-on-windows-11-systems/"><u>Troubleshooting Elevated Disk Use From Microsoft's Telemetry Feature on Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ate-speaker-change-tech-for-internet-showbiz-pros/"><u>Ultimate Speaker Change Tech for Internet Showbiz Pros</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-graphics-driver-the-key-to-fixing-unsupported-miracast/"><u>Update Your Graphics Driver: The Key to Fixing Unsupported Miracast</u></a></li>
 </ul></div>
 

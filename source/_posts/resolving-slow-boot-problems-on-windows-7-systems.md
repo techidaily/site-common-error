@@ -1,7 +1,7 @@
 ---
 title: Resolving Slow Boot Problems on Windows 7 Systems
-date: 2024-12-29T20:19:23.235Z
-updated: 2025-01-03T23:08:23.496Z
+date: 2025-01-07T20:57:48.485Z
+updated: 2025-01-10T23:49:30.905Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)  
@@ -56,18 +56,22 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -81,10 +85,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,18 +119,15 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-mavic-air-ushers-in-new-era-confronting-dji-sparks-legacy/"><u>[New] In 2024, Mavic Air Ushers in New Era, Confronting DJI Spark’s Legacy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-video-summaries-via-ideal-templates/"><u>[New] Transforming Video Summaries via Ideal Templates</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-computer-wont-wake-up-from-sleep-windows-1110/"><u>[SOLVED] Computer Won't Wake Up From Sleep Windows 11/10</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2023-how-to-check-tiktok-video-copyright-before-uploading-for-2024/"><u>[Updated] 2023 | How to Check Tiktok Video Copyright Before Uploading for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-are-you-violating-copyright-by-screenrecording-youtube/"><u>2024 Approved Are You Violating Copyright by ScreenRecording YouTube?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-ways-to-set-up-and-utilize-bluetooth-functionality-on-your-new-iphone-device/"><u>Easy Ways to Set Up and Utilize Bluetooth Functionality on Your New iPhone Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-diagnose-and-solve-stop-code-0xc0000005-issues-on-your-pc-running-windows/"><u>Guide to Diagnose and Solve Stop Code 0Xc0000005 Issues on Your PC Running Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restart-your-audio-services-on-a-win-7-machine/"><u>How to Restart Your Audio Services on a Win 7 Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-update-or-change-an-outdated-or-compatible-device-driver-in-windows/"><u>How to Update or Change an Outdated or Compatible Device Driver in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/origin-gaming-error-solutions-correcting-setup-problems-smoothly/"><u>Origin Gaming Error Solutions: Correcting Setup Problems Smoothly</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-restore-pen-and-touch-interaction-on-your-screen/"><u>Troubleshooting: How to Restore Pen & Touch Interaction on Your Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-asmr-viewers-essentials-explained/"><u>[Updated] In 2024, ASMR Viewers' Essentials Explained</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728494553481-windows-111087/"><u>無許可では削除不能にする - Windows 11/10/8/7の秘密手段</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206749006-critical-fix-semaphore-exceeds-allotted-time-limit-problem-solved/"><u>Critical Fix: Semaphore Exceeds Allotted Time Limit, Problem Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-random-failures-of-your-wireless-mouse-for-enhanced-pc-usability-on-windows-1110/"><u>Diagnosing and Fixing Random Failures of Your Wireless Mouse for Enhanced PC Usability on Windows 11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-sticky-keys-a-comprehensive-keyboard-reset-walkthrough/"><u>Fix Your Sticky Keys: A Comprehensive Keyboard Reset Walkthrough</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-m34-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy M34 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-11-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 11 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210773316-9781685830625-shine-bright-sister/"><u>Shine Bright Sister | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restore-volume-control-functionality-on-windows-nx/"><u>Step-by-Step Solution: Restore Volume Control Functionality on Windows nX</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-microsoft-outlook-errors-on-desktops/"><u>Tackling Microsoft Outlook Errors on Desktops</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the CE-34878-0 Hacking Glitch on Your Sony PS4 Console - Complete Walkthrough
-date: 2024-08-22T19:14:05.896Z
-updated: 2024-08-23T19:14:05.896Z
+date: 2025-01-06T16:49:49.318Z
+updated: 2025-01-10T21:41:21.703Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
  **An error has occurred in the following application (CE-34878-0)**
 
  But don’t worry. You can fix the PS4 error code CE-34878-0 quickly and easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Update the game software to fix the error CE-34878-0**
 
  This problem can be also caused due to**the unknown bugs within the game** , so updating the game to install the latest patches can also fix the error CE-34878-0\. There are three methods for you for update the game software:
@@ -76,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
  2) Press the**Options** **button** on your PS4 controller, then select**Check for Update** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570e7b9b403.jpg)
 
 3) Follow the wizard to download and install any available updates.
@@ -95,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57149ea1bbd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**Saved Data in System Storage** if you want to save it in your PS4 system, or you can select**Saved Data on USB Storage Device** in you have inserted the USB drive into your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57150967e5e.jpg)
@@ -103,19 +109,17 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 4) After that, go to PS4**Settings** \>**System Storage Management** \>**Applications** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57104ee3d61.jpg)
 
  2) Find the game that occurs the problem and**highlight** it.
 
  3) Press the**Options** **button** and select**Delete** .
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570f4a2c0e8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) **Restart** your PS4.
 
@@ -138,8 +142,9 @@ This method works if you are playing games on the disc.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Update the PS4 system software to fix the error CE-34878-0**
 
  As mentioned above, the error CE-34878-0 is probably due to the system crashes in your PlayStation, so you can try to update the system software to fix this problem. Follow the instructions below:
@@ -151,6 +156,10 @@ This method works if you are playing games on the disc.
 2) Go to PS4**Settings** \>**System Software Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571a6b18875.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select**Update** if there is available updates. (You won’t see this message if your PS4 system is the latest version, so you can skip this method.)
 
@@ -174,9 +183,6 @@ This method works if you are playing games on the disc.
 
  2) Go to**Settings** \>**System** \>**Back Up and Restore** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f302df44.jpg)
 
  3) Confirm which data you’d like to back up. If you choose not to back up applications, you’ll need to download or reinstall them when/if you eventually restore with the back up you’re creating.
@@ -192,8 +198,9 @@ This method works if you are playing games on the disc.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 5: Initialize your PS4 to fix the error CE-34878-0**
 
  This method works for many PS4 users. If you are still getting the error CE-34878-0, you may try to initialize your PS4 to fix it. Initialization  deletes data saved on system storage and deletes all users and their data from the system.
@@ -219,8 +226,9 @@ This method works if you are playing games on the disc.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 6: Disconnect the PS camera to fix the error CE-34878-0**
 
  Many users may connect the PS camera to the PS4\. If that’s your case, try this method:
@@ -233,25 +241,16 @@ This method works if you are playing games on the disc.
 
  3) Go to PS4**Settings** \>**User** \>**Login** **Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57227821911.jpg)
 
  3) Uncheck**Enable Face Recognition** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5722a8637ae.jpg)
 
 4) Try your game/application again.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### **Fix 7: Call Sony support to fix the error CE-34878-0**
 
  If the problem still persists after trying all the methods above, we’re sorry that it seems to be a problem beyond our ability, and you may need to contact Sony for support.
@@ -271,8 +270,6 @@ This method works if you are playing games on the disc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -280,4 +277,16 @@ This method works if you are playing games on the disc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unveiling-the-youtube-creator-hub-a-guide/"><u>[Updated] In 2024, Unveiling the YouTube Creator Hub A Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-smooth-operation-download-corsair-h80i-v2-driver-software/"><u>Ensure Smooth Operation: Download Corsair H80I V2 Driver Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-cannot-reach-windows-installer-service-steps-and-solutions/"><u>Fixing 'Cannot Reach Windows Installer Service': Steps and Solutions</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/how-did-the-sino-japanese-conflict-reshape-modern-chinese-history-a-comprehensive-analysis-by-yl-computing-and-yl-software/"><u>How Did The Sino-Japanese Conflict Reshape Modern Chinese History: A Comprehensive Analysis by YL Computing & YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-fix-error-code-0x800f020b-during-xerox-updates-in-windows/"><u>Step-by-Step Solution to Fix Error Code 0X800f020b During Xerox Updates in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-fixing-failed-attempts-at-creating-a-directx-visual-device/"><u>Success Story: Fixing Failed Attempts at Creating a DirectX Visual Device</u></a></li>
+<li><a href="https://discover-data.techidaily.com/top-no-cost-wd-elements-data-protection-tools-discovering-aomei-backupper/"><u>Top No-Cost WD Elements Data Protection Tools: Discovering AOMEI Backupper</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-guide-addressing-the-missing-drives-issue-in-windows/"><u>Troubleshooting Guide: Addressing the 'Missing Drives' Issue in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-boost-your-systems-capacity-beyond-insufficient-resources-errors/"><u>Update: Boost Your System's Capacity Beyond 'Insufficient Resources' Errors</u></a></li>
+</ul></div>
 

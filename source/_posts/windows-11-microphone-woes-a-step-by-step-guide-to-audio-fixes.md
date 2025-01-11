@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Microphone Woes? A Step-by-Step Guide to Audio Fixes
-date: 2024-12-30T00:53:34.219Z
-updated: 2025-01-03T21:24:49.177Z
+date: 2025-01-04T20:15:12.568Z
+updated: 2025-01-10T22:18:08.632Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -46,7 +50,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -56,10 +60,6 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -75,7 +75,7 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
@@ -95,10 +95,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
@@ -106,11 +102,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -150,20 +150,22 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-discover-effortless-paths-to-exceptional-image-quality/"><u>[New] In 2024, Discover Effortless Paths to Exceptional Image Quality</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-5-ps2-simulators-to-transform-your-ios-gaming/"><u>[Updated] 2024 Approved Top 5 PS2 Simulators to Transform Your iOS Gaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1716069601716-updated-2024-approved-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>[Updated] 2024 Approved Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10).</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-beam-breakthroughs-lighting-know-how-for-video-success/"><u>[Updated] Beam Breakthroughs Lighting Know-How for Video Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-newcomer-needs-efficient-purchases-of-monetizing-platforms/"><u>[Updated] Newcomer Needs Efficient Purchases of Monetizing Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/blizzards-win-world-of-warcraft-dons-true-3d-visuals/"><u>Blizzard's Win: World of Warcraft Dons True 3D Visuals</u></a></li>
-<li><a href="https://common-error.techidaily.com/crisis-averted-explorer-app-fixed/"><u>Crisis Averted: Explorer App Fixed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-real-time-caption-generator/"><u>In 2024, Real-Time Caption Generator</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210915448-resolved-fix-your-kodi-streams-say-goodbye-to-buffering/"><u>Resolved: Fix Your Kodi Streams - Say Goodbye to Buffering!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-excessive-cpu-usage-by-svchostexe-process-on-windows-10-operating-system/"><u>Resolving Excessive CPU Usage by svchost.exe Process on Windows 10 Operating System</u></a></li>
-<li><a href="https://techidaily.com/streamlined-integration-manage-your-phone-easily-with-the-updated-windows-11-start-menu-feature/"><u>Streamlined Integration: Manage Your Phone Easily with the Updated Windows 11 Start Menu Feature</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-duality-of-nikons-affordable-a10-model/"><u>The Duality of Nikon's Affordable A10 Model</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-critical-dxgkrnl-errors-for-windows-video-playback/"><u>Troubleshooting and Fixing Critical Dxgkrnl Errors for Windows Video Playback</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-solving-connection-not-secured-issues-in-firefox/"><u>Understanding and Solving 'Connection Not Secured' Issues in Firefox</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/virtual-audiences-audio-visual-makers/"><u>Virtual Audiences Audio-Visual Makers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-streamline-multimedia-with-pip-in-apple-browsers/"><u>[New] In 2024, Streamline Multimedia with PIP in Apple Browsers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-perfect-pairing-transferring-camera-roll-content-effortlessly-to-snapchat-for-2024/"><u>[New] Perfect Pairing Transferring Camera Roll Content Effortlessly to Snapchat for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-potential-tips-for-screenplay-dialogue-and-narration/"><u>[Updated] 2024 Approved Unlocking Potential Tips for Screenplay Dialogue and Narration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-secrets-of-success-in-capturing-breathtaking-gopro-time-lapse/"><u>2024 Approved Secrets of Success in Capturing Breathtaking GoPro Time-Lapse</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-solution-guide-fixing-your-issues-with-not-launching-geforce-experience/"><u>A Step-By-Step Solution Guide: Fixing Your Issues with Not Launching GeForce Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/all-purpose-capture-software-azs-app-critiques-for-2024/"><u>All-Purpose Capture Software - AZ's App Critiques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-dhcp-communication-errors-solution-guide/"><u>Fixing DHCP Communication Errors - Solution Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-error-0x80070570-expert-guide-to-restoring-your-data-flow/"><u>Fixing Error 0X80070570: Expert Guide to Restoring Your Data Flow</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/from-lurker-to-influencer-enhancing-your-facebook-experience/"><u>From Lurker to Influencer Enhancing Your Facebook Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-x50-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor X50 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210411370-9780645348514-light-ways/"><u>Light Ways | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-hurdle-successful-troubleshooting-for-permanently-stuck-windows-updates-fix-here/"><u>Overcome the Hurdle: Successful Troubleshooting for Permanently Stuck Windows Updates (Fix Here!)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-user-profile-service-failed-to-log-in-issue-on-windows-10-and-11-a-step-by-step-guide/"><u>Solving ‘User Profile Service’ Failed to Log In Issue on Windows 10 and 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-10s-persistent-update-problem-error-code-0x80070541/"><u>Solving Windows 10'S Persistent Update Problem: Error Code 0X80070541</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-correcting-error-0x80240017-in-windows-updates/"><u>Step-by-Step Troubleshooting: Correcting Error 0X80240017 in Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-windows-update-configuration-mishaps/"><u>Ultimate Guide: Resolving Windows Update Configuration Mishaps</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-tethering-on-windows-10-easily/"><u>USB Tethering on Windows 10 Easily</u></a></li>
 </ul></div>
 

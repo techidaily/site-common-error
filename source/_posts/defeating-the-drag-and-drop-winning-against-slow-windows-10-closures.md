@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Drag-and-Drop: Winning Against Slow Windows 10 Closures"
-date: 2025-01-03T04:17:47.965Z
-updated: 2025-01-04T01:03:28.815Z
+date: 2025-01-06T20:58:49.589Z
+updated: 2025-01-10T17:53:33.955Z
 tags:
   - win11
   - win10
@@ -44,9 +44,17 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -56,19 +64,11 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968810c5917f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**  Select**Windows 10** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968812f12e1e.png)
 
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Run system checks
 
@@ -80,13 +80,13 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -108,16 +108,12 @@ _**bootrec /scanos**_
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Reset your Windows 10
 
@@ -130,6 +126,10 @@ _**bootrec /scanos**_
 **2)** Select the language and region.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Boot your computer from your Windows 10 installation media. After selecting the language and region, click on**Install now** .
 
@@ -154,17 +154,22 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-your-mac-experience-with-these-5-snippers-for-2024/"><u>[New] Elevate Your Mac Experience with These 5 Snippers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-10-freezes-on-startup-or-boot/"><u>[Solved] Windows 10 Freezes on Startup or Boot</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-v30t-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme V30T to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/digiarty-cash-prize-draw-enter-now-and-win-big-on-youtube/"><u>DigiArty Cash Prize Draw: Enter Now & Win Big on YouTube!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-crashes-in-nier-automata-windows-edition/"><u>How to Fix Crashes in Nier: Automata Windows Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo T2 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205065502-quick-solutions-for-windows-update-problem-overcome-error-8007000e-today/"><u>Quick Solutions for Windows Update Problem - Overcome Error 8007000E Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/screen-fix-for-non-hid-interactive-response/"><u>Screen Fix for Non-HID Interactive Response</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-resolving-win10-update-error-code-0x800705b4/"><u>Step-by-Step Solutions for Resolving Win10 Update Error Code 0X800705B4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-updating-and-downloading-canoscan-lide-120-drivers/"><u>Step-by-Step Tutorial for Updating and Downloading CanoScan LiDE 120 Drivers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-gopro-video-editing-quik-review-and-pc-alternatives/"><u>The Ultimate Guide to GoPro Video Editing Quik Review and PC Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-seamless-shift-an-introduction-to-crossfades/"><u>[New] The Seamless Shift An Introduction to Crossfades</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206759321-solved-computer-wont-wake-up-from-sleep-windows-1110/"><u>[SOLVED] Computer Won’t Wake Up From Sleep Windows 11/10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magix-acid-pro-review-a-look-at-similar-programs/"><u>[Updated] Magix ACID Pro Review A Look at Similar Programs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mememolding-cutter/"><u>2024 Approved MemeMolding Cutter</u></a></li>
+<li><a href="https://common-error.techidaily.com/blizzard-down-disconnect-notice/"><u>Blizzard Down: Disconnect Notice</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-texture-detail-for-better-far-cry-experience/"><u>Enhancing Texture Detail for Better Far Cry Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-error-occurred-while-trying-to-reset-windows-10-device/"><u>Fixing 'Error Occurred While Trying to Reset Windows 10 Device'</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-netflix-blackout-solutions-to-get-your-streams-running-smoothly/"><u>Fixing the Netflix Blackout: Solutions to Get Your Streams Running Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211522160-function-keys-malfunctioning-heres-what-you-can-do/"><u>Function Keys Malfunctioning? Here's What You Can Do</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-regaining-control-unlocking-your-windows-installation-drive/"><u>Guide to Regaining Control: Unlocking Your Windows Installation Drive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-lava-blaze-curve-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Lava Blaze Curve 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722867441809-investigating-the-current-status-of-roblox-community-wide-problem-or-personal-glitches/"><u>Investigating the Current Status of Roblox: Community-Wide Problem or Personal Glitches?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unresponsive-usb-input-devices-on-windows-7-mouse-and-keyboard-solutions/"><u>Resolving Unresponsive USB Input Devices on Windows 7: Mouse & Keyboard Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-module-cannot-be-located-error-on-your-computer/"><u>Solving the 'Module Cannot Be Located' Error on Your Computer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamlined-social-integration-linktree-and-tiktok-profiles-united-for-2024/"><u>Streamlined Social Integration Linktree and TikTok Profiles United for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-class-not-found-errors-for-windows-users/"><u>Troubleshooting 'Class Not Found' Errors for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-1011-reimagined-establishing-personalized-pin-patterns/"><u>Windows 10/11 Reimagined: Establishing Personalized Pin Patterns</u></a></li>
 </ul></div>
 

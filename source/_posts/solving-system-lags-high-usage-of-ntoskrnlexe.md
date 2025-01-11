@@ -1,7 +1,7 @@
 ---
 title: "Solving System Lags: High Usage of Ntoskrnl.exe"
-date: 2024-08-15T11:03:37.993Z
-updated: 2024-08-16T11:03:37.993Z
+date: 2025-01-06T18:41:45.423Z
+updated: 2025-01-10T16:01:21.498Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 2: Close unused apps and set high priority for PUBG
 
  Closing unused apps would probably be most people’s knee-jerk reaction to a laggy and unresponsive computer. To do so:
@@ -54,6 +51,10 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Lower your game resolution
 
 Running PUBG in a lower resolution can also help in fixing lag:
@@ -64,9 +65,6 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics drivers
 
  The PUBG lag problem may also occur if you’re using the wrong or outdated graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -81,12 +79,17 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -107,25 +110,20 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -140,8 +138,6 @@ So to tweak the settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +145,26 @@ So to tweak the settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-exclusive-insights-into-top-8-facebook-film-extractors-for-2024/"><u>[New] Exclusive Insights Into Top 8 Facebook Film Extractors for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-uncovering-budget-friendly-video-conferencing-tools-for-multiple-systems-for-2024/"><u>[Updated] Uncovering Budget-Friendly Video Conferencing Tools for Multiple Systems for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-novices-nook-the-easiest-mc-dwellings-explored/"><u>2024 Approved Novice's Nook The Easiest MC Dwellings Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-analysis-llama-3-against-gpt-n4-the-ultimate-verdict/"><u>Comparative Analysis: Llama 3 Against GPT-N4 - The Ultimate Verdict</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-rectify-lenovo-mouse-pad-failures-on-various-windows-versions-windows-10-8-7/"><u>Effective Solutions to Rectify Lenovo Mouse Pad Failures on Various Windows Versions (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-latency-in-your-windows-11-keyboard-fixes-and-best-practices/"><u>Eliminating Latency in Your Windows 11 Keyboard – Fixes and Best Practices</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/google-ar-stickers-an-introduction-and-comparisons-for-2024/"><u>Google AR Stickers An Introduction & Comparisons for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-incorrectly-pressed-keys-on-your-keyboard/"><u>How to Fix Incorrectly Pressed Keys on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-thaw-a-frozen-taskbar-in-windows-10-best-practices/"><u>How to Thaw a Frozen Taskbar in Windows 10 - Best Practices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-exclusive-insights-elevating-your-mobizen-screencast-game/"><u>In 2024, Exclusive Insights Elevating Your Mobizen Screencast Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/kodi-streaming-stutter-no-more-tips-for-overcoming-buffering-issues/"><u>Kodi Streaming Stutter No More - Tips for Overcoming Buffering Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-persistent-blinking-a-complete-guide/"><u>Resolve the Persistent Blinking: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-lenovo-mouse-pad-functionality-on-your-computer-fixes-for-win-1187-users/"><u>Restore Lenovo Mouse Pad Functionality on Your Computer - Fixes for Win 11/8/7 Users.</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-bluetooth-connectivity-problems-for-windows-11-users/"><u>Step-by-Step Guide to Repairing Bluetooth Connectivity Problems for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-ipad-air-review-4-irresistible-reasons-to-upgrade-straight-from-apple-experts-digital-gadgets-hub/"><u>The New iPad Air Review: 4 Irresistible Reasons to Upgrade, Straight From Apple Experts | Digital Gadgets Hub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-social-networking-giants-facebook-twitter-instagram-youtube/"><u>Top Four Social Networking Giants: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211254757-troubleshooting-get-your-non-responsive-chrome-back-on-track/"><u>Troubleshooting: Get Your Non-Responsive Chrome Back on Track!</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-revolution-essential-replacement-tools-to-consider/"><u>Win 11 Revolution: Essential Replacement Tools to Consider</u></a></li>
+</ul></div>
 

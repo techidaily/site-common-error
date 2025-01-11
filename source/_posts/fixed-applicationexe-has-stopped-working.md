@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Application.exe Has Stopped Working"
-date: 2024-12-28T16:29:42.652Z
-updated: 2025-01-03T23:55:32.523Z
+date: 2025-01-05T19:18:03.394Z
+updated: 2025-01-10T21:11:00.562Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -64,6 +64,10 @@ To make sure the volume is audible:
 
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
@@ -81,14 +85,14 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
@@ -97,10 +101,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
@@ -156,20 +156,24 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-eliminate-background-in-images-with-ease-using-canva/"><u>[New] Eliminate Background in Images with Ease Using Canva</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-global-communicators-guide-to-the-best-19-translation-apps/"><u>[New] The Global Communicator’s Guide to the Best 19 Translation Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-100-disk-usage-in-windows-11/"><u>[SOLVED] 100% Disk Usage in Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-crafting-video-magic-with-imovie-directed-to-youtube/"><u>[Updated] 2024 Approved Crafting Video Magic with iMovie, Directed to YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-elevate-your-online-video-quality-mastery-in-finalcut-for-youtube/"><u>[Updated] Elevate Your Online Video Quality Mastery in FinalCut for YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-picks-for-the-ultimate-offline-game-experience-on-android/"><u>[Updated] Top Picks for the Ultimate Offline Game Experience on Android</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-premium-virtual-playstation-simulators-for-modern-computers/"><u>2024 Approved Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/bring-back-the-missing-cursor-fixes-for-windows-11-touchpad-malfunctions/"><u>Bring Back the Missing Cursor: Fixes for Windows 11 Touchpad Malfunctions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-devices-to-desktops-proven-file-transfer-ways/"><u>From Devices to Desktops Proven File Transfer Ways</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-update-or-repair-a-missing-widevine-content-decryption-module-on-pcs/"><u>How to Update or Repair a Missing Widevine Content Decryption Module on PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-non-responsive-screen-brightness-settings-in-windows-11/"><u>Resolving Non-Responsive Screen Brightness Settings in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206834037-troubleshoot-and-repair-unresponsive-key-caps-on-hp-computers-fast/"><u>Troubleshoot & Repair Unresponsive Key Caps on HP Computers - Fast!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-high-network-consumption-with-svchostexe-netsvcs-tips-and-fixes/"><u>Troubleshooting High Network Consumption with svchost.exe (NETSVCS): Tips and Fixes</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-your-photos-and-videos-to-give-an-old-and-vintage-feel-here-are-some-vintage-luts-premiere-pro-free-and-paid-options-avail/"><u>Updated 2024 Approved Do You Want Your Photos and Videos to Give an Old and Vintage Feel? Here Are some Vintage LUTs Premiere Pro Free and Paid Options Available to Download</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-detailed-guide-to-free-screen-recorders/"><u>[Updated] 2024 Approved Detailed Guide to Free Screen Recorders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-picture-perfectionism-top-tools-and-sites-for-adding-frame-elements-for-2024/"><u>[Updated] Picture Perfectionism Top Tools & Sites for Adding Frame Elements for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/a-beginners-guide-to-producing-facebook-reels-for-2024/"><u>A Beginner's Guide to Producing Facebook Reels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-the-update-challenge-strategies-to-resolve-windows-11s-error-0x800f0922-quickly/"><u>Conquer the Update Challenge: Strategies to Resolve Windows 11'S Error 0X800f0922 Quickly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209551969-corsair-illumination-troubleshooting-bring-back-the-glow/"><u>Corsair Illumination Troubleshooting: Bring Back the Glow!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-samsung-galaxy-s10plus-and-s20-feature-and-spec-sheet/"><u>Detailed Samsung Galaxy S10+ and S20 Feature & Spec Sheet</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-troubleshooting-steps-for-a-non-functional-lenovo-fingerprint-sensor/"><u>Easy Troubleshooting Steps for a Non-Functional Lenovo Fingerprint Sensor</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-diagnosing-and-repairing-a-dysfunctional-laptop-pointing-device/"><u>Effective Techniques for Diagnosing and Repairing a Dysfunctional Laptop Pointing Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-eliminating-the-dreaded-fatal-error-and-ensuring-stability-in-halo-4-ue4-throughout-2024/"><u>Expert Tips for Eliminating the Dreaded 'Fatal Error' & Ensuring Stability in Halo 4 UE4 Throughout 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209458596-fix-your-oddworld-soulstorm-pc-game-crash-issues-solutions-inside/"><u>Fix Your Oddworld: Soulstorm PC Game Crash Issues - Solutions Inside!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2003-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2003 Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-compatibility-issues-with-logitech-devices-in-windows-11/"><u>How to Resolve Compatibility Issues with Logitech Devices in Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-hibernation-4-techniques-for-windows-users/"><u>Reviving Hibernation: 4 Techniques for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-repairing-drag-and-drop-mechanism-in-windows-environment/"><u>Step-by-Step: Repairing Drag And Drop Mechanism in Windows Environment</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/strategies-efficaces-pour-reduire-la-duree-de-lencodage-hevch265-et-ameliorer-les-performances-video/"><u>Stratégies Efficaces Pour Réduire La Durée De L'encodage HEVC/H.265 Et Améliorer Les Performances Vidéo</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206694287-the-tnm-system-is-essential-for-accurate-lung-cancer-staging-and-treatment-planning/"><u>The TNM System Is Essential for Accurate Lung Cancer Staging and Treatment Planning</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-the-persistent-windows-update-error-0x8024200d/"><u>Troubleshoot and Solve the Persistent Windows Update Error 0X8024200D</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
 </ul></div>
 

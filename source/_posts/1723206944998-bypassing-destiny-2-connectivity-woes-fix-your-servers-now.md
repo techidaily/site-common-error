@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Destiny 2 Connectivity Woes: Fix Your Servers Now"
-date: 2024-12-28T18:26:53.051Z
-updated: 2025-01-03T23:49:41.530Z
+date: 2025-01-06T18:29:16.767Z
+updated: 2025-01-10T16:43:23.664Z
 tags:
   - win11
   - win10
@@ -29,23 +29,19 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Hard reset your Xbox One and modem
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to hard reset your Xbox One
 
 1) Press and hold the Xbox Logo on your console until the console shuts off. 2) Wait for a while then turn your console back on by pressing the same Xbox button on your console.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to hard reset your modem
 
@@ -61,25 +57,25 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click**Network**. Then select**Network settings**on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Go on to click**Advanced settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd893e389f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click**IP settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
@@ -87,23 +83,27 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 Now try to connect your Xbox one to Xbox Live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Check the services related to Xbox Live
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
@@ -124,7 +124,7 @@ Your Xbox One won’t connect to Xbox Live could also being caused by driver iss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe7ca890f7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating the drivers, please restart your computer to make the new drivers take effect.
@@ -146,16 +146,15 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-winning-over-viewers-a-comprehensive-guide-to-growing-followers-for-2024/"><u>[New] Winning Over Viewers A Comprehensive Guide to Growing Followers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-2023-play-facebook-videos-on-tv/"><u>2024 Approved 2023 | Play Facebook Videos on TV?</u></a></li>
-<li><a href="https://common-error.techidaily.com/banishing-the-ghostly-glare-your-step-by-step-solution-to-laptop-screen-issues/"><u>Banishing the Ghostly Glare: Your Step-by-Step Solution to Laptop Screen Issues</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fabricate-fascinating-face-painting-gifs-on-giphy-for-2024/"><u>Fabricate Fascinating Face-Painting Gifs on Giphy for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iphone-expertise-crafting-time-lapse-photos/"><u>IPhone Expertise Crafting Time-Lapse Photos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-ai-methods-elevating-web-search-standards/"><u>Next-Gen AI Methods Elevating Web Search Standards</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210041519-resolve-the-bluetooth-problem-in-windows-11-fast-and-simple-solutions/"><u>Resolve the Bluetooth Problem in Windows 11: Fast and Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-cyclic-redundancy-check-crc-issues-in-your-system/"><u>Resolved: Fixing Cyclic Redundancy Check (CRC) Issues in Your System</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-restart-a-stalled-diagnostic-policy-service-efficiently/"><u>Resolved! How to Restart a Stalled Diagnostic Policy Service Efficiently</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quick-fix-manual-to-overcome-4-common-gpu-setbacks/"><u>The Quick Fix Manual to Overcome 4 Common GPU Setbacks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-your-step-by-step-adventure-in-metaverse-avatar-crafting/"><u>[Updated] 2024 Approved Your Step-by-Step Adventure in Metaverse Avatar Crafting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-image-safekeepers-online/"><u>[Updated] Prime Image Safekeepers Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725287107711-dvdwindows-11dvd/"><u>DVDへの手軽移行：Windows 11で簡単に動画DVDを作り出せ！</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-correctly-diagnose-and-solve-error-code-31-on-your-pc/"><u>Effective Strategies to Correctly Diagnose and Solve Error Code 31 on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-quick-fixes-for-a-non-responsive-dns-server/"><u>Five Quick Fixes for a Non-Responsive DNS Server</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-user-profile-service-error-and-securely-log-into-windows-11-again/"><u>How to Repair User Profile Service Error and Securely Log Into Windows 11 Again</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>In 2024, An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-creative-commons-framework-effectively/"><u>In 2024, Navigating YouTube's Creative Commons Framework Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/mending-pasting-malfunctions-windows-10-edition/"><u>Mending Pasting Malfunctions: Windows 10 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-secrets-a-thorough-review-of-fitbits-charge-n-device/"><u>Uncovering the Secrets: A Thorough Review of Fitbit's Charge N Device</u></a></li>
 </ul></div>
 

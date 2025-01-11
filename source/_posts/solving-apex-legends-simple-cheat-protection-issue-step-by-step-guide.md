@@ -1,7 +1,7 @@
 ---
 title: "Solving Apex Legends' Simple Cheat Protection Issue: Step-by-Step Guide"
-date: 2024-12-29T20:01:21.826Z
-updated: 2025-01-03T22:12:34.283Z
+date: 2025-01-05T18:33:50.346Z
+updated: 2025-01-10T20:23:16.516Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 6. **[Install the latest patch](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Apex Legends and Origin](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  This error may occur if you are using the wrong or out-dated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -55,10 +59,6 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Repair Apex Legends in Origin
 
  You may run into the Easy Anti-Cheat error if the game files are faulty or corrupt. Luckily, Origin has built the repair feature into the launcher itself, allowing you to fix little glitches on your own.
@@ -70,11 +70,15 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-14.png)
 3. Wait until the repair process finishes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run Apex Legends and Origin as Administrator
@@ -104,27 +108,27 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -139,7 +143,7 @@ Here are the steps to repair Apex Legends in Origin:
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends and Origin
@@ -163,10 +167,6 @@ Here are the steps to repair Apex Legends in Origin:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
@@ -195,22 +195,24 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-streamlined-language-translation-best-online-subtitle-manipulators/"><u>[New] In 2024, Streamlined Language Translation – Best Online Subtitle Manipulators</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-step-inside-the-ultimate-list-of-immersive-youtube-vr-content/"><u>[Updated] 2024 Approved Step Inside The Ultimate List of Immersive YouTube VR Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-tutorial-perform-a-fresh-start-on-windows-10/"><u>Effortless Tutorial: Perform a Fresh Start on Windows 10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-record-your-games-with-diverse-software-solutions/"><u>How to Record Your Games with Diverse Software Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G24?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-camon-30-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Camon 30 Pro 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-network-troubleshooting-how-to-correctly-repair-your-pcs-ethernet-connection-for-windows-7-and-10-devotees/"><u>Mastering Network Troubleshooting: How To Correctly Repair Your PC's Ethernet Connection for Windows 7 & 10 Devotees</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/open-source-limitations-on-hdmi-21-support-in-linux-environments/"><u>Open Source Limitations on HDMI 2.1 Support in Linux Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-installation-hurdles-a-comprehensive-guide-to-handling-error-1-grotesquely/"><u>Overcome Installation Hurdles: A Comprehensive Guide to Handling Error 1 Grotesquely</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-fixing-pixel-format-not-accelerated-lwjgl-exception-error/"><u>Solution Found! Fixing 'Pixel Format Not Accelerated' LWJGL Exception Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unfreezing-a-frozen-desktop-experience/"><u>Step-by-Step Solutions for Unfreezing a Frozen Desktop Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-file-explorer-fix-it-swiftly-on-windows-10/"><u>Trouble with File Explorer? Fix It Swiftly on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-non-responsive-brightness-buttons-in-windows-10/"><u>Ultimate Fixes for Non-Responsive Brightness Buttons in Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-error-0x800f081f-effective-fixes-to-secure-your-net-framework-35-installation-on-windows-systems/"><u>Winning Against Error 0X800F081F – Effective Fixes to Secure Your .NET Framework 3.5 Installation on Windows Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-timeless-clip-creator-program/"><u>[New] 2024 Approved Timeless Clip Creator Program</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-skyrocket-with-telegram-proven-marketing-techniques-unveiled/"><u>[Updated] 2024 Approved Skyrocket with Telegram Proven Marketing Techniques Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-spotlight-on-revolutionary-vr-engine-software/"><u>[Updated] Spotlight on Revolutionary VR Engine Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-down-barriers-a-closer-look-at-why-teredo-fails-to-qualify/"><u>Breaking Down Barriers: A Closer Look at Why Teredo Fails to Qualify</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-solution-for-non-responsive-windows-11-system-during-upgrades/"><u>Complete Solution for Non-Responsive Windows 11 System During Upgrades</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-high-cpu-usage-by-microsofts-antivirus-on-windows-10-a-comprehensive-guide/"><u>Diagnosing and Fixing High CPU Usage by Microsoft's Antivirus on Windows 10 - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-non-running-diagnostic-services/"><u>Effective Solutions for Non-Running Diagnostic Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-overcoming-the-most-common-update-issues/"><u>Expert Advice: Overcoming the Most Common Update Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-non-responsive-fn-key-issues-on-your-laptop/"><u>Fixing Non-Responsive Fn Key Issues on Your Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-unfreeze-your-windows-10-taskbar-a-step-by-step-tutorial/"><u>How To Unfreeze Your Windows 10 Taskbar – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://article-posts.techidaily.com/improving-online-sessions-with-increased-zoom-for-2024/"><u>Improving Online Sessions with Increased Zoom for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-effortless-access-to-youtube-comments/"><u>In 2024, Expert Tips for Effortless Access to YouTube Comments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-express-yourself-accessibility-available-for-free/"><u>In 2024, Express Yourself, Accessibility Available for Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c50-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco C50 Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/proven-techniques-for-effective-video-transfer-ios-to-mac/"><u>Proven Techniques for Effective Video Transfer IOS to MAC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/retrieve-forgotten-passwords-from-your-mac-with-simple-tricks/"><u>Retrieve Forgotten Passwords From Your Mac with Simple Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-windows-11-typing-problems-dealing-with-unresponsive-keys-successfully/"><u>The Ultimate Fix for Windows 11 Typing Problems: Dealing with Unresponsive Keys Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-google-chrome-freezing-tips-for-instant-recovery/"><u>Troubleshooting Google Chrome Freezing - Tips for Instant Recovery</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-unfreeze-the-windows-10-taskbar-efficiently/"><u>Ultimate Guide: Unfreeze the Windows 10 Taskbar Efficiently</u></a></li>
 </ul></div>
 

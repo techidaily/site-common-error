@@ -1,7 +1,7 @@
 ---
 title: Fix Malfunctioning Alphabetic Keys in Microsoft Windows 1Er 11 Environment
-date: 2024-08-22T19:12:23.488Z
-updated: 2024-08-23T19:12:23.488Z
+date: 2025-01-03T20:16:10.923Z
+updated: 2025-01-10T22:00:11.596Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
 ## Print Screen Key Malfunction in Windows 11/10 – Solutions That Work
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa9088204dec.png)
 
  The**print screen key stops working** when you want to capture your screen? You would be very frustrated. But don’t panic. You can easily fix this problem and print your screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -32,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 4. **[Update your operating system](#solution4)**
 5. **[Bonus Tip](#additional)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your keyboard driver
 
  This problem is probably caused by an old or incorrect keyboard driver. You can update your printer driver manually or, if you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/)   and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click the Update button next to a flagged keyboard driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
@@ -52,20 +54,18 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
 ```` ```` ```` ``
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check if the print screen key is enabled
 
 ```` ```` Try to press**F Mode** key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-3.png) or**F Lock** key![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) (when there are such keys on your keyboard, if not, please skip this fix), then check if the Print Screen works. That’s because such keys may prevent you from using print screen key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ```` ````
 
 ```` ```` ```` ``
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Stop all the running programs
 
 ```` ```` Since some programs like OneDrive, Dropbox, and Snipping tool can take over the Print Screen key, please**stop all the running programs** on your PC. Then try to print screen again to see if it works.
@@ -74,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
 ```` ```` ````
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your operating system
 
 `` Check if your operating system is up-to-date.
@@ -86,8 +83,13 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 2. Now on Windows Update Windows, you can check if there are any available updates for your window. If yes, install the updates and try to print screen again.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bonus Tip
 
 **```` ``**  If you fail to take a screenshot by pressing PrtScn key, you can try to press **Fn + PrtScn** , **Alt + PrtScn**  or **Alt + Fn + PrtScn**  keys together to try again.
@@ -104,8 +106,6 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +113,18 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-the-digital-archivists-toolkit-downloading-videos-from-messenger-for-2024/"><u>[New] The Digital Archivist's Toolkit Downloading Videos From Messenger for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-list-of-recent-unfollowers-in-instagram/"><u>[Updated] In 2024, List of Recent Unfollowers in Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-peering-at-starred-online-chatter/"><u>[Updated] Peering at Starred Online Chatter</u></a></li>
+<li><a href="https://win-premium.techidaily.com/best-free-data-rescue-applications-for-easy-retrieval-latest-picks/"><u>Best Free Data Rescue Applications for Easy Retrieval - Latest Picks</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-win32-rpc-server-unavailable-error-code-0xc0000098-fixes-that-work-for-windows-users/"><u>Decoding Win32 RPC Server Unavailable (Error Code 0Xc0000098): Fixes That Work for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-pitfalls-of-iphones-latest-os-how-ios-18-has-left-many-users-regretting-their-upgrade-decision/"><u>Navigating the Pitfalls of iPhone's Latest OS: How iOS 18 Has Left Many Users Regretting Their Upgrade Decision</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-unwritable-0x-referenced-memory-situation-in-programming/"><u>Troubleshooting and Fixing the Unwritable 0X Referenced Memory Situation in Programming</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-successful-network-startup-problem-solved-in-dbfz/"><u>Troubleshooting Successful! Network Startup Problem Solved in DBFZ</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/tutorial-on-vlcs-automatic-screen-recorder/"><u>Tutorial on VLC's Automatic Screen Recorder</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-addressing-your-pcs-system-idle-process-overuse-of-cpu-resources/"><u>Understanding and Addressing Your PC's System Idle Process Overuse of CPU Resources</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-properties-puzzles-in-windows-os/"><u>Unveiling Properties Puzzles in Windows OS</u></a></li>
+</ul></div>
 

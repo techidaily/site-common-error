@@ -1,7 +1,7 @@
 ---
 title: "Verdict: Lack of OpenGL Endorsement From Drivers"
-date: 2024-12-31T20:53:21.728Z
-updated: 2025-01-03T18:08:00.420Z
+date: 2025-01-05T22:51:24.009Z
+updated: 2025-01-10T18:29:37.528Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 2. [**Set your speakers as the default device**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reinstall your sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update your sound card driver
 
  One reason for the no sound problem is outdated drivers for your hardware devices. If Method 1 and Method 2 can’t fix it, it may be the outdated driver that causes the problem.
@@ -49,16 +45,16 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Set your speakers as the default device
@@ -68,6 +64,10 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 1. Right-click on the**Sound** icon on your taskbar. Then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 2. Choose the speakers you’re using and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 3. Click**OK** to save the change.
@@ -79,6 +79,10 @@ Follow the below steps to enable your disabled device.
 1. On the Playback window, right-click on the blank area and click**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 2. When your device shows up, right-click on it and choose Enable.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 3. Then you can set it as the default device.
@@ -92,19 +96,15 @@ Follow the below steps to enable your disabled device.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Expand **Sound, video and game controllers** . Then right-click on your sound card’s name and click **Uninstall** **device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall.jpg)
 4. Tick on **Delete the driver software for this device.**  Then click **Uninstall**  to confirm.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall1.jpg)
 5. Restart your PC to make the change take effect. Windows will automatically reinstall the sound driver for you now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Check if speakers work on your laptop now.
 
@@ -129,24 +129,24 @@ Follow the below steps to enable your disabled device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-streamlined-technique-for-embedding-linktree-on-tiktok/"><u>[New] 2024 Approved Streamlined Technique for Embedding Linktree on TikTok</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-premiere-gear-optimal-panoramic-recorders-for-2024/"><u>[New] Premiere Gear Optimal Panoramic Recorders for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-lol-live-stream-setups-3-strategies/"><u>[Updated] Essential LOL Live Stream Setups - 3 Strategies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-excellence-in-hd-recording-leading-screen-recorder-options/"><u>[Updated] Excellence in HD Recording Leading Screen Recorder Options</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-perfect-snap-infusing-dynamic-blur-into-faces-through-picsart-editing/"><u>2024 Approved The Perfect Snap Infusing Dynamic Blur Into Faces Through Picsart Editing</u></a></li>
-<li><a href="https://common-error.techidaily.com/cannot-apply-feature-updates-for-windows-10-build-1607-let-us-help-you-resolve-that/"><u>Cannot Apply Feature Updates for Windows 10 Build 1607? Let Us Help You Resolve That</u></a></li>
-<li><a href="https://common-error.techidaily.com/command-disallowed-process-ceased/"><u>Command Disallowed: Process Ceased</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-constant-usb-recognition-failures/"><u>Effective Solutions for Overcoming Constant USB Recognition Failures</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/inexpensive-capture-apps-reviewed-for-budget-pcs/"><u>Inexpensive Capture Apps Reviewed For Budget PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-interruptions-a-simple-guide-for-fixing-windows-11-endless-startup-loops/"><u>No More Interruptions: A Simple Guide for Fixing Windows 11 Endless Startup Loops</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solution-how-to-resolve-errnamenotresolved-problem-on-chrome/"><u>Quick Solution: How to Resolve 'ERR_NAME_NOT_RESOLVED' Problem on Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/setup-correct-but-device-echoes-silence-instead-of-signal/"><u>Setup Correct, But Device Echoes Silence Instead of Signal</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-repair-guide-eliminating-the-dxgkrnl-fatal-error-from-your-windows-videos/"><u>Step-by-Step Repair Guide: Eliminating the Dxgkrnl Fatal Error From Your Windows Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-your-footage-with-the-ideal-dimension-proportion/"><u>Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-error-when-your-computer-cant-find-d3dx939dll/"><u>Troubleshooting Guide: Fixing the Error When Your Computer Can't Find d3dx9_39.dll</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-a-non-responsive-razer-keyboard/"><u>Troubleshooting Tips: Fixing a Non-Responsive Razer Keyboard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-potential-the-process-of-replacing-aged-window-cards/"><u>Unleash Potential: The Process of Replacing Aged Window Cards</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-gt-10-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix GT 10 Pro fingerprint</u></a></li>
+<li><a href="https://common-error.techidaily.com/interruption-game-induced-reboots/"><u>[INTERRUPTION] Game-Induced Reboots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-smooth-video-capture-with-your-laptops-webcam/"><u>[New] In 2024, Smooth Video Capture with Your Laptop's Webcam</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-srt-power-play-transforming-macwindows-experience/"><u>[New] In 2024, SRT Power Play Transforming Mac/Windows Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast/"><u>[Updated] Livestreaming Leaderboards Which Software Tops the Chart—VMix/Wirecast?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/14-proven-methods-for-restoring-functionality-of-face-id-on-your-iphone/"><u>14 Proven Methods for Restoring Functionality of Face ID on Your iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-techniques-for-resolving-windows-11-error-code-0x80072efd-a-step-by-step-tutorial/"><u>Comprehensive Techniques for Resolving Windows 11 Error Code 0X80072EFD: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-your-windows-store-cache-when-its-actual-damage/"><u>Expert Tips to Restore Your Windows Store Cache When It's Actual Damage</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-windows-update-error-code-0x800705b4-on-windows-11-systems/"><u>How to Overcome the Windows Update Error Code 0X800705B4 on Windows 11 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 11 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-canons-timelapse-a-quick-guide/"><u>Mastering Canon's Timelapse A Quick Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-hamachi-interruption-issues-effortlessly/"><u>Resolving HAMachi Interruption Issues Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-for-eliminating-black-screens-during-obs-captures/"><u>Solution Guide for Eliminating Black Screens During OBS Captures</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-non-functioning-aoc-screen-in-windows-10/"><u>Solving the Problem of Non-Functioning AOC Screen in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-decline-of-chatgpt-hacks-understanding-the-top-7-ineffective-strategies/"><u>The Decline of ChatGPT Hacks: Understanding the Top 7 Ineffective Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-s17e-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo S17e Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sign-in-issues-caused-by-user-profile-service-in-windows-11/"><u>Troubleshooting Sign-In Issues Caused by 'User Profile Service' In Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unexpected-computer-shutdowns-solutions-explored/"><u>Troubleshooting Unexpected Computer Shutdowns: Solutions Explored</u></a></li>
 </ul></div>
 

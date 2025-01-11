@@ -1,7 +1,7 @@
 ---
 title: "Dormant Devices Down: Windows 11/10 Woes"
-date: 2024-12-31T02:09:23.306Z
-updated: 2025-01-03T18:53:54.859Z
+date: 2025-01-03T21:34:23.105Z
+updated: 2025-01-10T16:11:52.645Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ The good news is that it can be fixed quickly and easily.
 * [Solution 3: Disable USB Root Hubs](#h-solution-3-disable-usb-root-hubs)
 * [Solution 4. Modify your network adapter properties](#h-solution-4-modify-your-network-adapter-properties)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Quick & Easy
 
  First of all, try to restart your Windows 10 computer. No kidding! A complete reboot can always fix a lot of weird issues. Thus be sure to try it at first as it’s easy enough to take.
@@ -76,10 +80,6 @@ The good news is that it can be fixed quickly and easily.
 
  If updating the driver didn’t help you, go on to follow other solutions:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 3: Disable USB Root Hubs
 
  USB hardware can also cause System interrupts and high CPU issues. You can disable USB Root Hubs in Device Manager to fix it.
@@ -89,14 +89,14 @@ The good news is that it can be fixed quickly and easily.
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
 3. After disabling your USB Root Hubs, check if the CPU usage comes down.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To check which USB Root Hub is for your keyboard and mouse:
@@ -104,6 +104,10 @@ To check which USB Root Hub is for your keyboard and mouse:
  Right-click on USB Root Hub to choose**Properties** . Then you can see the**Attached devices** on the**Power** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4\. Modify your network adapter properties
 
@@ -114,15 +118,15 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca7c0b78a4.jpg)
 3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
 4. See if the system interrupts still consume a high CPU usage on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 5: Repair system files
@@ -136,17 +140,13 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 6: Consider a system reset
 
@@ -175,22 +175,24 @@ To check which USB Root Hub is for your keyboard and mouse:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamlining-remote-collaboration-master-skypes-screen-share-tools/"><u>[New] In 2024, Streamlining Remote Collaboration Master Skype’s Screen-Share Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-future-of-podcasts-starts-with-smart-name-generation/"><u>[Updated] 2024 Approved The Future of Podcasts Starts with Smart Name Generation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bringing-text-to-life-dynamic-animated-content-on-ig-stories/"><u>[Updated] Bringing Text to Life Dynamic Animated Content on IG Stories</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-unidentified-usb-hardware-problems-and-port-issues-on-windows-11/"><u>Effective Fixes for Unidentified USB Hardware Problems & Port Issues on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205884697-fix-d3dxt939dll-error-not-found-heres-how-to-solve-it-effectively/"><u>Fix d3dxt9_39.dll Error Not Found? Here's How to Solve It Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-how-to-restore-night-light-feature-on-windows-11/"><u>Fix: How to Restore Night Light Feature on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-huawei-nova-y71-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Huawei Nova Y71 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-and-repairing-microsofts-error-code-0x8024402c-on-your-pc/"><u>Navigating and Repairing Microsoft's Error Code 0X8024402c on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-challenges-ensuring-full-functionality-of-usb-composite-devices-on-usb-30-systems/"><u>Overcoming Challenges: Ensuring Full Functionality of USB Composite Devices on USB 3.0 Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-tech-choices-top-15-4k-cameras-for-2024/"><u>Premium Tech Choices Top 15 4K Cameras for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ryzen-ai-300-series-arrives-early-new-release-date-set-for-july-28-updated-best-buy-pre-orders/"><u>Ryzen AI 300 Series Arrives Early: New Release Date Set for July 28 - Updated Best Buy Pre-Orders!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-delays-optimizing-your-chromecast-audio-setup-for-seamless-playback/"><u>Say Goodbye to Delays: Optimizing Your Chromecast Audio Setup for Seamless Playback</u></a></li>
-<li><a href="https://common-error.techidaily.com/security-patch-applied-reinforce-devices-internal-identity-validation-protocols/"><u>Security Patch Applied: Reinforce Device's Internal Identity Validation Protocols</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-drive-where-windows-is-installed-is-locked-in-windows-11/"><u>The Drive Where Windows Is Installed Is Locked in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-10-8-and-7-complete-fix-guide/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 10, 8 & 7: Complete Fix Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/turning-hair-videos-into-income-streams-for-2024/"><u>Turning Hair Videos Into Income Streams for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-broadcast-battle-analyzing-obs-vs-twitchs-pros/"><u>[New] 2024 Approved Broadcast Battle Analyzing OBS Vs. Twitch's Pros</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones-for-2024/"><u>[Updated] Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-noskyshadowtool-premium-bg-elimination-software/"><u>2024 Approved NoSkyShadowTool Premium BG Elimination Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-win11s-ultimate-screen-recording-kit/"><u>2024 Approved Win11's Ultimate Screen Recording Kit</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202702840-access-denied-on-your-computer-install-the-necessary-printer-drivers-first/"><u>Access Denied on Your Computer? Install the Necessary Printer Drivers First!</u></a></li>
+<li><a href="https://common-error.techidaily.com/apex-legends-troubleshooting-easily-correcting-the-error-cheats-detected/"><u>Apex Legends Troubleshooting: Easily Correcting the Error - Cheats Detected</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-solving-the-mfc42dll-cannot-be-located-error/"><u>Comprehensive Guide: Solving The 'mfc42.dll Cannot Be Located' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209058146-desktop-icon-disappearance-issue-in-windows-11-heres-the-solution/"><u>Desktop Icon Disappearance Issue in Windows 11? Here's the Solution!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/evolving-shopper-behavior-in-vr-realms-for-2024/"><u>Evolving Shopper Behavior in VR Realms for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-best-gaming-selection-with-google-play-pass-your-comprehensive-guide/"><u>Explore the Best Gaming Selection with Google Play Pass: Your Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastery-in-documentary-writing-essential-techniques/"><u>Mastery in Documentary Writing Essential Techniques</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audiovisual-archive-top-10-digital-destinations-for-sound-track-download/"><u>New In 2024, Audiovisual Archive Top 10 Digital Destinations for Sound Track Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-troubleshooting-the-installation-incomplete-on-windows/"><u>Quick Guide: Troubleshooting the 'Installation Incomplete On Windows'</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-opencl-dll-absence-issues/"><u>Resolving OpenCL DLL Absence Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-numbers-a-guide-to-fixing-unresponsive-keyboard-digits/"><u>Reviving Numbers: A Guide to Fixing Unresponsive Keyboard Digits</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-problems-when-upgrading-to-windows-1903-a-step-by-step-guide/"><u>Solving Problems When Upgrading to Windows 1903: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-printer-proofing-your-pdfs-swift-solutions-to-the-rescue/"><u>Trouble Printer-Proofing Your PDFs? Swift Solutions to the Rescue!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-windows-11-crimson-display-problem/"><u>Troubleshooting and Fixing the Windows 11 Crimson Display Problem</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Lower ntoskrnl.exe's CPU/Disk Load
-date: 2024-08-15T11:02:20.248Z
-updated: 2024-08-16T11:02:20.248Z
+date: 2025-01-09T18:51:14.337Z
+updated: 2025-01-10T21:12:02.972Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 
 League of Legends is a world popular game, but the slow download speed can easily drive you crazy. Don’t worry, you’re not alone. Fortunately, there are some ways to improve the slow downloads.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/nordvpn-icon.png) **NordVPN**
 
 **Stop ISP Throttling with One Click**
@@ -28,9 +25,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 
  Before you try the following fixes, you need to make sure this slow speed issue only happened on League of Legends, which means it’s nothing to do with your internet speed. Otherwise, you may need to check your internet connection first.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -45,25 +39,28 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
 
 1. Press**Ctrl + Shift + Esc** key together on your keyboard to open the**Task Manager** .
 2. Find League of Legends program. Right-click on it and click**Open file location** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on it and click**Run as administrator** .
 
 Downloading again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Turn off Windows Firewall
 
@@ -74,7 +71,16 @@ Downloading again to see if it works.
 2. Click**Turn Windows Defender Firewall on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -91,9 +97,6 @@ Re-download to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus: Update your drivers
 
  Missing or outdated drivers can cause many issues. Updating If you want to have better gaming experience and prevent potential problems, you’re recommended to keep your drivers update to date.
@@ -123,10 +126,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -145,8 +149,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +156,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-apps-for-editing-dji-drone-film-content/"><u>[New] Leading Apps for Editing DJi Drone Film Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-beacon-of-ringtone-richness-online/"><u>[Updated] In 2024, Beacon of Ringtone Richness Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-premier-12-video-capture-goes-on-forever/"><u>2024 Approved Premier 12 Video Capture - Goes On Forever</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-gaming-session-performance-tweaks-for-windows-11-users/"><u>Elevate Your Gaming Session: Performance Tweaks for Windows 11 Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/figma-mastery-techniques-to-eliminate-disruptive-backdrops/"><u>Figma Mastery Techniques to Eliminate Disruptive Backdrops</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-unplayable-dvd-issue-on-windows-computers/"><u>Fixing Your Unplayable DVD Issue on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-rid-of-the-infinite-loading-screen-in-valorant-once-and-for-all/"><u>How to Get Rid of the Infinite Loading Screen in Valorant Once and For All</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-explore-classic-ps3-games-through-best-emulators-2023/"><u>In 2024, Explore Classic PS3 Games Through Best Emulators 2023</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone X</u></a></li>
+<li><a href="https://common-error.techidaily.com/network-troubleshooting-tips-for-unlocking-parties-chat-on-any-device/"><u>Network Troubleshooting Tips for Unlocking Parties Chat on Any Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-pcs-unintended-nap-problem-quick-and-simple-fixes/"><u>Solving Your PC's Unintended Nap Problem: Quick & Simple Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-saying-hello-in-spanish-with-top-10-methods/"><u>The Ultimate Guide To Saying 'Hello' In Spanish With Top 10 Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transition-to-darkness-premiere-pro-techniques-for-2024/"><u>Transition to Darkness Premiere Pro Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-bandwidth-problems-in-world-of-warcraft-wow/"><u>Troubleshooting Bandwidth Problems in World of Warcraft (WOW)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-faulty-shift-key-now-repaired/"><u>Troubleshooting Your Faulty Shift Key - Now Repaired</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-hdcp-compatibility-issues-with-your-monitor-display/"><u>Understanding HDCP Compatibility Issues with Your Monitor Display</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/vegas-pro-2021-unpacked-game-changer-or-just-another-tool/"><u>Vegas Pro 2021 Unpacked Game Changer or Just Another Tool?</u></a></li>
+</ul></div>
 

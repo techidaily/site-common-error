@@ -1,7 +1,7 @@
 ---
 title: "Fallout 4 Performance Optimized: How to Overcome Lag Issues (Tips Players)"
-date: 2024-08-22T19:14:40.528Z
-updated: 2024-08-23T19:14:40.528Z
+date: 2025-01-06T16:57:58.136Z
+updated: 2025-01-10T21:25:15.576Z
 tags:
   - win11
   - win10
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
  In this post, we simply define “lag issue” as one that’s similar to “low FPS” or “stuttering.”
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 fixes for Fallout 4 lagging
 
  Here are a few easy-to-apply methods that have helped other users fix their lag issues in Fallout 4\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -57,18 +57,10 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -91,9 +83,6 @@ To modify your video card settings, use the following procedure:
 
  2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
 Now you’re able to modify the settings of this program.
@@ -107,15 +96,16 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust in-game settings
 
  This is also a quick-fix when you find yourself suffering from a lag issue in Fallout 4 – adjust the in-game settings.
@@ -132,9 +122,6 @@ Now you’re able to modify the settings of this program.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Uncap FPS limit
 
  You may seek to uncap the FPS limit of Fallout 4 by using Notepad to modify some certain values. Here’s how to do it:
@@ -149,6 +136,10 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-217.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you find out the line, change**iPresentInterval=1** to**iPresentInterval=0** .
 
 4) Save the file and exit Notepad.
@@ -159,25 +150,31 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Stop CPU/memory hogging applications
 
  If you have too many CPU/memory hogging applications running in the background, that may slow down the processing speed of your computer and lead to low FPS in Fallout 4\. Thus, you need to close these applications before you start to play the game. Here are the steps:
 
  1) On your keyboard, press the**Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **taskmgr** and hit **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the**Processes** tab. Right-click on the CPU/memory hogging process such as Google Chrome to open its context menu. Then click **End task** .
 
  Do not close the processes that you’re not familiar with in case you mistakenly stop the important ones.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Disable your antivirus software temporarily. This is optional to you but you can give it a try and see if that mitigates your problem.
 
@@ -196,8 +193,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +200,24 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-install.techidaily.com/fixed-conexant-hd-audio-on-the-latest-windows-version/"><u>[Fixed] Conexant HD Audio on the Latest Windows Version</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-masterful-edits-highest-rated-video-tools-for-youtube/"><u>[New] Masterful Edits Highest Rated Video Tools For YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-innovative-editions-filmmaker-writers-on-windows/"><u>2024 Approved Innovative Editions Filmmaker' Writers on WIndows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-tips-for-capturing-online-video-conversations/"><u>2024 Approved Quick Tips for Capturing Online Video Conversations</u></a></li>
+<li><a href="https://common-error.techidaily.com/enabling-unseen-wi-fi-options-in-windows-11-a-step-by-step-guide/"><u>Enabling Unseen Wi-Fi Options in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ergonomics-revolutionized-one-week-of-using-a-split-keyboard-reshaped-my-peripheral-experience-gizmoguide/"><u>Ergonomics Revolutionized: One Week of Using a Split Keyboard Reshaped My Peripheral Experience | GizmoGuide</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-dell-webcam-up-and-running-again-solutions-for-windows-users/"><u>Getting Your Dell Webcam Up & Running Again: Solutions for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-la-noire-hit-the-big-screen-a-guide-for-pc-users/"><u>How L.A. Noire Hit the Big Screen - A Guide for PC Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-persistent-windows-update-error-code-0x8024401c-in-recent-os-versions/"><u>How to Overcome the Persistent Windows Update Error Code 0X8024401C in Recent OS Versions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210383631-9788792980977-inawainge-one-who-sees/"><u>Iñawaingé - one who sees | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/l1-1-deficit-in-windows-api-dlls/"><u>L1-1 Deficit in Windows API DLLs</u></a></li>
+<li><a href="https://common-error.techidaily.com/modern-setup-host-what-is-it-and-how-to-fix-it-if-it-stops-working/"><u>Modern Setup Host — What Is It & How to Fix It if It Stops Working?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-intermittent-logitech-g930-microphone-cut-outs-professional-advice-for-stable-audio/"><u>Overcoming Intermittent Logitech G930 Microphone Cut-Outs: Professional Advice for Stable Audio</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/revolutionizing-user-interaction-abbyy-unveils-cutting-edge-mobile-capture-sdk-for-enhanced-customer-engagement/"><u>Revolutionizing User Interaction: ABBYY Unveils Cutting-Edge Mobile Capture SDK for Enhanced Customer Engagement</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-issue-brightness-control-unresponsive-in-windows-10-systems/"><u>Solve the Issue: Brightness Control Unresponsive in Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-11s-spotify-connectivity-hiccup/"><u>Solving Windows 11'S Spotify Connectivity Hiccup</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-tackling-persistent-key-presses-on-windows-computers/"><u>Step-by-Step Guide: Tackling Persistent Key Presses on Windows Computers</u></a></li>
+</ul></div>
 
