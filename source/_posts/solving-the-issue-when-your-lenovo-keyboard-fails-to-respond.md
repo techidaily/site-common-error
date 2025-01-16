@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue When Your Lenovo Keyboard Fails to Respond
-date: 2025-01-08T20:18:12.094Z
-updated: 2025-01-10T19:54:03.022Z
+date: 2025-01-10T16:31:00.723Z
+updated: 2025-01-16T16:09:17.760Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,14 +32,14 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
@@ -54,7 +54,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
@@ -65,7 +65,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -88,7 +88,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 4. After updating the drivers, check to see the issue is resolved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
@@ -110,24 +110,17 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-computer-crashes-when-playing-games-in-windows-1111/"><u>[FIXED] Computer Crashes When Playing Games in Windows 11/11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-channel-building-through-characters-and-plot-twists-for-2024/"><u>[New] Channel-Building Through Characters and Plot Twists for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income/"><u>[New] Profit From YouTube Monetize YouTube Shorts and Boost Your Income</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-the-art-of-photo-color-correction/"><u>[Updated] 2024 Approved Mastering the Art of Photo Color Correction</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-essentials-of-crafting-youtube-videos-from-start-to-finish/"><u>2024 Approved The Essentials of Crafting YouTube Videos From Start to Finish</u></a></li>
-<li><a href="https://blog-min.techidaily.com/brennen-eines-iso-abbilds-auf-dvd-unter-windows-10-8-oder-7-schritt-fur-schritt-anleitung/"><u>Brennen Eines ISO-Abbilds Auf DVD Unter Windows 10, 8 Oder 7: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnostic-policy-service-malfunction-heres-the-solution/"><u>Diagnostic Policy Service Malfunction? Here's the Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-stop-windows-11-from-freezing-at-system-startup-or-during-boot/"><u>Effective Solutions to Stop Windows 11 From Freezing at System Startup or During Boot</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-conversion-of-audio-recorded-file-arf-to-mp4-tips-for-pcmac-users-for-streamlined-playback-and-editing/"><u>Effortless Conversion of Audio-Recorded File (ARF) to MP4: Tips for PC/Mac Users for Streamlined Playback and Editing</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-your-windows-11-file-explorer-running-smoothly-problems-and-fixes/"><u>Getting Your Windows 11 File Explorer Running Smoothly: Problems and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-curb-high-graphics-demand-by-the-dwm-in-windows-1011-with-these-strategies/"><u>How to Curb High Graphics Demand by the DWM in Windows 10/11 with These Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-corrupted-system-files-on-windows-10-11/"><u>How to Fix Corrupted System Files on Windows 10, 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-dell-wireless-keyboard-step-by-step-guide/"><u>How to Repair a Broken Dell Wireless Keyboard - Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721464962354-iphone-frozen-try-these-7-tricks-to-escape-the-apple-emblem-loop/"><u>IPhone Frozen? Try These 7 Tricks to Escape the Apple Emblem Loop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-tips-how-to-access-and-enjoy-shared-albums/"><u>IPhone Tips: How to Access and Enjoy Shared Albums</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-through-the-challenges-successful-installation-of-the-windows-10-version-1903-feature-enhancement/"><u>Navigating Through the Challenges: Successful Installation of the Windows 10 Version 1903 Feature Enhancement</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-for-no-touch-or-pen-support-message-on-display-devices/"><u>Solution for 'No Touch or Pen Support' Message on Display Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamline-your-virtual-adventure-with-kinemaster-tips-and-competitor-analysis-for-2024/"><u>Streamline Your Virtual Adventure with KineMaster Tips & Competitor Analysis for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-first-step-in-vlogging-tools-you-need-for-2024/"><u>The First Step in Vlogging Tools You Need for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>[New] 2024 Approved Becoming an Instagram Video Conversation Guru Your Ultimate Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-recommended-screen-capturing-apps-for-mac-for-2024/"><u>[Updated] Expert-Recommended Screen Capturing Apps for Mac for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-guide-to-spotify-ads-learn-how-to-successfully-advertise-on-spotify/"><u>[Updated] In 2024, Guide to Spotify Ads - Learn How to Successfully Advertise on Spotify</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-macos-11-big-sur-transition-tips/"><u>[Updated] Understanding macOS 11 Big Sur Transition Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-deep-dive-into-dynamic-game-environments/"><u>A Deep Dive Into Dynamic Game Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-restarting-your-failed-diagnostics-service-quick-fixes-applied/"><u>Diagnosing and Restarting Your Failed Diagnostics Service - Quick Fixes Applied</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-memory-integrity-failures-in-ftdis-sys-caused-by-driver-inefficiencies/"><u>Diagnosing Memory Integrity Failures in FTDIS Sys Caused by Driver Inefficiencies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-website-performance-with-advanced-cookiebot-tracking-technology/"><u>Enhance Website Performance with Advanced Cookiebot Tracking Technology</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/sizzle-smile-and-savor-top-15-culinary-adventures-on-tiktok-for-2024/"><u>Sizzle, Smile, and Savor Top 15 Culinary Adventures on TikTok for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-the-loading-player-error-on-your-windows-pc-now-available/"><u>Step-by-Step Guide to Fix the Loading Player Error on Your Windows PC - Now Available!</u></a></li>
+<li><a href="https://article-files.techidaily.com/transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-failed-windows-11-version-1607-update-issues/"><u>Troubleshooting Steps for Failed Windows 11 (Version 1607) Update Issues</u></a></li>
 </ul></div>
 

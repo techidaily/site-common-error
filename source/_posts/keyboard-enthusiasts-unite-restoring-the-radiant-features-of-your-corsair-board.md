@@ -1,7 +1,7 @@
 ---
 title: Keyboard Enthusiasts Unite! Restoring the Radiant Features of Your Corsair Board
-date: 2025-01-04T00:33:08.165Z
-updated: 2025-01-10T17:43:32.467Z
+date: 2025-01-14T16:01:45.703Z
+updated: 2025-01-16T16:27:25.823Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## For Windows Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -43,7 +47,7 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 3. Click Keyboards and select the keyboard device you want to reset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the red cross button to uninstall the device.  
@@ -66,14 +70,14 @@ Your keyboard should back to the default setting after reboot.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device-1.jpg)
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you’ve reset your keyboard language.
 
@@ -93,16 +97,8 @@ Now you’ve reset your keyboard language.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Your keyboard should be back in the default settings.
 
@@ -115,10 +111,14 @@ Your keyboard should be back in the default settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Wait for the computer to reboot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hard Reset
@@ -154,15 +154,24 @@ Your keyboard should be reset successfully.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-8-cutting-edge-skins-perfect-for-your-laptop/"><u>2024 Approved 8 Cutting-Edge Skins Perfect for Your Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/boost-your-game-top-tips-for-enhancing-pc-gaming-in-windows-11/"><u>Boost Your Game: Top Tips for Enhancing PC Gaming in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-claude-pros-innovations-versus-gptplusplusplus/"><u>Dissecting Claude Pro's Innovations Versus GPT++Plus</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-note-30-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix Note 30</u></a></li>
-<li><a href="https://common-error.techidaily.com/improve-bluetooth-pairing-with-these-fixes-for-windows-10-users/"><u>Improve Bluetooth Pairing with These Fixes for Windows 10 Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/leveraging-snapchat-for-professional-networking-and-sales-for-2024/"><u>Leveraging Snapchat for Professional Networking & Sales for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/navigating-the-world-of-instagram-stories-easily/"><u>Navigating the World of Instagram Stories Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/surface-sync-successful/"><u>Surface Sync Successful</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-5-essential-mac-live-streaming-apps-for-2024/"><u>Top 5 Essential Mac Live Streaming Apps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-effective-solutions-for-error-1067-the-process-terminated/"><u>Troubleshooting Windows: Effective Solutions for Error 1067 'The Process Terminated'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-maximize-productivity-with-zoom-scheduling-techniques/"><u>[New] 2024 Approved Maximize Productivity with Zoom Scheduling Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-from-beginner-to-champion-essential-drone-races-tips-and-best-models/"><u>[Updated] 2024 Approved From Beginner to Champion Essential Drone Races Tips and Best Models</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-creating-captivating-youtube-thumbnails-for-mac-users/"><u>[Updated] Creating Captivating YouTube Thumbnails for Mac Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-m14-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy M14 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-perfect-audio-gear-for-streamers/"><u>2024 Approved Perfect Audio Gear for Streamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-stop-error-in-hamachi-service-a-step-by-step-guide-to-restoration/"><u>Bypassing the Stop Error in Hamachi Service - A Step-by-Step Guide to Restoration</u></a></li>
+<li><a href="https://common-error.techidaily.com/conclusion-drivers-dont-support-opengl/"><u>Conclusion: Drivers Don't Support OpenGL</u></a></li>
+<li><a href="https://common-error.techidaily.com/endgame-interruptions-fixing-pc-pauses-on-the-go/"><u>Endgame Interruptions: Fixing PC Pauses On-the-Go</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unavailable-steamapi64-dll-in-game/"><u>Fixing Unavailable Steam_api64 DLL in Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-diagnose-and-fix-screen-fluctuations-in-windows-10-environment/"><u>Guide to Diagnose and Fix Screen Fluctuations in Windows 10 Environment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-mastery-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>In 2024, Mastery in Motion Transform YouTube Videos Into Expressive GIFs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-zte-nubia-z60-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on ZTE Nubia Z60 Ultra FRP Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-how-to-successfully-power-off-your-computer-running-windows-11/"><u>Quick Fix: How to Successfully Power Off Your Computer Running Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-no-audio-output-devices-found-on-windows-11/"><u>Solving 'No Audio Output Devices Found' On Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-windows-update-failed-with-code-0x80070643/"><u>Step-by-Step Fix for Windows Update Failed with Code 0X80070643</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-disconnected-remote-servers/"><u>Step-by-Step Solutions for Fixing Disconnected Remote Servers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-savior-narrative-client-reviews/"><u>Tech Savior Narrative: Client Reviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt-for-2024/"><u>Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-turkeys-orthography-a-basic-pronunciation-and-writing-guide/"><u>Unveiling Turkey's Orthography: A Basic Pronunciation & Writing Guide</u></a></li>
 </ul></div>
 

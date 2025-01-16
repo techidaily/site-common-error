@@ -1,7 +1,7 @@
 ---
 title: Easy Fix for Explorer Crash
-date: 2025-01-06T22:34:26.650Z
-updated: 2025-01-10T19:07:21.243Z
+date: 2025-01-11T16:08:33.465Z
+updated: 2025-01-16T16:01:44.721Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
@@ -87,20 +91,20 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-28.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Power** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Next** .
 
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your battery driver
@@ -146,6 +146,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 5: Update your BIOS
@@ -159,7 +163,7 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Type **msinfo32** and click **OK** .
@@ -169,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
@@ -204,22 +204,20 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-seo-savvy-boosting-your-podcasts-discoverability-and-rankings/"><u>[New] 2024 Approved SEO Savvy Boosting Your Podcast's Discoverability and Rankings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ace-the-art-of-tiktok-unboxing-more-likes-less-effort-for-2024/"><u>[New] Ace the Art of TikTok Unboxing More Likes, Less Effort for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-designing-a-memorable-youtube-sign-off-for-2024/"><u>[New] Designing a Memorable YouTube Sign-Off for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>[New] Unleash Your Creativity Effective Techniques for Crafting Podcast Scripts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-s17-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo S17 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dipole-transitions-such-as-electronic-excitations-within-atoms-or-molecules/"><u>Dipole Transitions (Such as Electronic Excitations Within Atoms or Molecules).</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-your-dead-usb-peripherals-mouse-and-keyboard-on-windows-7-systems/"><u>Easy Fixes for Your Dead USB Peripherals: Mouse & Keyboard on Windows 7 Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-itel-a60-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Itel A60.</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-silent-pc-correcting-audio-output-not-detected-errors-in-windows-1110/"><u>Fix Your Silent PC: Correcting 'Audio Output Not Detected' Errors in Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-easily-correct-error-0x800f0831-by-implementing-windows-update-strategies/"><u>How to Easily Correct Error 0X800F0831 by Implementing Windows Update Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-unavailable-content-on-valves-steam-platform/"><u>How to Overcome Unavailable Content on Valve's Steam Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-past-chromes-site-cannot-be-reached-challenge/"><u>Navigating Past Chrome's Site Cannot Be Reached Challenge</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-elite-hdr-camera-choices/"><u>Navigating the World of Elite HDR Camera Choices</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-2024-miracast-unsupported-on-this-device-effective-strategies-and-fixes/"><u>Overcoming the 2024 'Miracast Unsupported on This Device': Effective Strategies and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-high-resource-usage-from-svchostexe-on-win-10-machines/"><u>Troubleshooting High Resource Usage From svchost.exe on Win 10 Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-missing-devices-causes-and-solutions-for-windows-10-8-and-7-error-code-angs-24/"><u>Troubleshooting Missing Devices: Causes and Solutions for Windows 10, 8, and 7 (Error Code Angs 24)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tweaking-sound-on-ps5ps4-games/"><u>Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premier-9-high-quality-online-mic-capture-solutions-23/"><u>[New] Premier 9 High-Quality Online Mic Capture Solutions ('23)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-amplify-your-contents-reach-with-optimal-publishing-days/"><u>2024 Approved Amplify Your Content's Reach with Optimal Publishing Days</u></a></li>
+<li><a href="https://common-error.techidaily.com/apex-legends-basic-anti-tamper-bug-effortless-solution-inside/"><u>Apex Legends Basic Anti-Tamper Bug - Effortless Solution Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-desktop-icons-on-windows-10-a-comprehensive-guide/"><u>Fixing Missing Desktop Icons on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208186898-get-your-aoc-screen-up-and-running-again-on-windows-11-expert-fixes/"><u>Get Your AOC Screen Up and Running Again on Windows 11 - Expert Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonic-havens-expert-picks-of-ringtone-download-sites-for-2024/"><u>Harmonic Havens Expert Picks of Ringtone Download Sites for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-google-pixel-7a-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Google Pixel 7a using Video Repair Utility?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-y100i-power-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Y100i Power 5G Without PUK Codes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-richest-ringtone-repositories-online/"><u>In 2024, Richest Ringtone Repositories Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-google-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Google Phone Network-Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-past-phantom-hazards-removing-false-positives-from-your-google-chrome-experience/"><u>Navigate Past Phantom Hazards: Removing False Positives From Your Google Chrome Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-the-hurdles-of-steams-wide-screen-display/"><u>Overcoming the Hurdles of Steam's Wide Screen Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-video-input-not-found-step-by-step-tutorial-for-a-working-display/"><u>Solving Video Input Not Found – Step-by-Step Tutorial for a Working Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208538500-swift-solutions-jumpstart-your-dead-laptop-battery-right-now/"><u>Swift Solutions: Jumpstart Your Dead Laptop Battery Right Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-how-to-restore-steam-server-connections/"><u>Troubleshooting Success: How to Restore Steam Server Connections</u></a></li>
 </ul></div>
 

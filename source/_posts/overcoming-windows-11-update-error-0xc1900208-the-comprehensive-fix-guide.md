@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 11 Update Error 0Xc1900208 - The Comprehensive Fix Guide
-date: 2025-01-05T17:01:26.246Z
-updated: 2025-01-10T18:01:10.410Z
+date: 2025-01-09T16:02:21.061Z
+updated: 2025-01-16T16:15:11.641Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -51,21 +47,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -82,11 +74,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -98,15 +94,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -117,7 +113,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -130,6 +126,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -154,21 +154,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-navigating-android-video-calls-effortlessly/"><u>[New] Navigating Android Video Calls Effortlessly</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-90-gt-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 90 GT Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-error-successful-strategies-for-addressing-kb40240034-in-windows-10-updates/"><u>Beat the Error: Successful Strategies for Addressing KB40240034 in Windows 10 Updates</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-gpu-drivers-for-rtx-2070-super-compatible-with-windows-10-and-11/"><u>Download and Update GPU Drivers for RTX 2070 Super - Compatible with Windows 10 & 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/expert-evaluation-understanding-the-capabilities-of-the-galaxy-s-ii-by-samsung/"><u>Expert Evaluation: Understanding the Capabilities of the Galaxy S II by Samsung</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-service-is-not-running-error-in-diagnostic-policies/"><u>Fixing the 'Service Is Not Running' Error in Diagnostic Policies</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-address-and-solve-directx-graphics-device-setup-problems/"><u>How to Address and Solve DirectX Graphics Device Setup Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/ibuprofen/"><u>Ibuprofen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-xcover-7-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy XCover 7 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-oneplus-ace-2v-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from OnePlus Ace 2V</u></a></li>
-<li><a href="https://common-error.techidaily.com/rekindle-the-glow-effective-ways-to-repair-and-reactivate-your-corsair-keyboards-light-features/"><u>Rekindle the Glow: Effective Ways to Repair and Reactivate Your Corsair Keyboard's Light Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-device-not-found-issue-in-windows-systems/"><u>Resolved: Fixing the 'Device Not Found' Issue in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-window-sound-problems-how-to-fix-distorted-audio-on-windows-117-computers/"><u>Troubleshooting Window Sound Problems: How to Fix Distorted Audio on Windows 11/7 Computers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unveil-secretive-watch-video-icon/"><u>[New] Unveil Secretive Watch Video Icon</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-windows-update-rolling-again-on-legacy-operating-systems-like-win7-latest-solutions-for-users-seeking-assistance-this-year-with-help-guide-from-e124/"><u>How to Get Windows Update Rolling Again on Legacy Operating Systems Like Win7? - Latest Solutions for Users Seeking Assistance This Year, with Help Guide From Experts of the Field.(Guide & Expert Advice)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-xcover-7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy XCover 7 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-debugging-techniques-identifying-and-resolving-common-javascript-errors/"><u>In 2024, Debugging Techniques Identifying and Resolving Common JavaScript Errors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-11-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 11 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-visual-impact-techniques-for-ai-text-depth/"><u>In 2024, Unleashing Visual Impact Techniques for AI Text Depth</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722130014102-is-a-neighborhood-lawyer-right-for-you-examining-the-pros-and-cons/"><u>Is a Neighborhood Lawyer Right for You? Examining the Pros and Cons</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-countdown-uncover-the-hidden-bargains-on-best-buy-zdnet-highlights/"><u>Prime Day Countdown: Uncover the Hidden Bargains on Best Buy | ZDNet Highlights</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-stop-error-with-32-bit-software-the-end-of-print-driver-host/"><u>Solution Steps: Stop Error with 32-Bit Software - The End Of 'Print Driver Host'</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211227468-solve-your-laptops-usb-mouse-problem-with-these-effective-tips/"><u>Solve Your Laptop's USB Mouse Problem with These Effective Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-disappearing-volume-icon-issue-on-windows-11-an-illustrated-guide/"><u>Solving the Disappearing Volume Icon Issue on Windows 11 – An Illustrated Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-repair-windows-11-update-problems-code-0x80240034/"><u>Step-by-Step Solutions to Repair Windows 11 Update Problems: Code 0X80240034</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-invisible-wi-fi-configurations-in-windows-11/"><u>Troubleshooting Invisible Wi-Fi Configurations in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-windows-1903-update-issues/"><u>Troubleshooting Tips: Resolving Windows 1903 Update Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/king-youtubes-inner-workings-your-path-to-success-for-2024/"><u>Unlocking YouTube's Inner Workings Your Path to Success for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A59 5G | Dr.fone</u></a></li>
 </ul></div>
 

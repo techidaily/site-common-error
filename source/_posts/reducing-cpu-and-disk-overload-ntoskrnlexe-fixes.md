@@ -1,7 +1,7 @@
 ---
 title: "Reducing CPU & Disk Overload: Ntoskrnl.exe Fixes"
-date: 2024-08-27T13:38:09.769Z
-updated: 2024-08-28T13:38:09.769Z
+date: 2025-01-14T16:19:31.714Z
+updated: 2025-01-16T16:00:46.040Z
 tags:
   - win11
   - win10
@@ -26,9 +26,9 @@ League of Legends is a world popular game, but the slow download speed can easil
  Before you try the following fixes, you need to make sure this slow speed issue only happened on League of Legends, which means it’s nothing to do with your internet speed. Otherwise, you may need to check your internet connection first.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,17 +43,23 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
 
 1. Press**Ctrl + Shift + Esc** key together on your keyboard to open the**Task Manager** .
 2. Find League of Legends program. Right-click on it and click**Open file location** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on it and click**Run as administrator** .
 
 Downloading again to see if it works.
@@ -61,8 +67,9 @@ Downloading again to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -70,9 +77,11 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
@@ -84,9 +93,6 @@ Re-download to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -124,9 +130,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -146,8 +149,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-9-premier-apps-for-extracting-and-saving-youtube-videos-on-android/"><u>[New] 2024 Approved 9 Premier Apps for Extracting and Saving YouTube Videos on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-photopony-pro-exploring-affordable-filters/"><u>[New] PhotoPony Pro Exploring Affordable Filters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-anniversary-graphics-kit/"><u>[Updated] 2024 Approved Anniversary Graphics Kit</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-t5-thievery-released-a-deep-dive-review/"><u>[Updated] 2024 Approved T5 Thievery Released - A Deep Dive Review</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-downloading-videos-directly-to-iphoneipad-youtubes-quick-guide/"><u>[Updated] Downloading Videos Directly to iPhone/iPad - YouTube's Quick Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-linux-screenshot-solutions-the-ultimate-guide-for-2024/"><u>[Updated] Linux Screenshot Solutions The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-overcome-steams-persistent-disk-write-glitches-effortlessly/"><u>Effective Strategies to Overcome Steam's Persistent Disk Write Glitches Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-to-initialize-smartaudio-solved/"><u>Failed to Initialize SmartAudio [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-it-windows-10-laptop-stuck-at-plugged-in-not-charging-solutions-inside/"><u>Fix It! Windows 10 Laptop Stuck at 'Plugged in, Not Charging' - Solutions Inside</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revive-your-experience-with-these-key-iphone-x-tips-for-2024/"><u>Revive Your Experience with These Key iPhone X Tips for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-solution-to-write-protection-at-specific-0x-memory-addresses/"><u>The Complete Solution to Write Protection at Specific 0X Memory Addresses</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-zte-blade-a73-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on ZTE Blade A73 5G without backup.</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-strategies-for-reducing-gpu-load-by-the-windows-desktop-window-manager/"><u>Top 5 Strategies for Reducing GPU Load by the Windows Desktop Window Manager</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transforming-legacy-office-areas-into-hubs-of-activity-and-creativity-strategies-unveiled-by-zdnet/"><u>Transforming Legacy Office Areas Into Hubs of Activity & Creativity: Strategies Unveiled by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-fix-the-win32mainthread-failure-error-code-0xc0000098/"><u>Troubleshooting Tips to Fix the Win32_MainThread Failure (Error Code 0Xc0000098)</u></a></li>
+</ul></div>
 

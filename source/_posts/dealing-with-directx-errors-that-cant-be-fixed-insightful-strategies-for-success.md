@@ -1,7 +1,7 @@
 ---
 title: Dealing With DirectX Errors That Can’t Be Fixed - Insightful Strategies for Success
-date: 2024-08-22T19:17:35.847Z
-updated: 2024-08-23T19:17:35.847Z
+date: 2025-01-09T16:18:27.877Z
+updated: 2025-01-16T16:03:45.410Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ It’s a nuisance to see an error pops up saying “**DirectX encountered an unr
 
 **DirectX encountered an unrecoverable error** is associated with DirectX on your computer. It’s likely that your computer doesn’t meet the requirements to play that game, such as your DirectX version is below what’s required.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -30,9 +34,6 @@ It’s a nuisance to see an error pops up saying “**DirectX encountered an unr
 5. **[Change the Display Scaling settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run a complete scan on your PC](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Be sure to meet system requirements
 
  If your computer doesn’t meet the minimum requirements to play the game, you’ll run into problems like the DirectX encountered an unrecoverable error.
@@ -73,11 +74,16 @@ For details of system requirements of other games:
  If your system meets the requirements and you still get the error, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Install the latest patch
 
  Game developers always keep releasing patches to improve their games and fix any issues, so you should check for updates of your game in Steam or from the official website. Then install the latest patch to keep it up to date. This can fix your DirectX error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -95,10 +101,6 @@ For details of system requirements of other games:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ed304dbc.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version for their driver (you can do this with the**FREE** version), then install it in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ef639182.jpg)  
@@ -111,6 +113,10 @@ For details of system requirements of other games:
 Now launch your game again to see if it fixes your problem.
 
  Still no changes? Don’t give up hope. There is something else you can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Upgrade DirectX version
 
@@ -128,9 +134,6 @@ Now launch your game again to see if it fixes your problem.
 2. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6d1c42af90.jpg)
 3. In the**System** tab of the**DirectX** **Dianostic** **Tool** , you can see the**DirectX** information in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c18c7dc5dff8.jpg)
 
  Then see if the DirectX meets the DirectX requirement for the game. If not, you’ll need to upgrade the DirectX version on your computer.
@@ -153,11 +156,13 @@ Here’s what you need to do:
 
 1. Press the**Windows logo key** and**I** at the same time on your keyboard.
 2. Click**System** in the**Settings** pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, ensure to select**100** % for**Scale** **and layout** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 4. Then Windows will apply the changes. Open the game again and see if your problem has been fixed.
 
@@ -167,22 +172,17 @@ Here’s what you need to do:
  Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 2. Choose**100%** or**Smaller** for the size of text and other items on your screen, then click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 3. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Run a complete scan on your PC
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
@@ -208,8 +208,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +215,21 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-motivational-moments-the-ultimate-list-for-insta/"><u>[New] Motivational Moments The Ultimate List for Insta</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-premium-video-capture-without-extras/"><u>[Updated] 2024 Approved Premium Video Capture Without Extras</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-iphones-video-reduction-and-adjustment-tools/"><u>[Updated] In 2024, Mastering iPhone's Video Reduction and Adjustment Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-experts-resource-advanced-screen-capture-techniques-by-zd/"><u>[Updated] The Expert's Resource Advanced Screen Capture Techniques by ZD</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-and-solving-the-mystery-of-http-403-denials-on-your-site/"><u>Deciphering and Solving the Mystery of 'HTTP 403' Denials on Your Site</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-gratuite-de-makemkv-pour-mac-rip-blu-ray-et-dvd-avec-facilite/"><u>Download Gratuite De MakeMKV Pour Mac - Rip Blu-Ray Et DVD Avec Facilité</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-now-optimized-for-windows-11-the-premier-gamers-choice-steelseries-engine/"><u>Download Now: Optimized for Windows 11, The Premier Gamer's Choice – SteelSeries Engine</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-get-the-space-bar-working-again-on-windows-11-devices/"><u>Expert Tips: Get the Space Bar Working Again on Windows 11 Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-binkw32dll-error-a-step-by-step-repair-tutorial/"><u>Overcoming the Binkw32.dll Error: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-non-working-fn-keys-on-lenovo-laptops-best-practices/"><u>Quick Fix for Non-Working FN Keys on Lenovo Laptops: Best Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-failed-steam-game-files-dll/"><u>Repairing Failed Steam Game Files (Dll)</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-circumvent-file-cap-on-windows/"><u>Strategies to Circumvent File Cap on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ideal-display-setup-high-quality-144hz-uws/"><u>The Ideal Display Setup: High-Quality, 144Hz UWs</u></a></li>
+</ul></div>
 

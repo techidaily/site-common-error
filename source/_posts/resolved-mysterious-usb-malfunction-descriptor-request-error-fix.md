@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Mysterious USB Malfunction - Descriptor Request Error Fix"
-date: 2025-01-05T18:26:06.988Z
-updated: 2025-01-11T00:16:41.964Z
+date: 2025-01-10T16:10:03.505Z
+updated: 2025-01-16T16:28:14.059Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Perform a two button shutdown
 
  Your touch screen may stop working properly if there are corruption issues on your Surface Pro 4\. You need to perform a **two button shutdown**  to shut it down completely to see if this can clear these issues and restore your touch screen.
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 **4) Start** your device. Then try your touch screen and see if it can work.  
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Install system updates
 
  Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
@@ -54,16 +62,12 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
@@ -71,14 +75,14 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Update the driver of your touch screen
@@ -101,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Reset your Surface Pro 4
 
@@ -145,24 +145,24 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-clips-to-tunes-explained-in-detail/"><u>[New] 2024 Approved Instagram Clips to Tunes Explained in Detail</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-5-must-know-strategies-for-effective-team-video-calls-for-2024/"><u>[New] 5 Must-Know Strategies for Effective Team Video Calls for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens/"><u>[New] In 2024, Enrich Viewers' Experience A Comprehensive Guide to Youtube End Screens</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ultimedia-caption-compiler/"><u>[New] Multimedia Caption Compiler</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-best-16-youtube-intro-makers-to-bring-you-more-views/"><u>[Updated] 2024 Approved Best 16 YouTube Intro Makers to Bring You More Views</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fine-tuning-your-fb-videos-aspect-ratios-decoded/"><u>[Updated] 2024 Approved Fine-Tuning Your FB Videos Aspect Ratios Decoded</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/crafting-authentic-asian-mini-homes-in-mc-for-2024/"><u>Crafting Authentic Asian Mini-Homes in MC for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-a-malfunctioning-lenovo-keyboard-expert-tips-and-tricks/"><u>Diagnosing and Fixing a Malfunctioning Lenovo Keyboard: Expert Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-startup-keyboard-issues-and-regaining-control/"><u>Expert Advice: Overcoming Startup Keyboard Issues and Regaining Control</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ferrari-california-desktop-backgrounds-by-yl-computing-high-quality-digital-artwork-collection/"><u>Ferrari California Desktop Backgrounds by YL Computing: High-Quality Digital Artwork Collection</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2v-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock OnePlus Ace 2V Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-bluetooth-pairings-effective-solutions-to-connect-your-devices-on-windows-11-tips/"><u>Mastering Bluetooth Pairings: Effective Solutions to Connect Your Devices on Windows 11 (Tips )</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-livekernelevent-mishap-strategies-to-fix-error-code-144-swiftly/"><u>Mastering the LiveKernelEvent Mishap: Strategies to Fix Error Code 144 Swiftly</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-common-issues-with-windows-update-failures/"><u>Resolving Common Issues with Windows Update Failures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-directly-with-chatgpt/"><u>Talk Directly with ChatGPT!</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-repairing-and-resolving-a-0x8007049-grotesque-error-in-your-pcs-update-system-fixed/"><u>The Ultimate Guide to Repairing and Resolving a 0X8007049 Grotesque Error in Your PC's Update System [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-is-runtime-broker-and-fix-its-high-cpu-error-on-windows-11-solved/"><u>What Is Runtime Broker and Fix Its High CPU Error on Windows 11 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-your-microsoft-surface-isnt-holding-a-charge-fixes-and-explanations/"><u>Why Your Microsoft Surface Isn't Holding a Charge: Fixes and Explanations</u></a></li>
-<li><a href="https://common-error.techidaily.com/yac519-yamahaaturbosound-ii-sound-module-based-on-the-ymf748ymu740-dsp-plus-midi-synthesizer-plus-codec-and-64-mb-of-sram-for-sample-storage-instead-of-rom-65/"><u>YAC519 - Yamaha'aturboSound II Sound Module Based on the YMF748/YMU740 (DSP + MIDI Synthesizer + Codec) and 64 MB of SRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-essential-guide-to-windows-11-photovideo-importing-techniques/"><u>[New] Essential Guide to Windows 11 Photo/Video Importing Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unexplored-instagram-tricks-for-enhanced-engagement/"><u>[Updated] In 2024, Unexplored Instagram Tricks for Enhanced Engagement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-navigating-channel-disabling-pc-and-phone-guide/"><u>2024 Approved Navigating Channel Disabling PC & Phone Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-0x800f0922-bug-easy-steps-for-successful-windows-10-update/"><u>Beat the 0X800F0922 Bug: Easy Steps for Successful Windows 10 Update</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-honor-x9a-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor X9a Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-seamlessly-how-to-resolve-your-stadia-headsets-pairing-difficulties/"><u>Connecting Seamlessly: How to Resolve Your Stadia Headset’s Pairing Difficulties</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeated-error-tackling-and-resolving-the-frozen-windows-config-screen/"><u>Defeated Error: Tackling and Resolving the Frozen Windows Config Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-superior-bot-talent-gpt-plus-or-perplexity/"><u>Discovering Superior Bot Talent: GPT Plus or Perplexity?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212386648-fix-blank-spots-in-device-manager-see-touchpad/"><u>Fix Blank Spots in Device Manager, See Touchpad</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-problem-of-windows-unable-to-reach-sensvc-system-event-notification-service/"><u>Fixing the Problem of Windows Unable to Reach SENSVc (System Event Notification Service)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-content-servers-unreachable-on-steam-platforms/"><u>How To Overcome 'Content Servers Unreachable' On Steam Platforms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-c67-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme C67 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-nuances-of-audio-overlap-crossfade/"><u>In 2024, Exploring the Nuances of Audio Overlap (Crossfade)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-cut-to-the-chase-reliable-filmora-promo-codes-here/"><u>New 2024 Approved Cut to the Chase Reliable Filmora Promo Codes Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-xerox-printing-update-error-0x800f020b-on-pcs-with-windows/"><u>Step-by-Step Fix for Xerox Printing Update Error 0X800f020b on PCs with Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-missing-letters-on-your-win-11-keyboard-step-by-step-solutions/"><u>Troubleshooting Missing Letters on Your Win 11 Keyboard – Step-by-Step Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-auto-start-understanding-your-windows-10-pcs-self-booting-issue/"><u>Unexpected Auto-Start: Understanding Your Windows 10 PC's Self-Booting Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-t-kt-battlegrounds-fixing-the-dx11-v100-compatibility-issue/"><u>WWE ˈtʊ Kɪtʃ 🥊Battlegrounds: Fixing the DX11 v10.0 Compatibility Issue</u></a></li>
 </ul></div>
 

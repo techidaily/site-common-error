@@ -1,7 +1,7 @@
 ---
 title: "Code Blocked: Operation on Hold"
-date: 2024-08-27T13:32:59.760Z
-updated: 2024-08-28T13:32:59.761Z
+date: 2025-01-14T16:09:02.362Z
+updated: 2025-01-16T16:23:16.559Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 
 ## Achieve Seamless Xbox One Operation on Computer
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/xbox-one-controller-not-working-issue-4-300x284.jpg)
 
  Fix xbox one controller not working issue
@@ -26,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 
  There are four methods to fix the problem. You may not have to try them all. Just work your way down at the top of list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Try these fixes for the Xbox one controller not working issue
 
 1. **[Unplug and Replug the Controller (Wired Only)](#method1)**
@@ -38,17 +32,10 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 
 **Note: Method 1** and**Method 2** only works for wired Xbox One Controller. If you’re using a wireless controller, please skip and move to other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Method 1: Unplug the Controller then Replug it (Wired Only)
 
  Try to unplug and replug the controller to the computer. This simple method should be the first method you can try, as it always work like a charm.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Use a Different USB Cable (Wired Only)
 
  If you’re using a wired controller, a broken USB cable can be the cause. Try a cable with no problem and check to see if the problem is resolved.
@@ -63,12 +50,18 @@ Follow these steps to update the driver via Device Manager:
 2. Type **devmgmt.msc**   and press **Enter**   on your keyboard to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-1.png)
 3. Expand**Microsoft Xbox One Controller** . Right-click on it and click **Update Driver Software** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/05/img_591d497d71563.png)
 4. Select**Search automatically for updated driver software** . Then Windows will install the new driver.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, follow steps below to update the driver again:
 
@@ -76,20 +69,27 @@ Follow these steps to update the driver via Device Manager:
 2. Click **Browse my computer for driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-3.png)
 3. Click **Let me pick from a list of device drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-4.png)
 4. Select **Microsoft Xbox One Controller** then click**Next** button.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-5.png)
 5. Select**Microsoft Xbox One Controller** and click**Next** to run the driver installation.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this still doesn’t work for you, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Update the Driver Using Driver Easy
 
  The steps above may resolve the problem, but if they don’t, try to use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) to automatically update the drivers.
@@ -116,8 +116,6 @@ If this still doesn’t work for you, please move on.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +123,24 @@ If this still doesn’t work for you, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-comparing-bites-new-insights-on-hero5-and-yi-4k-cameras/"><u>[New] Comparing Bites New Insights on Hero5 & Yi 4K Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premier-options-to-play-sonys-ps1-games-on-pc/"><u>[New] Premier Options to Play Sony's PS1 Games on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-20-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark 20 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhance-your-gaming-experience-effective-solutions-for-fixing-fallout-4-lag-issues/"><u>Enhance Your Gaming Experience: Effective Solutions for Fixing Fallout 4 Lag Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/experiencing-problems-with-netflix-heres-how-to-determine-and-fix-them/"><u>Experiencing Problems with Netflix? Here's How to Determine and Fix Them</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-boundaries-understanding-the-concept-of-limits/"><u>Exploring Boundaries: Understanding the Concept of Limits</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-repairing-user-profile-and-authentication-problems-in-windows-11/"><u>Guide to Repairing User Profile and Authentication Problems in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-in-building-a-d3d-rendering-pipeline/"><u>How to Fix the Error in Building a D3D Rendering Pipeline</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-malfunctioning-lenovo-mouse-pad-compatible-with-all-windows-platforms/"><u>How to Repair a Malfunctioning Lenovo Mouse Pad Compatible with All Windows Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-gt-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme GT 5 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-inactive-outlook-delivery-reports-on-desktop/"><u>Overcoming Inactive Outlook Delivery Reports on Desktop</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-infinite-loading-barriers-in-skyrim-gaming-experience/"><u>Overcoming Infinite Loading Barriers in Skyrim Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-samsung-smart-tv-applications-in-2n24/"><u>Top Rated Samsung Smart TV Applications in 2N24</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-restoring-usb-peripherals-in-windows-7/"><u>Troubleshooting Guide for Restoring USB Peripherals in Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-restarts-in-windows-11-pcs/"><u>Unexpected Restarts in Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726225795737-tta-movavi/"><u>무료 웹 매체에서 고안한 TTA 이미지 변환 – Movavi의 보조 도구를 통해</u></a></li>
+</ul></div>
 

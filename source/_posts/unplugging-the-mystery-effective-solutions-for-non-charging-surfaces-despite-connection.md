@@ -1,7 +1,7 @@
 ---
 title: "Unplugging the Mystery: Effective Solutions for Non-Charging Surfaces Despite Connection"
-date: 2025-01-04T19:47:44.894Z
-updated: 2025-01-11T00:01:23.005Z
+date: 2025-01-09T16:12:23.160Z
+updated: 2025-01-16T16:01:48.777Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -50,23 +46,23 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
@@ -74,26 +70,30 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
 
@@ -140,24 +140,24 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-seasons-skate-top-10-2022-review/"><u>[New] 2024 Approved Season's Skate Top 10 - 2022 Review</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-mastery-in-motion-a-guide-for-expert-color-balancing-for-2024/"><u>[New] Mastery in Motion A Guide for Expert Color Balancing for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-seamlessly-sync-your-ideas-on-mematic/"><u>[Updated] 2024 Approved Seamlessly Sync Your Ideas on Mematic</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-common-wacom-tablet-issues/"><u>Expert Tips for Overcoming Common Wacom Tablet Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-rpc-server-not-responding-error-for-a-smooth-windows-experience/"><u>Fixing the 'RPC Server Not Responding' Error for a Smooth Windows Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-tv-vs-android-tv-explained-understanding-key-contrasts-in-streaming-devices/"><u>Google TV Vs. Android TV Explained - Understanding Key Contrasts in Streaming Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-mastering-iphone-x-identity-verification-restoring-biometric-lock/"><u>In 2024, Mastering iPhone X Identity Verification Restoring Biometric Lock</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-windows-update-error-0x8024402c-with-ease-detailed-solutions-inside/"><u>Overcome the Windows Update Error (0X8024402c) with Ease - Detailed Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-incompatibility-a-guide-for-making-your-devices-driver-compatible-in-wow/"><u>Overcoming Incompatibility: A Guide for Making Your Device's Driver Compatible in WoW</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-display-flicker-problems-in-windows-10-operating-system/"><u>Resolving Display Flicker Problems in Windows 10 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/see-event-june-17-1940-the-dow-jones-industrial-average-hits-a-peak-of-18256-before-the-united-states-enters-world-war-ii-relating-to-equities-as-it-exempli21/"><u>See Event [June 17, 1940]: The Dow Jones Industrial Average Hits a Peak of 182.56 Before the United States Enters World War II, Relating to 'Equities' As It Exemplifies a High Valuation Period Prior to Significant Economic Upheaval.</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2645511-9780752462301-shadows-in-the-steam/"><u>Shadows in the Steam | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-windows-11-mouses-missing-right-click-feature/"><u>Solving Your Windows 11 Mouse's Missing Right-Click Feature</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-power-state-errors-in-windows-drivers/"><u>Step-by-Step Tutorial: Correcting Power State Errors in Windows Drivers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-v30-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme V30 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/valorant-gaming-optimization-conquering-the-common-screen-tear-trouble/"><u>Valorant Gaming Optimization - Conquering the Common Screen Tear Trouble</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-lg-27ud88-uhd-tv-with-usb-type-c/"><u>[New] Breaking Down LG 27UD88-UHD TV with USB Type-C</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iecing-together-engaging-stream-previews-for-2024/"><u>[New] Piecing Together Engaging Stream Previews for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/kyrocket-your-youtube-speed-with-effective-render-techniques-for-2024/"><u>[New] Skyrocket Your YouTube Speed with Effective Render Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram/"><u>[Updated] 2024 Approved Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>[Updated] In 2024, Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-fixes-for-unsuccessful-installation-of-windows-11-update-1607/"><u>Common Fixes for Unsuccessful Installation of Windows 11 Update 1607</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tutorial-solve-your-dells-pitch-black-screen-problem-with-ease/"><u>Comprehensive Tutorial: Solve Your Dell's Pitch-Black Screen Problem with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/contrast-and-composition-theory-in-design/"><u>Contrast and Composition Theory in Design</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-issues-with-unresponsive-led-lighting-in-corsair-keyboards/"><u>Expert Advice on Resolving Issues with Unresponsive LED Lighting in Corsair Keyboards</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-tasty-adventures-with-our-choice-of-10-best-food-related-shows-on-netflix/"><u>Explore Tasty Adventures with Our Choice of 10 Best Food-Related Shows on Netflix</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-plugged-in-but-not-charging-issue-on-pcs-running-windows-710/"><u>Fixing the 'Plugged In but Not Charging' Issue on PCs Running Windows 7/10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-stepwise-strategy-editing-multi-snap-chats-with-ease/"><u>In 2024, Stepwise Strategy Editing Multi-Snap Chats with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/msmpengexe-eating-up-too-much-cpu-windows-10-solved/"><u>MsMpEng.exe Eating up Too Much CPU Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-shockwave-flash-no-longer-supported-by-google-chrome/"><u>Resolved: Shockwave Flash No Longer Supported by Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-asus-laptop-keyboard-issues-when-your-fn-keys-wont-work/"><u>Solving Asus Laptop Keyboard Issues: When Your Fn Keys Won't Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-responsive-issues-eliminate-lag-from-your-windows-1nkey/"><u>Tackling Responsive Issues: Eliminate Lag From Your Windows 1Nkey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-dialogue-in-film-and-theatre/"><u>The Art of Dialogue in Film and Theatre</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-fixes-for-livekernelevent-error-number-117-step-by-step-tutorial/"><u>Unlocking Fixes for LiveKernelEvent Error Number 117 – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-wont-my-aoc-display-work-on-windows-10-fix-it-now/"><u>Why Won't My AOC Display Work on Windows 10? Fix It Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ERR_TOO_MANY_REDIRECTS Fixed: Fast Solutions!"
-date: 2024-08-27T13:31:59.322Z
-updated: 2024-08-28T13:31:59.322Z
+date: 2025-01-09T16:14:13.163Z
+updated: 2025-01-16T16:18:39.079Z
 tags:
   - win11
   - win10
@@ -47,55 +47,52 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 **a)** Type “_**chrome://settings**_ ” in the address bar and press **Enter** , and then click on**Show advanced settings** at the**bottom** of the Settings page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f58f4389cc.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5932c4650.png)
 
 **b)** Click on **Clear browsing data** button.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a02deb5a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  Click **Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a4277ce0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And on **Mozilla Firefox** :
 
 **a)**  Click the**Menu** button of Firefox, and then select**Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c7cb124c.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c93bf987.png)
 
 **b)** Select**Privacy** and then**clear your recent history** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5d86b7592.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)** Select**Everything** for Time range to clear and then click **Clear Now** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5e6e3334a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the browser data are cleared, you can try logging in the website and see if the error is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3) Check your browser extensions
 
  The ERR\_TOO\_MANY\_REDIRECTS may be caused by a wrong browser extension. You should open the extension manager in your browser to check the extensions you have installed on your browser.
@@ -104,33 +101,24 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 **a)**  For**Chrome** , type “_**chrome://extensions**_ ” in the address bar and press **Enter** . Then you can see all the extensions listed below, and you can try enabling or disabling any of them.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f642024598.png)
 
 **b)**  For **Firefox** ,type “ _**about:addons**_ ” in the address bar, press **Enter** , and then select**Extensions** . You will see all the extensions for Firefox is listed here.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f6496cf6c6.png)
 
  You can **disable all the extensions** to see if this fix the problem. If it does, you can enable**one extension at a time** to identify the one that causes the trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4) Correct your system date and time
 
  Usually you meet the ERR\_TOO\_MANY\_REDIRECTS error due to the incorrect or outdated date and time settings on your system. To correct your system date and time.
 
 **a)** Press**Win + R** keys on your keyboard to invoke Run box. Type “_**control**_ ” and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f827608c6c.png)
 
 **b)** In Control Panel, select**Date and Time** .
@@ -141,9 +129,17 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f83de02494.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)** In Internet Time Settings, tick **Synchronize with an Internet time server** and select a**time server** . Then click on**Update now** , and hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f84b23c29a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The date and time on your system is now updated.
 
@@ -160,8 +156,6 @@ The date and time on your system is now updated.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +163,20 @@ The date and time on your system is now updated.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-sincere-evaluation-of-a-digital-audio-player/"><u>[Updated] In 2024, The Sincere Evaluation of a Digital Audio Player</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728505790686-5/"><u>馬基來姆反射克隆術 - 簡單方法5步驟補丁失敗的修正手段</u></a></li>
+<li><a href="https://common-error.techidaily.com/darkened-panel-uncharted-issue/"><u>Darkened Panel: Uncharted Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-random-pc-turn-offs-heres-how-to-fix-it/"><u>Dealing with Random PC Turn-Offs? Here's How to Fix It!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/flawless-photography-with-picarts-background-erasure-tricks/"><u>Flawless Photography with PicArt’s Background Erasure Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-lava-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Lava Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exemplary-execution-using-apple-watch-to-open-mac/"><u>In 2024, Exemplary Execution Using Apple Watch to Open Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mousepad-wont-work-try-these-fixes-for-windows-1087-users/"><u>Lenovo Mousepad Won't Work? Try These Fixes for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204623668-overcome-google-chromes-hang-problem-easy-solutions-inside/"><u>Overcome Google Chrome's Hang Problem: Easy Solutions Inside</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/retrieve-missing-files-and-directories-in-windows-versions-a-step-by-step-guide/"><u>Retrieve Missing Files and Directories in Windows Versions - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-how-to-rectify-imessage-is-signed-out-error-on-iphone/"><u>Step by Step: How to Rectify iMessage Is Signed Out Error on iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-ps4s-noisy-fans-understanding-and-solutions/"><u>Troubleshooting Your PS4's Noisy Fans – Understanding and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-svchostexes-overuse-of-cpu-resources-in-windows-11-guide/"><u>Winning the Battle Against svchost.exe's Overuse of CPU Resources in Windows 11 [Guide]</u></a></li>
+</ul></div>
 

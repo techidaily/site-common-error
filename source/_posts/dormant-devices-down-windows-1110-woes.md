@@ -1,7 +1,7 @@
 ---
 title: "Dormant Devices Down: Windows 11/10 Woes"
-date: 2025-01-03T21:34:23.105Z
-updated: 2025-01-10T16:11:52.645Z
+date: 2025-01-14T16:13:24.247Z
+updated: 2025-01-16T16:12:24.304Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ The good news is that it can be fixed quickly and easily.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is System interrupts?
 
  System interrupts are an official part of the Windows operating system. It manages the communication between your computer hardware and system. You can find it shown as a process in Task Manager. That’s used to display the CPU usage of all hardware interrupts.
@@ -41,7 +45,7 @@ The good news is that it can be fixed quickly and easily.
 * [Solution 4. Modify your network adapter properties](#h-solution-4-modify-your-network-adapter-properties)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Quick & Easy
@@ -55,6 +59,10 @@ The good news is that it can be fixed quickly and easily.
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand any dialog and**right-click** on your device to choose**Update driver** . Choose**Update driver** and click**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c88ea4cdfe.jpg)
 3. Then Windows will start to detect the update for your device.
@@ -80,6 +88,10 @@ The good news is that it can be fixed quickly and easily.
 
  If updating the driver didn’t help you, go on to follow other solutions:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 3: Disable USB Root Hubs
 
  USB hardware can also cause System interrupts and high CPU issues. You can disable USB Root Hubs in Device Manager to fix it.
@@ -88,16 +100,8 @@ The good news is that it can be fixed quickly and easily.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
 3. After disabling your USB Root Hubs, check if the CPU usage comes down.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To check which USB Root Hub is for your keyboard and mouse:
 
@@ -106,7 +110,11 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 4\. Modify your network adapter properties
@@ -122,11 +130,7 @@ To check which USB Root Hub is for your keyboard and mouse:
 4. See if the system interrupts still consume a high CPU usage on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 5: Repair system files
@@ -139,10 +143,6 @@ To check which USB Root Hub is for your keyboard and mouse:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -175,24 +175,22 @@ To check which USB Root Hub is for your keyboard and mouse:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-broadcast-battle-analyzing-obs-vs-twitchs-pros/"><u>[New] 2024 Approved Broadcast Battle Analyzing OBS Vs. Twitch's Pros</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones-for-2024/"><u>[Updated] Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-noskyshadowtool-premium-bg-elimination-software/"><u>2024 Approved NoSkyShadowTool Premium BG Elimination Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-win11s-ultimate-screen-recording-kit/"><u>2024 Approved Win11's Ultimate Screen Recording Kit</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202702840-access-denied-on-your-computer-install-the-necessary-printer-drivers-first/"><u>Access Denied on Your Computer? Install the Necessary Printer Drivers First!</u></a></li>
-<li><a href="https://common-error.techidaily.com/apex-legends-troubleshooting-easily-correcting-the-error-cheats-detected/"><u>Apex Legends Troubleshooting: Easily Correcting the Error - Cheats Detected</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-solving-the-mfc42dll-cannot-be-located-error/"><u>Comprehensive Guide: Solving The 'mfc42.dll Cannot Be Located' Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209058146-desktop-icon-disappearance-issue-in-windows-11-heres-the-solution/"><u>Desktop Icon Disappearance Issue in Windows 11? Here's the Solution!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/evolving-shopper-behavior-in-vr-realms-for-2024/"><u>Evolving Shopper Behavior in VR Realms for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-best-gaming-selection-with-google-play-pass-your-comprehensive-guide/"><u>Explore the Best Gaming Selection with Google Play Pass: Your Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastery-in-documentary-writing-essential-techniques/"><u>Mastery in Documentary Writing Essential Techniques</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audiovisual-archive-top-10-digital-destinations-for-sound-track-download/"><u>New In 2024, Audiovisual Archive Top 10 Digital Destinations for Sound Track Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-troubleshooting-the-installation-incomplete-on-windows/"><u>Quick Guide: Troubleshooting the 'Installation Incomplete On Windows'</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-opencl-dll-absence-issues/"><u>Resolving OpenCL DLL Absence Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-numbers-a-guide-to-fixing-unresponsive-keyboard-digits/"><u>Reviving Numbers: A Guide to Fixing Unresponsive Keyboard Digits</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-problems-when-upgrading-to-windows-1903-a-step-by-step-guide/"><u>Solving Problems When Upgrading to Windows 1903: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-printer-proofing-your-pdfs-swift-solutions-to-the-rescue/"><u>Trouble Printer-Proofing Your PDFs? Swift Solutions to the Rescue!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-windows-11-crimson-display-problem/"><u>Troubleshooting and Fixing the Windows 11 Crimson Display Problem</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-visual-impact-blueprint-for-success-in-instagram-video-campaigns/"><u>[New] 2024 Approved Visual Impact Blueprint for Success in Instagram Video Campaigns</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-fixing-dropped-frames-a-complete-guide-for-obs-studio-users/"><u>[New] Fixing Dropped Frames A Complete Guide for OBS Studio Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-minecraft-wont-launch-in-windows/"><u>[SOLVED] Minecraft Won’t Launch in Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elite-selection-top-downloader-apps-for-vimeo-videos/"><u>[Updated] Elite Selection Top Downloader Apps for Vimeo Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-captivating-content-with-a-click-phones-and-youtube/"><u>2024 Approved Captivating Content with a Click Phones & YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquered-redscreenofdeath-problem-a-comprehensive-solution-manual/"><u>Conquered REDSCREENOFDEATH Problem: A Comprehensive Solution Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unknown-usb-device-errors-with-ease-detailed-solutions/"><u>How to Fix Unknown USB Device Errors with Ease - Detailed Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/identifying-motherboard-issues-expert-guide-from-yl-computing/"><u>Identifying Motherboard Issues: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-dissecting-sound-forge-an-experts-guide-to-audio-mastery/"><u>In 2024, Dissecting Sound Forge An Experts Guide to Audio Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-investing-in-google-one-a-smart-choice-uncover-the-details-with-zdnets-insight/"><u>Is Investing in Google One a Smart Choice? Uncover the Details with ZDNet's Insight</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-trick-to-eliminate-constant-usb-not-detected-pop-ups-for-good/"><u>Master the Trick to Eliminate Constant 'USB Not Detected' Pop-Ups for Good!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-errors-a-comprehensive-step-by-step-fix-for-lenovos-broken-fingerprint-access/"><u>Overcoming Errors: A Comprehensive Step-by-Step Fix for Lenovo's Broken Fingerprint Access</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pc-iphoneipad-winx-mediatrans/"><u>PC에서 iPhone/iPad로 쉽게 이동할 수 있는 WinX MediaTrans™: 사진, 음악, 비디오를 원활하게 전송</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/speedy-sound-solutions-for-smartphone-users/"><u>Speedy Sound Solutions for Smartphone Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/stuck-keyboard-keys-under-windows-diagnosis-and-remedies-explained/"><u>Stuck Keyboard Keys Under Windows: Diagnosis & Remedies Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-fix-for-windows-n-error-in-updating-or-refreshing-your-computer/"><u>Successful Fix for Windows N Error in Updating or Refreshing Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-shutdowns-in-windows-10/"><u>Unexpected Shutdowns in Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Your AOC Display Failures in Windows 11 Setup
-date: 2024-08-27T13:37:11.146Z
-updated: 2024-08-28T13:37:11.146Z
+date: 2025-01-09T16:03:45.710Z
+updated: 2025-01-16T16:01:58.060Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ The**80240020** error happens usually when the Windows 10 files that you downloa
 
 Luckily, this is an easy question to solve. Please follow the steps below to get this problem fixed. **Step One**1) Navigate to**C:\\$Windows.\~BT**folder. If you cannot see this folder, please make sure that you have checked the hidden items.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-bt-600x427.jpg)
 
 Delete as many files in this folder as you can. You might not be able to delete all the files due to permission issues. 2) Navigate to**C:\\Windows\\SoftwareDistribution\\Download** and delete all the files in this folder. Please note that you don’t have to delete**Download**folder, but rather, you need to delete the content in it.
@@ -32,37 +29,22 @@ Delete as many files in this folder as you can. You might not be able to delete 
 
 3) Type**cmd.exe**in the search box in**Start**panel and right click the option**cmd**and choose**Run as administrator**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/run-as-administrator.jpg)Click**Yes**at this prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/uac-command-processor.jpg)
 
 4) Type**wuauclt.exe/updatenow**and hit**Enter**key. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5394edbd33.png) **Step Two** **Warning**: Before you proceed with this step, please make sure that you have back up your registry first just in case any irreversible errors happen. Refer to this post to see[**how to backup and restore your registry**](https://tools.techidaily.com/drivereasy/download/). 1) Press**Windows key**and**R**at the same time, then type in**regedit**and hit**Enter**. When prompted for administrator permission, click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/regedit.png)
 
 2) Then follow the path:   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hkey_local_machinesoftwaremicrosoftwindowscurrentversionwindowsupdateosupgrade-600x394.jpg)
 
 3) On the right side of the pane, right click on the blank spot and select**New > DWORD (32-bit) Value**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-dword-32-bit-value-600x396.jpg)
 
 4) Rename the value to**AllowOSUpgrade**. Then double click the value and set the**Value data**to**1**. Then click**OK**to save the change.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58140207aba43-600x394.jpg)
 
  Your**Windows Update** panel should come out in a couple of seconds. If it won’t open automatically, you can open this panel from Control Panel manually. Then, you should be able to download your Windows 10 from scratch.
@@ -75,8 +57,6 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +64,28 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-pathways-ensuring-correct-iphone-snapchat-data-flow-for-2024/"><u>[New] Innovative Pathways Ensuring Correct iPhone-Snapchat Data Flow for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-zooms-full-spectrum-of-live-video-capabilities/"><u>[New] Leveraging Zoom's Full Spectrum of Live Video Capabilities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unleash-your-creative-genius-with-iphone-x-camera/"><u>2024 Approved Unleash Your Creative Genius with iPhone X Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211010595-dragon-ball-fighterz-connectivity-issue-successfully-resolved/"><u>Dragon Ball FighterZ Connectivity Issue - Successfully Resolved!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enhance-virtual-engagement-streaming-with-finesse-using-zoom-and-youtube-live-for-2024/"><u>Enhance Virtual Engagement Streaming with Finesse Using Zoom and YouTube Live for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/expert-tips-from-yl-computing-secreting-data-invisible-to-others-in-windows-11/"><u>Expert Tips From YL Computing: Secreting Data Invisible to Others in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974437910-fire-extinguishing-agents-work-by-interrupting-the-chemical-reactions-involved-in-combustion/"><u>Fire Extinguishing Agents Work by Interrupting the Chemical Reactions Involved in Combustion</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-crackling-sound-on-speakers-for-windows-11-and-7-users-resolved/"><u>How to Fix Crackling Sound on Speakers for Windows 11 & 7 Users – Resolved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-an-unresponsive-dns-top-five-strategies/"><u>Overcoming the Challenge of an Unresponsive DNS: Top Five Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-steps-to-stop-excessive-cpu-consumption-by-wudfhostexe-on-windows-10/"><u>Resolved: Troubleshooting Steps to Stop Excessive CPU Consumption by wudfhost.exe on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unpairing-problems-in-windows-10-bluetooth-devices/"><u>Step-by-Step Solutions for Unpairing Problems in Windows 10 Bluetooth Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo V30 Lite 5G FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-laptop-trackpad-issues-on-windows-11-8-and-7/"><u>Troubleshooting Guide: Fixing Laptop Trackpad Issues on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-logitech-scroll-wheel-stops-working-correctly/"><u>Troubleshooting Tips for When Your Logitech Scroll Wheel Stops Working Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-get-your-usb-mouse-back-in-action-on-a-laptop/"><u>Troubleshooting: How to Get Your USB Mouse Back in Action on a Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-mystery-of-persistent-usb-disconnections/"><u>Ultimate Guide: Solving the Mystery of Persistent USB Disconnections</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-network-diagnostics-how-to-execute-the-tracert-tool-in-windows/"><u>Unlocking Network Diagnostics: How to Execute the Tracert Tool in Windows</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Nonfunctional Keyboard Issues During System Boot"
-date: 2025-01-04T21:02:15.238Z
-updated: 2025-01-10T21:03:25.187Z
+date: 2025-01-13T16:28:48.509Z
+updated: 2025-01-16T16:03:59.677Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -62,15 +66,19 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
@@ -78,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -94,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -116,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
@@ -131,19 +135,11 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -154,6 +150,10 @@ If this method didn’t work for you, check out the last fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -176,24 +176,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-economical-mic-options-for-youtube-vloggers-for-2024/"><u>[New] Economical Mic Options for YouTube Vloggers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pixelated-palace-beginner-friendly-home-design-guide/"><u>[Updated] 2024 Approved Pixelated Palace Beginner-Friendly Home Design Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quality-improvement-for-skype-video-calls/"><u>[Updated] 2024 Approved Quality Improvement for Skype Video Calls</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-maximizing-b-roll-creative-uses-and-integration-for-2024/"><u>[Updated] Maximizing B-Roll Creative Uses and Integration for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-pioneering-video-tech-s-camera-race/"><u>[Updated] Pioneering Video Tech 'S Camera Race</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-storage-capacity-64gb-vs-128gb-for-video-files/"><u>[Updated] Storage Capacity 64GB vs 128GB for Video Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-and-solve-the-reset-your-pc-problem-on-windows-11-expert-advice-and-strategies/"><u>Decode and Solve the 'Reset Your PC' Problem on Windows 11: Expert Advice & Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-your-league-of-legends-download-with-these-simple-solutions/"><u>Fast-Track Your League of Legends Download with These Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-darkness-to-light-a-step-by-step-guide-to-fixing-your-windows-screen-issues/"><u>From Darkness to Light: A Step-by-Step Guide to Fixing Your Windows Screen Issues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-quick-fix-for-skyrims-constant-loading-bug-now/"><u>Master the Quick Fix for Skyrim's Constant Loading Bug Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-the-shift-key-failure-issue-on-your-pclaptop/"><u>Quick Solutions: Resolving the 'Shift Key Failure' Issue on Your PC/Laptop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-engaging-with-advanced-ai-through-quoras-integration-of-chatbots-and-llms/"><u>Step-by-Step Guide: Engaging with Advanced AI Through Quora's Integration of Chatbots and LLMs</u></a></li>
-<li><a href="https://common-error.techidaily.com/stuck-on-a-non-printable-pdf-effortless-strategies-for-immediate-results/"><u>Stuck on a Non-Printable PDF? Effortless Strategies for Immediate Results</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-windows-update-issue-0x8024401c-in-windows-11-systems/"><u>Troubleshooting and Fixing Windows Update Issue 0X8024401c in Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-graphics-driver-unavailable-issue-in-detail/"><u>Troubleshooting the 'Graphics Driver Unavailable' Issue in Detail</u></a></li>
-<li><a href="https://facebook.techidaily.com/turn-the-tables-on-fb-with-off-facebook-activity-insight/"><u>Turn the Tables on FB with Off-Facebook Activity Insight</u></a></li>
-<li><a href="https://common-error.techidaily.com/unauthorized-access-denied-solutions-inside/"><u>Unauthorized Access Denied: Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-command-attention-elevating-your-page-to-the-social-summit/"><u>[New] 2024 Approved Command Attention Elevating Your Page to the Social Summit</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-media-conversion-youtube-to-mp3-on-appleos/"><u>[Updated] 2024 Approved Mastering Media Conversion YouTube to MP3 on AppleOS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-gateway-to-grandeur-embarking-on-a-classic-lit-journey/"><u>[Updated] Gateway to Grandeur Embarking on a Classic Lit Journey</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-premier-guide-to-free-online-meetings-and-sharing-screens/"><u>2024 Approved The Premier Guide to FREE Online Meetings & Sharing Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-update-blues-fixing-error-code-0x8024002e-on-your-windows-system-solved/"><u>Beat the Update Blues: Fixing Error Code 0X8024002e on Your Windows System [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-the-latest-firmware-download-and-setup-of-epson-ds-510-on-windows-pcs/"><u>Easy Instructions for the Latest Firmware Download & Setup of Epson DS-510 on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-overcoming-secure-socket-layer-ssl-issues-on-firefox-platforms/"><u>Expert Solutions for Overcoming Secure Socket Layer (SSL) Issues on Firefox Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-display-after-it-stops-responding-and-recovers/"><u>Expert Tips to Restore Display After It Stops Responding and Recovers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-io-device-error/"><u>How to Fix an I/O Device Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modern-combat-fixes-eliminating-dev-error-6068-in-call-of-dutys-mw-warzone/"><u>Modern Combat Fixes: Eliminating Dev Error 6068 in Call of Duty's MW Warzone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-you-dont-need-professional-camera-equipment-if-you-want-to-create-time-lapse-videos-you-can-share-on-your-social-media-accounts-because-there-ar/"><u>New In 2024, You Dont Need Professional Camera Equipment if You Want to Create Time-Lapse Videos You Can Share on Your Social Media Accounts because There Are Plenty of Apps that Let You Create These Types of Vid</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-frozen-taskbar-on-windows-11/"><u>Top Solutions: Fixing the Frozen Taskbar on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-gaming-experience-with-the-sale-priced-acer-nitro-a-stunning-24-curved-monitor-now-available-at-a-fantastic-price-of-only-81/"><u>Transform Your Gaming Experience with the Sale-Priced Acer Nitro: A Stunning 24 Curved Monitor Now Available at a Fantastic Price of Only $ 81!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-warframe-update-failed-error/"><u>Troubleshooting Steps for 'Warframe Update Failed' Error</u></a></li>
 </ul></div>
 

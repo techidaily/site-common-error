@@ -1,7 +1,7 @@
 ---
 title: Optimize System Performance by Curtailing MsMpEng.exe CPU Drainage in Windows 10
-date: 2025-01-07T19:45:21.351Z
-updated: 2025-01-11T00:22:36.264Z
+date: 2025-01-12T16:09:45.210Z
+updated: 2025-01-16T16:11:04.374Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **What is svchost.exe?**
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
@@ -88,13 +88,13 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9) See if the problem is resolved.
 
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
@@ -118,11 +118,11 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
- 4) Restart your computer after this.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Restart your computer after this.
 
 ## **4: Troubleshoot Windows Updates issues**
 
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click**Windows Update** and click **Stop** .
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -164,15 +164,15 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,17 +189,24 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723208435044-fixed-this-device-is-not-present-code-24-windows-10-8-or-7/"><u>[Fixed] This Device Is Not Present (Code 24) – Windows 10, 8 or 7</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-harmony-of-collaboration-brands-and-youtube-unite-for-2024/"><u>[New] The Harmony of Collaboration Brands & YouTube Unite for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-captivating-youtube-closures-expert-guides-included/"><u>[Updated] 2024 Approved Crafting Captivating YouTube Closures - Expert Guides Included</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-innovating-visual-stories-through-hyperlapse/"><u>[Updated] Innovating Visual Stories Through Hyperlapse</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfect-flying-buddies-top-toys-for-children/"><u>2024 Approved Perfect Flying Buddies Top Toys for Children</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-and-rectifying-an-intractable-directx-error/"><u>Deciphering and Rectifying an Intractable DirectX Error</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-leap-forward-with-llama-v31-by-meta-how-genai-is-evolving-a-zdnet-analysis/"><u>Exploring the Leap Forward with LLaMA v3.1 by Meta: How GenAI Is Evolving – A ZDNET Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-generative-ai-search-work-and-which-companies-are-using-it/"><u>How Does Generative AI Search Work & Which Companies Are Using It?</u></a></li>
-<li><a href="https://common-error.techidaily.com/improving-interaction-speed-between-printer-and-scan-devices-epson/"><u>Improving Interaction Speed Between Printer & Scan Devices (Epson)</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/troubleshooting-laptop-boot-issues-following-a-system-update-tips-and-solutions-by-yl-computing-yl-software-insights/"><u>Troubleshooting Laptop Boot Issues Following a System Update: Tips and Solutions by YL Computing | YL Software Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-print-to-pdf-functionality-in-windows-11-by-microsoft/"><u>Troubleshooting Print to PDF Functionality in Windows 11 by Microsoft</u></a></li>
-<li><a href="https://common-error.techidaily.com/wow-reimagined-revolutionizing-gaming-experience-with-advanced-3d-graphics/"><u>WoW Reimagined: Revolutionizing Gaming Experience with Advanced 3D Graphics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>[New] 2024 Approved Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-premier-vr-screens-producers/"><u>[New] In 2024, Premier VR Screens Producers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201931076-solved-how-to-boost-your-windowslinux-performance-and-reduce-shell-induced-high-cpu-use/"><u>[Solved] How to Boost Your Windows/Linux Performance and Reduce Shell-Induced High CPU Use</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-topics-to-cover-in-your-vlogs/"><u>[Updated] 2024 Approved Fresh Topics to Cover in Your Vlogs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-viral-videos-not-pricey-twitter-video-to-gif-conversion/"><u>[Updated] In 2024, Viral Videos, Not Pricey Twitter Video to GIF Conversion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-melodic-mastery-for-game-dominance-in-free-fire/"><u>[Updated] Melodic Mastery for Game Dominance in Free Fire</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-cultivate-creativity-best-video-concepts-for-viewers/"><u>2024 Approved Cultivate Creativity Best Video Concepts for Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/"><u>2024 Approved Smooth Sailing with Kinemaster in Film Edits</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-lower-network-traffic-tackling-the-svchostexe-netsvcs-challenge/"><u>Effective Strategies to Lower Network Traffic: Tackling the svchost.exe (NETsvcs) Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-malfunctioning-windows-keyboard-buttons/"><u>Fix Malfunctioning Windows Keyboard Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-broken-usb-ports-on-windows-11-devices-quick-solutions/"><u>Fixing Broken USB Ports on Windows 11 Devices – Quick Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-fixed-the-windows-1n-update-not-installing-issue-tips-and-tricks-inside/"><u>How I Fixed the Windows 1N Update Not Installing Issue – Tips & Tricks Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/inconsistent-text-replication-windows-11/"><u>Inconsistent Text Replication, Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-mixed-media-with-color-for-2024/"><u>Mastering Mixed Media with Color for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-stop-your-pc-from-falling-asleep-unintentionally/"><u>Quick Fixes: How to Stop Your PC From Falling Asleep Unintentionally</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-bluetooth-woes-windows-11-wireless-fixes-and-tips-for-pairing-success/"><u>Solve Your Bluetooth Woes: Windows ˈ11 Wireless Fixes and Tips for Pairing Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-gaming-nights-innovative-techniques-to-design-dandd-characters-with-chatgpt-and-dall-e/"><u>Transform Gaming Nights: Innovative Techniques to Design D&D Characters with ChatGPT & DALL-E</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-11-startup-crashes/"><u>Troubleshooting Guide: Resolving Windows 11 Startup Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-wireless-controller-connection-problem-heres-how-to-fix-it/"><u>Xbox One Wireless Controller Connection Problem? Here's How to Fix It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'Access Denied' Message for Windows Device Files
-date: 2024-08-27T13:38:23.885Z
-updated: 2024-08-28T13:38:23.885Z
+date: 2025-01-11T16:19:05.353Z
+updated: 2025-01-16T16:29:39.297Z
 tags:
   - win11
   - win10
@@ -38,16 +38,10 @@ and etc.
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca149cf04d.png)
 
  When prompted with the UAC, hit**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
 
 2) In the Command Prompt window, type in the following command:
@@ -56,9 +50,6 @@ sfc /scannow
 
  Make sure that you have made no typo and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca221df44e.jpg)
 
 Leave the Command Prompt window on until the command completes.
@@ -69,9 +60,6 @@ Leave the Command Prompt window on until the command completes.
 
  4) If you see a message saying   **Windows Resource Protection found corrupt files but was unable to fix some of them** , then you need to go to[**safe mode**](https://tools.techidaily.com/drivereasy/download/) and run the system file checker again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca59f1f21f.jpg)
 
  If the SFC command doesn’t work well, please mve on to the next section to run the DISM command to fix the SFC command problem and then run SFC command again.
@@ -82,16 +70,10 @@ Leave the Command Prompt window on until the command completes.
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca149cf04d.png)
 
  When prompted with the UAC, hit**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
 
 2) In the Command Prompt window, type in the following command:
@@ -136,8 +118,6 @@ For more detailed information, please go to the posts below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +125,22 @@ For more detailed information, please go to the posts below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-start-with-snapseed-a-foundation-for-image-editing/"><u>[New] 2024 Approved Start with Snapseed A Foundation for Image Editing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-guide-to-winning-on-spotify-ad-campaigns/"><u>[New] Essential Guide to Winning on Spotify Ad Campaigns</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-discover-easy-fb-ad-videos-free-creation-kit-available/"><u>[New] In 2024, Discover Easy FB Ad Videos – FREE Creation Kit Available</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fabricate-funny-faces/"><u>[Updated] Fabricate Funny Faces</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-moto-g-5g-2023-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Moto G 5G (2023) Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-uac-messages-for-system-changes-on-windows-11107/"><u>Overcome UAC Messages for System Changes on WIndows 11/10/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplified-processes-connecting-with-bluetooth-technology-on-windows-7/"><u>Simplified Processes: Connecting with Bluetooth Technology on Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-missing-sound-device-problem-in-windows-11/"><u>Step-by-Step Solutions for the Missing Sound Device Problem in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-future-of-domestic-chores-a-detailed-review-of-the-dreame-bot-l10-pros-lidar-system/"><u>The Future of Domestic Chores: A Detailed Review of the Dreame Bot L10 Pro's LiDAR System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-improper-side-by-side-assembly-settings-in-windows-10/"><u>Troubleshooting & Fixing Improper Side-by-Side Assembly Settings in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/unfreeze-gameplay-easy-steps-to-smooth-computer-gaming/"><u>Unfreeze Gameplay: Easy Steps to Smooth Computer Gaming</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

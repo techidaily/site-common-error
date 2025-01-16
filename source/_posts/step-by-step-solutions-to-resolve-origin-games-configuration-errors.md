@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Resolve Origin Games Configuration Errors.
-date: 2025-01-08T19:19:41.875Z
-updated: 2025-01-10T17:59:57.438Z
+date: 2025-01-14T16:02:09.304Z
+updated: 2025-01-16T16:23:26.263Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,7 +59,7 @@ To do this:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the**Compatibility** tab and click**Change settings for all users** .  
@@ -65,10 +69,6 @@ To do this:
  3) Under the**Settings** section, click**Run this program as an administrator** . Then click**Apply** .  
   
 ![run Warframe as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-3-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After applying the changes, try relaunching Warframe.
 
@@ -101,7 +101,7 @@ After applying the changes, try relaunching Warframe.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/ethernet-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Under the**Ethernet** section, you can see if it’s connected or not.  
@@ -124,10 +124,6 @@ ethernet
   
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/open-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type the commands below**one by one** and**before** you type the next one, remember to press**Enter** on your keyboard.  
   
 **ipconfig/flushdns**
@@ -142,10 +138,6 @@ ethernet
  You can update your network card driver by following these[steps](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair/ Update Microsoft Visual C++ Redistributable
 
@@ -163,12 +155,16 @@ Both the repairing and updating might work. So just choose one of them.
 ![open control panel ](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Programs and Features**
 
 ![repair download packages; Warframe update failed](https://images.drivereasy.com/wp-content/uploads/2020/09/program-and-features.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Under the**Uninstall or change a program** section, find the**Microsoft Visual C++** packages.
 
@@ -177,6 +173,10 @@ Both the repairing and updating might work. So just choose one of them.
  4) Right-click on it and click**Change** .
 
 ![repair Microsoft Visual C++](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) When the**Modify Setup** window pops up, click**Repair** .
 
@@ -188,15 +188,15 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Update Microsoft Visual** **C++**
 
  To update Microsoft Visual C++, you need to go to the[download page](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) and install it manually.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall DirectX
 
@@ -218,15 +218,19 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-the-settings-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Uncheck**Bulk Download** and when the**Warning** window appears, click**OK** . Then click**OK** on the**Settings** window.
 
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-launcher-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Verify the download cache
 
@@ -235,10 +239,6 @@ Both the repairing and updating might work. So just choose one of them.
  2) Under the**Download Cache** section, click**Verify** .
 
 ![verify Warframe download cache](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-Warframe-download-cache-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the**Verify Game Data?** window, click**OK** .
 
@@ -287,18 +287,21 @@ To use a VPN service, you need to download a VPN application.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capturing-competitive-overwatch-in-minutes/"><u>[New] In 2024, Capturing Competitive Overwatch in Minutes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-seamless-filmmaking-kinemaster-transition-techniques/"><u>[Updated] Seamless Filmmaking Kinemaster Transition Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies-for-2024/"><u>[Updated] The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-an-unresponsive-webcam-on-hp-laptops-with-windows-10/"><u>Diagnosing and Repairing an Unresponsive Webcam on HP Laptops with Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-usb-device-keep-getting-unplugged-errors/"><u>How To Solve 'USB Device Keep Getting Unplugged' Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-frequent-automatic-sleep-mode-on-pc-or-mac-effortlessly/"><u>How to Stop Frequent Automatic Sleep Mode on PC or Mac Effortlessly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-deskjet-ink-advantage-series-2676dwireless-plus-driver-downloads-latest-version/"><u>HP Deskjet Ink Advantage Series 2676D/Wireless Plus Driver Downloads - Latest Version</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-hot-30i-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Hot 30i Without PUK Codes</u></a></li>
-<li><a href="https://common-error.techidaily.com/recalibrated-reengage-close-proximity-protection-systems/"><u>Recalibrated: Reengage Close Proximity Protection Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-windows-11-a-deep-dive-into-system-file-checker-sfc-and-deployment-image-servicing-management/"><u>Reviving Windows 11: A Deep Dive Into System File Checker (SFC) and Deployment Image Servicing Management</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-missing-or-corrupted-media-drivers-on-computers/"><u>Troubleshooting Guide for Missing or Corrupted Media Drivers on Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-full-potential-navigating-switch-login/"><u>Unlocking Full Potential: Navigating Switch Login</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/swf-m4v-onlinetransformationcom/"><u>무료 앱으로 스위프(swf)를 M4V로 바꾸기: 모바이비 - Onlinetransformation.com</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-connect-movie-files-in-youtv-catalog/"><u>[New] 2024 Approved Connect Movie Files in YouTV Catalog</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-best-miniature-portable-dvd-systems-ranked/"><u>[New] Best Miniature Portable DVD Systems Ranked</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-page-visibility-key-techniques/"><u>[Updated] Mastering Facebook Page Visibility Key Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[Updated] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-windows-sudden-cpu-usage-peaks/"><u>Addressing Windows' Sudden CPU Usage Peaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-failed-minecraft-loads-on-your-windows-system/"><u>Diagnosing and Fixing Failed Minecraft Loads on Your Window's System</u></a></li>
+<li><a href="https://common-error.techidaily.com/gaining-authorization-from-trustedinstaller-to-make-changes-to-encrypted-files/"><u>Gaining Authorization From TrustedInstaller to Make Changes to Encrypted Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-bootloader-easily-by-drfone-android/"><u>How to Unlock Honor X9b Bootloader Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-locked-icloud-features-on-your-apple-device-with-simple-fixes/"><u>Overcoming Locked iCloud Features on Your Apple Device with Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-d3dx939dll-not-found-issue-step-by-step-guide/"><u>Resolve the 'd3dx9_39.dll' Not Found Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-volume-functionality-on-your-windows-latebolz-step-by-step-fixes/"><u>Restore Volume Functionality on Your Windows ˈlaɪtəbóʊlz - Step by Step Fixes</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-tecno-pop-8-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Tecno Pop 8</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-successful-smartaudio-activation-after-initial-failures-resolved/"><u>Tips for Successful SmartAudio Activation After Initial Failures - Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-display-problems-on-your-favorite-sites/"><u>Troubleshooting Display Problems on Your Favorite Sites</u></a></li>
 </ul></div>
 

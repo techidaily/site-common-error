@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Lenovo Keyboard Not Working"
-date: 2024-08-27T13:36:34.535Z
-updated: 2024-08-28T13:36:34.535Z
+date: 2025-01-14T16:03:54.708Z
+updated: 2025-01-16T16:26:06.174Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
 If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, try methods in this post. Try each of these methods in order. See if the keys works after each method. Move on to next method if the issue still persists. After trying all methods, the issue should resolve.  
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 1: Uninstall Keyboard Driver in Device Manager**
 
  The keyboard would not work correctly if there’s a problem with the keyboard driver. Try to have the driver reloaded and see if the problem resolves.  
@@ -32,13 +33,19 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd39ed6472.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Windows will prompt you to confirm the uninstallation. Click**OK**  button to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd3f6b4d25.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Reboot your PC as soon as possible. Then Windows will load the keyboard driver automatically.
 
 ###
@@ -63,19 +70,11 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fc095f3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your laptop, and check to see if your keyboard works.
 
@@ -83,9 +82,6 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
   
  We would try our best effort to help you fix the problem. In this case, you don’t need to spend more time on searching further solutions.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 3: Restart the HID Human Interface Service**
 
  If HID Human Interface Service is disabled, hotkeys won’t work at all.
@@ -95,16 +91,15 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
   
  2\. Type**services.msc** in the run box and click **OK** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd7d0f3270.png)
   
- 3\. In the**Name** list of services in the Details pane, double-click**Human Interface Device Access** , and then make sure that the Startup type is set to Automatic.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 3\. In the**Name** list of services in the Details pane, double-click**Human Interface Device Access** , and then make sure that the Startup type is set to Automatic.  
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd8aec4887.png) ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd93f7da33.png)
   
  4\. If you change the setting, restart the computer for the change to take effect.
@@ -119,8 +114,6 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +121,24 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>[New] In 2024, From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-ultimate-12-portable-camera-reviews-for-dynamic-vlogging/"><u>[Updated] 2024 Approved The Ultimate 12 Portable Camera Reviews For Dynamic Vlogging</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-guide-downloading-and-converting-vimeo-video-mp4-for-2024/"><u>[Updated] Expert Guide Downloading and Converting Vimeo Video (MP4) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-your-live-feed-free-cam-recording-and-top-picks-for-2024/"><u>[Updated] Unlock Your Live Feed Free Cam Recording & Top Picks for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-optimize-gmail-for-video-calls-with-effective-zoom-use/"><u>2024 Approved Optimize Gmail for Video Calls with Effective Zoom Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/hack-the-lag-how-to-get-your-iphones-safari-up-to-speed-with-these-4-solutions/"><u>Hack the Lag - How to Get Your iPhone's Safari Up to Speed with These 4 Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-dimmed-or-broken-keyboard-backlit-feature-on-windowsmac-machines/"><u>How to Restore Functionality of Dimmed or Broken Keyboard Backlit Feature on Windows/Mac Machines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-8t-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 8T Phone with Broken Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210913579-quick-fixes-for-when-your-laptops-mic-wont-work-now-resolved/"><u>Quick Fixes for When Your Laptop's Mic Won't Work – Now Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-when-your-hamachi-connection-drops-unexpectedly/"><u>Quick Solutions for When Your Hamachi Connection Drops Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-error-code-0x80-in-microsoft-windows-store-troubleshooting-strategies-that-work/"><u>Tackling 'Error Code 0X80# in Microsoft Windows Store: Troubleshooting Strategies That Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-to-your-impossible-to-change-monitor-dilemableresolution-success-story/"><u>The Ultimate Fix to Your Impossible-to-Change Monitor Dilemableresolution Success Story</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-7-indispensable-software-for-windows-users-explained/"><u>The Ultimate List of 7 Indispensable Software for Windows Users Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-pc-connection-issues-with-your-bluetooth-keyboard/"><u>Troubleshooting Guide: Resolving PC Connection Issues with Your Bluetooth Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-unresponsive-laptop-touchpads-what-you-need-to-know/"><u>Troubleshooting Techniques for Unresponsive Laptop Touchpads: What You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-victory-the-resolution-of-nba-2k21s-notorious-green-bug/"><u>Unlocking Victory: The Resolution of NBA 2K21's Notorious Green Bug</u></a></li>
+<li><a href="https://video-capture.techidaily.com/windowsaiff/"><u>Windows上のワブ形式からAiffへの迅速かつ完全な大量変換手法</u></a></li>
+</ul></div>
 

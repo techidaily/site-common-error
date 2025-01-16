@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Mystery: Understanding Unexpected Restarts in Your Windows 10 PC"
-date: 2025-01-03T20:48:33.944Z
-updated: 2025-01-10T23:51:28.297Z
+date: 2025-01-12T16:30:17.538Z
+updated: 2025-01-16T16:27:14.045Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -45,12 +41,16 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Display** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Check if you’re able to see the TV as a second monitor.
 
@@ -63,19 +63,15 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, check to see if Windows can detect your TV.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
 
@@ -94,7 +90,7 @@ After that, check to see if Windows can detect your TV.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -102,6 +98,10 @@ After that, check to see if Windows can detect your TV.
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
@@ -126,18 +126,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-fixes-for-iphoneandroidchrome-why-are-facebook-videos-blurry-in-2024/"><u>[New] Fixes for iPhone/Android/Chrome | Why Are Facebook Videos Blurry, In 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-breaking-the-videography-code-download-and-preserve-media-on-fb/"><u>[Updated] In 2024, Breaking the Videography Code Download and Preserve Media on FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exceptional-book-trailer-selections/"><u>[Updated] In 2024, Exceptional Book Trailer Selections</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-youtube-tech-required/"><u>[Updated] In 2024, From Zero to Hero YouTube Tech Required</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/decode-the-bug-effective-fixes-for-total-war-three-kingdoms-system-errors/"><u>Decode the Bug: Effective Fixes for Total War: Three Kingdoms System Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-restoring-audio-on-your-astro-a4tic-50-expert-mic-troubleshooting-advice/"><u>Diagnosing & Restoring Audio on Your Astro A4tic 50: Expert Mic Troubleshooting Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-trouble-shooting-techniques-for-a-defective-mic-in-your-steelseries-arctis-5-headset/"><u>Effective Trouble Shooting Techniques for a Defective Mic in Your SteelSeries Arctis 5 Headset</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-and-fix-the-fatal-error-1603-during-software-installation/"><u>How to Resolve and Fix the 'Fatal Error 1603' During Software Installation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a14-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A14 4G Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-soft-image-effects-in-iphone-photography-4-tips-for-2024/"><u>Mastering Soft Image Effects in iPhone Photography (4 Tips!) For 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/template-tips-for-efficient-and-effective-youtube-intros-for-2024/"><u>Template Tips for Efficient and Effective YouTube Intros for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-hardware-guided-by-toms-tech-wisdom/"><u>The Ultimate Resource for Computer Hardware - Guided by Tom's Tech Wisdom</u></a></li>
-<li><a href="https://common-error.techidaily.com/uncover-hidden-networks-solutions-for-non-visible-wi-fi-in-windows-11/"><u>Uncover Hidden Networks: Solutions for Non-Visible Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-a-treasure-trove-of-premium-youtube-images-from-6-websites/"><u>[New] In 2024, A Treasure Trove of Premium YouTube Images From 6 Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-assessing-64gb-for-video-file-storing-power/"><u>[New] In 2024, Assessing 64GB for Video File Storing Power</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-tech-savvy-ways-to-record-mac-lectures/"><u>[Updated] Tech-Savvy Ways to Record Mac Lectures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-microphone-list-for-best-asmr-sound/"><u>[Updated] The Ultimate Microphone List for Best ASMR Sound</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-webinar-label-builder-kit-for-2024/"><u>Expert Webinar Label Builder Kit for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-zoom-video-working-5-essential-steps-you-need/"><u>How To Get Zoom Video Working - 5 Essential Steps You Need</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-persistent-windows-update-error-code-0x80070490/"><u>How to Resolve the Persistent Windows Update Error (Code 0X80070490)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-amd-drivers-on-windows-10-11-and-7/"><u>How to Update AMD Drivers on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-safeguard-protocols-need-activation-action-steps-inside/"><u>Local Safeguard Protocols Need Activation – Action Steps Inside.</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-prolonged-exit-time-for-a-swift-windows-10-shutdown/"><u>Overcoming Prolonged Exit Time for a Swift Windows 10 Shutdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quantum-quadrants-cinematic-frontiers/"><u>Quantum Quadrants Cinematic Frontiers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207259541-sticky-keyboard-issues-in-windows-heres-how-you-can-get-them-working-smoothly-again/"><u>Sticky Keyboard Issues in Windows? Here's How You Can Get Them Working Smoothly Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/tear-free-gaming-achieved-fixing-screen-ripples-in-the-battle-of-champions-valorant/"><u>Tear-Free Gaming Achieved: Fixing Screen Ripples in the Battle of Champions, VALORANT</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-with-your-hp-laptops-webcam-on-windows-10/"><u>Troubleshooting Guide: Resolving Issues with Your HP Laptop's Webcam on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-windows-device-path-and-file-accessibility-problems/"><u>Troubleshooting Steps for Windows Device Path and File Accessibility Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-sound-issues-on-your-acer-laptop/"><u>Troubleshooting Steps: Resolving Sound Issues on Your Acer Laptop</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-secrets-to-effective-fb-video-advertising-with-best-practices-for-2024/"><u>Unveiling the Secrets to Effective FB Video Advertising with Best Practices for 2024</u></a></li>
 </ul></div>
 

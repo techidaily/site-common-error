@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Wacom Pen Not Working on Windows 11/10"
-date: 2025-01-05T18:14:12.230Z
-updated: 2025-01-10T20:17:33.741Z
+date: 2025-01-11T16:30:08.639Z
+updated: 2025-01-16T16:09:48.123Z
 tags:
   - win11
   - win10
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2: Disable certain svchost.exe services**
@@ -62,16 +62,12 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
@@ -82,23 +78,19 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Repeat the steps until you locate the faulty process.
 
  6) Once you find the faulty service, click the **Open Services** button and go to the **Service** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
@@ -115,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
@@ -123,12 +115,16 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer after this.
 
@@ -140,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
@@ -149,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -189,22 +189,22 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-start-with-smart-edits-10-tips-for-new-photoshop-users/"><u>[New] Start with Smart Edits 10 Tips for New Photoshop Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-spectral-rgb-vs-srgb-formats/"><u>[Updated] Spectral Rgb Vs Srgb Formats</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-breakdown-of-the-new-macbook-air-chipsets-unveiling-apples-m3-m3-pro-and-mmax-variants-a-buyers-guide-gadgetwisetech/"><u>Comprehensive Breakdown of the New MacBook Air Chipsets: Unveiling Apple’s M3, M3 Pro & M_MAX Variants – A Buyer's Guide | GadgetWiseTech</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-troubleshoot-restoring-functionality-to-a-malfunctioning-xbox-sensor-bar/"><u>Comprehensive Troubleshoot: Restoring Functionality to a Malfunctioning Xbox Sensor Bar</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-the-mystery-quick-fixes-for-error-code-5-in-minecraft/"><u>Decode the Mystery: Quick Fixes for Error Code 5 in Minecraft</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-tackle-svchostexes-heavy-load-problem-in-your-windows-10-system/"><u>Effective Strategies to Tackle svchost.exe's Heavy Load Problem in Your Windows 10 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210547932-expert-advice-eliminate-error-code-0x80072efd-from-windows-10-step-by-step-fixes/"><u>Expert Advice: Eliminate Error Code 0X80072EFD From Windows 10 - Step-by-Step Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-to-restoring-functionality-of-webcams-on-a-windows-computer/"><u>Expert Guide to Restoring Functionality of Webcams on a Windows Computer</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-drones-best-prices-now/"><u>In 2024, Prime Drones, Best Prices Now</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/preserve-instagram-pics-and-videos-for-long-term-storage/"><u>Preserve Instagram Pics and Videos for Long-Term Storage</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210268836-solving-the-bluetooth-missing-dilemma-on-your-windows-10-device-today/"><u>Solving the 'Bluetooth Missing' Dilemma on Your Windows 10 Device Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-secret-to-knowing-who-accesses-your-files-revealing-google-doc-viewers-list/"><u>The Secret to Knowing Who Accesses Your Files: Revealing Google Doc Viewers List</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/title-the-future-of-remote-patient-monitoring-empowering-healthcare-from-afar/"><u>Title: The Future of Remote Patient Monitoring - Empowering Healthcare From Afar</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-huion-pen-issues-with-these-5-effective-tips/"><u>Troubleshoot Your Huion Pen Issues with These 5 Effective Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-missing-charge-indicator-easy-fix-guide/"><u>Windows 10 Missing Charge Indicator? Easy Fix Guide!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exclusive-list-skypes-top-audio-recorders/"><u>[New] Exclusive List Skype's Top Audio Recorders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-scripting-your-storys-visual-heartbeat-at-home/"><u>[New] Scripting Your Story's Visual Heartbeat at Home</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-engineering-a-standout-tiktok-endcap/"><u>[Updated] Engineering A Standout TikTok Endcap</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-ios-slideshow-programming-for-the-newest-models/"><u>[Updated] In 2024, Top iOS Slideshow Programming for the Newest Models</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-aesthetic-essentials-for-youtube-artistry/"><u>2024 Approved Free Aesthetic Essentials for YouTube Artistry</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-woes-discover-how-to-ensure-flawless-pairing-with-your-windows-11-device-by-2024/"><u>Bluetooth Woes? Discover How to Ensure Flawless Pairing with Your Windows 11 Device by 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210476291-bringing-life-back-to-darkened-mac-and-windows-keyboards-fixes-inside/"><u>Bringing Life Back to Darkened Mac & Windows Keyboards – Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-repairing-errors-in-directx-9-graphics-device-setup/"><u>Comprehensive Guide: Repairing Errors in DirectX 9 Graphics Device Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-tech-support-restoring-functionality-in-your-latest-home-automation-hub/"><u>DIY Tech Support: Restoring Functionality in Your Latest Home Automation Hub</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-to-your-device-download-videos-for-2024/"><u>FB to Your Device - Download Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207565069-how-to-overcome-the-persistent-windows-update-error-0x80070002-successfully/"><u>How to Overcome the Persistent Windows Update Error 0X80070002 Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-dwms-gpu-load-five-effective-strategies-for-windows-11-users/"><u>How to Reduce DWM's GPU Load: Five Effective Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/reappearing-the-vanished-pointing-finger-a-guide-for-touchpad-users-on-windows-11/"><u>Reappearing the Vanished Pointing Finger: A Guide for Touchpad Users on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-solving-audio-problems-with-windows-11-volume-slider/"><u>Step-by-Step Guide to Solving Audio Problems with Windows 11 Volume Slider</u></a></li>
+<li><a href="https://blog-min.techidaily.com/superficiel-dencodeur-video-h265-le-top-convertisseur-hevc-pour-mac-et-pc-solution-securisee/"><u>Superficiel D'encodeur Vidéo H.265 : Le Top Convertisseur HEVC Pour Mac Et PC - Solution Sécurisée</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transforming-your-footage-into-shareable-youtube-stories/"><u>Transforming Your Footage Into Shareable YouTube Stories</u></a></li>
 </ul></div>
 

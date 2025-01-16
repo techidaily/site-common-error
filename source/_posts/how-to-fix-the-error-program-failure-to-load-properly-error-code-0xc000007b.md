@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Error: Program Failure to Load Properly (Error Code 0xC000007B)"
-date: 2025-01-09T16:28:41.576Z
-updated: 2025-01-10T19:26:50.688Z
+date: 2025-01-14T16:02:00.990Z
+updated: 2025-01-16T16:05:25.665Z
 tags:
   - win11
   - win10
@@ -42,7 +42,7 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Right-click on**Microsoft Store Install Service** and click**Start** .  
@@ -52,8 +52,16 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51623b61cf7.jpg)
 4. Select**Manual** in**Startup type** , click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51629aa2ad6.jpg)
 5. Launch your Windows Store again and see if the problem has been solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -64,10 +72,6 @@ But don’t worry, it’s not hard to fix at all…
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Type **the following command** and press **Enter** :  
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
@@ -77,10 +81,6 @@ But don’t worry, it’s not hard to fix at all…
 4. Restart your computer, run Windows Store again and see if it works properly this time.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -99,8 +99,16 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hope everything goes off without a hitch on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the problem still lingers on after trying Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** for more expedient and efficient guidance. ?
 
@@ -113,10 +121,6 @@ But don’t worry, it’s not hard to fix at all…
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click   **OK**  .  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. **Click Change adapter settings .**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)**
 3. Right-click on**the network adpater** (Ethernet in my case) and click **Properties** .  
@@ -124,12 +128,12 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b22081a8ea67.jpg)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)**  and then click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2228b800796.jpg)
 5. Click option **Use the following DNS server addreses** ,
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  for **Preferred DNS server** , enter **8.8.8.8** ;
 
@@ -139,16 +143,12 @@ But don’t worry, it’s not hard to fix at all…
  ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2229e75f892.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Restart your computer and re-launch your Windows Store to see if it works fine now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 5: Register Windows Store package**
 
@@ -158,7 +158,7 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Copy & paste**the following command** into the window and press**Enter** .  
@@ -187,24 +187,20 @@ But don’t worry, it’s not hard to fix at all…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-foundations-of-using-zooms-clustering-feature/"><u>[New] In 2024, Foundations of Using Zoom's Clustering Feature</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elite-battlefield-series-review-best-of-the-best-total-war-edition/"><u>[Updated] 2024 Approved Elite Battlefield Series Review Best of the Best (Total War Edition)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-the-moment-expert-use-of-aiseesofts-recording-features-for-2024/"><u>[Updated] Capturing the Moment Expert Use of Aiseesoft's Recording Features for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>[Updated] Unveil Clearer Visuals Essential Tips for Zooming on Snapchat</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211240891-bluetooth-not-working-on-windows-11-discover-the-quick-solutions/"><u>Bluetooth Not Working on Windows 11? Discover the Quick Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-window-11s-perpetual-reboot-problem/"><u>Diagnosing and Repairing Window 11'S Perpetual Reboot Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-your-program-visibility-win11-style/"><u>Fine-Tuning Your Program Visibility: Win11 Style</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-error-code-0x80073712-in-windows-10-expert-solutions-revealed/"><u>How to Resolve 'Error Code 0X80073712' In Windows 10 – Expert Solutions Revealed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-startup-failure-issue-code-0xc000007b-step-by-step-guide/"><u>How To Successfully Overcome The Startup Failure Issue (Code 0Xc000007b) - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-core-i9-14900kf-sets-new-performance-milestone-nearing-91-ghz/"><u>Intel's Core I9-14900KF Sets New Performance Milestone Nearing 9.1 GHz</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-sound-problems-in-youtube-overcoming-audio-renderer-errors-on-windows-11/"><u>Troubleshoot Sound Problems in YouTube: Overcoming Audio Renderer Errors on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nonfunctional-keyboard-in-windows-systems-win-1187/"><u>Troubleshooting Nonfunctional Keyboard in Windows Systems (Win 11/8/7)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-restoring-your-apple-airpods-airpods-pro-and-airpods-max/"><u>Ultimate Guide: Restoring Your Apple AirPods, AirPods Pro, and AirPods Max</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-addressing-the-administrator-permission-needed-message-across-various-windows-versions/"><u>Understanding and Addressing the 'Administrator Permission Needed' Message Across Various Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-c00000e9-bsod-detailed-strategies-for-restoring-your-pcs-stability/"><u>Understanding and Fixing the C00000e9 BSOD: Detailed Strategies for Restoring Your PC's Stability</u></a></li>
-<li><a href="https://win-news.techidaily.com/understanding-your-built-in-protection-does-windows-come-with-free-defender-antivirus-tech-advice-from-yl-software/"><u>Understanding Your Built-In Protection: Does Windows Come with Free Defender Antivirus? – Tech Advice From YL Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-130-music-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia 130 Music Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-unintended-restarts-and-auto-boot-in-windows-11/"><u>Unraveling the Mystery: Unintended Restarts and Auto-Boot in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-how-chatgpt-can-transform-health-consulting-in-7-ways/"><u>Unveiling How ChatGPT Can Transform Health Consulting (in 7 Ways)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-techniques-for-seamless-image-to-pdf-conversion/"><u>[New] IPhone Techniques for Seamless Image-to-PDF Conversion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effective-group-meetings-googles-top-solutions-4-for-2024/"><u>[Updated] Effective Group Meetings Google's Top Solutions (#4) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-barriers-joining-games-via-xbox-zoom/"><u>Breaking Barriers Joining Games via Xbox Zoom</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-life-back-to-your-console-troubleshooting-a-dead-ps4-dualshock-charge/"><u>Bring Life Back to Your Console: Troubleshooting a Dead PS4 Dualshock Charge</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-narzo-n55-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme Narzo N55 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-successful-for-new-world-addressing-the-easy-anti-cheat-problems/"><u>Fix Successful for 'New World': Addressing the Easy Anti-Cheat Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-graphics-glitches-understanding-the-directdraw-mistake-fix/"><u>Fixing Graphics Glitches: Understanding the DirectDraw Mistake Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-resolving-non-functional-speakers-on-your-pc/"><u>Solution Guide: Resolving Non-Functional Speakers on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-stadia-headset-connectivity-problems-expert-tips-and-tricks/"><u>Solving Stadia Headset Connectivity Problems: Expert Tips and Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-intersection-of-reality-and-illusion-through-ar/"><u>The Intersection of Reality and Illusion Through AR</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-for-the-0x800705b4-error-during-windows-11-updates-solved/"><u>The Ultimate Fix Guide for the 0X800705b4 Error During Windows 11 Updates [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-turning-on-bluetooth-in-windows-7/"><u>The Ultimate Guide to Turning On Bluetooth in Windows 7</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-footage-techniques-for-exceptional-instagram-videos/"><u>Transform Your Footage Techniques for Exceptional Instagram Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-remote-server-connection-issues/"><u>Troubleshooting and Solutions for Remote Server Connection Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-dangers-in-automated-psychological-assistance/"><u>Understanding Dangers in Automated Psychological Assistance</u></a></li>
 </ul></div>
 

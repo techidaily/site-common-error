@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing the 'Remote Procedure Call Failed' Message on Windows Systems
-date: 2024-08-27T13:33:35.190Z
-updated: 2024-08-28T13:33:35.190Z
+date: 2025-01-15T16:06:02.843Z
+updated: 2025-01-16T16:04:53.231Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/Snap3.png)If you see the**error code 0xc00000e9**in your computer, don’t panic. This is one of the common errors in Windows 10, 8 and 7\. The good news is, there are solutions you can try to**fix the error 0xc00000e9**.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How can I fix the error code 0xc00000e9?
 
 Here are the solutions for you to try. You don’t need to try them all; just work your way down until it fixes your error 0xc00000e9.
@@ -37,30 +34,34 @@ Here are the solutions for you to try. You don’t need to try them all; just wo
 The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS settings**. If you are seeing this error, generally it’s because your computer can’t communicate with the hard drive. Another cause is the**SSD (Solid-state drive) issue**when installing Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 1: Check your hardware compatibility**
 
 If you have some**external devices**connected to your PC, such as the**external hard drive**or a**USB flash drive**,**disconnect**them all (leave your mouse and keyboard connected), then**restart**your computer. **If the error stops, plug your external devices back, only one at a time, then restart your PC**. If you get the error again after connecting certain device, you can identify the issue now. You can either replace this device completely from your PC, or update its driver as instructed in[solution 3](https://tools.techidaily.com/drivereasy/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 2: Change your BIOS settings**
 
 You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow the steps below: 1) Shut down your computer, then press the**Power button**to boot your computer. 2) Press and hold the button to enter the**BIOS setting**, generally the**ESC**,**F2**,**F12**or**Delete**key (please consult your PC manufacturer or go through your user manual).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ed990cd9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Once you’re in the**BIOS Setup Utility**screen, go to**Boot options**.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ea821a18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Once you’re in the Boot options, make sure the**first boot device**is your**hard drive**. You can press the arrow key to highlight the hard drive and move it to the top of the boot device list.
 
@@ -74,19 +75,12 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 
 **Note** : Before updating drivers, you should boot your computer in**Safe Mode with Network** . (You can check this article for more information about **[how to enter Safe Mode](https://tools.techidaily.com/drivereasy/download/)**  .)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Manual driver update**– You can update your drivers manually by going to the**manufacturer’s website**and searching for the**most recent correct driver**. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Automatic driver update**– Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the**FREE**or the**Pro**version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee**): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aaf6cdfc84d7.png)3) Click the**Update**button next to all flagged devices to automatically download and install the correct version of their driver (you can do this with the**FREE**version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab232d7385cf.jpg)
 
 4) Restart your computer and see if the error 0xc00000e9 disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## **Solution 4: Run a disk check**
 
 The error 0xc00000e9 can be caused by the disk problem. You should make sure that your disk works properly. 1) Boot your computer into**Safe Mode**. (You can check this article for more information about **[how to enter Safe Mode](https://tools.techidaily.com/drivereasy/download/)** .) 2) In the search box on your desktop, type**cmd**. Then right click**Command Prompt** (right click cmd if you’re using Windows 7) and click**Run as administrator**. Then click**Yes**to confirm.
@@ -94,6 +88,10 @@ The error 0xc00000e9 can be caused by the disk problem. You should make sure tha
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab234158a472.png)
 
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
 
@@ -114,8 +112,6 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +119,20 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-building-community-through-thoughtful-facebook-giveaways/"><u>[New] Building Community Through Thoughtful Facebook Giveaways</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-secrets-to-amazing-photo-collages/"><u>[New] Unveiling Secrets to Amazing Photo Collages</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-gif-mastery-your-quick-guide-to-uploads-and-sharing/"><u>[Updated] 2024 Approved Instagram GIF Mastery Your Quick Guide to Uploads and Sharing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/free-subtitle-services-the-ultimate-convertors-guide-for-2024/"><u>Free Subtitle Services The Ultimate Convertors Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-webm-video-editing-solutions-top-10-options/"><u>New 2024 Approved Free WebM Video Editing Solutions Top 10 Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-0x80t70541-update-issue-successfully/"><u>Resolving the Windows 11 0X80t70541 Update Issue Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-scrolling-woes-tips-and-techniques-for-a-smooth-touchpad-experience/"><u>Resolving Windows 11 Scrolling Woes: Tips and Techniques for a Smooth Touchpad Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplifying-screen-record-functions-on-iphone-7/"><u>Simplifying Screen Record Functions on iPhone 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-your-laptops-touchpad-from-activating-tips-for-windows-10-users/"><u>Stop Your Laptop's Touchpad From Activating: Tips for Windows 10 Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-complete-review-of-the-49-inch-sony-bravia-xbr-49x900f-a-journey-through-uhd-excellence/"><u>The Complete Review of the 49-Inch Sony Bravia XBR-49X900F: A Journey Through UHD Excellence</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-hidden-network-adapters-solving-windows-11s-wi-fi-dilemma/"><u>Uncover Hidden Network Adapters: Solving Windows 11'S Wi-Fi Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-beginning-of-windows-11-where-and-how-to-find-the-start-button/"><u>Unlocking the Beginning of Windows 11: Where and How to Find the Start Button</u></a></li>
+</ul></div>
 

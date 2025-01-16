@@ -1,7 +1,7 @@
 ---
 title: "Resolve Chrome's Mystery: A Guide to Overcoming Complete Screen Darkness"
-date: 2024-08-27T13:35:52.456Z
-updated: 2024-08-28T13:35:52.456Z
+date: 2025-01-12T16:24:40.845Z
+updated: 2025-01-16T16:08:54.043Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
 **Skype mic is not working** on your computer? Many users have reported the same. But don’t worry – it’s often quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 fixes for **Skype mic is not working**
 
  All the screenshots below are are Windows 10, but the fixes also work in Windows 8.1 and 7\. Just work your way down the list until the **microphone on Skype not working** problem is solved.
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 4. [**Tweak your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reinstall Skype**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Allow Skype to access your microphone
 
  The first step to approaching the**microphone not working on Skype** problem would be to check if you’ve granted Skype access to your microphone.
@@ -44,33 +38,41 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and type**microphone** , then click on**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21c099eec3.jpg)
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust audio settings in Skype
 
  One of the most useful fixes is to disable **Automatically adjust microphone settings** in Skype according to user feedback. So we can give it a try and see if it works:
 
 1. In Skype, Click**the three-dot button** and click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -97,31 +99,29 @@ Here’s how:
 To do so:
 
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Skype
 
  If all else fails, then chances are you didn’t give Skype proper permissions or there are some misconfigurations that account for the mic not working issue. So you should reinstall the app and see if it fixes the problem.
@@ -139,8 +139,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +146,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/hat-lies-behind-the-unlisted-tag-on-youtube-in-2024/"><u>[New] What Lies Behind the 'Unlisted' Tag on YouTube, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-cutting-ties-with-instagram-users/"><u>[Updated] In 2024, Cutting Ties with Instagram Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-sierra-comprehensive-icloud-drives/"><u>[Updated] Unlocking Sierra Comprehensive iCloud Drives</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-repairing-malfunctioning-built-in-cameras-on-pcs-with-windows-os/"><u>Easy Solutions for Repairing Malfunctioning Built-In Cameras on PCs with Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-frozen-taskbar-problems-in-windows-11-efficiently/"><u>Expert Tips: Overcoming Frozen Taskbar Problems in Windows 11 Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-quick-solutions-repairing-your-huion-pen-when-it-stops-functioning/"><u>Five Quick Solutions: Repairing Your Huion Pen When It Stops Functioning</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-back-on-track-with-volume-control-in-windows-11-the-ultimate-guide-solution/"><u>Get Back on Track with Volume Control in Windows 11: The Ultimate Guide (SOLUTION)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cloud-choice-best-value-in-data-safekeeping/"><u>In 2024, Cloud Choice Best Value in Data Safekeeping</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877213-9781609257576-practical-solitary-magic/"><u>Practical Solitary Magic | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-disconnected-usb-mouse-in-5-easy-steps/"><u>Revive Your Disconnected USB Mouse in 5 Easy Steps!</u></a></li>
+<li><a href="https://common-error.techidaily.com/runtime-prevention-mechanism-active/"><u>Runtime Prevention Mechanism Active</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/simple-steps-integrating-sound-files-into-your-macs-itunes-library/"><u>Simple Steps: Integrating Sound Files Into Your Mac's iTunes Library</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-missing-texts-on-your-iphone-learn-these-7-fixes-to-get-notifications-working/"><u>Stop Missing Texts on Your iPhone! Learn These 7 Fixes to Get Notifications Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-restore-error-0x80070091-on-windows-11-solved/"><u>System Restore Error 0X80070091 on Windows 11 [Solved]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-sharing-complete-photos-on-instagram-platforms/"><u>The Ultimate Tutorial for Sharing Complete Photos on Instagram Platforms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-camon-20-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Camon 20 Pro 5G Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-wwe-2k-series-dx-100-compatibility-problem-in-battlegrounds-game/"><u>Troubleshooting the WWE 2K Series DX 10.0 Compatibility Problem in Battlegrounds Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/upgrade-pathway-suggestions-selecting-a-d3d11-compatible-graphics-card-for-engine-compatibility-and-enhanced-gaming-experience/"><u>Upgrade Pathway Suggestions: Selecting a D3D11-Compatible Graphics Card for Engine Compatibility and Enhanced Gaming Experience</u></a></li>
+</ul></div>
 

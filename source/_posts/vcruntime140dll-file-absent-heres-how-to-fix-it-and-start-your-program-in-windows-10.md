@@ -1,7 +1,7 @@
 ---
 title: VCRUNTIME140.dll File Absent? Here's How to Fix It and Start Your Program in Windows 10
-date: 2025-01-09T22:07:14.262Z
-updated: 2025-01-10T18:39:15.525Z
+date: 2025-01-15T16:04:09.392Z
+updated: 2025-01-16T16:26:18.879Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ In a normal working computer, you can find the Start Button on the left corner o
 
  But if your Start menu is not working, or the Start button disappears, you need to read on to find how.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize the Start Menu
 
 #### Resize the Start menu
@@ -37,10 +33,6 @@ In a normal working computer, you can find the Start Button on the left corner o
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Change the Start menu options
 
 1. Press the**Windows logo key + I** together to evoke the Settings.
@@ -48,11 +40,11 @@ In a normal working computer, you can find the Start Button on the left corner o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c.jpg)
 3. Click**Start** on the left pane. Then you can customize the Start menu in the right pane as you like.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Change Start menu colors
 
@@ -61,10 +53,14 @@ In a normal working computer, you can find the Start Button on the left corner o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c.jpg)
 3. Click**Colors** on the left pane. Then you can customize the color of your Start menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Switch to the Start screen
@@ -75,11 +71,15 @@ In a normal working computer, you can find the Start Button on the left corner o
 3. Click**Start** on the left pane. Turn on Use Start full screen.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/c3.jpg)
 4. Then click the Start Button, you’ll see the Start screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Related pages:**
 
@@ -103,20 +103,18 @@ In a normal working computer, you can find the Start Button on the left corner o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-gigglegraphs-designing-delightful-memes/"><u>[New] In 2024, GiggleGraphs Designing Delightful Memes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-recommended-6-best-music-video-apps-on-android-for-2024/"><u>[Updated] Recommended 6 Best Music Video Apps on Android for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-the-perfect-chat-sound-downloading-and-customizing-whatsapp-ringtones/"><u>2024 Approved Crafting the Perfect Chat Sound Downloading & Customizing WhatsApp Ringtones</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-the-key-startup-file-missing-error-on-windows-operating-systems/"><u>Diagnosing and Resolving the Key Startup File Missing Error on Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-addressing-binkw32dll-file-absence-in-windows/"><u>Effective Solutions for Addressing binkw32.dll File Absence in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-youtube-sound-errors-in-windows-10-operating-system/"><u>Expert Tips for Fixing Youtube Sound Errors in Windows 10 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-usb-connectivity-issues-within-the-latest-windows-environments/"><u>Expert Tips to Overcome USB Connectivity Issues Within the Latest Windows Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-11-installation-error-802-groove-guide-to-resolving-code-80240020/"><u>Fixing the Windows 11 Installation Error 802 Groove: Guide to Resolving Code 80240020</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-nokia-g310-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Nokia G310</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-handle-the-windows-update-failure-error-code-80070103/"><u>How to Correctly Handle the 'Windows Update Failure: Error Code 80070103'</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>In 2024, Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/transforming-online-meetings-choose-from-these-top-5-recorders-for-2024/"><u>Transforming Online Meetings Choose From These Top 5 Recorders for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ineteresourcenotfound-mistake-for-smoother-operations/"><u>Troubleshooting INET_E_RESOURCE_NOT_FOUND Mistake for Smoother Operations</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-and-turning-on-bluetooth-on-windows-7/"><u>Troubleshooting: Fixing and Turning On Bluetooth on Windows 7</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ways-to-confirm-that-your-data-has-been-effectively-backed-up-a-step-by-step-guide/"><u>Ways to Confirm That Your Data Has Been Effectively Backed Up: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eciphering-the-code-youtube-community-rules-explained-for-2024/"><u>[New] Deciphering the Code YouTube Community Rules Explained for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-explorers-best-virtual-reality-list/"><u>[New] Metaverse Explorers Best Virtual Reality List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-strategies-for-high-definition-streaming-on-global-platforms-fb-for-2024/"><u>[New] Strategies for High Definition Streaming on Global Platforms (FB) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-immortalizing-moments-live-photo-to-dynamic-video/"><u>[Updated] 2024 Approved Immortalizing Moments Live Photo to Dynamic Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-steelseries-arctis-5-mic-back-on-track-troubleshooting-solutions-for-better-sound-quality/"><u>Get Your SteelSeries Arctis 5 Mic Back on Track: Troubleshooting Solutions for Better Sound Quality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/icicle-illusions-winter-games-showcase-for-2024/"><u>Icicle Illusions Winter Games Showcase for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/identifying-repeated-pictures-on-your-pc-a-guide-by-yl-computing-unveiling-the-secret-with-yl-tools/"><u>Identifying Repeated Pictures on Your PC: A Guide by YL Computing - Unveiling the Secret with YL Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-the-world-of-online-discussion-mastering-zoom-chat-techniques/"><u>Navigating the World of Online Discussion Mastering Zoom Chat Techniques</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/secure-transactions-with-cryptocurrency-tips-and-best-practices-by-yl-computing/"><u>Secure Transactions with Cryptocurrency: Tips & Best Practices by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/shift-key-issues-discover-effective-fixes-and-solutions/"><u>Shift Key Issues? Discover Effective Fixes and Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncovering-your-touchpad-steps-to-reveal/"><u>Uncovering Your Touchpad: Steps to Reveal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-enhancement-feature-disablement-tutorial/"><u>Windows 11 Audio Enhancement Feature Disablement Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206399438-winupdate-mishap-bypass-error-code-0x80240017-efficiently/"><u>WinUpdate Mishap? Bypass Error Code 0X80240017 Efficiently!</u></a></li>
 </ul></div>
 

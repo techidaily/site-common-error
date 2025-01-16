@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reactivating a Failing Diagnostics Engine on Your Device"
-date: 2025-01-09T17:58:45.772Z
-updated: 2025-01-10T21:46:39.108Z
+date: 2025-01-09T16:05:58.879Z
+updated: 2025-01-16T16:01:04.300Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -62,7 +58,15 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
@@ -87,7 +91,7 @@ Follow these steps to reset your Winsock Catalog:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
@@ -106,9 +110,17 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -119,19 +131,15 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
@@ -149,16 +157,8 @@ Restart your computer to see if the error has gone.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -184,22 +184,22 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-navigate-your-way-to-youtube-fame-a-guide-to-25-proven-techniques/"><u>[New] In 2024, Navigate Your Way to YouTube Fame A Guide to 25 Proven Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-deciphering-the-meaning-of-facebooks-blue-video-icon-for-2024/"><u>[Updated] Deciphering the Meaning of Facebook's Blue Video Icon for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-digital-cutting-edge-streamlined-strategies-for-editing-videos-on-vimeo-for-2024/"><u>[Updated] Digital Cutting Edge Streamlined Strategies for Editing Videos on Vimeo for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-evaluating-artistic-quality-luminances-hdr-capability-for-2024/"><u>[Updated] Evaluating Artistic Quality Luminance's HDR Capability for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/avoid-gaming-woes-with-x3daudio17dll-repairs/"><u>Avoid Gaming Woes with X3DAudio1_7.dll Repairs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/creating-music-with-ai-without-spending-a-penny-discover-5-effective-techniques/"><u>Creating Music with AI Without Spending a Penny: Discover 5 Effective Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210360963-expert-tips-why-wont-my-pc-start-minecraft-heres-how-to-fix-it/"><u>Expert Tips: Why Won't My PC Start Minecraft? Here's How to Fix It</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-hidden-messengers-in-digital-communication/"><u>Exploring Hidden Messengers in Digital Communication</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-missing-cursor-issue-in-windows-11-step-by-step-guide/"><u>How to Fix the Missing Cursor Issue in Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-mic-not-working-heres-how-to-get-it-functioning-again/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Get It Functioning Again!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-guide-to-enriching-youtube-videos-with-harmonics/"><u>In 2024, The Ultimate Guide to Enriching YouTube Videos with Harmonics</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-windows-10s-file-explorer-with-ease-helpful-hints-inside/"><u>Navigating Windows 10'S File Explorer with Ease – Helpful Hints Inside!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/quick-and-sturdy-online-linking-with-the-tiny-size-u631-usb-wi-fi-adapter-a-smart-choice-for-fast-networking/"><u>Quick & Sturdy Online Linking with the Tiny Size U631 USB Wi-Fi Adapter - A Smart Choice for Fast Networking</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-update-hanging-on-100/"><u>Resolved: Fixing Windows Update Hanging on 100%</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-disabling-auto-start-feature-on-windows-10-devices/"><u>Step-by-Step Guide: Disabling Auto-Start Feature on Windows 10 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-missing-device-issue-in-windows-code-24/"><u>Troubleshooting: Fixing the Missing Device Issue in Windows (Code 24)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-issues-connecting-with-dhcp-servers/"><u>Troubleshooting: Issues Connecting with DHCP Servers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-nintendo-switch-fighter-showcase-max-156/"><u>[New] 2024 Approved Ultimate Nintendo Switch Fighter Showcase (Max 156)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pc-sound-logging-simplified-install-x-recorder-app/"><u>[New] Pc Sound Logging Simplified - Install X-Recorder App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-your-go-to-resource-mastering-the-use-of-mobizen-recorders-for-2024/"><u>[Updated] Your Go-To Resource Mastering the Use of Mobizen Recorders for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-launchdll-not-found-issues-with-easy-troubleshooting-tips/"><u>Eliminate 'Launch.dll Not Found' Issues with Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-disappearing-bluetooth-icon-tips-for-windows-11-users/"><u>Fixing a Disappearing Bluetooth Icon – Tips for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-your-laptop-stuck-at-plugged-in-but-not-charging-situation-in-windows-7-or-10/"><u>How to Resolve Your Laptop Stuck at Plugged In but Not Charging Situation in Windows 7 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-windows-11-display-from-flickering-solutions-and-tips/"><u>How to Stop Windows 11 Display From Flickering: Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-swiftly-rectify-dll-absence-in-games/"><u>How to Swiftly Rectify DLL Absence in Games</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-video-perfection-choosing-the-ultimate-5-enhancers/"><u>In 2024, Video Perfection Choosing the Ultimate 5 Enhancers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-review-of-budget-friendly-clouds-for-2024/"><u>In-Depth Review of Budget-Friendly Clouds for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/rescuing-lost-information-steps-to-follow-if-your-machine-erases-files-following-reboot/"><u>Rescuing Lost Information: Steps to Follow if Your Machine Erases Files Following Reboot</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-common-problems-with-your-usb-to-hdmi-adapter-fixes-inside/"><u>Solving Common Problems with Your USB to HDMI Adapter (Fixes Inside)</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-resolving-the-persistent-windows-10-update-error-0xc1e900208/"><u>Step-by-Step Solution for Resolving the Persistent Windows 10 Update Error 0Xc1e900208</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-troubleshooter-how-to-resolve-league-of-legends-wont-open-issues/"><u>The Ultimate Troubleshooter: How to Resolve 'League of Legends Won't Open' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-your-laptop-mouse-freezes/"><u>Troubleshooting Tips: What to Do When Your Laptop Mouse Freezes</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-bluetooth-features-in-windows-11-and-10-a-complete-walkthrough/"><u>Unlocking Bluetooth Features in Windows 11 & 10: A Complete Walkthrough</u></a></li>
 </ul></div>
 

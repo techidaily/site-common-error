@@ -1,7 +1,7 @@
 ---
 title: Guide to Restoring Wi-Fi Capability When It’s Disabled [Problem Solved]
-date: 2025-01-03T17:34:37.848Z
-updated: 2025-01-10T23:17:25.150Z
+date: 2025-01-11T16:07:06.805Z
+updated: 2025-01-16T16:11:06.177Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -49,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
@@ -66,19 +66,23 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -139,20 +139,22 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-a-comprehensive-guide-to-the-best-makeup-tutorials-on-youtube/"><u>[Updated] A Comprehensive Guide to the Best Makeup Tutorials on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-best-practices-for-apples-podcast-listings/"><u>[Updated] Best Practices for Apple's Podcast Listings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-pros-and-cons-the-best-vr-gear-for-your-hands/"><u>2024 Approved Pros and Cons The Best VR Gear for Your Hands</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-solving-the-problem-of-excessive-netsvc-network-usage-by-svchostexe/"><u>Comprehensive Guide: Solving the Problem of Excessive NETsvc Network Usage by svchost.exe</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fix-for-out-of-memory-mistakes-in-rdr2-adjusting-the-pagefile-size/"><u>Easy Fix for Out-of-Memory Mistakes in RDR2: Adjusting the Pagefile Size</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-godfall-pc-stuttering-and-crashes-with-our-comprehensive-guide/"><u>End Godfall PC Stuttering & Crashes with Our Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-xbox-one-headset-troubleshooting-tips-and-solutions/"><u>Fixing Your Xbox One Headset: Troubleshooting Tips & Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-class-not-registered-message-on-your-windows-1nformation/"><u>How to Correct the 'Class Not Registered' Message on Your Windows 1Nformation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c33-2023-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C33 2023 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-innovative-techniques-for-enhancing-youtube-audio/"><u>In 2024, Innovative Techniques for Enhancing YouTube Audio</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c12-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C12 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/local-security-patch-applied-protection-restored/"><u>Local Security Patch Applied – Protection Restored</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-monitor-settings-in-windows-11-fixes-for-brightness-dysfunctionality/"><u>Mastering Monitor Settings in Windows 11 – Fixes for Brightness Dysfunctionality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-to-rip-netflix-movies-as-mp4-avi-and-mov-files-using-pcmac-tools/"><u>Step-by-Step Guide to Rip Netflix Movies as MP4, AVI & MOV Files Using PC/Mac Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/updating-to-resolve-non-supportive-refresh-rates-in-visual-outputs/"><u>Updating to Resolve Non-Supportive Refresh Rates in Visual Outputs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-leveraging-whatsapps-features-for-twitter-video-distribution/"><u>[New] Leveraging WhatsApp's Features for Twitter Video Distribution</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-restore-order-fixing-compromised-fb-profile/"><u>[New] Restore Order Fixing Compromised Fb Profile</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-syncing-zoom-to-your-calendar-for-2024/"><u>[New] Syncing Zoom to Your Calendar for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-tips-for-webinar-preservation-without-hurdles-windows-macos/"><u>[Updated] Top Tips for Webinar Preservation without Hurdles (Windows, macOS)</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1725290402695-ai-6/"><u>AI 비디오 업스케일링에서 선구적인 6가지 도구 소개</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-pdf-printing-issues-quick-and-effective-remedies-await-you/"><u>Banish PDF Printing Issues: Quick and Effective Remedies Await You</u></a></li>
+<li><a href="https://common-error.techidaily.com/disregarded-sd-card-dont-despair-solutions-await/"><u>Disregarded SD Card, Don't Despair! Solutions Await</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-crc-cyclic-redundancy-check-problems-in-your-data/"><u>Effective Remedies for CRC (Cyclic Redundancy Check) Problems in Your Data</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-13-proplus-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 13 Pro+ 5G Phone FRP Lock</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mvp-stellar-repair-mssql-demystified/"><u>MVP Stellar Repair: MSSQL Demystified</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-extended-semaphore-error-timeout-limit-exceeded-issue-error-code-0x80070079/"><u>Resolved: Extended Semaphore Error - Timeout Limit Exceeded Issue (Error Code 0X80070079)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-to-pubg-structures-failure-now-fixed/"><u>Solution to PUBG Structures Failure - Now Fixed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-discord-not-responding-dilemma-a-comprehensive-guide/"><u>Solving the 'Discord Not Responding' Dilemma - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fixes-for-kodis-glitches-say-goodbye-to-playback-issues/"><u>The Ultimate Fixes for Kodi's Glitches: Say Goodbye to Playback Issues!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-successful-steps-to-get-internet-explorer-up-and-running-again/"><u>Troubleshooting: Successful Steps to Get Internet Explorer Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-boosting-game-performance-in-windows-11/"><u>Ultimate Guide to Boosting Game Performance in Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-from-screen-to-share-3-easy-video-game-recording-methods/"><u>Updated In 2024, From Screen to Share 3 Easy Video Game Recording Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Cutting Down High GPU Usage From Desktop Window Manager in Windows 11"
-date: 2025-01-10T00:17:59.489Z
-updated: 2025-01-10T17:21:34.978Z
+date: 2025-01-13T16:20:07.721Z
+updated: 2025-01-16T16:23:27.848Z
 tags:
   - win11
   - win10
@@ -31,9 +31,17 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 4. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Registry fix**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disconnect your USB-C device before shut down
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  USB Type-C sample  
  Photo from Amazon
@@ -58,11 +66,11 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
 4. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Fast Startup feature
 
@@ -74,28 +82,28 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
 2. Change **View by Large icons** and click **Power Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
 3. Click **Choose what the power button do** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
 4. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
@@ -107,17 +115,9 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -141,11 +141,11 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
 7. Click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your driver
 
@@ -158,13 +158,13 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your Windows 10 computer and check the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, the above methods can help you to fix your problem. If you have any suggestions or questions, feel free to leave your comments below.
 
@@ -185,21 +185,20 @@ The solution for this bug is very simple.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-essentials-of-transferring-youtube-media-to-social-networks/"><u>[New] The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-wont-shut-down-restarts-instead/"><u>[Solved] Windows 11 Won't Shut Down, Restarts Instead</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-expert-tips-for-enhancing-ppts-with-auditory-content/"><u>[Updated] 2024 Approved Expert Tips for Enhancing PPTs with Auditory Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-elite-arena-top-10-royale-game-spectacles-for-2024/"><u>[Updated] Elite Arena Top 10 Royale Game Spectacles for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discovering-macaus-multilingualism/"><u>Discovering Macau's Multilingualism</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-blanked-second-display-on-win10win11/"><u>Eliminating Blanked Second Display on Win10/Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-the-night-light-option-in-windows-11-when-it-stops-working/"><u>How to Reactivate the Night Light Option in Windows 11 when It Stops Working</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-night-photography-perfection-with-iphones/"><u>In 2024, Night Photography Perfection with iPhones</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-the-latest-dell-wd19-drivers-quick-and-easy-tutorial/"><u>Installing the Latest Dell WD19 Drivers: Quick and Easy Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-driverpowerstatefailure-step-by-step-troubleshooting/"><u>Resolving the DRIVER_POWER_STATE_FAILURE: Step-by-Step Troubleshooting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/resolving-the-problem-of-unheated-beds-in-3d-printing-devices/"><u>Resolving the Problem of Unheated Beds in 3D Printing Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-complete-fix-manual-what-to-do-when-you-encounter-a-black-screen-on-dell-systems/"><u>The Complete Fix Manual: What to Do When You Encounter a Black Screen on Dell Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-overcoming-fatal-error-during-installation-error-1603/"><u>Troubleshooting Guide for Overcoming 'Fatal Error During Installation' (Error 1603)</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207660301-troubleshooting-stuck-keyboard-arrows-essential-solutions/"><u>Troubleshooting Stuck Keyboard Arrows: Essential Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-potential-the-advantages-of-iphones-extended-nfc-capabilities-with-app-support-insights-from-zdnet/"><u>Unlocking Potential: The Advantages of iPhone's Extended NFC Capabilities with App Support - Insights From ZDNET</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-indie-filmmakers-online-youtube-tutorials-for-growth/"><u>[New] 2024 Approved Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-intel-rst-service-is-not-running-on-windows-11/"><u>[Solved] Intel RST Service Is Not Running on Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unleash-potential-superior-strategies-for-personalized-facebook-profiles/"><u>[Updated] 2024 Approved Unleash Potential Superior Strategies for Personalized Facebook Profiles</u></a></li>
+<li><a href="https://common-error.techidaily.com/banishing-awakenings-sleep-mode-mastery-in-win11/"><u>Banishing Awakenings: Sleep Mode Mastery in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-fix-missing-binkw32dll-on-your-pc/"><u>Comprehensive Solutions to Fix Missing binkw32.dll on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-restoring-your-dells-broken-usb-interface/"><u>Effective Remedies for Restoring Your Dell's Broken USB Interface</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exploring-the-depth-of-editing-with-gopro-studios-capabilities/"><u>Exploring the Depth of Editing with GoPro Studio's Capabilities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y27s-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y27s to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scrutinizing-wirecast-plus-similar-tools/"><u>In 2024, Scrutinizing WireCast + Similar Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-filter-essentials-uncover-free-options-through-advanced-search/"><u>Instagram Filter Essentials – Uncover Free Options Through Advanced Search</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-a-defective-laptop-mic-effective-troubleshooting-techniques/"><u>Overcoming the Challenge of a Defective Laptop Mic: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-your-macbook-air-vs-pro-highlights/"><u>The Ultimate Guide to Choosing Your MacBook: Air Vs. Pro Highlights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/to-use-or-not-to-use-unveiling-the-9-key-factors-in-picking-a-local-legal-language-model-llm/"><u>To Use or Not To Use: Unveiling the 9 Key Factors in Picking a Local Legal Language Model (LLM)</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-sound-settings-in-windows/"><u>Troubleshooting Unresponsive Sound Settings in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-graphics-driver-to-activate-seamless-screen-mirroring-via-miracast/"><u>Update Your Graphics Driver to Activate Seamless Screen Mirroring via Miracast</u></a></li>
 </ul></div>
 

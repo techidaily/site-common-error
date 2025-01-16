@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Windows 10 Upgrade Issue When It Gets Stuck on 99%%
-date: 2025-01-09T20:27:09.129Z
-updated: 2025-01-10T22:33:30.158Z
+date: 2025-01-15T16:11:10.408Z
+updated: 2025-01-16T16:20:46.461Z
 tags:
   - win11
   - win10
@@ -50,23 +50,19 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to all flagged devices to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Set microphone as default device
 
@@ -75,14 +71,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select**System Sounds** .
 
@@ -109,16 +101,12 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
 
@@ -132,6 +120,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
@@ -140,16 +132,24 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
@@ -193,24 +193,20 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-in-search-of-perfection-gopros-1-10-case-review/"><u>[Updated] 2024 Approved In Search of Perfection - GoPro's #1-10 Case Review</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-navigating-firefoxs-picture-in-picture-capabilities/"><u>[Updated] 2024 Approved Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-share-your-tweets-as-snaps-easy-tutorials/"><u>[Updated] 2024 Approved Share Your Tweets as Snaps - Easy Tutorials</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-guide-to-accurate-transfer-of-camera-photos-to-social-media-apps-for-2024/"><u>[Updated] Guide to Accurate Transfer of Camera Photos to Social Media Apps for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-explore-this-costless-voice-changer-to-boost-valorant-skills/"><u>2024 Approved Explore This Costless Voice Changer to Boost Valorant Skills</u></a></li>
-<li><a href="https://common-error.techidaily.com/app-cant-open-using-built-in-administrator-account-solved/"><u>App Can’t Open Using Built-In Administrator Account [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209309454-asus-laptop-issues-heres-a-solution-for-non-responsive-fn-keys/"><u>ASUS Laptop Issues? Here's a Solution for Non-Responsive Fn Keys!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/guidelines-for-effective-use-of-cc-licenses/"><u>Guidelines for Effective Use of CC Licenses</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-iphone-screen-mirroring-eliminates-the-need-for-ios-apps-on-your-mac/"><u>How iPhone Screen Mirroring Eliminates the Need for iOS Apps on Your Mac</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/keep-the-length-between-50-60-characters-to-ensure-that-your-entire-title-is-visible-on-most-serp-search-engine-results-page-snippets-preventing-it-from-bei56/"><u>Keep the Length Between 50-60 Characters to Ensure that Your Entire Title Is Visible on Most SERP (Search Engine Results Page) Snippets, Preventing It From Being Truncated</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connectivity-problems-ensuring-active-bluetooth-links-in-windows-10-systems/"><u>Overcoming Connectivity Problems: Ensuring Active Bluetooth Links in Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-clean-slate-refreshing-and-resetting-windows-10-made-easy/"><u>Quick Fixes for a Clean Slate: Refreshing and Resetting Windows 10 Made Easy</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-strategies-for-dominance-in-facebook-twitter-instagram-and-youtube/"><u>Social Media Titans: Strategies for Dominance in Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/svchostexe-cpu-hogs-in-windows-10-discover-efficient-solutions-for-immediate-relief/"><u>Svchost.exe CPU Hogs in Windows 10? Discover Efficient Solutions for Immediate Relief!</u></a></li>
-<li><a href="https://common-error.techidaily.com/taming-the-beast-within-a-guide-to-correcting-the-notorious-windows-0xc0000098-error/"><u>Taming the Beast Within: A Guide to Correcting the Notorious Windows 0xC0000098 Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-complete-walkthrough-to-restore-disappearing-mouse-cursors-in-windows-11-systems/"><u>The Complete Walkthrough to Restore Disappearing Mouse Cursors in Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-starting-up-your-amd-catalyst-control-center-effortlessly/"><u>Troubleshooting Guide: Starting Up Your AMD Catalyst Control Center Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unshutdown-windows-10-on-your-pc-solution/"><u>Troubleshooting Steps for Unshutdown Windows 10 on Your PC - SOLUTION</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>[New] 2024 Approved Funny Faces Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-chords-to-clicks-mastering-music-on-ig/"><u>[New] In 2024, From Chords to Clicks Mastering Music on IG</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-laughter-labyrayer-with-adobes-help/"><u>[Updated] 2024 Approved Laughter Labyrayer with Adobe's Help</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-keep-the-vision-clear-without-rests/"><u>[Updated] Keep the Vision Clear Without Rests</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-screen-record-your-win10-game-log/"><u>[Updated] Step-by-Step Screen Record Your Win10 Game Log</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-shortcut-to-starting-wordpad-on-your-pc/"><u>A Shortcut to Starting WordPad on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solution-for-overcoming-errors-disrupting-your-applications-functionality/"><u>Expert Solution for Overcoming Errors Disrupting Your Application’s Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-failed-windows-10-version-1903-updates-successfully/"><u>How to Fix Failed Windows 10 Version 1903 Updates Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pcs-graphics-power-on-windows-11-top-5-strategies-to-tackle-dwms-heavy-gpu-demand/"><u>Optimize Your PC's Graphics Power on Windows 11: Top 5 Strategies to Tackle DWM's Heavy GPU Demand</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-unprompted-restartboot-issues-essential-fixes-for-windows-operating-systems/"><u>Preventing Unprompted Restart/Boot Issues: Essential Fixes for Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-windows-11-touch-screen-problem-with-these-5-strategies/"><u>Solve Your Windows 11 Touch Screen Problem with These 5 Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-making-invisible-networks-appear-on-windows-11s-wi-fi-list/"><u>Solved: Making Invisible Networks Appear on Windows 11'S Wi-Fi List</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-canon-pixma-printer-drivers-with-speed-and-simplicity/"><u>Step-by-Step Guide: Updating Your Canon PIXMA Printer Drivers with Speed and Simplicity</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-overcoming-the-windows-10-couldnt-be-installed-error-code-eb80240020-challenge-a-comprehensive-guide/"><u>Successfully Overcoming the 'Windows 10 Couldn't Be Installed (Error Code Eb80240020)' Challenge – A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/transform-your-instagram-photos-with-creative-borders/"><u>Transform Your Instagram Photos with Creative Borders</u></a></li>
 </ul></div>
 

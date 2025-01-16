@@ -1,7 +1,7 @@
 ---
 title: "Expert Solutions: Making Your HP Laptop's Malfunctioning USB Port Functional Once More"
-date: 2025-01-07T23:36:56.216Z
-updated: 2025-01-10T18:58:00.148Z
+date: 2025-01-11T16:08:09.345Z
+updated: 2025-01-16T16:17:41.705Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
@@ -49,17 +45,21 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -81,6 +81,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -91,20 +95,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
@@ -114,7 +114,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -150,18 +150,16 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unleash-the-full-potential-of-youtube-with-variable-playback-rates/"><u>[New] 2024 Approved Unleash the Full Potential of YouTube With Variable Playback Rates</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-hashtag-hype-unveiling-twitters-toptiktok-videos/"><u>[New] Hashtag Hype Unveiling Twitter's #TopTikTok Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-snapseed-101-basic-editing-techniques-unveiled/"><u>[New] In 2024, Snapseed 101 Basic Editing Techniques Unveiled</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-step-into-the-rhythm-of-social-video-editing-with-music/"><u>[New] In 2024, Step Into the Rhythm of Social Video Editing with Music</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-master-the-art-of-vlogging-with-these-top-8-cameras/"><u>[Updated] Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
-<li><a href="https://common-error.techidaily.com/breeze-through-error-0x800f0831-master-the-fix-using-your-pcs-built-in-windows-updates/"><u>Breeze Through Error 0X800F0831: Master the Fix Using Your PC's Built-In Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-unpredictable-wireless-mouse-behavior-on-windows-11-and-10-systems/"><u>Effective Solutions for Unpredictable Wireless Mouse Behavior on Windows 11 & 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-laptops-touchpad-working-again-easy-fixes/"><u>How To Get Your Laptop's Touchpad Working Again - Easy Fixes!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-elite-10-royale-combat-titles/"><u>In 2024, Elite 10 Royale Combat Titles</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/power-surge-solutions-managing-excess-voltage-on-hub-ports-effectively/"><u>Power Surge Solutions: Managing Excess Voltage on Hub Ports Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-resolution-roadmap-for-troubleshooters-and-users/"><u>The Resolution Roadmap for Troubleshooters & Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-audio-chat-applications-tailored-for-gaming-enthusiasts/"><u>Updated Best Audio Chat Applications Tailored for Gaming Enthusiasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-best-clickbait-title-generator/"><u>[New] 2024 Approved Best Clickbait Title Generator</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-engaging-everyone-quickly-which-platform-triumphs-for-shorter-videos/"><u>[New] In 2024, Engaging Everyone Quickly Which Platform Triumphs for Shorter Videos?</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-directory-name-is-invalid-error/"><u>[SOLVED] The Directory Name Is Invalid Error</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pioneers-of-prose-and-plot-the-worlds-best-top-8/"><u>[Updated] Pioneers of Prose and Plot The World's Best (Top 8)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-analysis-of-top-6-hdmi-enabled-monitors/"><u>Comprehensive Analysis of Top 6 HDMI-Enabled Monitors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-unrecognized-external-storage-a-guide-for-wd-my-passport-ultra-in-windows-1011/"><u>How to Resolve Unrecognized External Storage - A Guide for WD My Passport Ultra in Windows 10/11</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-best-10-emoji-makers-to-create-your-own-emojis-pconlineandroidiphone-for-2024/"><u>New Best 10 Emoji Makers to Create Your Own Emojis PC/Online/Android/iPhone for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/recovering-the-solitary-sound-device/"><u>Recovering the Solitary Sound Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/swiftly-adapt-video-formats-for-mac-pixels/"><u>Swiftly Adapt Video Formats for MAC Pixels</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-your-usb-flash-drive-detectable-again/"><u>Troubleshooting Guide: Making Your USB Flash Drive Detectable Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-issues-with-the-at-sign-on-your-device/"><u>Troubleshooting Steps: Resolving Issues with the At Sign on Your Device</u></a></li>
 </ul></div>
 

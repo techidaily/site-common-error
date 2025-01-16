@@ -1,7 +1,7 @@
 ---
 title: Power Surge Diagnosis and Solutions for Your Server's Main Port Station
-date: 2025-01-04T18:52:50.343Z
-updated: 2025-01-10T16:23:41.022Z
+date: 2025-01-15T16:31:17.109Z
+updated: 2025-01-16T16:15:48.633Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  1) Open the**Lenovo Vantage** app.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
@@ -90,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -98,16 +94,12 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Uninstall** to uninstall it.
@@ -130,10 +122,14 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
@@ -156,12 +152,16 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -194,20 +194,17 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-bluetooth-mouse-not-working-on-windows/"><u>[FIXED] Bluetooth Mouse Not Working on Windows</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comparing-streamlabs-with-obs-for-professional-broadcasts/"><u>[New] 2024 Approved Comparing Streamlabs with OBS for Professional Broadcasts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/iscover-the-top-7-free-youtube-tag-extractor-vendors/"><u>[New] Discover the Top 7 Free YouTube Tag Extractor Vendors</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-proven-techniques-for-uploading-and-displaying-imovie-films-on-vimeo-for-2024/"><u>[New] Proven Techniques for Uploading and Displaying iMovie Films on Vimeo for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-initiating-your-sporty-online-presence-with-mac/"><u>[Updated] Initiating Your Sporty Online Presence with Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-vcruntime140dll-is-missing-error-with-these-simple-steps/"><u>Bypass the 'VCRuntime140.dll Is Missing' Error with These Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-warcraft-lagging-problems/"><u>Expert Tips to Overcome Warcraft Lagging Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/huion-malfunction-here-are-5-fast-fixes-to-restore-pen-functionality/"><u>Huion Malfunction? Here Are 5 Fast Fixes to Restore Pen Functionality</u></a></li>
-<li><a href="https://discover-data.techidaily.com/millie-bobby-brown-2019-collection-hd-backgrounds-photos-and-pictures-for-pc-and-mobile-provided-by-yl-software/"><u>Millie Bobby Brown 2019 Collection: HD Backgrounds, Photos & Pictures for PC & Mobile | Provided by YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-show-on-sd-recognition-lets-fix-it/"><u>No-Show on SD Recognition? Let's Fix It!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/srt-mastery-advanced-techniques-for-mac-users-for-2024/"><u>SRT Mastery Advanced Techniques for Mac Users for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-how-to-fix-the-system-restore-failed-with-code-0x80-error-on-windows-11/"><u>Step-by-Step Solution: How to Fix the 'System Restore Failed with Code 0X80' Error on Windows 11</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-top-10-free-gif-looping-tools-you-need-for-2024/"><u>The Top 10 Free GIF Looping Tools You Need for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-slow-motion-video-editing-top-10-software-for-2024/"><u>The Ultimate Guide to Slow Motion Video Editing Top 10 Software for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-service-is-not-running-error-in-diagnostic-policy/"><u>Troubleshooting Steps: Resolving 'Service Is Not Running' Error in Diagnostic Policy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-5-simple-ways-to-save-your-youtube-content/"><u>[New] In 2024, 5 Simple Ways to Save Your YouTube Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-master-iphoneandroid-apps-top-10-photo-edits-guide/"><u>[Updated] In 2024, Master iPhone/Android Apps Top 10 Photo Edits Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/do-you-absolutely-need-a-phone-screen-guard-for-your-mobile-device/"><u>Do You Absolutely Need a Phone Screen Guard for Your Mobile Device?</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-sound-back-restarting-audio-services-on-windows-7-explained/"><u>Get Your Sound Back! Restarting Audio Services on Windows 7 Explained</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-flavorful-filmmaking-made-easy-the-best-tips-for-food-videography/"><u>In 2024, Flavorful Filmmaking Made Easy The Best Tips for Food Videography</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-motorola-g54-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola G54 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-issues-solved-repairing-dell-laptop-typing-problems-easily/"><u>Keyboard Issues Solved: Repairing Dell Laptop Typing Problems Easily</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-windows-failed-to-initialize-hardware-abstraction-layer-problem-tips-for-windows-10-users/"><u>Solving the 'Windows Failed to Initialize Hardware Abstraction Layer' Problem: Tips for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-overcome-resolving-windows-update-issues/"><u>Successfully Overcome: Resolving Windows Update Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-creativity-with-vtech-cams/"><u>Unleash Creativity with VTech Cams</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-guide-to-discovering-the-voice-generatorschangers-with-the-most-anime/"><u>Updated Guide to Discovering the Voice Generators/Changers with the Most Anime</u></a></li>
+<li><a href="https://common-error.techidaily.com/wheres-the-windows-display-brightness-tool/"><u>Where's the Windows Display Brightness Tool?</u></a></li>
 </ul></div>
 

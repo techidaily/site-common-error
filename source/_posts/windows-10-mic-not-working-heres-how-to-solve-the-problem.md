@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Mic Not Working? Here's How to Solve the Problem
-date: 2024-08-22T19:17:20.059Z
-updated: 2024-08-23T19:17:20.059Z
+date: 2025-01-10T16:12:00.055Z
+updated: 2025-01-16T16:18:02.661Z
 tags:
   - win11
   - win10
@@ -17,16 +17,10 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 
 Touchpad scroll gives you much convenience to drag content on desktop without using mouse. But how if you found it not working? That must annoys you too much.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59648fd6c4402.jpg)
 
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -37,6 +31,10 @@ On your keyboard, press **Windows**  key + **X**  key together to open quick-acc
 Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)  
 
@@ -50,23 +48,22 @@ Then click **Device Manager**  to open it.
  Choose to view on**Driver** pane.  
  Then click**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -77,10 +74,11 @@ Then click **Device Manager**  to open it.
 
  2) With **Scan Now** , it can scan out all of your outdated, missing and corrupted drivers and find the correct ones for you in less than 1 min! Your touchpad driver is no exception.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
 
@@ -89,6 +87,10 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -103,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,24 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-your-ultimate-resource-steps-to-free-premium-image-use-for-2024/"><u>[New] Your Ultimate Resource Steps to Free Premium Image Use for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-revamping-video-meeting-banners-for-teammates/"><u>[Updated] In 2024, Revamping Video Meeting Banners for Teammates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-guide-to-uniform-focus-in-teamblend-calls/"><u>2024 Approved The Ultimate Guide to Uniform Focus in Teamblend Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-persistent-0x80240034-master-guide-for-successful-windows-10-updates/"><u>Bypassing the Persistent 0X80240034: Master Guide for Successful Windows 10 Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corporate-structure-and-governance/"><u>Corporate Structure and Governance</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-tame-the-noise-a-comprehensive-guide-to-silencing-your-playstation-4/"><u>Diagnose & Tame The Noise: A Comprehensive Guide To Silencing Your PlayStation 4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fix-restoring-factory-settings-on-your-samsung-soundbar/"><u>Easy Fix: Restoring Factory Settings on Your Samsung Soundbar</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-resolving-issues-with-your-windows-computers-optical-drives/"><u>Easy Solutions: Resolving Issues with Your Windows Computer's Optical Drives</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-scroll-wheel-on-logitech-mice-a-step-by-step-guide/"><u>Fixing the Non-Responsive Scroll Wheel on Logitech Mice – A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c22-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C22 FRP Bypass</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-the-ideal-voice-memo-a-step-by-step-methodology/"><u>In 2024, Crafting the Ideal Voice Memo A Step-by-Step Methodology</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Asus Phone with Broken Screen</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-launched-the-first-ever-language-app-on-oculus-quest/"><u>Mondly Launched the First-Ever Language App on Oculus Quest</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-failed-wrp-scans-overcoming-operational-issues-in-windows/"><u>Resolve Failed WRP Scans: Overcoming Operational Issues in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-bluetooth-on-your-windows-11-pc-fast-fixes/"><u>Step-by-Step Guide to Restore Bluetooth on Your Windows 11 PC - Fast Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-fix-code-0xc0000098-on-your-windows-system/"><u>Step-by-Step Solutions to Fix Code 0Xc0000098 on Your Windows System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-improve-your-file-explorer-experience-on-windows-11/"><u>Troubleshoot and Improve Your File Explorer Experience on Windows 11</u></a></li>
+</ul></div>
 

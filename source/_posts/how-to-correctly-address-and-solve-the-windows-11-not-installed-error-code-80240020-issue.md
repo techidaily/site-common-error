@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue
-date: 2025-01-09T18:14:18.911Z
-updated: 2025-01-10T23:39:12.341Z
+date: 2025-01-14T16:22:29.975Z
+updated: 2025-01-16T16:14:54.509Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ A lot Windows 10 users reported that system restore did not complete successfull
 
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
 
 1)  
@@ -47,10 +51,6 @@ Click **Restart**, if prompted by system configuration
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then your Windows 10 would get into safe mode.  
   
 2)  
@@ -63,7 +63,7 @@ When prompted by User Account Control, click   **Yes.**
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3)  
@@ -89,7 +89,7 @@ When it finish rebooting, run System Restore again.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -113,7 +113,7 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 c)  
@@ -123,7 +123,7 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2)  
@@ -156,22 +156,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bulk-buy-subscribers-cost-effective-growth-strategy/"><u>[New] 2024 Approved Bulk Buy Subscribers Cost-Effective Growth Strategy</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-fast-track-your-mobile-vids-with-these-tools/"><u>[Updated] 2024 Approved Fast-Track Your Mobile Vids with These Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-harmonizing-visuals-and-sound-in-instagram-videos/"><u>2024 Approved Harmonizing Visuals & Sound in Instagram Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/debunking-7-myths-ai-in-text-conversations/"><u>Debunking 7 Myths: AI in Text Conversations</u></a></li>
-<li><a href="https://common-error.techidaily.com/enabling-fortnite-on-non-compatible-graphics-cards-in-the-windows-environment-workarounds-and-tweaks/"><u>Enabling Fortnite on Non-Compatible Graphics Cards in the Windows Environment – Workarounds and Tweaks</u></a></li>
-<li><a href="https://common-error.techidaily.com/hamachi-trouble-heres-how-you-can-fix-a-stopped-service-error/"><u>Hamachi Trouble? Here's How You Can Fix a Stopped Service Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-a-display-driver-that-stopped-then-came-back-online/"><u>How to Troubleshoot a Display Driver That Stopped Then Came Back Online</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-x100-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo X100 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-xiaomi-14-easily-by-drfone-android/"><u>In 2024, How To Unlock a Xiaomi 14 Easily?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-so-without-wasting-time-let-me-show-you-how-to-mask-a-video-in-wondershare-filmora-lets-get-started/"><u>New In 2024, So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide-for-2024/"><u>New Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/patched-pubgs-dxgidll-hiccup-with-ease/"><u>Patched PUBG's Dxgi.dll Hiccup with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-windows-10-that-wont-properly-shut-down-and-reopens-instead/"><u>Resolving Issues with Windows 10 that Won't Properly Shut Down and Reopens Instead</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-addressing-challenges-in-directx-visual-processing-unit-creation-failures/"><u>Solution Guide: Addressing Challenges in DirectX Visual Processing Unit Creation Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-an-unresponsive-hp-touchpad-a-step-by-step-guide/"><u>Troubleshooting an Unresponsive HP Touchpad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-laptop-mic-issues-a-comprehensive-guide/"><u>Troubleshooting and Repairing Laptop Mic Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-diy-tutorial-on-building-your-own-live-tv-streaming-system/"><u>Ultimate DIY Tutorial on Building Your Own Live TV Streaming System</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-download-unlimited-mcb-visual-elements/"><u>[New] 2024 Approved Download Unlimited MCB Visual Elements</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-maximizing-impact-strategies-for-overcoming-video-short-snags/"><u>[New] In 2024, Maximizing Impact Strategies for Overcoming Video Short Snags</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-right-way-to-pick-spiritual-phone-tunes/"><u>[New] In 2024, The Right Way to Pick Spiritual Phone Tunes</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206482260-geforce-experience-setup-glitch-solved-retrieve-your-custom-configurations-now/"><u>GeForce Experience Setup Glitch Solved - Retrieve Your Custom Configurations Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Civi 3 Disney 100th Anniversary Edition without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech-in-2024/"><u>Navigating Your Way Through VR Headset Selection Is the Mobile Experience More Attractive Than Tethered Tech, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-new-world-overcomes-previous-easy-anti-cheat-issues/"><u>Resolved: 'New World' Overcomes Previous Easy Anti-Cheat Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-paste-functionality-in-common-web-browsers/"><u>Restoring Paste Functionality in Common Web Browsers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206650968-sd-invisible-no-more-find-the-answer-here/"><u>SD Invisible No More, Find the Answer Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-win32-app-crash-code-0x00000005/"><u>Step-by-Step Guide: Resolving the Win32 App Crash - Code 0X00000005</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-restoring-communication-with-a-non-responsive-dhcp-server/"><u>Success Story: Restoring Communication With a Non-Responsive DHCP Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successful-creation-of-d3d-device-after-failure/"><u>Troubleshooting Guide: Successful Creation of D3D Device After Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-high-wudfhostexe-process-load-in-windows-10-systems/"><u>Troubleshooting High WUDFHost.exe Process Load in Windows 10 Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ultra-portable-moko-collapsible-wireless-keyboard/"><u>Ultra-Portable MoKo Collapsible Wireless Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-common-dll-errors-fix-and-prevention-tips/"><u>Winning Against Windows Common Dll Errors: Fix and Prevention Tips</u></a></li>
 </ul></div>
 

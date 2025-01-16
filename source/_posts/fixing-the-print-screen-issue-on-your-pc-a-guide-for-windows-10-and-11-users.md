@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Print Screen Issue on Your PC: A Guide for Windows 10 & 11 Users"
-date: 2025-01-07T00:17:55.227Z
-updated: 2025-01-10T19:34:03.517Z
+date: 2025-01-15T16:29:47.019Z
+updated: 2025-01-16T16:11:54.353Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
@@ -51,20 +51,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -75,6 +75,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
@@ -83,10 +87,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -102,11 +102,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -123,10 +127,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,14 +154,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-intova-x-visionary-action-camera-unveiled-today/"><u>[Updated] 2024 Approved Intova X Visionary Action Camera Unveiled Today</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-optimal-audibility-techniques-to-enhance-recording-quality/"><u>2024 Approved Optimal Audibility Techniques to Enhance Recording Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-windows-laptop-slowdown-post-external-monitor-connection/"><u>Fix Window's Laptop Slowdown Post-External Monitor Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-not-here-issue-addressing-windows-error-code-24-in-ws-1187/"><u>Fixing the 'Not Here' Issue: Addressing Windows Error Code 24 in WS 11/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solution-guide-overcoming-delayed-startcontrol-errors-service-id-1053/"><u>Quick Solution Guide: Overcoming Delayed Start/Control Errors (Service ID 1053)</u></a></li>
-<li><a href="https://article-files.techidaily.com/secrets-to-unlocking-costless-image-streams-for-2024/"><u>Secrets to Unlocking Costless Image Streams for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-your-unresponsive-laptops-trackpad-or-external-mouse/"><u>Solving the Dilemma of Your Unresponsive Laptop's Trackpad or External Mouse</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-title-captures-the-readers-attention-by-using-words-like-conquering-record-breaking-scores-and-above-108000-this-implies-a-strong-performance-and-provid12/"><u>The Title Captures the Reader's Attention by Using Words Like Conquering, Record-Breaking Scores, and Above 108,000. This Implies a Strong Performance and Provides an Enticing Hook for Readers Looking to Explore High-Performance CPU Benchmark Results.</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-optimization-tips-for-a-superior-gaming-experience/"><u>Windows 11 Optimization Tips for a Superior Gaming Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-gaming-mastery-the-ultimate-speed-controller-guidebook/"><u>[New] 2024 Approved Gaming Mastery The Ultimate Speed Controller Guidebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-new-to-telegram-heres-your-guide-to-getting-started-with-marketing-for-2024/"><u>[New] New to Telegram? Here's Your Guide to Getting Started with Marketing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speech-to-text-powered-by-microsoft-word-your-pathway-to-efficient-workflow-management/"><u>[New] Speech to Text Powered by Microsoft Word Your Pathway to Efficient Workflow Management</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-ranked-ios-tools-to-experience-real-psp-games/"><u>[Updated] 2024 Approved Top-Ranked iOS Tools to Experience Real PSP Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-dramatic-hdr-portraits-explained/"><u>[Updated] The Art of Dramatic HDR Portraits Explained</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-sync-shutter-speed-blur-artistry-in-photoshop/"><u>2024 Approved Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-6-tech-for-subtitle-creation-in-video/"><u>2024 Approved Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/astro-a40-microphone-failure-heres-how-to-get-it-working-again-with-simple-hacks/"><u>Astro A40 Microphone Failure? Here's How to Get It Working Again with Simple Hacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/discord-sound-is-back-online/"><u>Discord Sound Is Back Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-your-lenovo-mouse-pad-error-in-windows-7811-with-our-expert-troubleshooting-steps/"><u>DIY Repair Your Lenovo Mouse Pad Error in Windows 7/8/11 with Our Expert Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-mouses-right-click-button-when-it-wont-work-in-windows-aturate-environment-and-the-user-should-seek-advice-from-relevant-legal-or-medical38/"><u>How to Repair Your Mouse's Right Click Button When It Won't Work in Windows Aturate Environment, and the User Should Seek Advice From Relevant Legal or Medical Professionals if Needed.</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-error-5-solutions-quick-fixes-for-gamers/"><u>Minecraft Error 5 Solutions - Quick Fixes for Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/protonpass-now-available-for-macos-and-ubuntu-unveiling-cross-platform-support/"><u>ProtonPass Now Available for macOS & Ubuntu: Unveiling Cross-Platform Support</u></a></li>
 </ul></div>
 

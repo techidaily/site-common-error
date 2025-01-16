@@ -1,7 +1,7 @@
 ---
 title: "Fix: Windows 11 Display Dimming Issues Resolved"
-date: 2025-01-06T16:28:29.720Z
-updated: 2025-01-10T16:15:05.997Z
+date: 2025-01-13T16:15:26.962Z
+updated: 2025-01-16T16:27:45.005Z
 tags:
   - win11
   - win10
@@ -55,21 +55,21 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **If you’re using Windows 7:**
 
 **Note** : if you have more than one displays, choose the displays respectively for the following steps.
@@ -86,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 1. Right click on any**empty area** on your desktop, then select**Screen** **resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3de95308b.png)
 2. Change**Resolution** to the specific resolution (in my case I choose**1080×1920** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
 3. Click**Apply** .  
@@ -97,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 5. On the same screen, click**Advanced** **settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
@@ -106,21 +114,9 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
 7. Click**Apply** and**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restart your computer in normal mode and see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update graphics card driver
 
@@ -162,11 +158,15 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
 4. Click**Troubleshoot** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
@@ -178,17 +178,17 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
@@ -203,7 +203,7 @@ Restart your computer in normal mode and see if it works.
 3. Then press**Enter** on your keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your computer will boot into the selected VGA mode and your error message should disappears.
@@ -228,20 +228,18 @@ Restart your computer in normal mode and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-epic-recordings-the-best-timelapse-software-for-2024/"><u>[New] Epic Recordings The Best Timelapse Software for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-imagery-tales-untold/"><u>2024 Approved Iconic Imagery Tales Untold</u></a></li>
-<li><a href="https://solve-news.techidaily.com/windowsmacos-mkv-mp4-2024/"><u>優秀 Windows/macOS MKV 到 MP4 線上轉換工具: 2024 最新列表</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/criando-screenshots-parciais-no-windows-11-passo-a-passo-detalhado/"><u>Criando Screenshots Parciais No Windows 11 - Passo a Passo Detalhado</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-nonfunctioning-microphone-on-your-laptop-a-comprehensive-guide/"><u>How to Fix a Nonfunctioning Microphone on Your Laptop: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-seamlessly-incorporate-video-game-banners/"><u>How to Seamlessly Incorporate Video Game Banners</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-x6-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco X6 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-wins-resolving-common-issues-with-overwatchs-voice-chat-feature/"><u>Quick Wins: Resolving Common Issues with Overwatch's Voice Chat Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-freezes-and-unresponsive-behavior-a-step-by-step-guide/"><u>Resolving Windows 11 Freezes and Unresponsive Behavior: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-resolving-steam-disk-writing-issues-quickly/"><u>Simple Solutions: Resolving Steam Disk Writing Issues Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-for-non-writable-status-of-0x-location-in-computers-memory/"><u>Solution Found for Non-Writable Status of 0X Location in Computer's Memory</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-why-are-my-desktop-icons-not-showing-up-in-windows-11/"><u>Solved: Why Are My Desktop Icons Not Showing Up in Windows 11?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/trends-and-techniques-for-skyrocketing-youtube-views-for-2024/"><u>Trends and Techniques for Skyrocketing YouTube Views for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-missing-hardware-how-to-identify-and-set-up-your-computers-media-drivers/"><u>Troubleshoot Missing Hardware: How to Identify & Set Up Your Computer's Media Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/win11-stability-issues-constant-restarts/"><u>Win11 Stability Issues: Constant Restarts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>[New] 2024 Approved Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-trailers-that-convert-viewers-into-customers-for-2024/"><u>[New] Channel Trailers that Convert Viewers Into Customers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-macs-top-screen-recorders-face-off-bandicam-vs-camtasia/"><u>[New] In 2024, Mac's Top Screen Recorders Face-Off Bandicam vs Camtasia</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-api-ms-win-core-libraryloader-l1-1-1dll-is-missing-from-your-computer/"><u>[Solved] api-ms-win-core-libraryloader-l1-1-1.dll Is Missing From Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-repairing-user-profile-service-malfunctions-and-ensuring-successful-logins-in-windows-1011/"><u>Guide: Repairing 'User Profile Service' Malfunctions and Ensuring Successful Logins in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-macbookpc-keyboard-lights-working-again-effective-fixes-and-tips/"><u>How to Get Your Macbook/PC Keyboard Lights Working Again: Effective Fixes & Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-x-fold-2-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo X Fold 2 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-magic-6-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor Magic 6 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavinpf-to-jpeg/"><u>Movaviで効率よく行うフリーオンラインNPF to JPEGコンバータ: 最新ツールとガイド</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/parents-choice-award-winners-a-guide-to-the-finest-kids-tablets-featured-on-zdnet/"><u>Parents' Choice Award Winners: A Guide to the Finest Kids' Tablets Featured on ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-picks-top-tripods-for-crystal-clear-4k-cinematography/"><u>Premier Picks Top Tripods for Crystal-Clear 4K Cinematography</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-playback-eliminating-windows-11s-youtube-sound-rendering-error/"><u>Troubleshooting Audio Playback: Eliminating Windows 11'S Youtube Sound Rendering Error</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-messenger-kids-sleep-mode-for-better-usage/"><u>Understanding Messenger Kids' Sleep Mode for Better Usage</u></a></li>
 </ul></div>
 

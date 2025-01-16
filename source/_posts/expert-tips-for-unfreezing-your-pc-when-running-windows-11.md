@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Unfreezing Your PC When Running Windows 11
-date: 2025-01-08T17:39:03.953Z
-updated: 2025-01-10T21:24:36.629Z
+date: 2025-01-13T16:19:48.201Z
+updated: 2025-01-16T16:13:05.848Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Your**Windows Store** has been acting up recently.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for Windows Store cache may be damaged
 
  Before you try these fixes, please make sure your computer’s date, time and time zone are set correctly.
@@ -46,12 +42,16 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Once completed, Windows Store will pop open.
@@ -76,10 +76,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
 
 * If yes, rename the folder**cache.old** . Create a new folder and name it**cache** . Close the window.
@@ -100,12 +96,16 @@ Your**Windows Store** has been acting up recently.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Reset** , and you’ll receive a confirmation button. Click **Reset** and close the window.
 
@@ -115,13 +115,13 @@ Your**Windows Store** has been acting up recently.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Free-Tech-Support.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/) (just $29.95) and you get free technical support as part of your purchase** . Then you can contact our computer technicians directly, explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -142,14 +142,18 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-uncover-the-best-free-ultimate-3d-videos-playing-solutions/"><u>[New] Uncover the Best Free, Ultimate 3D Videos Playing Solutions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-elite-10-sound-recording-essentials-on-spotify-platform/"><u>[Updated] In 2024, Elite 10 Sound Recording Essentials on Spotify Platform</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-insight-discovering-your-off-facebook-activities/"><u>[Updated] Mastering the Art of Insight Discovering Your Off-Facebook Activities</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-dealing-with-invisible-devices-and-code-24-errors-on-windows-machines/"><u>Expert Tips: Dealing with Invisible Devices and Code 24 Errors on Windows Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-livekernelevent-error-code-117-expert-tips-and-tricks/"><u>Fixing LiveKernelEvent Error Code 117: Expert Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-optimize-and-reduce-high-processor-load-from-wudfhostexe-in-windows-10/"><u>How to Optimize and Reduce High Processor Load From wudfhost.exe in Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-inshots-competitors-for-pclaptop-editors/"><u>In 2024, Inshot's Competitors for PC/Laptop Editors</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-xs-max-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone XS Max? Fixed | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-11-usb-connectivity-issues-a-step-by-step-guide/"><u>Solving Windows 11 USB Connectivity Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-frosty-frameworks-for-warm-video-productions/"><u>[Updated] In 2024, Frosty Frameworks for Warm Video Productions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sharing-wisdom-the-art-of-insta-duplication/"><u>2024 Approved Sharing Wisdom The Art of Insta Duplication</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-issue-of-svchostexe-elevated-cpu-use-in-windows-10/"><u>Diagnosing and Fixing the Issue of svchost.exe Elevated CPU Use in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-ultimate-list-6-free-tools-to-replace-photoshop/"><u>Explore the Ultimate List: 6 Free Tools to Replace Photoshop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-100-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor 100</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-oppo-a18-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo A18 to Protect Your Individual Information</u></a></li>
+<li><a href="https://common-error.techidaily.com/matched-cameras-to-secure-windows-hello-access/"><u>Matched Cameras to Secure Windows Hello Access</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/rapid-routines-saving-presentations-ppt-wise-for-2024/"><u>Rapid Routines Saving Presentations PPT-Wise for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-overcoming-the-frustration-of-madden-21-freezing-on-windows-and-mac/"><u>Solution Steps: Overcoming the Frustration of Madden 21 Freezing on Windows and Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-rdr2-memory-errors-with-simple-pagefile-enhancement-techniques/"><u>Troubleshoot RDR2 Memory Errors with Simple Pagefile Enhancement Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-tips-for-establishing-a-stable-connection-between-your-airpods-and-windows-os-in-202cuh3/"><u>Ultimate Tips for Establishing a Stable Connection Between Your AirPods and Windows OS in 202Cuh3</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-bring-your-ideas-to-life-top-5-online-stop-motion-animation-tools-for-2024/"><u>Updated Bring Your Ideas to Life Top 5 Online Stop Motion Animation Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/wireless-mouse-stops-and-restarts-on-windows-1110-heres-how-to-fix-it/"><u>Wireless Mouse Stops & Restarts on Windows 11/10? Here's How to Fix It</u></a></li>
 </ul></div>
 

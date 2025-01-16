@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Resolving Sony PlayStation 4 Mic Issues Quickly"
-date: 2024-08-27T13:33:05.680Z
-updated: 2024-08-28T13:33:05.680Z
+date: 2025-01-14T16:07:13.979Z
+updated: 2025-01-16T16:16:44.736Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
  Many Windows users are reporting this issue. But don’t worry, this is totally fixable. Here are three simple fixes to try. You may not have to try them all; just work your way down the list until you find the one that works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 simple fixes to try
 
 1. **[Run the audio troubleshooter](#c)**
@@ -43,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
 **2)** Click**Next** and wait for the scans to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-446.png)
 
  Hope this worked for you. If Windows fails to detect your issue, read on the try the fix below.
@@ -56,10 +54,11 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
 **1)**  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-424.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Type **services.msc** , then press the **Enter** key on your keyboard.
 
@@ -67,24 +66,22 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
 **3)**  Right-click**Windows Audio** , then **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-428.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Set the**Startup type** to**Automatic** , then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-427.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Right-click**Windows Audio** , then**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-431.png)
 
 **6)** Back to**step 3 to 5** to set the Startup type of these two services to**Automatic** , then restart them respectively.
@@ -93,9 +90,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **Multimedia Class Scheduler**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-436.png)
 
 **7)** Reboot your computer.
@@ -103,6 +97,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **8)** After your computer restarts, play an audio file to test your issue.
 
  Hope the audio works correctly now. If it didn’t, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -157,8 +155,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +162,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-skype-call-capture-the-most-effective-free-and-paid-approaches/"><u>[New] In 2024, Skype Call Capture The Most Effective Free & Paid Approaches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-overview-of-camstudios-video-tools-for-2024/"><u>[New] Ultimate Overview of CamStudio's Video Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715860341238-updated-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture/"><u>[Updated] Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-steer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips/"><u>2024 Approved Steer Clear of Obscurity Secure a Top Spot with YouTube SEO Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-twitchs-error-nigma-code-4000-with-these-simple-repair-techniques/"><u>Beat Twitch's Error Nigma Code 4000 with These Simple Repair Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/city-escapades-games-paralleling-gta-v-adventure/"><u>City Escapades Games Paralleling GTA V Adventure</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-answer-on-resolving-stalled-windows-pre-installation-process/"><u>Definitive Answer on Resolving Stalled Windows Pre-Installation Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-smart-home-devices-showcased-at-ces-2024-as-reviews-by-zdnet-illuminate-new-trends-in-technology/"><u>Discover the Ultimate Smart Home Devices Showcased at CES 2024, as Reviews by ZDNet Illuminate New Trends in Technology</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-you-locate-and-open-the-device-manager-on-your-pc-tips-from-yl-computing/"><u>How Can You Locate and Open the Device Manager on Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-set-up-usb-tethering-in-windows-11/"><u>How to Seamlessly Set Up USB Tethering in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210119780-9781000114218-knowing-beyond-knowledge/"><u>Knowing Beyond Knowledge | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/mending-non-existence-of-cldll-in-systems/"><u>Mending Non-Existence of ClDLL in Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/mitigating-complications-due-to-missing-xinput13dll-file/"><u>Mitigating Complications Due to Missing XINPUT1_3.dll File</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-a-trip-through-toms-electronic-storehouse/"><u>Navigating the World of Hardware: A Trip Through Tom's Electronic Storehouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-werfaultexe-applications-mishaps-with-these-proven-fixes/"><u>Overcome Windows werFault.exe Applications Mishaps with These Proven Fixes</u></a></li>
+</ul></div>
 

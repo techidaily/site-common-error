@@ -1,7 +1,7 @@
 ---
 title: PS4 Whirring Woes - Diagnosing & Fixing the Root of Loudness Problems
-date: 2024-08-27T13:32:22.103Z
-updated: 2024-08-28T13:32:22.103Z
+date: 2025-01-13T16:17:21.370Z
+updated: 2025-01-16T16:21:27.991Z
 tags:
   - win11
   - win10
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
   * [**Method Four: Update Video Card Driver Automatically**](https://tools.techidaily.com/drivereasy/download/)
  **\[Problem Description\]**The**Minecraft “Bad Video Card Drivers” Crash** could be frustrating since it stops you from playing Minecraft. And before you could get this problem solved, there is nothing you could do to the game.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b1d6ac28e.png)
 
 Let’s look closer at this problem:
@@ -43,30 +40,10 @@ If you can see some updates on your computer, click the**Install updates**button
 
 Thirdly, you need to make sure that you have the latest version of Java installed on your computer also. You could check the version of your Java by opening this[webpage](https://www.java.com/en/download/installed.jsp)in Firefox or Internet Explorer browser. If you don’t have the latest version yet, please update it. When you have get the preparation done, it is time for you to follow the instructions below to get the problem fixed.   **Method One: Change Hardware Acceleration** 1) Click**Start**button, then select **Control Panel**. 2) View by**Small icons**and select**Display**option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785efeb9f490.png)
 
 3) On the left panel, click**Change display settings**option.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f01132191.png)
 
 4) Then select**Advanced settings**.
@@ -75,14 +52,8 @@ Key features:
 
 5) In**Troubleshoot**bar, select**Change settings**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f08382bd7.png)6) Move**Hardware acceleration**slider to**Full**. Press**OK**and exit this panel.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f0c337e92.png)   **Method Two: Roll back Driver**1) Go to[Device Manager](https://tools.techidaily.com/drivereasy/download/). 2) Expand **Display adapters** and then right click on the device under this category and choose**Properties**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3640a93c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) In the coming up window, go to**Driver**tab and then click the**Roll Back Driver**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3cf36bcb.png)4) Click**Yes**when this window comes up.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e4168f03c.png)5) Restart your computer after this change. **Note**: If the**Roll Back Driver** button is grey here like the screen shot below, then you might not be able to proceed with this method. It is suggested that you try the other methods below. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e52a88640.png)   **Method Three: Update Video Driver Manually**1) Press**Windows Key + R**at the same time to invoke a**Run**command. Then type in**dxdiag**and press**Enter**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7a2b26ae.png)2) Go to**Display**tab and locate the video card device information. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7dd4fc08.png)Base on the device name of your video or display card, go to the manufacturer’s official website and look for the latest version of driver for your video card. The majority of users will have one of the below makes of video card:
 
 * **Intel –[How to download Intel display card driver?](https://tools.techidaily.com/drivereasy/download/)**
@@ -94,9 +65,6 @@ If you have video card made by manufacturers other than these three listed here,
 
 2) Choose the driver you need and then press the**Update**button to download the driver file.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6164b50ba1.jpg)
 
 As you can see, the free version is equally capable as the professional version of **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . But it is required that you install the downloaded drivers manually. Here is **[a post](https://tools.techidaily.com/drivereasy/download/)** showing you how to do it. If you are looking for a faster download and update speed and more features such as driver back up and driver restore and also a professional technical support team, it is always suggested that you use the[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Moreover, we have a 30-day money back policy, so if you find our product or services not satisfactory enough, you could always ask for a refund.
@@ -107,8 +75,6 @@ As you can see, the free version is equally capable as the professional version 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +82,26 @@ As you can see, the free version is equally capable as the professional version 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-educational-visuals-expertise-in-video-cutting/"><u>[New] Educational Visuals Expertise in Video Cutting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>[Updated] 2024 Approved Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlock-the-power-of-filmora-for-effective-avi-to-gif-conversion/"><u>[Updated] 2024 Approved Unlock the Power of Filmora for Effective AVI-to-GIF Conversion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-phones-speed-up-sound-essential-app-listing-for-2024/"><u>[Updated] Phones’ Speed Up Sound Essential App Listing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-control-over-clips-with-powerdirectors-latest-24-updates/"><u>Complete Control Over Clips with PowerDirector's Latest '24 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-no-compatible-graphics-device-found-error-in-civilization-vi/"><u>Easy Fixes for 'No Compatible Graphics Device Found' Error in Civilization VI</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-directx-encountered-an-unrecoverable-error-scenarios/"><u>Effective Solutions for 'DirectX Encountered an Unrecoverable Error' Scenarios</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-guide-to-aiseesofts-screencasting-features/"><u>Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-how-to-fix-power-overload-at-your-devices-connection-point/"><u>Expert Tips: How to Fix Power Overload at Your Device's Connection Point</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-and-fix-module-not-found-errors-on-windows-or-mac/"><u>How to Address and Fix 'Module Not Found' Errors on Windows or Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-weaving-visual-narratives-with-words-on-paper/"><u>In 2024, Weaving Visual Narratives with Words on Paper</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-when-your-lenovo-keyboard-fails-to-respond/"><u>Solving the Issue When Your Lenovo Keyboard Fails to Respond</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-rdr2-out-of-memory-errors-in-their-tracks-by-adjusting-the-windows-page-file/"><u>Stop RDR2 Out of Memory Errors in Their Tracks by Adjusting the Windows Page File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-essential-note-taking-apps-for-ipad-and-ipad-pro-enthusiasts/"><u>Top 7 Essential Note-Taking Apps for iPad & iPad Pro Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsofts-print-to-pdf-feature-wont-work-on-windows-11/"><u>Troubleshooting: Microsoft's Print-to-PDF Feature Won't Work on Windows 11</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

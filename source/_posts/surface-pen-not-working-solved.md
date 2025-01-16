@@ -1,7 +1,7 @@
 ---
 title: Surface Pen Not Working [Solved]
-date: 2025-01-04T19:37:34.446Z
-updated: 2025-01-10T22:21:01.671Z
+date: 2025-01-12T16:12:31.195Z
+updated: 2025-01-16T16:04:57.675Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 3. **[Update your mouse and/or keyboard driver](#c)**
 4. **[Check for Windows Updates](#d)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the keyboard troubleshooter
 
  The keyboard troubleshooter is a built-in utility in Windows designed to identify and automatically rectify common keyboard or mouse errors. To use this troubleshooter, follow these steps:
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click **Keyboard** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 **3)**  Wait for Windows to detect and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your pointer speed
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-530.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Under**View by** , select **Large icons** .
@@ -77,9 +77,17 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-532-1024x753.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Check to see if your mouse can work properly now.
 
@@ -117,10 +125,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
@@ -136,10 +140,6 @@ OR
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -171,20 +171,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-clips-android-reversal-technique/"><u>2024 Approved Flip Clips Android Reversal Technique</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-p55-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel P55 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-windows-strategies-for-device-id-discovery/"><u>Essential Windows Strategies for Device ID Discovery</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-issues-when-your-laptop-cant-shut-down-win-10/"><u>Expert Tips for Resolving Issues When Your Laptop Can’t Shut Down Win 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-diagnostic-services-up-and-running-again/"><u>Expert Tips to Get Your Diagnostic Services Up and Running Again</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/free-guide-to-capturing-windows-3-quick-steps/"><u>Free Guide to Capturing Windows (3 Quick Steps)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/income-accumulation-with-cosmetic-videos/"><u>Income Accumulation with Cosmetic Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/infinite-space-explorers-unveiling-the-premier-2024-storage/"><u>Infinite Space Explorers Unveiling the Premier 2024 Storage</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-sound-engineers-approach-to-detaching-bass-from-mixed-tracks/"><u>New 2024 Approved The Sound Engineers Approach to Detaching Bass From Mixed Tracks</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-remote-server-not-reachable-error-practical-steps-to-follow/"><u>Overcoming 'Remote Server Not Reachable' Error: Practical Steps to Follow</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-fn-key-malfunction-on-your-dell-pc-a-comprehensive-guide/"><u>Resolving the Fn-Key Malfunction on Your Dell PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/strategies-to-eliminate-steamdll-absence/"><u>Strategies to Eliminate SteamDll Absence</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-windows-10-cant-be-installed-error-80240020/"><u>Troubleshoot and Resolve the 'Windows 10 Can't Be Installed - Error 80240020'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-the-dell-laptop-keys-fail-to-function/"><u>Troubleshooting Steps When the Dell Laptop Keys Fail to Function</u></a></li>
-<li><a href="https://common-error.techidaily.com/tutorial-correcting-the-overspent-timer-in-your-semaphore-system-issue-0x80070079/"><u>Tutorial: Correcting The Overspent Timer in Your Semaphore System (Issue 0X80070079)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-heimdalls-vigil-gods-clash-in-ragnarok/"><u>[New] In 2024, Heimdall's Vigil Gods Clash in Ragnarok</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>[New] Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-fresh-take-on-samsungs-ultrablade-k850-review/"><u>[Updated] A Fresh Take on Samsung’s UltraBlade K850 Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-peeking-beyond-one-camera-limitations/"><u>[Updated] In 2024, Peeking Beyond One-Camera Limitations</u></a></li>
+<li><a href="https://common-error.techidaily.com/directx-error-resolved-a-comprehensive-guide-to-fixing-hardware-compatibility-issues/"><u>DirectX Error Resolved? A Comprehensive Guide to Fixing Hardware Compatibility Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-viral-beats-to-ringtones-transforming-tiktok-sounds-for-2024/"><u>From Viral Beats to Ringtones Transforming TikTok Sounds for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-software-for-hp-deskjet-ink-advantage-3755-printer-on-windows-operating-systems-windows-11-10-8-and-7/"><u>Get the Latest Driver Software for HP DeskJet Ink Advantage 3755 Printer on Windows Operating Systems (Windows 11, 10, 8, ^and 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-responsive-custom-profile-adjustments/"><u>How to Resolve Non-Responsive Custom Profile Adjustments</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-mac-captures-compilation-under-156-chars/"><u>In 2024, Essential Mac Captures Compilation (Under 156 Chars)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-troubleshooting-steps-for-windows-10-photos-freeze/"><u>In 2024, Troubleshooting Steps for Windows 10 Photos Freeze</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206300481-resolve-the-bluetooth-not-detected-on-windows-11-fast-fix-guide/"><u>Resolve the Bluetooth Not Detected on Windows 11 - Fast Fix Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-and-fixing-the-code-28-device-issues-on-windows/"><u>Resolved: Troubleshooting and Fixing the 'Code 28' Device Issues on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-chrome-couldnt-load-plugin-a-detailed-guide-for-windows-11/"><u>The Ultimate Fix for 'Chrome Couldn't Load Plugin': A Detailed Guide for Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-vpn-routers-expert-review-by-zdnet/"><u>Top Rated VPN Routers : Expert Review by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-causes-behind-a-non-starting-personal-computer/"><u>Understanding the Causes Behind a Non-Starting Personal Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-blurry-text-heres-how-to-fix-it/"><u>Windows 11 Blurry Text? Here's How to Fix It</u></a></li>
 </ul></div>
 

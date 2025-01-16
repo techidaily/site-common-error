@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Running Fortnite with Non-Compatible Graphics Hardware in Windows"
-date: 2025-01-06T16:11:08.580Z
-updated: 2025-01-10T23:32:21.534Z
+date: 2025-01-15T16:31:52.610Z
+updated: 2025-01-16T16:23:40.543Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Since this cause may vary from person to person, so here we provide more than one fix so that you can better solve your problem. You may not need to try them all; just walk your way down until you find the one that works.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 5. **[Run the System File Checker](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run the Hardware and Devices Troubleshooter
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Type and copy this command below and press**Enter** .
 
 msdt.exe -id DeviceDiagnostic
@@ -58,13 +58,13 @@ msdt.exe -id DeviceDiagnostic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Apply this fix** when the troubleshooter finds a fix for you.
 
 ![apply a windows suggested fix](https://images.drivereasy.com/wp-content/uploads/2021/03/image-13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5\. You may need to restart your PC for the changes to take full effect.
 
@@ -78,11 +78,19 @@ msdt.exe -id DeviceDiagnostic
 
 ![camera privacy settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Scroll down the settings page and make sure the toggle is set to**On** for Camera Access for this device and**Allow apps to access your camera** .
 
 ![allow camera access](https://images.drivereasy.com/wp-content/uploads/2021/03/image-15.png)
 
  If there’s nothing wrong with the privacy settings, but your camera error 0xa00f4292 still persists, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your camera drivers
 
@@ -97,10 +105,6 @@ msdt.exe -id DeviceDiagnostic
  2\. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![scan device drivers](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3\. Click the **Update** button next to the ASUS webcam driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -121,10 +125,6 @@ msdt.exe -id DeviceDiagnostic
 
 ![settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Select**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-18.png)
@@ -138,7 +138,7 @@ msdt.exe -id DeviceDiagnostic
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may take about a few seconds to complete. Once the reset is done, check if the camera error 0xa00f4292 has been resolved by now.
@@ -184,19 +184,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-mastering-zoom-on-windows-10-a-step-by-step-guide/"><u>[New] Mastering Zoom on Windows 10 A Step-by-Step Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-select-your-go-to-teacher-recording-software-now/"><u>[Updated] In 2024, Select Your Go-To Teacher Recording Software Now</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-psd-mastery-journey-unlimited-complimentary-texts/"><u>2024 Approved PSD Mastery Journey Unlimited Complimentary Texts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/"><u>All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-pinnacle-of-personal-data-holdings/"><u>In 2024, The Pinnacle of Personal Data Holdings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/inject-audio-harmony-to-premiere-pro-videos/"><u>Inject Audio Harmony to Premiere Pro Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-usb-connectivity-how-to-tackle-the-unknown-usb-device-and-port-reset-failed-errors-on-windows-11/"><u>Mastering USB Connectivity: How to Tackle the 'Unknown USB Device' And 'Port Reset Failed' Errors on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-current-unavailability-issues-with-microsofts-windows-smartscreen-protection/"><u>Resolving Current Unavailability Issues with Microsoft's Windows SmartScreen Protection</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-unresponsive-user-preferences-and-settings/"><u>Resolving Issues with Unresponsive User Preferences and Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-write-protection-issues-tips-for-usbs-sd-cards-and-cds-in-windows/"><u>Resolving Write Protection Issues: Tips for USBs, SD Cards & CDs in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-unplayable-dvd-files-on-your-pc/"><u>Solving the Mystery of Unplayable DVD Files on Your PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/step-by-step-approach-to-stream-flawless-events-with-zoom-on-youtube/"><u>Step-by-Step Approach to Stream Flawless Events with Zoom on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/when-and-how-to-perform-ps5-controller-resets/"><u>When and How to Perform PS5 Controller Resets</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-screenshot-or-record-of-whats-showing-on-your-mac/"><u>[New] 2024 Approved How to Screenshot or Record of What's Showing On Your Mac</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elevating-content-clarity-with-video-dates-and-times-for-2024/"><u>[New] Elevating Content Clarity with Video Dates and Times for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-upload-horizontal-videos-to-igtv-3-ways/"><u>[New] In 2024, How to Upload Horizontal Videos to IGTV [3 Ways]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-auditory-aesthetics-crafting-perfect-sounds-for-insta/"><u>[Updated] In 2024, Auditory Aesthetics Crafting Perfect Sounds for Insta</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-15-expertly-chosen-tripods-for-gopro-cameras/"><u>[Updated] Pro Tips 15 Expertly Chosen Tripods for GoPro Cameras</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-sound-glitches-fixing-crackling-microphones-on-windows-operating-systems/"><u>End the Sound Glitches: Fixing Crackling Microphones on Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-pcdevice-needs-to-be-repaired/"><u>How to Fix Your PC/Device Needs to Be Repaired</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-with-snap-zoom-guide/"><u>In 2024, Capturing with Snap Zoom Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-windows-10-like-a-pro-advanced-guide-to-file-explorer/"><u>Navigate Windows 10 Like a Pro: Advanced Guide to File Explorer</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-pops-and-cracks-on-windows-computer-speakers-issue-resolved/"><u>Quick Fix for Pops and Cracks on Windows Computer Speakers [ISSUE RESOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-restore-audio-in-forza-horizon-4-enjoy-full-volume/"><u>Solved! How to Restore Audio in Forza Horizon 4 – Enjoy Full Volume</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-broken-shift-key-step-by-step-guide/"><u>Solving the Problem of a Broken Shift Key – Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206355232-step-by-step-guide-activating-bluetooth-on-windows-11-and-10-no-more-problems/"><u>Step-by-Step Guide: Activating Bluetooth on Windows 11 and 10 - No More Problems!</u></a></li>
+<li><a href="https://discover-data.techidaily.com/tour-de-controle-pour-lintegration-et-le-partage-en-direct-des-donnees-dans-office-pour-windows-11/"><u>Tour De Contrôle Pour L'Intégration Et Le Partage en Direct Des Données Dans Office Pour Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/forming-slides-with-external-video-integration/"><u>Transforming Slides with External Video Integration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-selection-of-apple-watch-customizable-face-designs-for-any-occasion/"><u>Ultimate Selection of Apple Watch Customizable Face Designs for Any Occasion</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsticking-stuck-buttons-essential-tips-for-restoring-function-to-a-faulty-dell-laptop-keyboard/"><u>Unsticking Stuck Buttons: Essential Tips for Restoring Function to a Faulty Dell Laptop Keyboard</u></a></li>
 </ul></div>
 

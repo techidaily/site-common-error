@@ -1,7 +1,7 @@
 ---
 title: "Banish the Shadows: Expert Tips to Restore Your Game After Monster Hunter: World's Startup Screens Are Swallowed by Darkness"
-date: 2024-08-27T13:33:37.464Z
-updated: 2024-08-28T13:33:37.464Z
+date: 2025-01-11T16:19:44.898Z
+updated: 2025-01-16T16:09:39.565Z
 tags:
   - win11
   - win10
@@ -29,6 +29,11 @@ thumbnail: https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20
 
  **5) [Perform a Clean Boot](https://tools.techidaily.com/drivereasy/download/)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Run Troubleshooter
 
  Windows 7 has a built-in**troubleshooter** that can help you troubleshoot problems on your system. You can run this tool to troubleshoot Windows Update when it is unable to download updates.
@@ -39,44 +44,37 @@ thumbnail: https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20
 
 **b)**  In Troubleshooting window, select**Fix problems with Windows Update** under**System and Security** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff84421654.jpg)
 
 **c)**  In the windows popping up, click on**Next** , and then follow the instruction to troubleshoot Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff8fd4f9fe.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 2) Reset Windows Update service
 
 **Windows Update** **service** is a system service that enables users to use Windows Update. If there is any problem with Windows Update, you can try**resetting this service** to see if the problem resolves.
 
 **a)** Press**Windows logo key** and**R key** on your keyboard at the same time to open**Run** dialog. In this dialog type “**services.msc** ” and click on**OK** . This will open Services window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ffaa973e14.png)
 
 **b)**  In the list of services, find**Windows Update** service.**Single click** on that service and click on**Restart** above the service description on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ffb4a3316b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  The restart of Windows Update will complete in a second.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ffc9beeb8d.jpg)
   
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3) Update Windows Update Agent
 
 **Windows Update Agent** is a built-in agent program that helps determine what updates your computer needs and download it from Microsoft.**Updating Windows Update Agent** can be useful for fixing Windows Updates not downloading issue. You can update this program by downloading it from Microsoft and install it on your own.
@@ -87,32 +85,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **b)**  Click on **Stand-alone packages for Windows 7 SP1 and Windows Server 2008 R2 SP1**  to expand this title. Then select and download the installation package suitable for your operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5980037b59eb0.jpg)
 
 **c)**  Open the file you have just downloaded and follow the instruction of the program to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59801cbe34e35.png)
 
 **d)** After the completion of installation, restart your computer and see if this method can fix your problem.  
   
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4) Download updates manually
 
  When Windows Update cannot download those updates, you can**download and install them manually from Microsoft** . This can not only help you update your Windows 7 without using Windows Update, but probably fix the not downloading problem as well.
 
 **a)** Firstly you should open Windows Update. Open**Start** menu and type “_**update**_ ” in the**search bar** . Then click and open**Windows Update** in the result.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5980226d794bc.jpg)
 
 **b)**  Select**updates available** . Then a list of available updates that your system has detected will pop up.
@@ -145,11 +136,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59802a6c7b717.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can install all your system updates one by one using the steps above. Though it can cost a lot of time, it is an effective way to update your Windows 7 when Windows Update is malfunctioning.  
   
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5) Perform a Clean Boot
 
  If you have tried some methods and the issue persists, you need to check if there is any application that is interfering with Windows Update.
@@ -158,21 +155,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **a)** Press**Windows logo key** and**R key** on your keyboard at the same time to open**Run** dialog. In this dialog, type “_**msconfig**_ ” and hit**Enter** . This will open System Configuration window.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59802fed6d846.png)
 
 **b)**  On**General** tab in System Configuration window, you can see the default setting is**Normal startup** . Now you need to select **Selective startup** and**untick Load startup items** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598030b608b16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Go to**Services** tab. Tick**Hide all Microsoft services** . Then click on**Disable all** . (You need to hide all Microsoft services first, or you will disable some secure services and bring about unexpected consequences.) After that click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598034649315c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **d)**  Restart your computer, and it will boot into clean boot state. Check and see whether you can download updates with Windows Update. If you can, refer to the steps above to**enable** **the services one by one** to identify which application is the culprit. After that, you can disable or uninstall the problematic program, or find an alternative in order to prevent the issue.
 
@@ -186,8 +185,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +192,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-analyzing-youtube-shorts-economic-impact-for-2024/"><u>[Updated] Analyzing YouTube Shorts Economic Impact for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-lawful-ways-to-attain-a-million-followers-on-youtube/"><u>[Updated] Lawful Ways to Attain a Million Followers on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-issues-heres-how-you-can-get-it-working-again/"><u>Corsair Keyboard Issues? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-exceptional-freefire-content-on-youtube-platforms-for-2024/"><u>Crafting Exceptional FreeFire Content on YouTube Platforms for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-persistent-errors-in-the-latest-black-ops-game/"><u>Expert Tips for Fixing Persistent Errors in the Latest Black Ops Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-and-troubleshoot-the-persistent-windows-update-issue-error-0x802c4022/"><u>How to Fix and Troubleshoot the Persistent Windows Update Issue (Error 0X802C4022)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-gt-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 GT Phone without Any Data Loss</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-successfully-downloading-your-dell-mouse-driver/"><u>Step-by-Step Guide: Successfully Downloading Your Dell Mouse Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-strategies-to-overcome-wow-performance-drops-and-enjoy-uninterrupted-gaming/"><u>Top Strategies to Overcome Wow Performance Drops & Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Oppo password or pattern lock</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-private-snapshares-a-comprehensive-tutorial/"><u>Unlocking Private Snapshares A Comprehensive Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/valorant-players-rejoice-learn-the-proven-methods-to-resolve-unwanted-screen-tearing-instantly/"><u>Valorant Players Rejoice! Learn the Proven Methods to Resolve Unwanted Screen Tearing Instantly</u></a></li>
+</ul></div>
 

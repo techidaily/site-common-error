@@ -1,7 +1,7 @@
 ---
 title: Overcome 'Cannot Play' Video Issue with Code 22# - A Step-by-Step Fix
-date: 2025-01-07T22:57:56.624Z
-updated: 2025-01-10T21:09:08.019Z
+date: 2025-01-11T16:28:54.238Z
+updated: 2025-01-16T16:12:27.625Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Dota 2 Change Rendering API error
 
  Before running the game, you can use the Game Launch Options feature on Steam to change game settings. Launch options allow the user to supersede the internal settings of the game. This is an effective means to recover from incompatible video settings and well as troubleshoot a wide range of issues. So in order to get rid of the error message, you should set a launch option specifically for Dota 2\. Here’s how you can do this:
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/select-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **General** tab, click the **SET LAUNCH OPTIONS…** button.
@@ -45,20 +41,20 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/set-launch-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type**\-dx11** and then click**OK** .
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/dx11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’s recommended to run your game on**dx11** . But some older hardware doesn’t support dx11 so you would run it on**dx9** . You can simply type**\-dx9** instead of -dx11.
 
  4) Close your game’s **Properties** window and your problem should be solved. Till then launch your game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -105,15 +105,14 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-top-10-apps-to-excitingly-edit-horizontal-and-vertical-igtv/"><u>[New] 2024 Approved Top 10 Apps to Excitingly Edit Horizontal and Vertical IGTV</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-proven-recorders-ioss-leading-screenshot-tools/"><u>[New] In 2024, Proven Recorders IOS's Leading Screenshot Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-make-an-ootd-tiktok-video-on-mac/"><u>[Updated] In 2024, How to Make an OOTD Tiktok Video on Mac</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-techniques-to-overcome-blackout-during-obs-fullscreen/"><u>[Updated] Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-exclusive-offer-save-500-on-top-rated-laptops-before-october-prime-day-featured-by-zdnet/"><u>Amazon's Exclusive Offer: Save $500 on Top-Rated Laptops Before October Prime Day - Featured by ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/ensure-smooth-gameplay-how-to-successfully-pair-an-unpaired-xbox-one-controller-with-the-console/"><u>Ensure Smooth Gameplay: How to Successfully Pair an Unpaired Xbox One Controller with the Console</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-honor-100-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor 100 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcome-undetected-bluetooth-gadgets-problem-in-windows-10-computers/"><u>Guide to Overcome Undetected Bluetooth Gadgets Problem in Windows 10 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-fixing-the-file-not-found-or-inaccessible-error-on-your-windows-machine/"><u>Tips for Fixing the 'File Not Found or Inaccessible' Error on Your Windows Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-laptop-keyboards-for-windows-users-win-10-8-and-7/"><u>Troubleshooting and Repairing Laptop Keyboards for Windows Users [WIN 10, 8 & 7]</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-engagement-top-20-best-practices-for-video-ads-on-facebook/"><u>[Updated] 2024 Approved Enhancing Engagement Top 20 Best Practices for Video Ads on Facebook</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728491069154-windows/"><u>改變Windows磁碟分割比例的指南 - 透過硬碟克隆方式</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-stop-total-war-rome-remastered-from-crashing-during-gameplay/"><u>Effective Techniques to Stop Total War: Rome Remastered From Crashing During Gameplay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-realme-narzo-60x-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Realme Narzo 60x 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-your-bluetooth-mouse-failing-to-connect-with-windows/"><u>Solving the Issue of Your Bluetooth Mouse Failing to Connect with Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-rescuing-your-freezing-desktop/"><u>Step-by-Step Solutions: Rescuing Your Freezing Desktop</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-mitigating-clashes-among-computer-system-assets/"><u>Understanding and Mitigating Clashes Among Computer System Assets</u></a></li>
 </ul></div>
 

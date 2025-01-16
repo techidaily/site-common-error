@@ -1,7 +1,7 @@
 ---
 title: Navigating the Maze of MSVCP140.dll Deficiency
-date: 2025-01-09T23:02:29.369Z
-updated: 2025-01-10T18:31:44.669Z
+date: 2025-01-09T16:33:46.864Z
+updated: 2025-01-16T16:09:09.404Z
 tags:
   - win11
   - win10
@@ -64,6 +64,10 @@ Recommended System Requirements
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn off Shot Feedback
 
  Many players have tested that turning off the**Shot Feedback** fixed the green glitch. So it’s worth a shot. To do so, you can:
@@ -71,10 +75,6 @@ Recommended System Requirements
  1) Click on the**Options/Quit** tab. Under the tab, click**SETTINGS** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
@@ -85,7 +85,7 @@ Recommended System Requirements
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update your graphics drivers
@@ -101,10 +101,6 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
@@ -138,10 +134,14 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steam
 
@@ -153,9 +153,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
@@ -173,10 +181,6 @@ To do this, simply follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When the process is completed, restart Steam and launch your game again.
 
 ### Xbox One: make sure the language is set to English
@@ -188,16 +192,12 @@ To do this, simply follow the instructions below:
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/language-set-to-English-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -221,20 +221,18 @@ To do this, simply follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-a-step-by-step-process-of-board-use-in-zoom-sessions-desktopiosandroid-for-2024/"><u>[New] A Step-by-Step Process of Board Use in Zoom Sessions (Desktop/iOS/Android) for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-holistic-motion-analysis-2023/"><u>[Updated] Holistic Motion Analysis 2023</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-earnings-exploration-how-much-does-pewdiepie-earn/"><u>[Updated] In 2024, Earnings Exploration How Much Does PewDiePie Earn?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-13-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 13? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/discover-the-top-10-efficiency-boosters-for-fcp/"><u>Discover the Top 10 Efficiency Boosters for FCP</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-nokia-g310-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Nokia G310</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203377715-enhancing-your-windows-11-keyboards-performance-eliminate-latency-problems-now/"><u>Enhancing Your Windows 11 Keyboard's Performance: Eliminate Latency Problems Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-lidadll-gone-restore-now/"><u>Fix Lida.dll Gone, Restore Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-for-correcting-xerox-update-error-error-id-0x800f020b-in-your-windows-system/"><u>Guide for Correcting Xerox Update Error (Error ID 0X800F020B) in Your Windows System</u></a></li>
-<li><a href="https://common-error.techidaily.com/headphone-dilemma-laptop-no-signal-detected/"><u>Headphone Dilemma: Laptop No Signal Detected</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-convert-kaplan-course-videos-into-various-formats-using-kaplan-video-downloader/"><u>How to Convert Kaplan Course Videos Into Various Formats Using Kaplan Video Downloader</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-pro-tips-effortless-video-upload-from-pcmac/"><u>In 2024, Instagram Pro Tips Effortless Video Upload From PC/Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-connection-effective-strategies-to-get-your-xbox-one-controller-working-seamlessly-again/"><u>Mastering the Connection: Effective Strategies to Get Your Xbox One Controller Working Seamlessly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-high-cpu-usage-by-runtime-broker-on-your-windows-10-system/"><u>Resolving the High CPU Usage by Runtime Broker on Your Windows 10 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-how-to-fix-windows-update-error-code-0x80240017/"><u>Solving the Puzzle: How to Fix Windows Update Error Code 0X80240017</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-effortlessly-access-fb-beats-for-2024/"><u>[New] Effortlessly Access FB Beats for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-journey-in-sky-high-4k-clarity/"><u>[Updated] The Ultimate Journey in Sky High 4K Clarity</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-overcome-csgo-crashing-issues-with-these-proven-fixes/"><u>Effortlessly Overcome CS:GO Crashing Issues with These Proven Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-volume-damaged-0x80071ac3-troubleshooting-steps-for-recovery/"><u>Error Message: Volume Damaged (0X80071AC3) - Troubleshooting Steps for Recovery</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a18-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A18 by Name | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-x7b-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor X7b Phones with/without a PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-w11s-tap-problem-the-elan-driver-guide/"><u>Overcoming W11's Tap Problem: The Elan Driver Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-your-windows-stores-cached-data-a-guide/"><u>Resolving Issues with Your Windows Store's Cached Data – A Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-computers-freeze-frame-repairing-a-laptops-unresponsive-input-device/"><u>Revive Your Computer’s Freeze-Frame: Repairing a Laptop's Unresponsive Input Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-dell-camera-problems-quickly-for-windows-users/"><u>Solve Dell Camera Problems Quickly for Windows Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-next-frontier-of-classroom-technology-vr/"><u>The Next Frontier of Classroom Technology - VR</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210138834-troubleshooting-guide-fixing-minecraft-lan-connection-issues-quick-solutions/"><u>Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions!</u></a></li>
 </ul></div>
 

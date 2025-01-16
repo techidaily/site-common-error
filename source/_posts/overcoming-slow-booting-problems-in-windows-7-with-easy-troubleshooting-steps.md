@@ -1,7 +1,7 @@
 ---
 title: Overcoming Slow Booting Problems in Windows 7 with Easy Troubleshooting Steps
-date: 2024-08-27T13:37:05.293Z
-updated: 2024-08-28T13:37:05.293Z
+date: 2025-01-15T16:11:56.133Z
+updated: 2025-01-16T16:09:28.440Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  2\. When you go to the setup screen, select the Language that you wish to use.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afee8fe2d3c.jpg)
   
  3\. Then you will see the Windows Install screen, select**Repair your computer** at the bottom left corner.  
@@ -50,9 +47,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  4\. In Choose an option screen, select**Troubleshoot** .  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afef1de6d4e.png)
   
  5\. Then select**Advanced options** .  
@@ -61,9 +55,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  6\. In Advanced Options screen, select**Command Prompt** . Then a new screen will be displayed with and open command prompt. If you are prompted to enter password, enter your Windows password.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58aff028a30cf.png)
   
  After opening the Command Prompt window, use below solutions to fix the loop error.  
@@ -72,9 +63,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  Follow these steps: 1\. In Command Prompt, t ype **copy c:\\windows\\system32\\config\\RegBack\\\* c:\\windows\\system32\\config** and hit**Enter** .  
   
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b004f363cc4.png)
   
  2\. If prompted to overwrite existing files, type**All** and hit **Enter** .  
@@ -107,9 +95,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  2\. Type**chkdsk /f /r** and hit**Enter** . You need to wait a while until the process completes.  
   
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58affd826668f.png)
   
 **Run a system file check**
@@ -120,9 +105,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  2\. Type or paste**sfc /scannow** and hit**Enter** . The process will also take some time to complete.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58affee4bc504.png)
   
  Hope the solutions here will help you fix the Windows 10 Automatic Repair loop error.
@@ -135,8 +117,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,24 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-journey-to-certified-status-achieving-discord-partner-authenticity/"><u>[Updated] In 2024, Journey to Certified Status Achieving Discord Partner Authenticity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-recorder-royalty-best-premium-recording-software-on-pc-and-macos-free-for-2024/"><u>[Updated] Recorder Royalty Best Premium Recording Software on PC & MacOS FREE for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-gtx-gems-the-best-for-high-res-gaming/"><u>2024 Approved GTX Gems The Best for High-Res Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-fixes-for-no-such-interface-supported-error/"><u>5 Fixes for No Such Interface Supported Error</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-a1-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo A1 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/audio-from-visuals-making-mp3s-from-instagram-content/"><u>Audio From Visuals Making Mp3s From Instagram Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-reason-behind-spontaneous-windows-11-bootups-a-comprehensive-guide/"><u>Deciphering the Reason Behind Spontaneous Windows 11 Bootups - A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-6-lite-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Magic 6 Lite Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/podcast-basics-crafting-your-first-rss-feed-for-2024/"><u>Podcast Basics Crafting Your First RSS Feed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-launching-bluetooth-connectivity-module/"><u>Resolved: Issues Launching Bluetooth Connectivity Module</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syncopated-sound-understanding-ip-rules-on-instagram-for-2024/"><u>Syncopated Sound Understanding IP Rules on Instagram for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-wireless-mice-of-2024/"><u>The Best Wireless Mice of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-d3derrnotavailable-issue-on-your-pc/"><u>Understanding and Fixing the D3DERR_NotAvailable Issue on Your PC</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

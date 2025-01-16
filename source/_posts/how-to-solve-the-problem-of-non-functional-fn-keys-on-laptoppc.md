@@ -1,7 +1,7 @@
 ---
 title: How to Solve the Problem of Non-Functional FN Keys on Laptop/PC
-date: 2025-01-03T21:47:10.013Z
-updated: 2025-01-10T22:41:46.815Z
+date: 2025-01-10T16:19:12.897Z
+updated: 2025-01-16T16:04:57.857Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -45,25 +41,25 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -79,7 +75,7 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
@@ -88,10 +84,6 @@ Here’s how to do it:
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -103,12 +95,20 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
@@ -150,22 +150,18 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-find-your-perfect-livestream-service-match/"><u>[New] In 2024, How to Find Your Perfect Livestream Service Match</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-guide-extracting-specific-segments-from-youtube/"><u>[New] In 2024, Quick Guide Extracting Specific Segments From YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-10-solutions-for-seamless-video-background-swapping/"><u>[New] Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-is-monetization-a-feature-in-review-blogs-in-2024/"><u>[Updated] Is Monetization a Feature in Review Blogs, In 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-shortcut-to-success-the-top-5-youtube-link-trimming-apps/"><u>2024 Approved Shortcut to Success The Top 5 YouTube Link Trimming Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-wacom-pen-to-work-again-in-windows-11-and-10/"><u>How To Get Your Wacom Pen to Work Again in Windows 11 & 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-90-gt-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 90 GT to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a34-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A34 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels/"><u>In 2024, The Savvy Seeker's Guide to Spotting Superb Photos on Pexels</u></a></li>
-<li><a href="https://common-error.techidaily.com/managing-and-fixing-peak-cpu-consumption-in-windows-speaker-setup/"><u>Managing and Fixing Peak CPU Consumption in Windows Speaker Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207907025-solving-the-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Solving the binkw32.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/swift-tips-and-techniques-to-correct-the-steam-disk-writing-problem/"><u>Swift Tips & Techniques to Correct the Steam Disk Writing Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-total-war-rome-remastered-crashes-easily/"><u>Troubleshoot and Resolve Total War: Rome Remastered Crashes Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-windows-11s-failed-pdf-printer-functionality/"><u>Troubleshoot and Solve Windows 11'S Failed PDF Printer Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-audio-devices-fix-no-sound-output-errors-on-windows-computers/"><u>Troubleshoot Audio Devices: Fix No Sound Output Errors on Windows Computers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-optimization-complete-how-to-fix-your-laggy-keyboard-experience/"><u>Windows 11 Optimization Complete – How to Fix Your Laggy Keyboard Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/2024-tips-how-to-fix-bluetooth-not-pairing-on-windows-10/"><u>[2024 Tips] How to Fix Bluetooth Not Pairing on Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-integrating-tiktok-content-with-facebook/"><u>[New] In 2024, Integrating TikTok Content with Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-revolutionizing-video-views-conquering-youtube-millions/"><u>[New] In 2024, Revolutionizing Video Views, Conquering YouTube Millions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-turning-dull-vids-into-engaging-experienents-with-music-for-2024/"><u>[New] Turning Dull Vids Into Engaging Experienents With Music for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ultimate-converter-mp4-videos-to-facebook/"><u>[New] Ultimate Converter MP4 Videos to Facebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-weave-webcomic-wonders-with-giphy-for-2024/"><u>[New] Weave Webcomic Wonders with Giphy for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-prime-attraction-for-cyber-threats/"><u>ChatGPT: A Prime Attraction for Cyber Threats?</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-non-compatible-user-interface-messages-on-your-monitor/"><u>Dealing with Non-Compatible User Interface Messages on Your Monitor</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-windows-press-11s-startup-freeze-a-comprehensive-guide/"><u>Diagnosing and Resolving Windows Press 11'S Startup Freeze: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g13-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resetting-keyboards-made-simple-an-ultimate-tutorial/"><u>Resetting Keyboards Made Simple: An Ultimate Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-excessive-cpu-usage-by-windows-audio-device-graph/"><u>Solving the Problem of Excessive CPU Usage by Windows Audio Device Graph</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-trick-for-bringing-back-disappeared-desktop-icons-in-windows-11/"><u>The Ultimate Trick for Bringing Back Disappeared Desktop Icons in Windows 11</u></a></li>
 </ul></div>
 

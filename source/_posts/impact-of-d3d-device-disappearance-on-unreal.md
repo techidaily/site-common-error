@@ -1,7 +1,7 @@
 ---
 title: Impact of D3D Device Disappearance on Unreal
-date: 2025-01-05T00:20:59.259Z
-updated: 2025-01-10T19:13:41.699Z
+date: 2025-01-13T16:24:31.685Z
+updated: 2025-01-16T16:11:46.083Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -57,6 +57,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -71,10 +75,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -86,7 +86,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -107,15 +107,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -130,10 +130,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -141,6 +137,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,19 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-summit-series-of-ultimate-4k-touch-screens/"><u>[New] Summit Series of Ultimate 4K Touch Screens</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>[New] Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/0-download-and-update-your-printers-driver-software-today/"><u>0, Download & Update Your Printer's Driver Software Today</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-metaverse-musings-top-30-quotes-for-immersive-living/"><u>2024 Approved Metaverse Musings Top 30 Quotes for Immersive Living</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-hp-laptop-webcam-problems-on-windows-10-operating-system/"><u>Effective Fixes for HP Laptop Webcam Problems on Windows 10 Operating System</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-fb-content-effortless-mp4-conversion/"><u>In 2024, Unlocking FB Content Effortless MP4 Conversion</u></a></li>
-<li><a href="https://common-error.techidaily.com/interoperability-issue-fixed-non-responsive-htc-touchscreen/"><u>Interoperability Issue: Fixed Non-Responsive HTC Touchscreen</u></a></li>
-<li><a href="https://common-error.techidaily.com/reestablish-your-connection-to-sound-fixing-audio-malfunctions-on-acers/"><u>Reestablish Your Connection to Sound: Fixing Audio Malfunctions on Acers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205679336-solving-miracast-connectivity-issues-with-graphics-drivers-now-fixed/"><u>Solving Miracast Connectivity Issues with Graphics Drivers - Now Fixed!</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-20-country-anthems-from-tiktoks-chillest-stations-for-2024/"><u>Top 20 Country Anthems From TikTok's Chillest Stations for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-correcting-the-critical-process-dumped-exception-error-0xc0000098/"><u>Understanding and Correcting the Critical Process Dumped Exception Error (0Xc0000098)</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-msdia80dll-importance-and-maintenance/"><u>Understanding msdia80.dll: Importance and Maintenance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-conceal-dont-reveal-how-to-blur-faces-online/"><u>[New] 2024 Approved Conceal, Don't Reveal How to Blur Faces Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-keeps-crashing/"><u>[SOLVED] Windows 11 Keeps Crashing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-xbox-fanatics-manual-perfect-your-screenshot-skills-for-2024/"><u>[Updated] Xbox Fanatics' Manual Perfect Your Screenshot Skills for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-x-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone X How to Bypass?</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-for-dealing-with-a-non-functioning-notebook-touchpad/"><u>Comprehensive Tips for Dealing with a Non-Functioning Notebook Touchpad</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202427841-expert-tips-to-optimize-and-fast-track-your-windows-the-boot-sequence-for-a-smoother-start-every-time/"><u>Expert Tips to Optimize and Fast-Track Your Windows the Boot Sequence for a Smoother Start Every Time.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-4630-upgrade-software-release/"><u>HP Printer 4630 Upgrade Software Release</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y17s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y17s to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-in-panorama-steadying-the-gopro-sight/"><u>In 2024, Precision in Panorama Steadying the GoPro Sight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-review-of-lg-bp350-for-home-theaters/"><u>In 2024, Ultimate Review of LG BP350 for Home Theaters</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-key-scenes-a-filmmakers-guidebook-for-2024/"><u>Mastering Key Scenes A Filmmaker's Guidebook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-loadlibrary-failed-with-error-t-87-problem-by-adjusting-incorrect-parameters/"><u>Overcome the 'Loadlibrary Failed with Error T 87' Problem by Adjusting Incorrect Parameters</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-user-privilege-issues-fixing-operation-needs-admin-access-in-windows-11-10-and-7/"><u>Resolving User Privilege Issues: Fixing 'Operation Needs Admin Access' In Windows 11, 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/unblocking-the-path-expert-tips-for-fixing-steams-failed-downloads/"><u>Unblocking the Path: Expert Tips for Fixing Steam's Failed Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
 </ul></div>
 

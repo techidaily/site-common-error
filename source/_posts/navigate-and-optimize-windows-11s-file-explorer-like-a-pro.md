@@ -1,7 +1,7 @@
 ---
 title: Navigate and Optimize Windows 11'S File Explorer Like a Pro
-date: 2024-08-27T13:36:38.617Z
-updated: 2024-08-28T13:36:38.617Z
+date: 2025-01-11T16:24:58.481Z
+updated: 2025-01-16T16:14:50.877Z
 tags:
   - win11
   - win10
@@ -21,37 +21,22 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 [**How to launch File Explorer in Windows 10 quickly?**](https://tools.techidaily.com/drivereasy/download/) [**How to customize Quick access items?**](https://tools.techidaily.com/drivereasy/download/) [**Windows 10 File Explorer not responding when right clicks?**](https://tools.techidaily.com/drivereasy/download/)   **How to launch File Explorer in Windows 10 quickly?** Usually, you can launch File Explorer by just typing**explorer**or**file explorer**in the search bar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
 
  You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
 
  If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
 
  If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
 
  **Windows 10 File Explorer not responding when right clicks?** If your File Explorer is not responding when you right click it, you should follow the instructions below to get this problem fixed. 1) Press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**option from the list of choice.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491b710eb2d.png)
 
 2) In the command prompt window, type in command:**netsh**, and then hit**Enter.** Then in the same window, type in**winstock reset**and hit**Enter**.
@@ -68,9 +53,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -81,8 +63,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,4 +70,25 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-balancing-act-tripod-use-for-stable-vlogging/"><u>[New] Balancing Act Tripod Use for Stable Vlogging</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-explanation-of-youtube-keyword-optimization/"><u>[New] The Ultimate Explanation of YouTube Keyword Optimization</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-superior-sound-recordings-minus-the-mic/"><u>[Updated] Unlocking Superior Sound Recordings Minus the Mic</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-the-keys-tablet-saved/"><u>Bring Back The Keys! Tablet Saved</u></a></li>
+<li><a href="https://windows11.techidaily.com/consistent-experience-migrating-powertoys-on-new-pcs/"><u>Consistent Experience: Migrating PowerToys on New PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-moto-g23-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Moto G23 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-video-selfie-verfication-is-it-really-useful-for-2024/"><u>Instagram Video Selfie Verfication - Is It Really Useful for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-10s-delayed-shutdown-bug-get-started/"><u>Quick Fixes for Windows 10'S Delayed Shutdown Bug - Get Started</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-when-your-bluetooth-mouse-stops-working-on-windows-computers/"><u>Quick Solutions for When Your Bluetooth Mouse Stops Working on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212456673-resolve-your-overwatch-audio-glitches-instantly/"><u>Resolve Your Overwatch Audio Glitches Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/trim-high-cpu-usage-in-win11-via-wmi-enhancements/"><u>Trim High CPU Usage in Win11 via WMI Enhancements</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-resolve-d3d-error-not-available/"><u>Troubleshooting Steps to Resolve D3D Error 'Not Available'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps When Mozilla Thunderbird Won't Launch</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-oppo-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Oppo .</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing Auto-Boot Issues on a Windows 11 System – Solutions Inside!
-date: 2025-01-09T21:38:43.749Z
-updated: 2025-01-10T22:04:39.464Z
+date: 2025-01-09T16:03:30.404Z
+updated: 2025-01-16T16:32:13.968Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these tips
 
@@ -52,17 +56,21 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -93,27 +101,23 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -125,10 +129,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -147,12 +147,12 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -177,16 +177,15 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-engagement-with-dynamic-360-videos-on-facebook/"><u>[New] Enhancing Engagement with Dynamic 360 Videos on Facebook</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-symphony-of-screens-adding-music-to-online-chronicles-for-2024/"><u>[Updated] Symphony of Screens Adding Music to Online Chronicles for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unleashing-potential-making-the-most-of-facebook-each-day/"><u>[Updated] Unleashing Potential Making the Most of Facebook Each Day</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixes-and-solutions-how-to-troubleshoot-an-hp-wireless-keyboard-that-wont-respond/"><u>Fixes & Solutions: How to Troubleshoot an HP Wireless Keyboard That Won't Respond</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-night-light-functionality-on-windows-10-and-11/"><u>Fixing the Issue: How to Restore Night Light Functionality on Windows 10 & 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-update-error-code-0x80070002-a-simple-guide/"><u>Fixing the Windows Update Error Code 0X80070002: A Simple Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-20-best-free-platforms-for-youtube-channel-beginners/"><u>In 2024, 20 Best Free Platforms for YouTube Channel Beginners</u></a></li>
-<li><a href="https://common-error.techidaily.com/requirement-alert-your-pc-needs-a-d3d11-compatible-graphics-card-to-support-this-game-engine/"><u>Requirement Alert: Your PC Needs a D3D11-Compatible Graphics Card to Support This Game Engine</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-continuity-with-windows-11-preserved-file-positions-after-shutdowns-and-bootups/"><u>Seamless Continuity with Windows 11: Preserved File Positions After Shutdowns & Bootups</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-connoisseurs-choice-15-elite-gopro-accessories/"><u>The Connoisseur's Choice 15 Elite GoPro Accessories</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-overcoming-black-screens-during-obs-captures/"><u>Troubleshooting Steps for Overcoming Black Screens During OBS Captures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-5-top-link-minimizers-transforming-youtube-watchability-for-2024/"><u>[Updated] 5-Top Link Minimizers Transforming YouTube Watchability for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-customization-unlocking-personalized-experiences/"><u>Cookiebot-Enabled Customization: Unlocking Personalized Experiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fix-for-your-lenovo-laptops-camera-problem-a-comprehensive-approach/"><u>DIY Fix for Your Lenovo Laptop's Camera Problem: A Comprehensive Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-error-solutions-and-steps/"><u>Fixing 'Windows Resource Protection Failed' Error: Solutions & Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-memory-keeping-track-of-chatgpt-talks/"><u>Mastering Memory: Keeping Track of ChatGPT Talks</u></a></li>
+<li><a href="https://facebook.techidaily.com/speedy-service-selective-lite-android-solutions/"><u>Speedy Service: Selective Lite Android Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-game-crashes-optimize-minecraft-performance-with-proper-windows-graphics-driver-configuration/"><u>Stop Game Crashes: Optimize Minecraft Performance with Proper Windows Graphics Driver Configuration</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-nwstoreexe-system-crashes/"><u>Troubleshooting Steps for Resolving nw_store.exe System Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-productivity-explore-8-key-benefits-of-auto-gpt-integration/"><u>Unleashing Productivity: Explore 8 Key Benefits of Auto-GPT Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 10 Couldn’t Be Installed Error Code 80240020 [Solved]</u></a></li>
 </ul></div>
 

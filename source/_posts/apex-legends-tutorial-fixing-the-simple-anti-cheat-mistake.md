@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Tutorial: Fixing the Simple Anti-Cheat Mistake"
-date: 2025-01-05T19:58:40.354Z
-updated: 2025-01-10T18:05:09.491Z
+date: 2025-01-09T16:16:16.503Z
+updated: 2025-01-16T16:29:19.315Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Apex Legends Easy Anti-Cheat Error
@@ -39,10 +39,6 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 5. **[Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install the latest patch](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Apex Legends and Origin](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -58,7 +54,7 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
@@ -81,15 +77,15 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Apex Legends and Origin as Administrator
 
  Apex Legends requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may receive Easy Anti-Cheat error. So you should make sure to run Apex Legends and Origin as administrator to see if it fixes the issue.
 
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
 
@@ -101,6 +97,10 @@ Here are the steps to repair Apex Legends in Origin:
 **If you see the 200 – HTTP OK message** , it means your connection to Easy Anti-Cheat is healthy. You can rule this out as a possible cause and move on to Fix 6 to continue troubleshooting.
 
 **If you’re not presented with the message** , then something is blocking your Internet connection. You can move on to**Fix 5** to check if your firewall is the culprit, if not, you should contact your Internet Service Provider to locate the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list
 
@@ -117,6 +117,10 @@ Here are the steps to repair Apex Legends in Origin:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
@@ -135,7 +139,7 @@ Here are the steps to repair Apex Legends in Origin:
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends and Origin
@@ -157,19 +161,15 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
 2. View Control Panel by **Category** , and then click **Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
@@ -195,19 +195,22 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-best-9-online-mic-recorders/"><u>[New] Best 9 Online Mic Recorders</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-engage-your-audience-launching-instagram-lives/"><u>[Updated] In 2024, Engage Your Audience Launching Instagram Lives</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-yogo-profile-picture-guide-dimensions-in-mm-aspect-ratio-minutes-for-2024/"><u>[Updated] YoGo Profile Picture Guide Dimensions in Mm², Aspect Ratio, Minutes for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-and-fixing-windows-update-error-0x8070490-efficiently/"><u>Bypassing and Fixing Windows Update Error 0X80#70490 Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-continuous-boot-issues-on-your-skyrim-game/"><u>How to Resolve Continuous Boot Issues on Your Skyrim Game</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-reno-8t-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo Reno 8T 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-hits-you-cant-miss-on-spotify/"><u>In 2024, 10 Hits You Can’t Miss on Spotify</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-default-search-settings/"><u>Optimizing Windows 11'S Default Search Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-the-common-update-failed-error-8007000e-on-windows-systems/"><u>Quick Fixes for the Common 'Update Failed' Error 8007000E on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-high-cpu-utilization-caused-by-windows-sound-driver-conflict/"><u>Resolve High CPU Utilization Caused by Windows Sound Driver Conflict</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/solutions-for-non-responsive-graphics-cards-expert-advice-from-yl-computing/"><u>Solutions for Non-Responsive Graphics Cards - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/unwanted-system-reboot-in-windows-10/"><u>Unwanted System Reboot in Windows 10</u></a></li>
-<li><a href="https://discover-data.techidaily.com/1728503682424-windows-111087ssd/"><u>Windows 11、10、8、7におすすめの無料SSDバックアップツール</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-affordable-wide-angle-vr-cameras-for-filmmaking/"><u>[Updated] In 2024, Affordable Wide-Angle VR Cameras for Filmmaking</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-macbook-air-beginners-guide-to-screen-recording/"><u>[Updated] Mastering MacBook Air Beginner's Guide to Screen Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/celebrating-love-and-identity-the-leading-lgbtq-series-to-watch-on-netflix-in-jul-24/"><u>Celebrating Love and Identity: The Leading LGBTQ Series to Watch on Netflix in Jul '24</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dodge-scams-authentic-gpt-usage/"><u>Dodge Scams: Authentic GPT Usage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/endings-that-wow-ranked-for-you-top-6-for-2024/"><u>Free Endings That Wow - Ranked for You (Top 6) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/halo-4-ue4-addressing-the-widespread-crash-bug-release/"><u>Halo 4 UE4: Addressing the Widespread Crash Bug Release</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-pro-tips-the-fastest-5-diy-filmmaking-tricks-at-home/"><u>In 2024, Pro Tips The Fastest 5 DIY Filmmaking Tricks at Home</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/master-the-art-of-conversation-top-whatsapp-techniques-for-2024/"><u>Master the Art of Conversation Top WhatsApp Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastery-start-essence-of-storyline-development/"><u>Mastery Start Essence of Storyline Development</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-to-get-your-lenovo-touch-id-back-on-track/"><u>Quick Fixes to Get Your Lenovo Touch ID Back on Track</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-unresponsive-touch-pad-issues-in-windows-a-step-by-step-fix-for-windows-10-8-and-7-users/"><u>Resolve Unresponsive Touch Pad Issues in Windows: A Step-by-Step Fix for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-stalling-problems-tips-and-techniques/"><u>Resolving Windows 11 Stalling Problems: Tips and Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-speakers-for-an-unresponsive-acer-laptop/"><u>Step-by-Step Guide: Reactivating Speakers for an Unresponsive Acer Laptop</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-playlist-youtubes-best-in-vr-for-2024/"><u>The Ultimate Playlist YouTube’s Best in VR for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-windows-no-startup-code-mistake-with-ease/"><u>Troubleshoot and Fix Windows 'No Startup Code' Mistake with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-high-resource-demand-of-wudfhostexe-for-enhanced-pc-speed-windows-t-11/"><u>Troubleshooting High Resource Demand of wudfhost.exe for Enhanced PC Speed (Windows T 11)</u></a></li>
+<li><a href="https://common-error.techidaily.com/zero-down-time-fixes-for-tackling-error-code-0xc0000098-on-your-windows-computer/"><u>Zero Down-Time Fixes for Tackling Error Code 0xC0000098 on Your Windows Computer</u></a></li>
 </ul></div>
 

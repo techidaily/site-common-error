@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing the Graphics Problem in WWE 2K Battlegrounds (DX11, FL 10.0)
-date: 2024-08-27T13:32:14.474Z
-updated: 2024-08-28T13:32:14.474Z
+date: 2025-01-09T16:19:04.577Z
+updated: 2025-01-16T16:02:03.045Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 
  If you get this **Shockwave Flash has crashed** error when trying to stream some video on Chrome, don’t panic. Here’re 4 fixes that have helped other users resolve the problem. So read on and check them out…
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  All the fixes below work in**Windows 10** ,**8** and**7** . You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update or re-install Google Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Disable Chrome add-ons
 
  Add-ons are extensions to Google Chrome that allow you to do more things in your browser, or which improve your user experience. For example, the AdBlock add-on  blocks ads. Extensions are sometimes added manually and sometimes added by other programs on your computer (hopefully with your permission).
@@ -44,16 +38,22 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 
 1. Open Chrome.
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome, play the same content and see if it works smoothly.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If yes, you can try to enable the extensions one by one until you find out the one responsible. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to **Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable hardware acceleration
 
@@ -62,18 +62,21 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
  But sometimes it’s also the culprit of this**Shockwave Flash has crashed/not responding** issue. So we can disable the feature to see if the problem gets fixed:
 
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -89,6 +92,11 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -96,9 +104,6 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update or re-install Google Chrome
 
  Updating is another proven effective way in resolving the Shockwave Flash crashing issue since a newer version is always designated to fix bugs in the earlier version and optimize. So we can try**updating Google Chrome** to see if it fixes the problem.
@@ -109,18 +114,6 @@ To do so:
 
 1. Open Chrome.
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
 
@@ -142,8 +135,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +142,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-the-world-of-online-discussion-mastering-zoom-chat-techniques-for-2024/"><u>[New] Navigating the World of Online Discussion Mastering Zoom Chat Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-6-economical-action-cams-available-for-99-or-below-for-2024/"><u>[New] Top 6 Economical Action Cams Available for $99 or Below for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>[Updated] 2024 Approved Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-dissecting-freecapture-a-software-review/"><u>2024 Approved Dissecting FreeCapture A Software Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nubia-red-magic-9-proplus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nubia Red Magic 9 Pro+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fix-for-dolby-home-theater-malfunction-when-using-windows-11-a-comprehensive-guide/"><u>DIY Fix for Dolby Home Theater Malfunction When Using Windows 11 – A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-seamless-connectivity-updated-drivers-for-targus-displaylink-on-windows-1187-download/"><u>Ensure Seamless Connectivity: Updated Drivers for Targus DisplayLink on Windows 11/8/7 - [DOWNLOAD]</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-compatible-cameras-for-windows-hello/"><u>Exploring Compatible Cameras for Windows Hello</u></a></li>
+<li><a href="https://win-online.techidaily.com/guide-accessing-and-sharing-webex-content-across-mobile-devices/"><u>Guide: Accessing & Sharing WebEx Content Across Mobile Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-7-plus-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 7 Plus with iTunes</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-system-files-is-msda80dll-essential-to-preserve/"><u>Navigating System Files: Is MSDA80.DLL Essential to Preserve?</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-a-comprehensive-guide-to-correcting-twitch-error-4000/"><u>Solving the Puzzle: A Comprehensive Guide to Correcting Twitch Error 4000</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ourney-to-behind-the-camera-expertise-via-youtube-for-2024/"><u>The Journey to Behind-the-Camera Expertise via YouTube for 2024</u></a></li>
+</ul></div>
 

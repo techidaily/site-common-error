@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Not Turning Off? Here’s How to Resolve the Issue
-date: 2025-01-06T18:58:31.031Z
-updated: 2025-01-10T21:39:00.131Z
+date: 2025-01-09T16:14:31.604Z
+updated: 2025-01-16T16:21:59.334Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -64,11 +68,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
@@ -79,7 +87,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -90,19 +98,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -112,6 +116,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -120,16 +128,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -154,24 +154,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-edge-infusing-artistry-with-slow-motion/"><u>[Updated] 2024 Approved Instagram's Edge Infusing Artistry with Slow Motion</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-go-beyond-screens-how-to-watch-360-videos-and-vr-via-android-for-2024/"><u>[Updated] Go Beyond Screens How to Watch 360 Videos & VR via Android for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-go-digital-without-breaking-the-bank-top-20-cost-free-cloud-storage-services-1tbplus/"><u>[Updated] Go Digital Without Breaking the Bank - Top 20 Cost-Free Cloud Storage Services (1TB+)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enhance-facebook-visibility-uploading-panoramic-content-on-mobile/"><u>[Updated] In 2024, Enhance Facebook Visibility Uploading Panoramic Content on Mobile</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-15-pro-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 15 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/after-all-shed-say-if-it-worked-for-generations-why-change-it/"><u>After All, She'd Say, if It Worked for Generations, Why Change It?</u></a></li>
-<li><a href="https://common-error.techidaily.com/application-exe-error-resolved-no-more-has-stopped-working-headaches/"><u>Application Exe Error Resolved: No More 'Has Stopped Working' Headaches</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-glitch-the-microsoft-store-now-functional-and-user-friendly/"><u>Bypass the Glitch: The Microsoft Store Now Functional and User-Friendly</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-to-overcoming-windows-11-error-0x80070541-during-updates/"><u>Complete Guide to Overcoming Windows 11 Error 0X80070541 During Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-lack-of-audio-drivers-on-windows-11-a-comprehhavisive-approach/"><u>Fix the Lack of Audio Drivers on Windows 11: A Comprehhavisive Approach</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-blizzards-battlenet-launcher-effective-solutions-for-windows-users/"><u>Fixing Blizzard's Battle.net Launcher: Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-g-stylus-5g-2023-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto G Stylus 5G (2023) Face Lock?</u></a></li>
-<li><a href="https://common-error.techidaily.com/function-key-malfunction-heres-how-to-restore-their-functionality/"><u>Function Key Malfunction? Here's How to Restore Their Functionality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-add-subtitles-to-igtv-videos-for-2024/"><u>How to Add Subtitles to IGTV Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-league-of-legends-slow-down-issues-with-simple-steps/"><u>Resolving League of Legends Slow-Down Issues with Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-resolution-of-slow-or-nonfunctional-file-explorer-in-windows-10/"><u>Step-by-Step Resolution of Slow or Nonfunctional File Explorer in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-a-malfunctioning-surface-stylus/"><u>Step-by-Step Solutions for a Malfunctioning Surface Stylus</u></a></li>
-<li><a href="https://win11.techidaily.com/the-battle-between-windows-print-screen-and-snipping-tool/"><u>The Battle Between Window's Print Screen & Snipping Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208511423-troubleshoot-and-repair-windows-711-sound-glitches-with-proven-fixes/"><u>Troubleshoot & Repair Windows 7/11 Sound Glitches with Proven Fixes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-first-times-guide-to-essential-gopro-extras/"><u>[New] In 2024, First Time's Guide to Essential GoPro Extras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-gigglegrid-create-social-media-laughs-in-seconds/"><u>[New] In 2024, GiggleGrid Create Social Media Laughs in Seconds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-hd-cameras-for-elk-and-mule-deer/"><u>2024 Approved Top HD Cameras for Elk and Mule Deer</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-and-correct-the-issue-of-vanished-files-in-your-steam-library-solved/"><u>How to Address & Correct the Issue of Vanished Files in Your Steam Library (Solved!)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-pro-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 Pro to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-monitor-troubles-how-to-get-your-aoc-screen-up-and-running-on-windows-11/"><u>Mastering Monitor Troubles: How to Get Your AOC Screen Up & Running on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-the-damage-solutions-for-compromised-windows-application-caches/"><u>Repairing the Damage: Solutions for Compromised Windows Application Caches</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-directx-critical-errors-a-step-by-step-guide/"><u>Resolving DirectX Critical Errors – A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-great.techidaily.com/story-3-the-disk-space-fallacy/"><u>Story 3: The Disk Space Fallacy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-beloved-family-flicks-streaming-on-amazon-prime-video-this-july-2024/"><u>Top Picks: Beloved Family Flicks Streaming On Amazon Prime Video This July 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-loneliness-interactive-ai-as-social-catalyst/"><u>Transform Loneliness: Interactive AI as Social Catalyst</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207016283-trouble-with-your-networks-dns-server-here-are-4-efficient-remedies/"><u>Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/comprehensive-pathway-to-hidden-youtube-treasures-for-2024/"><u>Your Comprehensive Pathway to Hidden YouTube Treasures for 2024</u></a></li>
 </ul></div>
 

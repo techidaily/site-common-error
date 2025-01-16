@@ -1,7 +1,7 @@
 ---
 title: How to Tackle and Solve the Frustrating 0X80073712 Error Code in Windows 11
-date: 2025-01-06T20:59:20.689Z
-updated: 2025-01-10T18:55:48.494Z
+date: 2025-01-10T16:30:51.225Z
+updated: 2025-01-16T16:28:19.047Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -51,7 +51,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Follow the on-screen instructions to troubleshoot.
@@ -60,17 +60,21 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **error 0x80073712** ). To **run the SFC scan** :
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
  Click **Yes**   when prompted to confirm.
 
@@ -83,10 +87,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run **the DISM tool**
 
 **DISM**  (**Deployment Image & Servicing Management** ) is another tool that helps us fix Windows-corruption-caused errors (**0x80073712** in this case). To run **DISM** :
@@ -96,7 +96,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **the following command**   and press **Enter** :
@@ -105,6 +105,10 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Wait for a while for the whole process to finishes.
   
  3) Restart your computer and **run the SFC** (see**Fix 2** ) again so it will help you replace any corrupted files with the correct ones.
@@ -112,10 +116,6 @@ Wait for a while for the whole process to finishes.
  4) Check Windows Update and see if it works this time.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Delete Windows Update Cache
 
@@ -131,27 +131,27 @@ Wait for a while for the whole process to finishes.
 
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a98e3f0f6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) When asked to provide administrator permission, check**the box** before**Do this for all current items** and click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
 
@@ -188,18 +188,22 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-enhancing-presentations-incorporating-snap-features-on-meet/"><u>[Updated] Enhancing Presentations Incorporating Snap Features on Meet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-revenue-how-to-profit-from-youtube-short-videos/"><u>[Updated] In 2024, Unlocking Revenue How to Profit From YouTube Short Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-realme-12-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme 12 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-tips-for-repairing-unresponsive-external-mouse-connections-on-laptops/"><u>Essential Tips for Repairing Unresponsive External Mouse Connections on Laptops</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-light-functionality-on-a-malfunctioning-corsair-keyboard/"><u>How to Restore Light Functionality on a Malfunctioning Corsair Keyboard</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-asus-rog-phone-7-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Asus ROG Phone 7 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/in-depth-strategies-for-managing-system-registry-editing-deletion-and-key-creation-in-revo-uninstaller/"><u>In-Depth Strategies for Managing System Registry: Editing, Deletion & Key Creation in Revo Uninstaller</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-no-device-found-error-on-your-pc/"><u>Resolved: How to Fix 'No Device Found' Error on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-brightness-settings-on-a-windows-10-pc/"><u>Resolving Issues with Brightness Settings on a Windows 10 PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-evolution-from-rgb-to-srgb-in-graphic-media-for-2024/"><u>The Evolution From RGB to Srgb in Graphic Media for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-smart-home-gadgets-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smart Home Gadgets : Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-google-chrome-stops-responding-to-inputs/"><u>Troubleshooting Guide: When Google Chrome Stops Responding to Inputs</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-win32-app-crash-with-code-0xc0000005-on-windows/"><u>Ultimate Guide: Resolving the Win32 App Crash with Code 0xC0000005 on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-industry-standard-guide-implementing-stopwatches-in-video-streaming-software/"><u>[New] In 2024, Industry Standard Guide Implementing Stopwatches in Video Streaming Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-your-pathway-to-virtual-video-landscape-on-iphone/"><u>[New] Your Pathway to Virtual Video Landscape on iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-easiest-fix-on-how-to-livestream-a-podcast/"><u>[Updated] 2024 Approved The Easiest Fix on How to Livestream a Podcast</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ringtone-heaven-game-of-thrones-audio-collection/"><u>[Updated] Ringtone Heaven Game of Thrones Audio Collection</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlocking-drone-knowledge-must-know-before-making-a-deal-for-2024/"><u>[Updated] Unlocking Drone Knowledge Must-Know Before Making a Deal for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/busting-the-code-comprehensive-guide-to-correcting-nba-2k21s-green-glitch/"><u>Busting the Code: Comprehensive Guide to Correcting NBA 2K21's Green Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-fixes-for-non-responsive-print-screen-on-pcs-running-windows-11-or-10/"><u>Definitive Fixes for Non-Responsive Print Screen on PCs Running Windows 11 or 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-ios-18-whats-new-in-the-latest-update-insights-and-specs/"><u>Discover IOS 18 – What's New in the Latest Update? Insights & Specs</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-errors-during-smartaudio-setup-process/"><u>Fixing Errors During SmartAudio Setup Process</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-shopping-spree-to-stardom-editing-your-haul-video/"><u>From Shopping Spree to Stardom Editing Your Haul Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-brightness-back-overcoming-windows-10s-screen-setting-glitches/"><u>Getting Brightness Back: Overcoming Windows 10'S Screen Setting Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastery-in-correcting-error-0x887a0006-speedy-fixes-unveiled-here/"><u>Mastery in Correcting Error 0X887A0006 - Speedy Fixes Unveiled Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-administrator-privileges-needed-errors-in-windows-11-10-and-7/"><u>Resolving 'Administrator Privileges Needed' Errors in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-functionality-to-your-directional-keypad-proven-remedies-for-broken-arrows/"><u>Restore Functionality to Your Directional Keypad: Proven Remedies for Broken Arrows!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pova-5-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-diagnosing-and-repairing-driverpowerstatefailure-issues-on-computers/"><u>Step-by-Step Strategies for Diagnosing & Repairing DRIVER_POWER_STATE_FAILURE Issues on Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-safely-refreshing-bios-software/"><u>Step-by-Step Tutorial on Safely Refreshing BIOS Software</u></a></li>
 </ul></div>
 

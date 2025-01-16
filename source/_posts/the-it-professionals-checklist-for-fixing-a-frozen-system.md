@@ -1,7 +1,7 @@
 ---
 title: The IT Professional's Checklist for Fixing a Frozen System
-date: 2025-01-06T23:22:15.813Z
-updated: 2025-01-10T23:40:49.427Z
+date: 2025-01-12T16:21:23.665Z
+updated: 2025-01-16T16:15:30.606Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these tips
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,7 +36,7 @@ You don’t have to try them all; just work your way down the list until you fin
 6. [**Bonus tip**](#t7)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 1: Enable Show desktop icons
@@ -51,6 +47,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Tip 2: Check your desktop icon settings
@@ -59,12 +59,12 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
@@ -72,7 +72,7 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
@@ -102,18 +102,18 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -129,10 +129,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -153,6 +149,10 @@ OR
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -177,17 +177,17 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-a-signature-look-starting-with-self-reflection/"><u>[New] 2024 Approved Crafting a Signature Look Starting with Self-Reflection</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-superior-streaming-with-integrated-local-channels-future-edition-for-2024/"><u>[Updated] Superior Streaming with Integrated Local Channels, Future Edition for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choose-wisely-reviewing-the-best-10-free-email-services-available/"><u>Choose Wisely: Reviewing the Best 10 Free Email Services Available</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-techniques-for-fixing-windows-11-issues-using-sfc-and-dism/"><u>Expert Techniques for Fixing Windows 1#1 Issues Using SFC & DISM</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-reviving-computers-that-have-become-stuck-in-a-freeze-loop/"><u>Expert Tips for Reviving Computers That Have Become Stuck in a Freeze Loop</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-technique-restoring-unseen-hidden-windows-with-ease/"><u>Mastering the Technique: Restoring Unseen, Hidden Windows with Ease</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/sicherung-ihrer-zukunft-schnellwiederherstellung-von-ausfuhrlich-geloschten-elementen-in-outlook/"><u>Sicherung Ihrer Zukunft - Schnellwiederherstellung Von Ausführlich Gelöschten Elementen in Outlook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-price-alert-secure-your-hp-victus-15-for-only-515-with-best-buys-limited-time-anti-prime-day-blowout-featured/"><u>Unbeatable Price Alert! Secure Your HP Victus 15 for Only $515 with Best Buy's Limited-Time Anti-Prime Day Blowout, Featured</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-apples-strategy-clues-to-an-ai-integration-in-upcoming-iphones-insights-from-recent-buyout/"><u>Unveiling Apple's Strategy: Clues to an AI Integration in Upcoming iPhones - Insights From Recent Buyout</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally-for-2024/"><u>Unveiling the Secrets An Overview of Using EZ Grabber Professionally for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-to-do-when-your-display-lacks-hdcp-support-for-high-definition-content/"><u>What to Do When Your Display Lacks HDCP Support for High Definition Content</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-display-glitch-missing-fullscreen-window/"><u>Win11 Display Glitch: Missing Fullscreen Window</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-achieving-youtube-earnings-excellence-strategies-and-beyond/"><u>[New] 2024 Approved Achieving YouTube Earnings Excellence - Strategies and Beyond</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-screencapture-guide-for-laptop-techies/"><u>[New] The Ultimate ScreenCapture Guide for Laptop Techies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-your-device-free-android-recorder-for-2024/"><u>[Updated] Capture Your Device – Free Android Recorder for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-steady-and-true-keeping-it-all-together-in-your-youtube-shoots-for-2024/"><u>[Updated] Steady and True Keeping It All Together in Your YouTube Shoots for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-compressed-to-captioned-zip-to-srt-effortlessly-for-2024/"><u>From Compressed To Captioned Zip to .Srt Effortlessly for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-multi-tasking-on-edge-with-picture-in-picture/"><u>In 2024, Master Multi-Tasking on Edge with Picture-in-Picture</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-repairing-the-red-screen-error/"><u>Resolved: Step-by-Step Guide to Repairing the Red Screen Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210166882-solving-the-ps4s-notorious-ce-34878-0-glitch-steps-and-tips-inside/"><u>Solving the PS4's Notorious CE-34878-0 Glitch – Steps & Tips Inside</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-8-methods-for-unlocking-copyrighted-dvd-content-discover-5-complimentary-techniques/"><u>Top 8 Methods for Unlocking Copyrighted DVD Content - Discover 5 Complimentary Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-get-your-airpods-working-with-windows/"><u>Troubleshooting Step-by-Step: Get Your AirPods Working with Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-lack-of-pen-and-touch-input-on-your-screen/"><u>Troubleshooting: Fixing the Lack of Pen and Touch Input on Your Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocked-treasures-art-without-intellectual-property-restrictions/"><u>Unlocked Treasures Art Without Intellectual Property Restrictions</u></a></li>
 </ul></div>
 

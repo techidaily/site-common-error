@@ -1,7 +1,7 @@
 ---
 title: PS4 Battery Woes? Discover How to Get Your Controller Charging Again
-date: 2024-08-27T13:38:12.102Z
-updated: 2024-08-28T13:38:12.102Z
+date: 2025-01-10T16:25:59.719Z
+updated: 2025-01-16T16:08:21.124Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 
 ## PS4 Battery Woes? Discover How to Get Your Controller Charging Again
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503449d171d.jpg)
 
  When you plug your PS4 controller with the charging cable, the light on the front of it doesn’t light up at all? But rest assured, you’re not alone; many PS4 users are struggling with the**PS4 controller won’t charge** problem. More importantly, you can fix it with this guide. Read on to find out how…
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for PS4 Controller Won’t Charge
 
 1. **[Reset your PS4 controller](#solution1)**
@@ -34,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 5. **[Replace the batteries of your PS4 controller](#solution5)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 1: Reset your PS4 controller
 
  Generally, the PS4 controller not charging issue is caused by the malfunctioned controller itself. So, as the initial solution, we recommend you reset your PS4 controller.
@@ -43,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 You can easily reset your controller through these several steps:
 
 1. Find**the reset button** on your controller: it’s a very small hole on the back of your controller and under the L2 button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503f4b68e7f.jpg)
 2. Put a toothpick or a similar object into the reset hole; press the button; hold it down for a few seconds and then release.
 3. Your controller should then restart. Once it gets started, try to charge it again to see if successful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Charge your PS4 controller upside down
 
@@ -58,16 +53,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 Just put your PS4 controller upside down and then charge it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 3: Check the charging cable of your PS4 controller
 
  Sometimes, your PS4 not charging problem could be due to the charging USB cable. Follow the steps below to check if there’s any problem with your USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a504e5686cb2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Charge your other controller if you have one with the same charging USB cable.
 2. If the other controller does charge, then the problem is on your cable’s side. Please skip to the following solution. If the other controller also does not charge, it seems there’s something wrong with your USB cable. Please go on with the next step.
@@ -84,6 +81,10 @@ Just put your PS4 controller upside down and then charge it.
 
  Charge your other controller if you have one with the same charging USB cable. If the other controller does charge, there’s probably some problem with the charging port with your not charging controller. You then need to replace the charging port with a new one. If you’re not sure how to do it, you can ask for help from[the official PlayStation website](http://www.playstation.com/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Replace the batteries of your PS4 controller
 
  If you’ve tried all the solutions above and your controller still cannot charge, do not be frustrated. Be sure to try this last but helpful solution.
@@ -94,14 +95,11 @@ Just put your PS4 controller upside down and then charge it.
 
 * [PlayStation 4 (PS4)](/tag-search/?tagId=180)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +108,19 @@ Just put your PS4 controller upside down and then charge it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevating-your-valorant-videos-with-impressive-thumbnails/"><u>2024 Approved Elevating Your Valorant Videos with Impressive Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-slow-motion-camera-technology-mobile-devices/"><u>2024 Approved Leading Edge Slow Motion Camera Technology, Mobile Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-tapping-into-youtubes-affiliate-income-streams/"><u>2024 Approved Tapping Into YouTube's Affiliate Income Streams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-video-show-revamp-complete-analysis-and-guide/"><u>2024 Video Show Revamp - Complete Analysis & Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-troubleshooting-techniques-for-when-your-device-cant-find-the-battery/"><u>Easy Troubleshooting Techniques for When Your Device Can't Find the Battery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extensive-outlay-review-crafting-your-first-podcast-for-2024/"><u>Extensive Outlay Review Crafting Your First Podcast for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14/iPad Without Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-print-pain-master-fixes-for-xerox-update-error-0x800f020b-on-windows-systems/"><u>No More Print Pain: Master Fixes for Xerox Update Error 0X800F020B on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-guide-stop-csgo-from-crashing-instantly/"><u>Quick Fix Guide: Stop CSGO From Crashing Instantly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-stability-and-me-driver/"><u>System Stability & ME Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-ie-fails-to-startup-solutions-inside/"><u>Troubleshooting Steps When IE Fails to Startup – Solutions Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-a-comparative-analysis-of-level-1-vs-level-2-vs-level-cuffs-charger-for-electric-vehicles/"><u>Unraveling the Mystery: A Comparative Analysis of Level 1 Vs. Level 2 Vs. Level Cuffs Charger for Electric Vehicles</u></a></li>
+</ul></div>
 

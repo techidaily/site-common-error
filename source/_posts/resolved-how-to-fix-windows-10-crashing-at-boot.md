@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Windows 10 Crashing at Boot"
-date: 2024-08-27T13:35:57.159Z
-updated: 2024-08-28T13:35:57.159Z
+date: 2025-01-12T16:26:57.289Z
+updated: 2025-01-16T16:13:46.387Z
 tags:
   - win11
   - win10
@@ -27,8 +27,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -40,29 +41,22 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
 
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
@@ -70,9 +64,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  This**keyboard lag** issue may also occur if you have the wrong or corrupt keyboard driver. So you should update these drivers to to see if it fixes the problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -102,16 +93,19 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
  Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
 
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
-**DISM.exe /Online /Cleanup-image /Restorehealth**  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -132,8 +126,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +133,24 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-lightened-screen-entry/"><u>[New] Lightened Screen Entry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-full-facetune-experience-from-novice-to-expert-photographer/"><u>[New] The Full Facetune Experience From Novice to Expert Photographer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfecting-video-frames-for-instagram-shares/"><u>[Updated] In 2024, Perfecting Video Frames for Instagram Shares</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expand-your-online-presence-with-larger-youtube-content/"><u>2024 Approved Expand Your Online Presence with Larger YouTube Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pickus-impact-on-mobile-photography-a-comparative-study/"><u>2024 Approved PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-insider-secrets-of-incorporating-captions-and-titles-into-video-clips/"><u>2024 Approved The Insider Secrets of Incorporating Captions & Titles Into Video Clips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/amazons-persuasive-power-how-i-found-myself-unplannedly-buying-an-apple-watch-zdnet-insights/"><u>Amazon's Persuasive Power: How I Found Myself Unplannedly Buying an Apple Watch | ZDNET Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-repair-instructions-for-handling-win32-kernel-mode-violation-0xc0000098/"><u>Comprehensive Repair Instructions for Handling Win32 Kernel-Mode Violation 0xC0000098</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S17 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connectivity-hurdles-ensuring-all-your-gadgets-pair-with-windows-10s-bluetooth/"><u>Overcoming Connectivity Hurdles: Ensuring All Your Gadgets Pair with Windows 10'S Bluetooth</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-critical-process-died-system-errors-in-windows-error-code-0xc00000e9/"><u>Resolving Critical Process Died System Errors in Windows (Error Code 0xC00000E9)</u></a></li>
+<li><a href="https://common-error.techidaily.com/screen-functionality-enhanced-for-seamless-interoperability/"><u>Screen Functionality Enhanced for Seamless Interoperability</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-troubleshooting-the-stop-code-0xc0000005-on-pc/"><u>Step-by-Step Solution for Troubleshooting the Stop Code 0xC0000005 on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-to-fix-building-loading-problems-in-pubg/"><u>Step-by-Step Tutorial to Fix Building Loading Problems in PUBG</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-ravbg64-cpu-crunch-solutions-for-smoother-realtek-hd-audio-performance/"><u>Tackling the Ravbg64 CPU Crunch: Solutions for Smoother Realtek HD Audio Performance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tp-link-archer-a9-router-evaluation-quality-connectivity-for-less-than-100/"><u>Top TP-Link Archer A9 Router Evaluation: Quality Connectivity for Less than $100</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-startup-issues-in-age-of-empires-iii/"><u>Troubleshooting Startup Issues in Age of Empires III</u></a></li>
+</ul></div>
 

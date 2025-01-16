@@ -1,7 +1,7 @@
 ---
 title: Adobe Shockwave and Flash Player Issues in Google Chrome - Solutions
-date: 2024-08-27T13:32:49.288Z
-updated: 2024-08-28T13:32:49.288Z
+date: 2025-01-14T16:10:40.689Z
+updated: 2025-01-16T16:20:58.313Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/100e83ab0f49b8b0c013aa34cd9c4fedc9279802b
 
  If you get this **Shockwave Flash has crashed** error when trying to stream some video on Chrome, don’t panic. Here’re 4 fixes that have helped other users resolve the problem. So read on and check them out…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  All the fixes below work in**Windows 10** ,**8** and**7** . You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -30,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/100e83ab0f49b8b0c013aa34cd9c4fedc9279802b
 2. [**Disable hardware acceleration**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update or re-install Google Chrome**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable Chrome add-ons
 
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/100e83ab0f49b8b0c013aa34cd9c4fedc9279802b
 
 1. Open Chrome.
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
@@ -59,16 +57,20 @@ thumbnail: https://thmb.techidaily.com/100e83ab0f49b8b0c013aa34cd9c4fedc9279802b
  But sometimes it’s also the culprit of this**Shockwave Flash has crashed/not responding** issue. So we can disable the feature to see if the problem gets fixed:
 
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
 
@@ -86,9 +88,11 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -97,17 +101,9 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update or re-install Google Chrome
 
  Updating is another proven effective way in resolving the Shockwave Flash crashing issue since a newer version is always designated to fix bugs in the earlier version and optimize. So we can try**updating Google Chrome** to see if it fixes the problem.
@@ -118,9 +114,6 @@ To do so:
 
 1. Open Chrome.
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
 
@@ -142,8 +135,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +142,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-decoding-your-own-tiktok-trend-identifier-key/"><u>[Updated] In 2024, Decoding Your Own TikTok Trend Identifier Key</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-personal-barriers-in-yt-content-creation/"><u>2024 Approved Breaking Personal Barriers in YT Content Creation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-8-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 8 in Lost Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-no-cost-adobe-photoshop-substitutes/"><u>Discover the Best No-Cost Adobe Photoshop Substitutes</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-timely-service-responses-avoiding-error-1053/"><u>Expert Solutions for Timely Service Responses – Avoiding Error 1053</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-6s-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 6s? Find the Best Solution Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-system-files-is-retaining-msdia80dll-necessary-for-your-pcs-health/"><u>Navigating System Files: Is Retaining msdia80.dll Necessary for Your PC's Health?</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-hp-laptops-dead-usb-troubleshooting-and-fixes/"><u>Revive Your HP Laptop's Dead USB: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-your-pc-ignoring-headphones-a-comprehensive-guide/"><u>Solving the Issue of Your PC Ignoring Headphones: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-correcting-drivers-issues-for-your-hp-screen-in-microsofts-latest-and-older-os-versions-windows-1187/"><u>Step-by-Step Guide: Correcting Drivers Issues for Your HP Screen in Microsoft's Latest and Older OS Versions (Windows 11/8/7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-remedied-stuck-and-unresponsive-toshiba-keyboard-keys/"><u>Successfully Remedied: Stuck and Unresponsive Toshiba Keyboard Keys</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-effort-for-quick-setup-youtube-biz-channel-ideas-for-2024/"><u>Top Effort for Quick Setup YouTube Biz Channel Ideas for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207529481-troubleshoot-and-fix-windows-10-bluetooth-connectivity-problems-fast/"><u>Troubleshoot and Fix Windows 10 Bluetooth Connectivity Problems Fast!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-windows-11-stalling-issues-effectively/"><u>Troubleshooting Tips: Resolving Windows 11 Stalling Issues Effectively</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/understanding-uniconverter-features-of-free-and-premium-versions-with-troubleshooting-tips/"><u>Understanding Uniconverter: Features of Free and Premium Versions with Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/vcruntime140dll-file-absent-heres-how-to-fix-it-and-start-your-program-in-windows-10/"><u>VCRUNTIME140.dll File Absent? Here's How to Fix It and Start Your Program in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-10-slow-closure-fixed-effective-tips-for-a-swift-shutdown-experience/"><u>Win 10 Slow Closure Fixed? Effective Tips for a Swift Shutdown Experience</u></a></li>
+</ul></div>
 

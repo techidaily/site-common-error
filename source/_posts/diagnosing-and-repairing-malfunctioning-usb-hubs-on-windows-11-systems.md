@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Malfunctioning USB Hubs on Windows 11 Systems
-date: 2024-08-22T19:17:15.589Z
-updated: 2024-08-23T19:17:15.589Z
+date: 2025-01-11T16:08:36.667Z
+updated: 2025-01-16T16:19:17.245Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 [4:**Check your USB device drivers**](#4)
 [5:**Check your USB ports**](#5)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## **Method 1: Check if the device itself is faulty**
 
  If the USB device was working before you upgraded to Windows 10, it’s unlikely to be faulty. But coincidences do occur. It’s certainly_possible_ that your device just happened to die right at the same time that you upgraded Windows. So it’s best to rule that possibility out for sure before spending time on more complex troubleshooting.
@@ -46,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
 4) Plug the power supply back in
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -57,10 +51,11 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  1) Open Device Manager (type “Device Manager” in the Windows search field)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Expand the**Universal Serial Bus controllers** branch
 
@@ -68,17 +63,19 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
@@ -87,6 +84,14 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -111,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 5: Check your USB ports**
 
  If none of the above methods resolve your problem, your USB ports might be damaged. To find out, you can take your PC to a repair store and ask them to check. If your USB ports are damaged, the repairer should be able to replace them fairly inexpensively.
@@ -126,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,24 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-linking-obs-and-streamlabs-mac/"><u>[New] Step-by-Step Guide to Linking OBS & Streamlabs (Mac)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-pioneering-path-of-vr-technology-for-2024/"><u>[New] The Pioneering Path of VR Technology for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-effortless-video-magic-the-no-cost-guide/"><u>[Updated] Effortless Video Magic The No-Cost Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>2024 Approved Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detecting-delirium-identifying-fake-insights-amongst-ai-generations/"><u>Detecting Delirium: Identifying Fake Insights Amongst AI Generations</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-to-get-minecraft-running-again-on-windows-systems/"><u>Expert Solutions to Get Minecraft Running Again on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mysterious-problem-a-detailed-walkthrough-of-error-0x80004005/"><u>Fixing the Mysterious Problem: A Detailed Walkthrough of Error 0X80004005</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-driver-problems-with-lg-displays-a-guide-for-windows-11-8-and-7/"><u>How to Fix Driver Problems with LG Displays: A Guide for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/les-meilleurs-converteurs-vhs-en-dvd-top-10-selectionne-pour-un-video-surveillance-parfaite/"><u>Les Meilleurs Converteurs VHS en DVD : Top 10 Sélectionné Pour Un Vidéo-Surveillance Parfaite</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/professional-voice-capture-on-mac-compiling-the-best-5-apps-for-2024/"><u>Professional Voice Capture on Mac Compiling The Best 5 Apps for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-frequently-dropping-usb-or-wireless-mouse/"><u>Quick Fixes for a Frequently Dropping USB or Wireless Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-cwindowssystem32configsystemprofile-desktop-error-on-your-pc/"><u>Resolving C: Windows System32 Config SystemProfile Desktop Error on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-unresponsive-backspace-keys-a-comprehensive-guide/"><u>Resolving Issues with Unresponsive Backspace Keys: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-display-errors-restoring-disappearing-mouse-cursors/"><u>Troubleshooting Windows 10 Display Errors - Restoring Disappearing Mouse Cursors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-and-performance-of-the-samsung-qn55q6f-4k-smart-tv/"><u>Unveiling the Features and Performance of the Samsung QN55Q6F 4K Smart TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-users-how-to-repair-and-enable-scroll-feature-in-your-touchpad-device/"><u>Windows 10 Users! How to Repair and Enable Scroll Feature in Your Touchpad Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-window-11s-failed-update-scenario-a-step-by-step-fix-success-story/"><u>Winning Against Window 11'S Failed Update Scenario – A Step-by-Step Fix Success Story</u></a></li>
+</ul></div>
 
