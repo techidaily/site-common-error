@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Microphone Back on Track: Expert Tips for Windows 11 Users"
-date: 2025-01-13T16:09:11.835Z
-updated: 2025-01-16T16:00:23.589Z
+date: 2025-01-16T16:08:31.326Z
+updated: 2025-01-22T21:07:45.249Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Roll back your touchpad driver to an earlier version
@@ -42,7 +42,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)  
@@ -52,10 +52,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)  
 
  Choose to view on**Driver** pane.  
@@ -63,11 +59,19 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -81,10 +85,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,22 +119,18 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-4k-lenses-compatible-with-smartphones/"><u>[New] 2024 Approved 4K Lenses Compatible with Smartphones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-learn-to-mute-igs-personalized-prompts/"><u>[New] In 2024, Learn to Mute IG's Personalized Prompts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y200-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y200 Unlock Without Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-ways-to-address-missing-d3dx9nine-point-three-dll-files/"><u>Effective Ways to Address Missing D3dx9_nine-Point-Three DLL Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-wireless-mouse-fails-in-windows-11-and-10/"><u>Fixing the Issue: Why Your Wireless Mouse Fails in Windows 11 & 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/google-chrome-crash-course-overcoming-the-not-responding-dilemma/"><u>Google Chrome Crash Course: Overcoming the Not Responding Dilemma</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-bypass-the-configuring-windows-stuck-phase-and-continue-setup/"><u>How to Bypass the 'Configuring Windows' Stuck Phase and Continue Setup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-crashes-for-lego-star-wars-the-skywalker-saga-on-your-pc-updated-guide/"><u>How to Resolve Crashes for Lego Star Wars: The Skywalker Saga on Your PC (Updated Guide)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-steer-clear-of-virtual-sickness/"><u>How to Steer Clear of Virtual Sickness</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-behind-the-numbers-earnings-in-podcasting/"><u>In 2024, Behind the Numbers Earnings in Podcasting</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-vimeo-video-playback-tips-and-tricks/"><u>In 2024, Boosting Vimeo Video Playback Tips and Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sony-ps-players-voice-modification-techniques/"><u>In 2024, Sony PS Players' Voice Modification Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211344252-miracast-troubles-correct-your-graphics-driver-for-seamless-screen-mirroring/"><u>Miracast Troubles? Correct Your Graphics Driver for Seamless Screen Mirroring!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-lenovos-unresponsive-fingerprint-reader-with-minimal-hassle/"><u>Step-by-Step Guide: Fixing Lenovo's Unresponsive Fingerprint Reader with Minimal Hassle</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-driverpowerstateerror-on-your-computer/"><u>Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/unplugged-and-confused-heres-why-your-laptop-turned-off-randomly-solved/"><u>Unplugged and Confused? Here's Why Your Laptop Turned Off Randomly (Solved)</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-troubleshooting-harnessing-the-power-of-sfc-and-dism-utilities/"><u>Windows 10 Troubleshooting: Harnessing the Power of SFC and DISM Utilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-10-volume-magnifiers-for-windowsmacos/"><u>[New] 2024 Approved Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-expert-strategies-for-finding-no-cost-art/"><u>2024 Approved Expert Strategies for Finding No-Cost Art</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-syncopating-songs-implementing-fades-in-logic-pro-x/"><u>2024 Approved Syncopating Songs Implementing Fades in Logic Pro X</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tailor-your-own-outro-with-free-sound-samples/"><u>2024 Approved Tailor Your Own Outro with Free Sound Samples</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-vivo-y100a-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Vivo Y100A</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206301865-corsair-hs50-headset-mic-problems-heres-how-to-fix-them/"><u>Corsair HS50 Headset Mic Problems? Here's How to Fix Them!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-how-to-fix-the-persistent-xerox-error-code-0x800f020b-on-windows-machines/"><u>Expert Advice: How to Fix the Persistent Xerox Error Code 0X800F020B on Windows Machines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-errconnectionrefused-illustrated-fixes-for-a-smoother-browsing-experience/"><u>How to Overcome ERR_CONNECTION_REFUSED: Illustrated Fixes for a Smoother Browsing Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/master-the-art-of-video-capturing-with-effective-screen-recording-tips/"><u>Master the Art of Video Capturing with Effective Screen Recording Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-chrome-freeze-windows-edition/"><u>Overcoming Chrome Freeze: Windows Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-print-driver-host-crash-on-32-bit-software/"><u>Troubleshooting Error: 'Print Driver Host' Crash on 32-Bit Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/upside-down-laptop-screen-troubles-heres-how-to-set-it-right/"><u>Upside Down Laptop Screen Troubles? Here's How to Set It Right</u></a></li>
 </ul></div>
 

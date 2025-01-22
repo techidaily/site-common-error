@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Window Woes: Fixing a Faint and Unresponsive Screen in Windows 11"
-date: 2024-08-31T17:41:30.034Z
-updated: 2024-09-01T17:41:30.034Z
+date: 2025-01-16T19:34:48.375Z
+updated: 2025-01-22T21:07:57.389Z
 tags:
   - win11
   - win10
@@ -35,11 +35,6 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
  Click Power button from Start menu.  
  Then while holding **Shift**  key, click **Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-17.jpg)
 
  2)  
@@ -55,9 +50,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-14.jpg)
 
  4)  
@@ -94,9 +86,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Then click **Create a recovery drive**  from the top result.  
  Click **Yes**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-10.jpg)
 
  3)  
@@ -105,28 +94,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 **Note:**
  Recover your PC from a drive will remove all your files and apps, you can choose to tick on **Back up system files to the recovery drive** in this step to back up.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-7.jpg)
 
  4)  
 
  Select your USB drive and click **Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-2.jpg)
 
  5)  
 
  Click **Create** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-1.jpg)
 
  When it’s done, click **Finish** .
@@ -156,8 +135,6 @@ Go on to follow the on-screen instructions to complete the reinstalling.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +142,26 @@ Go on to follow the on-screen instructions to complete the reinstalling.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-no-1-choice-of-dvd-and-media-editors-sierra-edition-for-2024/"><u>[New] No. 1 Choice of DVD and Media Editors, Sierra Edition for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-gender-diversity-in-streaming-celebrating-top-10-females/"><u>[Updated] 2024 Approved Gender Diversity in Streaming Celebrating Top 10 Females</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-gear-for-effective-remote-podcast-recording/"><u>[Updated] Essential Gear for Effective Remote Podcast Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-maximizing-your-videos-reach-a-guide-to-legal-yield-boosting/"><u>[Updated] In 2024, Maximizing Your Video's Reach A Guide to Legal Yield Boosting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bing-chat-or-chatgpt-essential-factors-freelancers-must-evaluate-before-deciding/"><u>Bing Chat or ChatGPT? Essential Factors Freelancers Must Evaluate Before Deciding</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/conquer-uneven-ground-a-detailed-evaluation-of-the-top-race-rc-rock-crawler-performance/"><u>Conquer Uneven Ground: A Detailed Evaluation of the Top Race RC Rock Crawler Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tricks-to-start-your-intel-rst-service-again-overcoming-windows-10-setbacks/"><u>Expert Tricks to Start Your Intel RST Service Again – Overcoming Windows 10 Setbacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-speaker-distortion-issues-on-windows-11-and-7-a-comprehensive-guide/"><u>Fixing Speaker Distortion Issues on Windows 11 & 7 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-your-bat-scripts-in-windows-with-exes/"><u>Power Your .bat Scripts in Windows with EXEs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-update-unavailable-issue-step-by-step-fix-guide/"><u>Resolving 'Windows Update Unavailable' Issue: Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-noisy-audio-in-windows-operating-systems-10-and-7/"><u>Solution for Noisy Audio in Windows Operating Systems (10 and 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-for-syncing-your-xbox-one-controller-when-connected-to-a-pc-or-console/"><u>Step-by-Step Instructions for Syncing Your Xbox One Controller When Connected to a PC or Console</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/trasforma-immagini-cr2-in-formato-jpg-online-e-gratuitamente-con-movavi-photo-editor/"><u>Trasforma Immagini CR2 in Formato JPG Online E Gratuitamente Con Movavi Photo Editor</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-integrity-of-windows-11-system-components/"><u>Troubleshooting Tips: Restoring Integrity of Windows 11 System Components</u></a></li>
+<li><a href="https://common-error.techidaily.com/upgrade-your-screen-update-required-incompatible-display-timeout-settings/"><u>Upgrade Your Screen: Update Required - Incompatible Display Timeout Settings</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

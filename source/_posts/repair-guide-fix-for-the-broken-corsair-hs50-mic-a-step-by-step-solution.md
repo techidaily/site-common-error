@@ -1,7 +1,7 @@
 ---
 title: "Repair Guide: Fix for the Broken Corsair HS50 Mic - A Step-by-Step Solution"
-date: 2024-09-04T20:16:48.848Z
-updated: 2024-09-05T20:16:48.848Z
+date: 2025-01-16T20:16:13.675Z
+updated: 2025-01-22T18:43:27.248Z
 tags:
   - win11
   - win10
@@ -41,18 +41,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
  If resetting doesn’t work, you can try slightly underclocking your CPU. Lower the clock speed of your CPU a bit, and then check to see if your game runs fine.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 3: Make sure the SuperFetch service is enabled
 
  Windows SuperFetch is a component of Windows’ memory manager. You can’t play Overwatch with your SuperFetch turned off. You should check the status of this service and make sure it’s enabled. To do so:
@@ -64,21 +52,17 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81509d94eeb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Check the**Status** of the service**Superfetch** and make sure it is**Running** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a815348ab431.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** If the service’s status is**not** Running, right-click it and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a8153e378f45.jpg)
@@ -88,12 +72,14 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a8154d5f16b3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Restart your computer. Then open your game and see if the error has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 4: Update your device drivers
 
@@ -111,17 +97,15 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update** button next to your graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81601f758c1.jpg)
 
 **4)** Restart your computer and check to see if this fixes your game crash error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Method 5: Turn on “GPU Scaling”
 
@@ -135,12 +119,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Run your game and see if this method works for you.
 
 * [Overwatch](https://tools.techidaily.com/drivereasy/download/)
@@ -152,8 +130,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +137,22 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ial-back-your-playlist-quick-steps-to-reverse-order/"><u>[New] Dial Back Your Playlist Quick Steps to Reverse Order</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-youtube-uploads-in-adobe-premiere/"><u>[New] In 2024, Mastering YouTube Uploads in Adobe Premiere</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-direct-screen-capture-chromium-version/"><u>[Updated] 2024 Approved Direct Screen Capture Chromium Version</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ultimate-5-speedy-shot-strategies-right-from-your-living-room/"><u>[Updated] 2024 Approved Ultimate 5 Speedy Shot Strategies Right From Your Living Room</u></a></li>
+<li><a href="https://common-error.techidaily.com/ce-34878-0-bugs-found-solutions-for-a-smooth-ps4-gaming-experience/"><u>CE-34878-0 Bugs Found: Solutions for a Smooth PS4 Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210937241-couldnt-switch-to-requested-monitor-resolution-solved/"><u>Couldn’t Switch to Requested Monitor Resolution [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x887a0006-demystified-swift-and-easy-methods-for-immediate-resolution/"><u>Error 0X887A0006 Demystified: Swift and Easy Methods for Immediate Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-sporadic-random-shutdown-issues-on-your-computer-easily/"><u>How to Fix Sporadic Random Shutdown Issues on Your Computer Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps5-controller-woes-fix-the-non-charging-issue-in-minutes/"><u>PS5 Controller Woes? Fix the Non-Charging Issue in Minutes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-windows-update-error-code-0x80070652/"><u>Quick Solutions for Resolving Windows Update Error Code 0X80070652</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-ranked-independent-offline-mobile-gaming-android/"><u>Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-win-10s-long-lasting-goodbyes-here-are-the-fixes-you-need/"><u>Trouble with Win 10'S Long-Lasting Goodbyes? Here Are the Fixes You Need!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-infinite-loading-in-valorant-tips-and-solutions/"><u>Troubleshooting Infinite Loading in Valorant: Tips & Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-cracking-drm-on-dvds-and-blu-rays-with-makemkv-and-handbrake/"><u>Ultimate Guide to Cracking DRM on DVDs & Blu-Rays with MakeMKV and Handbrake</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-improved-google-drive-interface-a-game-changer-in-locating-files-quickly-zdnet/"><u>Unveiling the Improved Google Drive Interface – A Game Changer in Locating Files Quickly | ZDNet</u></a></li>
+</ul></div>
 

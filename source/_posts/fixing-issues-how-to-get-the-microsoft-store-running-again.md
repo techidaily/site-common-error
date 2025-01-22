@@ -1,7 +1,7 @@
 ---
 title: Fixing Issues - How To Get The Microsoft Store Running Again
-date: 2024-12-31T03:51:54.745Z
-updated: 2025-01-03T19:48:13.105Z
+date: 2025-01-18T18:48:26.468Z
+updated: 2025-01-22T20:40:14.931Z
 tags:
   - win11
   - win10
@@ -44,17 +44,29 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21c099eec3.jpg)
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust audio settings in Skype
 
@@ -64,18 +76,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -90,15 +98,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27cb3d565f.jpg)
 3. Click the   **Update** button next to a flagged audio  driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27e508edd4.jpg)
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Tweak your audio settings
 
@@ -109,10 +117,6 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
@@ -126,10 +130,6 @@ To do so:
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Skype
 
@@ -157,16 +157,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-hands-on-methods-mirror-video-frames-using-vlc/"><u>2024 Approved Hands-On Methods Mirror Video Frames Using VLC</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-unexpected-voltage-spike-in-rack-connector-system/"><u>Expert Advice: Fixing Unexpected Voltage Spike in Rack Connector System</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-itself-solutions-to-restore-your-computers-touchpad-functionality/"><u>Fix Itself: Solutions to Restore Your Computer's Touchpad Functionality</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-download-to-upload-the-art-of-online-video-editing-for-2024/"><u>From Download to Upload The Art of Online Video Editing for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/galaxy-ai-surges-in-innovation-leaderboards-amidst-googles-antitrust-challenges/"><u>Galaxy AI Surges in Innovation Leaderboards Amidst Google's Antitrust Challenges</u></a></li>
-<li><a href="https://common-error.techidaily.com/geforce-experience-setting-retrieval-issue-fixed/"><u>GeForce Experience Setting Retrieval Issue Fixed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-make-money-from-instagram-for-2024/"><u>How to Make Money From Instagram for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mitigating-high-bitrate-in-obs-outputs/"><u>Mitigating High-Bitrate in OBS Outputs</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-windows-0x80072efd-mistake-on-windows-11-a-step-by-step-solution-guide/"><u>Resolve Window's 0X80072EFD Mistake on Windows 11: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/simple-steps-to-fix-windows-server-2/"><u>Simple Steps to Fix Windows Server 2</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-shift-key/"><u>Troubleshooting Guide: Fixing a Nonfunctional Shift Key</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhance-the-listener-experience-advanced-techniques-for-audio-editing/"><u>[New] Enhance the Listener Experience Advanced Techniques for Audio Editing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-a-complete-breakdown-of-what-pfp-means-on-tiktok/"><u>[Updated] 2024 Approved A Complete Breakdown of What PFP Means on TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-10-best-youtube-keyword-tools-to-get-more-views/"><u>2024 Approved 10 Best YouTube Keyword Tools to Get More Views</u></a></li>
+<li><a href="https://win-web3.techidaily.com/diagnosing-and-fixing-your-computers-network-connection-problems-with-helpful-tips-from-yl-software-experts/"><u>Diagnosing and Fixing Your Computer's Network Connection Problems with Helpful Tips From YL Software Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevating-photo-clarity-mastering-iphoneipad-camera-settings/"><u>Elevating Photo Clarity: Mastering iPhone/iPad Camera Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-lenovo-mouse-pad-malfunctioning-on-windows-1187-step-by-step-guide/"><u>Fix: Lenovo Mouse Pad Malfunctioning on Windows 11/8/7 – Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-step-by-step-guide-to-adding-descriptive-text-in-tiktok-videos/"><u>In 2024, Step-by-Step Guide to Adding Descriptive Text in TikTok Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-the-troublesome-livekernelevent-117-error/"><u>Mastering the Fix for the Troublesome LiveKernelEvent 117 Error</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mycam-review-a-step-toward-future-proofing-your-videos/"><u>MyCam Review A Step Toward Future-Proofing Your Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/ps4-battery-woes-discover-how-to-get-your-controller-charging-again/"><u>PS4 Battery Woes? Discover How to Get Your Controller Charging Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-writing-failed-to-0x-referenced-memory-location-understanding-fixes/"><u>Resolved Error: Writing Failed to 0X Referenced Memory Location - Understanding Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-extended-semaphore-connection-timed-out-error-error-code-0x80070079/"><u>Resolved: Extended Semaphore Connection Timed Out Error (Error Code 0X80070079)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-updating-your-minecraft-graphics-driver-a-comprehensive-guide/"><u>Resolved: Updating Your Minecraft Graphics Driver - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-fix-for-windows-11-installation-failure-resolving-error-code-80240020/"><u>Successful Fix for Windows 11 Installation Failure: Resolving Error Code 80240020</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-restoring-visible-bluetooth-devices-in-your-computers-device-manager/"><u>Troubleshooting Steps for Restoring Visible Bluetooth Devices in Your Computer's Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-how-to-bring-back-gone-desktop-icons-in-windows-10-with-these-steps/"><u>Uncover How to Bring Back Gone Desktop Icons in Windows 10 with These Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/zoom-techniques-for-captivating-tiktok-audiences/"><u>Zoom Techniques for Captivating TikTok Audiences</u></a></li>
 </ul></div>
 

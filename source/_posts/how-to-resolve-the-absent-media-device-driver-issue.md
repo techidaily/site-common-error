@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Absent Media Device Driver Issue
-date: 2024-12-27T19:23:26.700Z
-updated: 2025-01-03T19:45:36.962Z
+date: 2025-01-18T18:57:11.293Z
+updated: 2025-01-22T16:27:49.276Z
 tags:
   - win11
   - win10
@@ -41,15 +41,15 @@ Here are some solutions that have helped people resolve the error “**Destiny 2
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Connect to the Destiny 2 server in another time
 
 It’s possible that too many people connect to the Destiny servers during the time period, so the servers are overloading and you will fail to connect. So you can wait for a while and try playing the game in another time. This issue can be automatically fixed. If you still have the error “**Destiny 2 servers are not available**”, don’t worry. There’s something else to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable DHCP for your connection
 
@@ -59,7 +59,11 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click**Change adapter** **settings** on the left.  
@@ -69,12 +73,12 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
@@ -82,10 +86,6 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -99,13 +99,17 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
  You’ll need to repeat this step for any other connections that you’re not using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -115,10 +119,6 @@ A missing or outdated network card driver will cause connection issues in your c
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
@@ -147,22 +147,24 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unveiling-superior-screen-recording-obs-vs-fraps-face-off/"><u>[New] 2024 Approved Unveiling Superior Screen Recording OBS vs Fraps Face-Off</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-innovative-approaches-for-unwavering-viewership-within-limit/"><u>[Updated] In 2024, Innovative Approaches for Unwavering Viewership (Within Limit)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-portable-gba-players-on-android/"><u>[Updated] Premier Portable GBA Players on Android</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-seo-savvy-boosting-your-podcasts-discoverability-and-rankings/"><u>2024 Approved SEO Savvy Boosting Your Podcast's Discoverability and Rankings</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-for-a-broken-corsair-keyboard-now-working-perfectly/"><u>Expert Solutions for a Broken Corsair Keyboard - Now Working Perfectly</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/how-to-safeguard-your-cpanel-email-data-two-primary-techniques-and-a-great-alternative/"><u>How to Safeguard Your cPanel Email Data: Two Primary Techniques & a Great Alternative</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-how-to-polish-your-tiktok-edits-advanced-strategies-for-success/"><u>In 2024, How to Polish Your TikTok Edits Advanced Strategies for Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-peak-craft-studio-masterpiece-insight/"><u>In 2024, Peak Craft Studio Masterpiece Insight</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-address-steam-server-connection-errors-successfully/"><u>Resolved: How to Address Steam Server Connection Errors Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-hosted-network-couldnt-start-on-windows-11-devices/"><u>Solution Steps for 'Hosted Network Couldn't Start' On Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-windows-1er-update-failures-cracking-the-0x800705b4-error-code-in-windows-10/"><u>Step-by-Step Resolution for Windows 1Er Update Failures: Cracking the 0X800705B4 Error Code in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-repairing-your-pc-with-a-missing-boot-drive/"><u>Step-by-Step Solution: Repairing Your PC with a Missing Boot Drive</u></a></li>
-<li><a href="https://common-error.techidaily.com/successful-steps-to-pair-microsoft-wireless-hdmi-with-a-windows-10-pc/"><u>Successful Steps to Pair Microsoft Wireless HDMI with a Windows 10 PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-insights-on-the-latest-gadgets/"><u>Tom's Tech Reviews: Comprehensive Insights on the Latest Gadgets</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208935337-windows-10-touchpad-woes-heres-how-to-fix-sluggish-or-nonfunctional-scroll-buttons/"><u>Windows 10 Touchpad Woes? Here's How to Fix Sluggish or Nonfunctional Scroll Buttons!</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-users-rejoice-solving-chrome-error-unable-to-load-plugin-successfully-explained/"><u>Windows 11 Users Rejoice! Solving Chrome Error: Unable to Load Plugin Successfully Explained</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-plotting-your-way-through-successful-instagram-video-marketing/"><u>[Updated] 2024 Approved Plotting Your Way Through Successful Instagram Video Marketing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-maximize-attendee-visibility-with-google-meet-grids/"><u>[Updated] Maximize Attendee Visibility with Google Meet Grids</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[Updated] The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-digital-depositories-customized-alert-sounds/"><u>[Updated] Top Digital Depositories Customized Alert Sounds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>2024 Approved In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nubia-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia FRP Bypass Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-unveils-most-memorable-super-bowl-weekend-advertisement-skipping-the-big-game-entirely-insights/"><u>Apple Unveils Most Memorable Super Bowl Weekend Advertisement, Skipping the Big Game Entirely - Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-resolving-unrecognizable-usb-flash-drive-issues/"><u>Easy Solutions: Resolving Unrecognizable USB Flash Drive Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/errcachemiss-error-solutions-for-a-smooth-chrome-experience/"><u>ERR_CACHE_MISS Error Solutions for a Smooth Chrome Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-restoring-functionality-of-brightness-control-in-windows-11-systems/"><u>Expert Tips: Restoring Functionality of Brightness Control in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-broken-microphone-on-your-windows-10-device-a-complete-guide/"><u>How to Fix a Broken Microphone on Your Windows 10 Device – A Complete Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-100-hysterical-moments-on-tiktok/"><u>In 2024, 100 Hysterical Moments on TikTok</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/optimal-graphics-setup-for-high-res-editing-for-2024/"><u>Optimal Graphics Setup for High Res Editing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-persistent-error-code-0x800705b4-during-windows-11-updates/"><u>Solving the Persistent Error Code 0X800705B4 During Windows 11 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-remote-connection-issues-a-comprehensive-guide/"><u>Solving Your Remote Connection Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-steam-online-connectivity-errors/"><u>Step-by-Step Solutions for Overcoming Steam Online Connectivity Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-youtube-media-player-glitches-on-windows-10-systems/"><u>Troubleshooting YouTube Media Player Glitches on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-mouse-icon-not-showing-heres-what-you-can-do/"><u>Windows 11 Mouse Icon Not Showing? Here's What You Can Do!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Error Code 0X80072F8F on Your Computer? Here's How You Can Troubleshoot Windows 11/10 Issues Easily
-date: 2024-08-31T17:43:04.729Z
-updated: 2024-09-01T17:43:04.729Z
+date: 2025-01-20T21:05:55.461Z
+updated: 2025-01-22T18:26:40.426Z
 tags:
   - win11
   - win10
@@ -22,16 +22,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 3. **[Windows store error 0x80072f8f](#microsoft-store)**
 4. **[Bonus tip](#bonus)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Windows update error 0x80072f8f
 
  If you see this error code during Windows update, try the 3 methods below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 Install root certificate update
 
  Some users reported that the installation of root certificate update helps fix error 0x80072f8f. Since this update is expected to fix issues related to your computer’s connection with the Windows Update server, we can give it a shot.
@@ -44,19 +38,18 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  Then run a Windows update to check if the error code is resolved. If not, move on to try fix 2.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 Re-register DLL files
 
  If some DLL (Dynamic Link Library) files on your computer are malfunctioning, they may cause problems when connecting to the Windows Update servers. Hence, you may want to re-register these files with the following steps:
 
 1. Type**cmd** in the Windows search box and click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Copy and paste the following commands. Hit**Enter** after each.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * `**regsvr32 softpub.dll /s**`  
    * `**regsvr32 wintrust.dll /s**`  
    * `**regsvr32 initpki.dll /s**`  
@@ -79,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  Fortect comes with a**60-day Money-Back** Guarantee so you can refund anytime if Fortect doesn’t fix your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 Turn off Firewall temporarily
 
  Windows Firewall is likely to overprotect and block the connection with the Windows update server. To figure that out, just temporarily disable the Firewall to have a test.
@@ -89,25 +79,36 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
  Be extra careful to access the Internet during this period as your computer is vulnerable without protection.
 
 1. Type**defender firewall** in the Windows search bar and click**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-7.jpg)
 2. Choose**Turn Windows Defender Firewall on or off** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. **Turn off** Windows Defender Firewall for**Domain** ,**Private** and**Public** networks. Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have installed any other third-party antivirus, also disable them temporarily by exiting or following the official guideline.
 
  Then you can run the Windows Update again to check for any improvement. Remember to turn on these protections after the testing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 0x80072f8f Windows activation error code
 
 Encounter 0x80072f8f when activating Windows? Try 2 fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 Check the Date & time settings
 
@@ -127,25 +128,24 @@ Restart your PC to make changes apply. Then try activating again.
  However, if the above method fails to help you solve the problem, try editing the registry editor.
 
 1. Press the**Windows logo key** and**R** to open the Run window. Type**regedit** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-27_17-45-56.jpg)
 2. Locate to the destination by following the path below.  
  **HKEY\_LOCAL\_MACHINE/Software/Microsoft/Windows/CurrentVersion/Setup/OOBE**
 3. Double-click**MediaBootInstall** . Then set the Value data to**0** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/regedit-activate-windows-8.jpg)
 4. After exiting the Registry Editor, type**cmd** in the Windows search box and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 5. Copy and paste**slmgr /rearm** . Then hit**Enter** . If you see a message with**Command completed successfully** , click**OK** to restart your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/0628.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Try to run the activation process again to see if the error is fixed.
 
@@ -153,44 +153,34 @@ Try to run the activation process again to see if the error is fixed.
 
  Here are 2 fixes for you who’s prompted with the error code in Microsoft store.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 Run Windows Store Apps Troubleshooter
 
 1. On your keyboard, press the**Windows logo key** and**I** to open Settings. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/setting-updatesecurity.jpg)
 2. Choose**Troubleshoot** in the left tab. Click**Additional troubleshooters** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/additional-troubleshooter.jpg)
 3. Scroll down to click**Windows Store Apps** . Then click**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-27_18-13-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the program to run and detect problems. However, if the error 0x80072f8f still persists, continue to try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 Reset Microsoft Store
 
  If any cached files or folders are causing a conflict to your Store when connecting to Microsoft server, try to reset Microsoft store.
 
 1. Right-click the**Windows logo key** and select**Windows PowerShell (Admin)** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-28_15-24-45.jpg)
 2. Copy and paste the command below. And then hit**Enter** .  
 `Get-AppxPackage -allusers Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}`  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-28_16-21-45.jpg)
 
 Now try to use Microsoft store again to see if the issue is fixed.
@@ -212,6 +202,10 @@ Now try to use Microsoft store again to see if the issue is fixed.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/update-rift-sensor-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 ---
@@ -227,8 +221,6 @@ Now try to use Microsoft store again to see if the issue is fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +228,21 @@ Now try to use Microsoft store again to see if the issue is fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-micro-enterprises-guide-to-viral-video-promotion/"><u>[Updated] In 2024, Micro-Enterprises' Guide to Viral Video Promotion</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207376954-diagnosing-the-disconnected-systems-event-notification-service-in-windows-fixed/"><u>Diagnosing the Disconnected Systems Event Notification Service in Windows - Fixed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-download-and-installation-of-updated-amd-smbus-drivers-now/"><u>Effortless Download & Installation of Updated AMD SMBus Drivers - Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-fix-the-rockalldlldll-not-loaded-issue-successfully/"><u>Guide to Fix the 'Rockalldll.dll Not Loaded' Issue Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-cannot-reach-system-event-notification-services-error-message/"><u>How to Fix Windows Cannot Reach System Event Notification Services Error Message</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-use-microsoft-copilot-on-your-mac/"><u>How to Install and Use Microsoft Copilot on Your Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-streamlining-your-device-by-clearing-youtube-downloads/"><u>In 2024, Streamlining Your Device by Clearing YouTube Downloads</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-tablet-picks-thoroughly-evaluated-and-ranked-by-industry-professionals/"><u>Innovative Tablet Picks : Thoroughly Evaluated & Ranked by Industry Professionals</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-launch-darkness-errors-in-monster-hunter-world-gameplay/"><u>Overcoming Launch Darkness Errors in Monster Hunter World Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-high-msmpengexe-cpu-usage-on-windows-10/"><u>Solving High MsMpEng.exe CPU Usage on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-activating-dx11-and-feature-level-ebitron-in-wwe-2k-battlegrounds/"><u>Troubleshooting Tips for Activating DX11 and Feature Level Ebitron in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-windows-error-0x80nffff-causes-solutions-and-prevention-tips/"><u>Understanding Windows Error 0X80nFFFF – Causes, Solutions, and Prevention Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Fixing Nonfunctional Ethernet on Windows 10/7 Devices
-date: 2024-12-23T20:22:02.319Z
-updated: 2024-12-25T17:53:07.979Z
+date: 2025-01-15T19:00:55.120Z
+updated: 2025-01-22T16:03:29.671Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 2: Check your power supply (laptop only)**
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
@@ -70,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
@@ -87,7 +91,11 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -104,19 +112,11 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -142,19 +142,24 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-leading-virtual-reality-goggles-makers/"><u>[New] In 2024, Leading Virtual Reality Goggles Makers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>[New] In 2024, The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub/"><u>2024 Approved From Play to Pro Setting up a PS4 Game Broadcast Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/data-integrity-success-mastering-the-cyclic-redundancy-check-technique/"><u>Data Integrity Success: Mastering the Cyclic Redundancy Check Technique</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-steam-updates-wont-download/"><u>Effective Fixes for When Your Steam Updates Won't Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortlessly-resolve-kb4056892-a-user-friendly-guide-to-installing-windows-10-updates/"><u>Effortlessly Resolve KB4056892: A User-Friendly Guide to Installing Windows 10 Updates</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restart-and-resolve-audio-service-problems-on-windows-7/"><u>How To Restart and Resolve Audio Service Problems on Windows 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-infinix-smart-8-hd-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Infinix Smart 8 HD</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-transforming-visuals-10-must-try-text-upgrades-in-videos/"><u>In 2024, Transforming Visuals 10 Must-Try Text Upgrades in Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ng-perfection-30-unique-and-appealing-recipe-channels-for-2024/"><u>Plating Perfection 30 Unique and Appealing Recipe Channels for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/reducing-excessive-usage-by-ntoskrnlexe-in-windows/"><u>Reducing Excessive Usage by ntoskrnl.exe in Windows</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/streamline-social-tweet-to-fb-guide-for-2024/"><u>Streamline Social Tweet to FB Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/videoeditorpro-comprehensive-analysis-and-reviews/"><u>VideoEditorPro Comprehensive Analysis & Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-call-of-duty-ww2-error-code-4220/"><u>[FIXED] Call of Duty WW2 Error Code 4220</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-best-fb-movie-grabs-8-edition-for-2024/"><u>[New] Unveiling the Best FB Movie Grabs #8 Edition for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-fixed-frames-to-fluid-films-an-introduction-to-pixizs-video-magic/"><u>[Updated] From Fixed Frames to Fluid Films An Introduction to Pixiz's Video Magic</u></a></li>
+<li><a href="https://common-error.techidaily.com/best-practices-to-handle-competing-demands-on-system-infrastructure/"><u>Best Practices to Handle Competing Demands on System Infrastructure</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-document-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a excel document electronically</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-steam-servers-not-reachable-error-and-enjoy-gaming-again/"><u>How to Fix 'Steam Servers Not Reachable' Error and Enjoy Gaming Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210744015-how-to-resolve-persistent-cursor-blink-a-detailed-tutorial/"><u>How To Resolve Persistent Cursor Blink - A Detailed Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y17s-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y17s to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-through-virtual-experiences/"><u>In 2024, Innovating Through Virtual Experiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-wdf-usage-reduced-cpu-load-solutions/"><u>Optimized WDF Usage: Reduced CPU Load Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-the-functionality-of-your-windows-11-start-menu-expert-advice/"><u>Restoring the Functionality of Your Windows 11 Start Menu: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-winning-over-trustedinstaller-and-editing-files/"><u>Step-by-Step Strategies for Winning Over TrustedInstaller and Editing Files</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-swagtron-swagboard-t1-evaluating-affordability-against-performance-in-a-roller-skate-review/"><u>The Swagtron Swagboard T1: Evaluating Affordability Against Performance in a Roller Skate Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-se-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone SE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-vr-360-video-players-for-pc-reviews/"><u>Top 10 VR (360 Video) Players for PC Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-speeding-up-your-computers-startup-process/"><u>Troubleshooting Tips for Speeding Up Your Computer's Startup Process</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-windows-features-for-audio-capture/"><u>Utilizing Windows Features for Audio Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-and-acer-unite-keyboard-woes-solved/"><u>Windows and Acer Unite: Keyboard Woes Solved</u></a></li>
 </ul></div>
 

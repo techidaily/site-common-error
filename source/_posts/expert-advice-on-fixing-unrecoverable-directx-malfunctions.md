@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing Unrecoverable DirectX Malfunctions
-date: 2024-12-20T18:40:42.165Z
-updated: 2024-12-25T16:00:08.364Z
+date: 2025-01-19T20:14:55.470Z
+updated: 2025-01-22T20:18:38.707Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -52,17 +48,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
@@ -76,24 +68,25 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
@@ -109,14 +102,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -129,6 +127,10 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
@@ -155,18 +157,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-tips-and-tricks-incorporating-audio-into-your-tiktok-masterpieces/"><u>[New] In 2024, Tips & Tricks Incorporating Audio Into Your TikTok Masterpieces</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-alternatives-to-vlc-revealed-in-detailed-review/"><u>[Updated] Alternatives to VLC Revealed in Detailed Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-step-by-step-approach-to-screening-on-switch/"><u>2024 Approved A Step-by-Step Approach to Screening on Switch</u></a></li>
-<li><a href="https://common-error.techidaily.com/advanced-fixes-for-the-infamous-fatal-error-that-plagues-halo-4-ue4/"><u>Advanced Fixes for the Infamous Fatal Error That Plagues Halo 4 UE4</u></a></li>
-<li><a href="https://solve-help.techidaily.com/analyzing-blockchain-funding-opportunities-the-yl-software-methodology-for-ico-investment-evaluation/"><u>Analyzing Blockchain Funding Opportunities: The YL Software Methodology for ICO Investment Evaluation</u></a></li>
-<li><a href="https://common-error.techidaily.com/apex-legends-cheating-glitch-solution-overcome-with-ease/"><u>Apex Legends Cheating Glitch Solution - Overcome with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guidance-navigating-and-fixing-issues-with-file-explorer-in-windows-11/"><u>Effortless Guidance: Navigating and Fixing Issues with File Explorer in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-play-8t-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor Play 8T for Parents | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/livekernelevent-bug-117-comprehensive-fixing-techniques-unveiled/"><u>LiveKernelEvent Bug #117 - Comprehensive Fixing Techniques Unveiled</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-numbers-a-comprehensive-triad-strategy-for-monitoring-your-youtube-profitability-for-2024/"><u>Navigating Numbers A Comprehensive Triad Strategy for Monitoring Your YouTube Profitability for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/reimagining-self-in-virtual-space-oculus-new-characters/"><u>Reimagining Self in Virtual Space: Oculus' New Characters</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-fixing-crc-related-data-errors-effectively/"><u>Solutions for Fixing CRC-Related Data Errors Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-symbol-a-guide-to-solving-non-functional-special-characters/"><u>Troubleshooting the '@' Symbol: A Guide to Solving Non-Functional Special Characters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-art-of-acoustic-capture-secrets-to-high-end-home-recordings/"><u>[New] The Art of Acoustic Capture Secrets to High-End Home Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-master-the-art-of-gaming-best-monitors-and-tvs-for-xbox-series-x/"><u>[Updated] 2024 Approved Master the Art of Gaming Best Monitors & TVs For Xbox Series X</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-guide-to-writing-enthralling-videography-content/"><u>[Updated] Guide to Writing Enthralling Videography Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/diving-into-action-how-to-shoot-impressive-underwater-gopro-videos-for-2024/"><u>Diving Into Action How to Shoot Impressive Underwater GoPro Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-benefits-and-functionality-of-recuva-a-trusted-tool-for-file-retrieval/"><u>Exploring The Benefits and Functionality of Recuva - A Trusted Tool for File Retrieval</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-black-screen-issue-solutions-for-your-google-chrome-woes/"><u>Fixing the Black Screen Issue: Solutions for Your Google Chrome Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-keyboard-light-up-functionality-on-mac-and-windows-systems/"><u>Fixing the Issue: How to Restore Keyboard Light Up Functionality on Mac and Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ize-your-money-with-these-top-10-simple-and-strategic-youtube-biz-channels-for-2024/"><u>Maximize Your Money with These Top 10 Simple and Strategic YouTube Biz Channels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212310848-reveal-your-touchpad-master-device-management-solutions/"><u>Reveal Your Touchpad: Master Device Management Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-power-surge-error-code-on-usb-connections-windows-11-edition/"><u>Step-by-Step Solution for 'Power Surge' Error Code on USB Connections – Windows 11 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990553351-subnautica-enthusiasts-resolved-no-more-crashes-in-pc-version-of-below-zero/"><u>Subnautica Enthusiasts - [RESOLVED] No More Crashes in PC Version of Below Zero</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-damaged-system-files-in-microsofts-latest-operating-systems/"><u>Troubleshooting Damaged System Files in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-registry-and-system-files-in-windows-11/"><u>Ultimate Guide: Repairing Damaged Registry and System Files in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-getting-the-scroll-feature-back-on-your-windows-10-touchpad/"><u>Unstuck: Getting the Scroll Feature Back on Your Windows 10 Touchpad</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/young-yachtsmens-playtime-pleasures-for-2024/"><u>Young Yachtsmen's Playtime Pleasures for 2024</u></a></li>
 </ul></div>
 

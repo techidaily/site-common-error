@@ -1,7 +1,7 @@
 ---
 title: Surface Pen Not Working [Solved]
-date: 2025-01-12T16:12:31.195Z
-updated: 2025-01-16T16:04:57.675Z
+date: 2025-01-16T16:52:44.169Z
+updated: 2025-01-22T21:18:50.118Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 3. **[Update your mouse and/or keyboard driver](#c)**
 4. **[Check for Windows Updates](#d)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the keyboard troubleshooter
 
  The keyboard troubleshooter is a built-in utility in Windows designed to identify and automatically rectify common keyboard or mouse errors. To use this troubleshooter, follow these steps:
@@ -45,17 +41,21 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click **Keyboard** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Wait for Windows to detect and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your pointer speed
 
@@ -65,20 +65,20 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-530.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under**View by** , select **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-531.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Mouse** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-532-1024x753.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Check to see if your mouse can work properly now.
@@ -171,21 +171,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-heimdalls-vigil-gods-clash-in-ragnarok/"><u>[New] In 2024, Heimdall's Vigil Gods Clash in Ragnarok</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>[New] Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-a-fresh-take-on-samsungs-ultrablade-k850-review/"><u>[Updated] A Fresh Take on Samsung’s UltraBlade K850 Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-peeking-beyond-one-camera-limitations/"><u>[Updated] In 2024, Peeking Beyond One-Camera Limitations</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-error-resolved-a-comprehensive-guide-to-fixing-hardware-compatibility-issues/"><u>DirectX Error Resolved? A Comprehensive Guide to Fixing Hardware Compatibility Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-viral-beats-to-ringtones-transforming-tiktok-sounds-for-2024/"><u>From Viral Beats to Ringtones Transforming TikTok Sounds for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-software-for-hp-deskjet-ink-advantage-3755-printer-on-windows-operating-systems-windows-11-10-8-and-7/"><u>Get the Latest Driver Software for HP DeskJet Ink Advantage 3755 Printer on Windows Operating Systems (Windows 11, 10, 8, ^and 7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-non-responsive-custom-profile-adjustments/"><u>How to Resolve Non-Responsive Custom Profile Adjustments</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-mac-captures-compilation-under-156-chars/"><u>In 2024, Essential Mac Captures Compilation (Under 156 Chars)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-troubleshooting-steps-for-windows-10-photos-freeze/"><u>In 2024, Troubleshooting Steps for Windows 10 Photos Freeze</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206300481-resolve-the-bluetooth-not-detected-on-windows-11-fast-fix-guide/"><u>Resolve the Bluetooth Not Detected on Windows 11 - Fast Fix Guide!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-and-fixing-the-code-28-device-issues-on-windows/"><u>Resolved: Troubleshooting and Fixing the 'Code 28' Device Issues on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-chrome-couldnt-load-plugin-a-detailed-guide-for-windows-11/"><u>The Ultimate Fix for 'Chrome Couldn't Load Plugin': A Detailed Guide for Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-vpn-routers-expert-review-by-zdnet/"><u>Top Rated VPN Routers : Expert Review by ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-the-causes-behind-a-non-starting-personal-computer/"><u>Understanding the Causes Behind a Non-Starting Personal Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-blurry-text-heres-how-to-fix-it/"><u>Windows 11 Blurry Text? Here's How to Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/net-framework-35-installation-woes-heres-how-to-fix-error-code-0x800f081f/"><u>.NET Framework 3.5 Installation Woes? Here's How to Fix Error Code 0X800F081F</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevate-your-music-library-top-picks-from-8-exceptional-free-android-downloader-apps/"><u>[New] Elevate Your Music Library - Top Picks From 8 Exceptional Free Android Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-a-successful-online-presence-wirecast-streaming-to-youtube-for-2024/"><u>[Updated] Building a Successful Online Presence WireCast Streaming to Youtube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unique-book-trail-showcases-for-2024/"><u>[Updated] Unique Book Trail Showcases for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlock-advanced-splitting-with-non-xsplit-apps/"><u>[Updated] Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-overcome-the-plcncachewiper-error-0xc00000e9-on-your-windows-machine/"><u>Comprehensive Solutions to Overcome the PLCN_CACHE_WIPER (Error 0xC00000E9) on Your Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-easily-correct-the-windows-update-troubleshooter-error-80vee2ee2/"><u>How to Easily Correct the Windows Update Troubleshooter Error 80Vee2ee2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Phone with Broken Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cutting-edge-tactics-for-grabbing-your-favorite-fb-vids/"><u>In 2024, Cutting Edge Tactics for Grabbing Your Favorite FB Vids</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/masterful-sound-setup-ultimate-tips-and-gear-list/"><u>Masterful Sound Setup Ultimate Tips & Gear List</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-iastordatasvc-high-cpu-issue-in-32-bit-systems-a-comprehensive-guide-for-windows-11/"><u>Resolving IAStorDataSvc High CPU Issue in 32-Bit Systems: A Comprehensive Guide for Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-text-entry-integrating-bing-ai-on-android-devices/"><u>Revolutionize Text Entry: Integrating Bing AI on Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201942469-troubleshoot-and-correct-windows-update-failure-0x80070002-fast/"><u>Troubleshoot and Correct Windows Update Failure 0X80070002 Fast!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-windows-11-bluetooth-not-detected-issue-effectively/"><u>Troubleshoot and Solve Windows 11 Bluetooth Not Detected Issue Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/typing-anomaly-discovered/"><u>Typing Anomaly Discovered</u></a></li>
 </ul></div>
 

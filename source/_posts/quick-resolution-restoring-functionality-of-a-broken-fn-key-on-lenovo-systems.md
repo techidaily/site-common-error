@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolution: Restoring Functionality of a Broken Fn Key on Lenovo Systems"
-date: 2025-01-11T16:17:47.674Z
-updated: 2025-01-16T16:26:12.334Z
+date: 2025-01-16T21:09:05.403Z
+updated: 2025-01-22T17:12:17.677Z
 tags:
   - win11
   - win10
@@ -37,19 +37,11 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the Power button![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a02279b2c.png)**  
   and choose**Restart** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Hopefully your desktop comes up normally this time. If not, continue with**Fix 2** .
 
@@ -62,11 +54,11 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
@@ -84,7 +76,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 3. Click**File** \>**Run new task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
@@ -92,14 +84,14 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you should have your desktop back.
 5. Restart your computer and login again to see if this**Personalized Settings (Not Responding)** issue has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run SFC Command
 
@@ -111,9 +103,17 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete a file in regedit
 
@@ -128,7 +128,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 3. Right-click on**the last file** and click**Export** to back up the file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
@@ -164,24 +164,22 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-how-android-enables-seamless-screen-capturing-for-2024/"><u>[New] How Android Enables Seamless Screen Capturing for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[Updated] 2024 Approved Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
-<li><a href="https://common-error.techidaily.com/abrupt-termination-devices-last-stand/"><u>Abrupt Termination: Devices' Last Stand</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-addressing-pc-performance-problems-in-monster-hunter-world/"><u>Diagnosing and Addressing PC Performance Problems in 'Monster Hunter: World'</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-ending-vertical-scrolling-glitches-in-windows-10/"><u>Diagnosing and Ending Vertical Scrolling Glitches in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-error-resolution-handling-the-unrecoverable-error-exception/"><u>DirectX Error Resolution: Handling the 'Unrecoverable Error' Exception</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/enhancing-productivity-a-guide-to-ez-grabbers-use-for-2024/"><u>Enhancing Productivity A Guide to EZ Grabber's Use for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x887a0006-unraveled-effortless-fixes-inside/"><u>Error 0X887A0006 Unraveled: Effortless Fixes Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-sound-problem-in-call-of-duty-black-ops-cold-war-for-pc-users/"><u>Fixing the Sound Problem in Call of Duty: Black Ops Cold War for PC Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-cpu-use-by-the-32-bit-iastordatasvc-on-windows-11-solution/"><u>How to Fix Elevated CPU Use by the 32-Bit IAstorDataSvc on Windows 11 [Solution]</u></a></li>
-<li><a href="https://common-error.techidaily.com/league-of-legends-lag-no-more-speedy-download-fixes-unveiled/"><u>League of Legends Lag No More: Speedy Download Fixes Unveiled</u></a></li>
-<li><a href="https://howto.techidaily.com/motorola-edge-2023-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 2023 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-11-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 11 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimize-your-videos-quickly-with-story-remix-in-windows-10-photos-for-2024/"><u>Optimize Your Videos Quickly with Story Remix in Windows 10 Photos for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/swift-access-to-hp-envy-amo-5055-essential-driver-packs/"><u>Swift Access to HP Envy Amo 5055 Essential Driver Packs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-acer-laptop-solutions-when-it-wont-charge/"><u>Troubleshooting Acer Laptop: Solutions When It Won't Charge</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-troubleshooting-and-solving-crashes-in-total-war-rome-remastered/"><u>Ultimate Guide to Troubleshooting and Solving Crashes in Total War: Rome Remastered</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacom-unplugged-no-more-devices-dance-together/"><u>Wacom Unplugged No More! Devices Dance Together</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-10-seo-kompanij-v-filadelfii-dlya-uluchsheniya-onlajn-vidimosti/"><u>Топ-10 SEO Компаний В Филадельфии Для Улучшения Онлайн Видимости</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-best-aviation-start-syma-x5c-reviewed-for-droning-beginners/"><u>[New] 2024 Approved The Best Aviation Start Syma X5C Reviewed for Droning Beginners</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-the-art-of-youtube-creating-accessible-video-ideas/"><u>[New] Mastering the Art of YouTube Creating Accessible Video Ideas</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-webp-images-into-jpegs-effortlessly/"><u>[New] Transforming WebP Images Into JPEGs Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-delays-and-improving-performance-in-naraka-bladepoint/"><u>Eliminating Delays and Improving Performance in Naraka Bladepoint</u></a></li>
+<li><a href="https://discover-able.techidaily.com/find-and-use-the-control-panel-on-windows-systems-insights-by-yl-software-professionals/"><u>Find and Use the Control Panel on Windows Systems: Insights by YL Software Professionals</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209916624-fix-your-laptops-failing-charge-simple-solutions-for-a-full-battery/"><u>Fix Your Laptop's Failing Charge: Simple Solutions for a Full Battery</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-google-chrome-prompting-immediate-restart/"><u>How to Fix: Unresponsive Google Chrome Prompting Immediate Restart</u></a></li>
+<li><a href="https://common-error.techidaily.com/improved-compliance-additional-tactile-feedback-on-display/"><u>Improved Compliance: Additional Tactile Feedback on Display</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nokia C12 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-k11-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo K11 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-error-code-31-woes-proven-techniques-to-restore-your-windows-stability/"><u>No More Error Code 31 Woes: Proven Techniques to Restore Your Windows Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/taming-the-unpredictable-fixing-your-laptops-sudden-off-switches/"><u>Taming the Unpredictable: Fixing Your Laptop's Sudden Off Switches</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-bluetooth-visible-in-your-pcs-device-management/"><u>Troubleshooting Guide: Making Bluetooth Visible in Your PC's Device Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-and-resolving-wireless-connection-hiccups-on-the-latest-windows-11-operating-system/"><u>Understanding and Resolving Wireless Connection Hiccups on the Latest Windows 11 Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-your-stagnant-windows-update-proven-techniques-for-instant-success-no-more-waiting/"><u>Unstick Your Stagnant Windows Update: Proven Techniques for Instant Success (No More Waiting)</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsticking-unresponsive-chrome-expert-tips-on-quick-refresh-techniques/"><u>Unsticking Unresponsive Chrome: Expert Tips on Quick Refresh Techniques</u></a></li>
 </ul></div>
 

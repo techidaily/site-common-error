@@ -1,7 +1,7 @@
 ---
 title: "Fix Successful: Addressing the Unresponsive Keyboard Issue on Startup"
-date: 2024-12-22T18:43:12.352Z
-updated: 2024-12-25T20:26:02.201Z
+date: 2025-01-17T20:39:44.977Z
+updated: 2025-01-22T20:17:51.104Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
  If these methods don’t help to bring back your keyboard, please move on to the other fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2: Perform a two-button shutdown
 
  There may be corruption issues with your tablet hardware that interfere with your keyboard, and a simple restart is not enough to get rid of them. You need to perform a**two-button shutdown** or**force a shutdown** to turn off your tablet completely.
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
  **\***  For **Surface 3, 2**  or**RT** , you need to**force a shutdown**  instead:
 
  Press and hold the**power button** of your device and release it after **10** seconds. Then power on your device to see if this method works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3: Update or reinstall your driver
 
@@ -90,23 +82,32 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/surface-type-cover.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ## 4: Disable the filter key
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the keyboard not working on Surface. For some users, **disabling Filter Keys** helps to fix the keyboard problem for them. To see if this does wonders for you as well:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Windows 10
 
 1. Click the Start menu (the Windows logo) at the bottom left of your screen. Then click **Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59819ff0e68f7.png)
 2. Click **Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off **Filter Keys** or uncheck **Turn on Filter Keys** ).  
@@ -115,11 +116,7 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -128,11 +125,15 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 2. Go to **Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Filter keys.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5: Try the Surface Diagnostic Toolkit
@@ -160,22 +161,17 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-access-to-10-superior-lut-resources/"><u>[New] Free Access to 10 Superior LUT Resources</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-art-of-crafting-engaging-social-media-slideshows-on-fb/"><u>[Updated] 2024 Approved The Art of Crafting Engaging Social Media Slideshows on FB</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-action-packed-with-sj7s-4k-capability-full-review-2023-for-2024/"><u>[Updated] Action-Packed with SJ7's 4K Capability - Full Review 2023 for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-premier-screen-picks-for-ps5-and-xbox-games-for-2024/"><u>[Updated] The Premier Screen Picks for PS5 and Xbox Games for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-modern-vr-equipment-overview/"><u>2024 Approved Modern VR Equipment Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-dealing-with-internet-explorer-has-been-forced-to-close-alert/"><u>Comprehensive Fixes: Dealing With 'Internet Explorer Has Been Forced to Close' Alert</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211422533-conquer-the-update-challenge-strategies-to-resolve-windows-11s-error-0x800f0922-quickly/"><u>Conquer the Update Challenge: Strategies to Resolve Windows 11'S Error 0X800f0922 Quickly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-content-for-success-how-to-start-your-own-youtube-chanel/"><u>Crafting Content for Success How to Start Your Own YouTube Chanel</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-apex-legends-cheating-detected-mistake-with-simple-steps/"><u>How to Fix Apex Legends Cheating Detected Mistake with Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-your-oddworld-soulstorm-game-from-crashing-on-windows-machines/"><u>How to Stop Your Oddworld: Soulstorm Game From Crashing on Windows Machines</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-instant-influence-youtubes-hourly-video-tops/"><u>In 2024, Instant Influence Youtube's Hourly Video Tops</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-youtubes-comment-analysis-for-2024/"><u>Mastering YouTube's Comment Analysis for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Elevated CPU Consumption Caused by wudfhost.exe on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-mystery-of-error-code-0x80004005-a-comprehensive-guide/"><u>Resolving the Mystery of Error Code 0X80004005: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-correcting-the-driverpowerstatefailure-mishap/"><u>Troubleshooting Tips: Correcting the DRIVER_POWER_STATE_FAILURE Mishap</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-visibility-on-a-black-screened-windows-11-computer/"><u>Troubleshooting Tips: Restoring Visibility on a Black-Screened Windows 11 Computer</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209147637-solution-expedite-your-pcs-performance-get-rid-of-high-cpu-load-stuck-by-shell-infrastructures/"><u>[Solution] Expedite Your PC's Performance - Get Rid of High CPU Load Stuck by Shell Infrastructures!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-into-success-with-instant-youtube-thumbnail-skills/"><u>[Updated] Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/an-in-depth-look-at-samsungs-latest-move-with-the-galaxy-s21-release/"><u>An In-Depth Look at Samsung's Latest Move with the Galaxy S21 Release</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-yet-good-quality-cameras-reviewed-here/"><u>Cheap Yet Good Quality Cameras Reviewed Here</u></a></li>
+<li><a href="https://win-web.techidaily.com/downloading-and-transforming-ustream-content-tips-for-mp3-and-mp4-file-creation/"><u>Downloading and Transforming Ustream Content - Tips for MP3 & MP4 File Creation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ending-computer-lockups-for-good-expert-fixes-and-advice/"><u>Ending Computer Lockups for Good: Expert Fixes and Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-problems-when-the-com-surrogate-worker-has-stopped-functioning/"><u>Expert Tips: Overcoming Problems When The COM Surrogate Worker Has Stopped Functioning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-your-favorite-game-torrents-fast-top-10-picks/"><u>Find Your Favorite Game Torrents Fast - Top 10 Picks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-12-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 12</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-mic-problem-heres-the-complete-guide-to-getting-it-working-again/"><u>Laptop Mic Problem? Here’s the Complete Guide to Getting It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-dells-unresponsive-usb-connector-comprehensive-solutions/"><u>Repairing Dell's Unresponsive USB Connector - Comprehensive Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/skyrims-unending-launch-sequence-solutions-for-a-smooth-start/"><u>Skyrim's Unending Launch Sequence - Solutions for a Smooth Start</u></a></li>
 </ul></div>
 

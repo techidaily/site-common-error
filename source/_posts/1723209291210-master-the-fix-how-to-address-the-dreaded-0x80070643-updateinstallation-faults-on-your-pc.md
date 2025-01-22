@@ -1,7 +1,7 @@
 ---
 title: "Master the Fix: How To Address The Dreaded 0X80070643 Update/Installation Faults on Your PC"
-date: 2024-09-04T20:19:50.278Z
-updated: 2024-09-05T20:19:50.278Z
+date: 2025-01-19T20:00:37.309Z
+updated: 2025-01-22T21:50:58.921Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 2. **[Restarting the Windows Update service](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Running System File Checker](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Downloading updates from Microsoft Update Catalog manually](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Running the Windows Update Troubleshooter
 
@@ -68,11 +72,19 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap18-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Please paste it in the address bar.
 
 **4)** Delete all the files in the folder **DataStore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap20-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When all the files are deleted, you shall see “This folder is empty”.
 
@@ -87,6 +99,10 @@ Please paste it in the address bar.
 **6)** Delete all the files in the folder**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap22-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When all the files are deleted, you shall see “This folder is empty”.
 
@@ -104,12 +120,6 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap37.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** On your keyboard, type the command below and press **Enter** . **If your current operating system is Windows 7, please skip this step.**
 
 DISM.exe /Online /Cleanup-image /Restorehealth
@@ -126,20 +136,12 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap12-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** When this command operation is completed, close the **Command Prompt** and run **Windows Update**  again to check whether this method works or not. If you still fail to install updates for your Windows system, please try the next method.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Downloading updates from Microsoft Update Catalog manually
 
  If all the methods mentioned above still don’t work for you, you can try to download the updates you failed to install from **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  and install them manually.
@@ -153,15 +155,17 @@ It may take some time for the command operation to be completed.
 **i.** On your keyboard, press**the Windows Logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Enter** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap40.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **ii.**  Type the command line**systeminfo** and press**Enter** to view your system type.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap31-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  “**X64-based PC** ” indicates that your Windows OS is 64-bit; “**X86-based PC** ” means that your Windows OS is 32-bit.
 
 **4)** Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  .
@@ -170,40 +174,20 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap42.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** In the list of search results, select the right update for your operating system and click **Download** .
 
  If your Windows OS is 64-bit, you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap26-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap27.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **8)** Double-click the downloaded file and follow the on-screen instructions to install the update.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -215,8 +199,6 @@ It may take some time for the command operation to be completed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +206,24 @@ It may take some time for the command operation to be completed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-earning-game-with-youtubes-member-status/"><u>[Updated] 2024 Approved Elevate Your Earning Game with YouTube's Member Status</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-converting-ordinary-to-exceptional-lightroom-hdr-tutorial/"><u>2024 Approved Converting Ordinary to Exceptional Lightroom HDR Tutorial</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unveiling-the-secrets-of-creative-commons-licensing/"><u>2024 Approved Unveiling the Secrets of Creative Commons Licensing</u></a></li>
+<li><a href="https://common-error.techidaily.com/corrective-measures-fixing-defunct-alphabets-in-microsofts-latest-operating-system-win-1111-keyboard-problems/"><u>Corrective Measures: Fixing Defunct Alphabets in Microsoft's Latest Operating System, Win 11/11 Keyboard Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-realm-of-predictive-artificeal-intelligence-insights-and-functionality/"><u>Exploring the Realm of Predictive Artificeal Intelligence: Insights & Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-restore-your-spacebar-functionality-on-windows-11/"><u>Fixes and Solutions: How to Restore Your Spacebar Functionality on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-efficiently-manage-your-ios-gallery-album-organization-and-cloud-syncing/"><u>In 2024, Efficiently Manage Your iOS Gallery Album Organization & Cloud Syncing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-edge-40-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Edge 40 Is Unlocked</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-m34-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy M34 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-windows-update-mishaps-correcting-error-8007000e/"><u>Quick Fix for Windows Update Mishaps: Correcting Error 8007000E</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-a-step-by-step-guide-on-how-to-correctly-address-twitch-error-code-4000/"><u>Resolving the Issue: A Step-by-Step Guide on How to Correctly Address Twitch Error Code 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/resources-not-acknowledging-proper-configurations/"><u>Resources Not Acknowledging Proper Configurations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-approach-to-resolve-borderlands-3-stuttering-issues-seamlessly/"><u>Step-by-Step Approach to Resolve Borderlands 3 Stuttering Issues Seamlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-overheats-rests-after-gaming/"><u>System Overheats, Rests After Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-to-overcome-scan-and-printer-link-issues-epson/"><u>Tips to Overcome Scan and Printer Link Issues (Epson)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212245154-trouble-with-your-origin-game-setup-heres-how-you-can-fix-it/"><u>Trouble with Your Origin Game Setup? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-blizzards-battlenet-launcher-issues-on-windows-pc/"><u>Troubleshooting Guide: Fixing Blizzard's Battle.net Launcher Issues on Windows PC</u></a></li>
+</ul></div>
 

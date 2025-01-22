@@ -1,7 +1,7 @@
 ---
 title: How to Correct the 'Not Plugged In' Warning on AMD Audio Hardware
-date: 2024-09-04T20:17:13.982Z
-updated: 2024-09-05T20:17:13.982Z
+date: 2025-01-19T20:48:09.633Z
+updated: 2025-01-22T21:38:01.830Z
 tags:
   - win11
   - win10
@@ -53,20 +53,13 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
 
 1. Press the**Windows logo key** +**R** to open the Run box. Type “ms-settings: troubleshoot” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/01.jpg)
 2. Click**Playing Audio** . Then click**Run the troubleshooter** . Wait for the investigation complete.![](https://images.drivereasy.com/wp-content/uploads/2019/05/02.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose the device that relates to the audio renderer error. Click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/14.jpg)
 4. If there’s an issue, you’ll see a repair strategy. Click “Yes” to fix it. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Restart your computer and check whether the issue is fixed or not.
 
 ---
@@ -78,31 +71,16 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
 1. Press the**Windows logo key** +**R** to open the Run box. Type “devmgmt.msc” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/05.jpg)
 2. In the Device Manager, click**Sound, video and game controllers** . Right-click and choose**Disable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/07.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Wait for a few seconds, right-click and choose**Enable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/08.jpg)
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and check whether the issue is fixed or not.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -120,14 +98,12 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap67-2.jpg)
 3. Click the**Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap853.jpg)
 4. Restart your computer and check the audio renderer error is fixed or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -139,31 +115,26 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
 2. Type “devmgmt.msc” and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/05-1.jpg)
 3. In the Device Manager, click**Sound, video and game controllers** , then right-click on your audio adapter device and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/10.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Under the**Driver** tab, click **Roll Back Driver** , then follow the on-screen instructions to finish the process.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : If the Roll Back Driver option grayed out, you can download a previous driver from the manufacturer’s website and install it on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/11.jpg)
 5. Restart your computer, and see if the audio renderer error is fixed or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 7: Set the same sample rate for both audio driver and ASIO driver
 
  If you have ASIO audio device setting software and the error appears when your Cubase is opened, you can try this method. It could be the conflict between the Windows Sound system and the ASIO driver settings, you could use the same sample rate in both systems to solve the issue.
@@ -174,12 +145,11 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/04-1.jpg)
 4. Click the**Advanced** tab, select the sample rate that you wish to use. Then click**OK** . Back to the Sound window, click**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/12.jpg)
 5. Open your ASIO driver settings and choose the**Audio** tab. Select the same Sample rate as the previous step.![](https://images.drivereasy.com/wp-content/uploads/2019/05/13.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Restart your computer and see if the error has been resolved.
 
 ---
@@ -194,8 +164,6 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +171,19 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-expertise-unleashed-professional-insights-into-video-editing-for-2024/"><u>[Updated] Expertise Unleashed Professional Insights Into Video Editing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>[Updated] The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-vdsm-video-recorder-prospectus-detailed-study/"><u>2024 Approved VDSM Video Recorder Prospectus Detailed Study</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-sabrent-rocket-nano-2242-1tb-your-standard-bearer-for-m2-2242-storage-solutions/"><u>Comprehensive Review of the Sabrent Rocket Nano 2242 1TB - Your Standard-Bearer for M.2 2242 Storage Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-earnings-for-content-producers-on-short-form-platform-for-2024/"><u>Decoding Earnings for Content Producers on Short-Form Platform for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/demystifying-and-fixing-the-crippling-windows-11-update-glitch-code-0xc190n0028-revealed/"><u>Demystifying and Fixing the Crippling Windows 11 Update Glitch - Code 0Xc190n0028 Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-a-seamless-viewing-experience-no-more-buffering-on-kodi/"><u>Expert Tips for a Seamless Viewing Experience: No More Buffering on Kodi</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-mouse-cursor-in-windows-11-solution/"><u>How to Restore Your Mouse Cursor in Windows 11 [Solution]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-ios-shortcuts-app-a-comprehensive-list-of-18-powerful-workflow-enhancers-for-iphone-and-ipad-users/"><u>Mastering the iOS Shortcuts App: A Comprehensive List of 18 Powerful Workflow Enhancers for iPhone and iPad Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-achieved-easy-anti-cheat-hurdles-in-new-world-now-resolved/"><u>Solution Achieved: 'Easy Anti-Cheat' Hurdles in 'New World' Now Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-xbox-one-connection-issues-how-to-resync-a-non-syncing-controller/"><u>Solve Your Xbox One Connection Issues – How to Resync a Non-Syncing Controller</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/troubleshooting-guide-steps-to-resolve-a-sudden-windows-program-failure-tips-from-yl-software-experts/"><u>Troubleshooting Guide: Steps to Resolve a Sudden Windows Program Failure - Tips From YL Software Experts</u></a></li>
+</ul></div>
 

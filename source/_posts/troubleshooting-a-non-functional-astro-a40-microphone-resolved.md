@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Non-Functional Astro A40 Microphone - Resolved
-date: 2025-01-05T17:10:27.433Z
-updated: 2025-01-10T18:43:31.896Z
+date: 2025-01-15T21:09:09.543Z
+updated: 2025-01-22T18:32:22.322Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 4. [**Update your audio driver**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -66,10 +66,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -80,6 +76,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
@@ -88,7 +88,7 @@ To do so:
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
@@ -97,6 +97,10 @@ To do so:
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -113,16 +117,12 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -156,17 +156,21 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-gopro-hero5-session-vs-hero-session-for-2024/"><u>[New] GoPro Hero5 Session Vs Hero Session for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unleashing-your-financial-potential-on-snapchat-for-2024/"><u>[New] Unleashing Your Financial Potential on Snapchat for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unmasking-the-potential-of-recordcast/"><u>[Updated] In 2024, Unmasking the Potential of RecordCast</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-steps-to-manage-user-accounts-create-and-delete-options-in-yl-computing-software/"><u>1. Steps to Manage User Accounts: Create and Delete Options in YL Computing Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204427217-fix-windows-update-error-code-8007000e-fast-simple-solutions/"><u>Fix Windows Update Error Code 8007000E Fast - Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-call-of-duty-ww2-error-code-4220-a-step-by-step-solution/"><u>How to Overcome Call of Duty WW2 Error Code 4220: A Step-by-Step Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-an-unexpected-problem-occurred-while-resetting-your-pc-error-in-windows-11-a-complete-guide/"><u>Solve the 'An Unexpected Problem Occurred While Resetting Your PC' Error in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-problems-with-non-functional-keyboard-input/"><u>Solved Problems with Non-Functional Keyboard Input</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-repairing-damaged-windows-11-os-files/"><u>Solving the Puzzle: Repairing Damaged Windows 11 OS Files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformer-un-fichier-mkv-en-format-wma-gratuitement-sur-le-web-avec-movavi/"><u>Transformer Un Fichier MKV en Format WMA Gratuitement Sur Le Web Avec Movavi</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/transforming-jpg-photos-into-semi-transparent-images-easy-methods-unveiled/"><u>Transforming JPG Photos Into Semi-Transparent Images - Easy Methods Unveiled</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/poshagovye-instrukcii-po-migracii-sistemy-windows-11-na-novyj-ssd-dva-effektivnyh-metoda/"><u>Пошаговые Инструкции По Миграции Системы Windows 11 На Новый SSD: Два Эффективных Метода</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-upload-shorts-video-on-youtube/"><u>[New] 2024 Approved How to Upload Shorts Video on YouTube?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-highest-praised-videos-celebrating-the-15-most-outstanding-unboxing-youtubers-2024/"><u>[New] Highest Praised Videos Celebrating the 15 Most Outstanding Unboxing YouTubers, 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/boost-iphone-cinematic-experience-essential-film-gear/"><u>Boost iPhone Cinematic Experience Essential Film Gear</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-troubled-to-triumphant-the-end-of-easy-anti-cheat-problems-in-new-world-release/"><u>From Troubled to Triumphant: The End of Easy Anti-Cheat Problems in New World Release</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-nonfunctional-dell-usb-port-ultimate-troubleshooting-guide/"><u>How to Fix a Nonfunctional Dell USB Port: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-beyond-tiktok-the-top-5-platforms-for-video-content-creators/"><u>In 2024, Beyond TikTok The Top 5 Platforms for Video Content Creators</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-moto-g-stylus-5g-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Moto G Stylus 5G (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-meizu-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Meizu Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-10-iphone-virtual-reality-games-for-next-level-play/"><u>In 2024, Top 10 IPhone Virtual Reality Games for Next Level Play</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-with-generating-directx-graphics-device-in-your-project/"><u>Resolved: Issue with Generating DirectX Graphics Device in Your Project</u></a></li>
+<li><a href="https://common-error.techidaily.com/speeding-up-your-computer-simple-cleanup-techniques-for-better-speed/"><u>Speeding Up Your Computer: Simple Cleanup Techniques for Better Speed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11-for-2024/"><u>The Essential Guide to Apple's iPhone Camera Evolution in iOS 11 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-fatal-dxgkrnl-bug-in-windows-multimedia-playback/"><u>Troubleshooting the Fatal Dxgkrnl Bug in Windows Multimedia Playback</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-applicationexe-fails-to-run/"><u>Troubleshooting Tips: What To Do When Application.exe Fails to Run</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206835231-ultimate-troubleshooter-for-computers-unable-to-shutdown-windows-10-fixed/"><u>Ultimate Troubleshooter for Computers Unable to Shutdown Windows 10 - FIXED!</u></a></li>
 </ul></div>
 

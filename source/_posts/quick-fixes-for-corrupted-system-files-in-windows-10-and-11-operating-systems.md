@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Corrupted System Files in Windows 10 and 11 Operating Systems
-date: 2025-01-09T16:30:42.691Z
-updated: 2025-01-16T16:05:55.301Z
+date: 2025-01-17T21:10:44.505Z
+updated: 2025-01-22T16:29:54.872Z
 tags:
   - win11
   - win10
@@ -42,17 +42,17 @@ See how to do it:
 3. Right-click on**WLAN AutoConfig** to select**Restart** . If the Restart option grayed out, click**Start** instead.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c4e8dc53f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Double-click** WLAN AutoConfig.
 5. Set the Startup type to**Automatic** . Then**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c6c3c4eb5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Reboot your Windows computer and the error should disappear. If you’re prompted the error again, there’re something else you can try…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Repair your registry
 
@@ -65,10 +65,6 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca32dcfd4.png)
 3. Click**Yes** when prompted by User Account Control.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca123ce81.jpg)
 4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
 
@@ -77,13 +73,17 @@ Here’s how you can do it:
 6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Right-click**Eaphost** under the Services section to select**Export** .  
 
  Give a name for the backup file, say Eaphost backup.Then select a backup address and click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc80aaff0.jpg)
 8. **Double-click** DependOnService on the right pane of Eaphost. Select all the words and **delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cd67d4334.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the Registry Editor window and reboot your Windows computer. Check if the error disappears. If you still see the error, don’t give up hope. Simply move onto next solution.
 
@@ -107,7 +107,7 @@ You can update your network driver either manually or automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b891580f3aca.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You’re done. Feel free to comment below if you have any question.
@@ -130,19 +130,20 @@ You’re done. Feel free to comment below if you have any question.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-calculating-viewing-time-for-a-20mb-video/"><u>[New] Calculating Viewing Time for a 20Mb Video</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-completely-erase-your-connection-with-youtube-shorts/"><u>2024 Approved Completely Erase Your Connection with YouTube Shorts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-ai-concoct-great-drinks-investigating-chatgpts-mixology-skills/"><u>Can AI Concoct Great Drinks? Investigating ChatGPT's Mixology Skills</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cataloging-the-iberian-linguistic-kinship/"><u>Cataloging the Iberian Linguistic Kinship</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722991298451-discover-the-best-value-batteries-speed-up-your-electric-vehicle-with-budget-friendly-powerdrive-solutions/"><u>Discover the Best Value Batteries – Speed Up Your Electric Vehicle with Budget-Friendly PowerDrive Solutions!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210688798-9781667442327-insieme/"><u>Insieme | Free Book</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p55frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P55FRP Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/issue-resolved-writing-protection-at-specific-0x-memory-reference-encountered/"><u>Issue Resolved: Writing Protection at Specific 0X Memory Reference Encountered</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206335546-missing-sd-recognition-here-to-help/"><u>Missing SD Recognition? Here to Help</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-why-are-my-desktop-icons-gone-on-windows-10-and-how-to-fix-them-back/"><u>Resolved! Why Are My Desktop Icons Gone on Windows 10 & How to Fix Them Back</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-your-laptop-from-falling-asleep-unexpectedly-with-these-easy-solutions/"><u>Stop Your Laptop From Falling Asleep Unexpectedly with These Easy Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-solving-print-spooler-service-errors-in-32-bit-software/"><u>Troubleshooting: Solving 'Print Spooler Service' Errors in 32-Bit Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-and-linux-elevated-your-pcs-speed-effective-steps-to-tackle-unwanted-shell-induced-cpu-load/"><u>Windows & Linux: Elevated Your PC’s Speed - Effective Steps to Tackle Unwanted Shell-Induced CPU Load</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-virtual-worlds-to-vaults-top-6-strategies-for-minecraft-archives/"><u>[New] 2024 Approved From Virtual Worlds to Vaults Top 6 Strategies for Minecraft Archives</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-utilizing-luts-for-enhanced-color-correction-in-pscc/"><u>[New] In 2024, Utilizing LUTs for Enhanced Color Correction in PSCC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ransform-your-video-editing-youtube-tunes-in-imovie/"><u>[New] Transform Your Video Editing YouTube Tunes in iMovie</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-capture-breathtaking-shots-for-fb-livestreaming-with-dji/"><u>[Updated] 2024 Approved Capture Breathtaking Shots for FB Livestreaming with DJI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-5-winter-youtube-background-ideas-to-warm-up-your-videos/"><u>[Updated] 5 Winter YouTube Background Ideas to Warm Up Your Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-access-best-free-youtube-subtitle-extractors-for-2024/"><u>[Updated] Easy Access Best Free YouTube Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-photoquilt-supreme-eightfold-creation-engine-for-2024/"><u>[Updated] PhotoQuilt Supreme Eightfold Creation Engine for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-beyond-youtube-with-these-top-5-video-tools/"><u>2024 Approved Explore Beyond Youtube with These Top 5 Video Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-camera-powerhouse-the-sj-cam-s6-reviewed/"><u>2024 Approved Pro Camera Powerhouse The SJ-CAM S6 Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-binkw32dll-file-not-present-error/"><u>Comprehensive Fixes for The binkw32.dll File Not Present Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201528006-corrupt-system-drivers-master-swift-fix-techniques-today/"><u>Corrupt System Drivers? Master Swift Fix Techniques Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensuring-seamless-operation-addressing-driver-mismatches-in-the-ftdi-system/"><u>Ensuring Seamless Operation: Addressing Driver Mismatches in the FTDI System</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-mouse-scroll-troubles-easy-fixes-and-solutions/"><u>Logitech Mouse Scroll Troubles: Easy Fixes and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-errconnectionrefused-error-with-visual-aids/"><u>Troubleshooting ERR_CONNECTION_REFUSED Error with Visual Aids</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-minecraft-local-area-network-lan-connection-issues/"><u>Troubleshooting Guide: Fixing Minecraft Local Area Network (LAN) Connection Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clear Computer Visual Disruptions: A Guide to Correcting Vertical Line Issues on Your Monitor"
-date: 2025-01-11T16:05:13.621Z
-updated: 2025-01-16T16:07:59.851Z
+date: 2025-01-16T16:57:51.389Z
+updated: 2025-01-22T16:32:45.826Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes For USB Keeps Disconnecting
 
@@ -84,6 +80,10 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
@@ -93,7 +93,7 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
@@ -101,7 +101,7 @@ To make sure you’ve this setting disabled:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
@@ -112,20 +112,20 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
@@ -156,22 +156,22 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/wolcen-lords-of-mayhem-reasons-and-insights-behind-the-hold-up-on-release/"><u>'Wolcen - Lords of Mayhem': Reasons and Insights Behind the Hold-Up on Release</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-earnings-expertise-in-streams-a-comparative-study/"><u>[New] Earnings Expertise in Streams A Comparative Study</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-notable-top-5-superlight-action-camera-picks/"><u>[Updated] Notable Top 5 Superlight Action Camera Picks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nokia-g22-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nokia G22 without App | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-the-persistent-google-chrome-system-crash-hoax-tips-and-tricks/"><u>Eliminating the Persistent Google Chrome System Crash Hoax: Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhancing-wow-gameplay-effective-solutions-for-reducing-lags-and-delays/"><u>Enhancing 'WoW' Gameplay: Effective Solutions for Reducing Lags and Delays</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-sports-performance-integrating-whoop-and-apple-watch-for-serious-athletes-edge-zdnet/"><u>Enhancing Sports Performance: Integrating Whoop and Apple Watch for Serious Athlete's Edge | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-no-device-found-problem-on-icue-step-by-step-solutions/"><u>Fixing the 'No Device Found' Problem on ICUE: Step-by-Step Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-0x00000001-restoring-xbox-playability/"><u>Remedy for 0X00000001: Restoring Xbox Playability</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-miracast-functionality-restored-after-fixing-graphics-driver-issue/"><u>Resolved: Miracast Functionality Restored After Fixing Graphics Driver Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-pnpudfdevicenotfound-issue-a-guide-to-troubleshooting-error-0xc0000098-in-windows/"><u>Solving the PnP_UDF_DEVICE_NOT_FOUND Issue: A Guide to Troubleshooting Error 0xC0000098 in Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-athletes-companion-an-expert-review-on-garmin-forerunner-745-for-multisport-fitness-enthusiasts/"><u>The Athlete's Companion - An Expert Review on Garmin Forerunner ^745 for Multisport Fitness Enthusiasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-looming-departure-of-unreal-in-the-wake-of-d3d-loss/"><u>The Looming Departure of Unreal in the Wake of D3D Loss</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-solutions-overcome-windows-10-error-code-0x800f0922-during-updates/"><u>Top Solutions: Overcome Windows 10 Error Code 0X800F0922 During Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211368279-windows-10-missing-charge-indicator-easy-fix-guide/"><u>Windows 10 Missing Charge Indicator? Easy Fix Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728482481748-wps/"><u>どうやってWPSで破棄されたり壊れたりした文書を取り戻すのか？</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-engineering-echoing-edits/"><u>[New] In 2024, Engineering Echoing Edits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-sneak-peek-to-secrecy-how-to-create-hidden-stories/"><u>[New] Sneak Peek to Secrecy How to Create Hidden Stories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigate-and-neutralize-your-own-overly-green-spectrum-in-youtube-videos-mac/"><u>2024 Approved Navigate and Neutralize Your Own Overly Green Spectrum in YouTube Videos (Mac)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-through-thoughts-transforming-video-into-cash/"><u>2024 Approved Thriving Through Thoughts Transforming Video Into Cash</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-these-pitfalls-successful-strategies-for-implementing-the-battleye-anti-cheat-system/"><u>Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-iphone-glitch-diagnosing-and-repairing-no-call-receiving-issues/"><u>Common iPhone Glitch: Diagnosing and Repairing No-Call-Receiving Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/"><u>Effective Remedies for Windows Error 'd3dx9_43.dll Could Not Be Loaded'</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-techniques-for-thawing-your-windows-11-taskbar-best-practices-revealed/"><u>Essential Techniques for Thawing Your Windows 11 Taskbar: Best Practices Revealed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-pc-performance-by-disabling-enhanced-audio-capabilities-in-windows-11/"><u>Improve PC Performance by Disabling Enhanced Audio Capabilities in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-lava-yuva-3-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Lava Yuva 3 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-navigation-failure-revitalize-those-arrow-buttons-here/"><u>Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-touchpad-problems-steps-to-get-it-working-again/"><u>Mastering Touchpad Problems: Steps to Get It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/"><u>Overcoming USB Connection Problems: Effective Solutions for 'Device Descriptor Request Failed' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203768992-troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/"><u>Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-converting-mp3-files-into-premium-quality-wav-audio/"><u>Ultimate Guide: Converting MP3 Files Into Premium-Quality WAV Audio</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-sudden-reboots-unaccounted-for/"><u>Windows 10: Sudden Reboots Unaccounted For</u></a></li>
 </ul></div>
 

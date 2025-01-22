@@ -1,7 +1,7 @@
 ---
 title: Optimize System Performance by Curtailing MsMpEng.exe CPU Drainage in Windows 10
-date: 2025-01-12T16:09:45.210Z
-updated: 2025-01-16T16:11:04.374Z
+date: 2025-01-16T17:30:24.848Z
+updated: 2025-01-22T21:43:22.487Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **What is svchost.exe?**
 
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
@@ -106,23 +102,27 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Troubleshoot Windows Updates issues**
 
@@ -132,20 +132,20 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -164,15 +164,15 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,24 +189,22 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>[New] 2024 Approved Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-premier-vr-screens-producers/"><u>[New] In 2024, Premier VR Screens Producers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201931076-solved-how-to-boost-your-windowslinux-performance-and-reduce-shell-induced-high-cpu-use/"><u>[Solved] How to Boost Your Windows/Linux Performance and Reduce Shell-Induced High CPU Use</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-topics-to-cover-in-your-vlogs/"><u>[Updated] 2024 Approved Fresh Topics to Cover in Your Vlogs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-viral-videos-not-pricey-twitter-video-to-gif-conversion/"><u>[Updated] In 2024, Viral Videos, Not Pricey Twitter Video to GIF Conversion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-melodic-mastery-for-game-dominance-in-free-fire/"><u>[Updated] Melodic Mastery for Game Dominance in Free Fire</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-cultivate-creativity-best-video-concepts-for-viewers/"><u>2024 Approved Cultivate Creativity Best Video Concepts for Viewers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/"><u>2024 Approved Smooth Sailing with Kinemaster in Film Edits</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-lower-network-traffic-tackling-the-svchostexe-netsvcs-challenge/"><u>Effective Strategies to Lower Network Traffic: Tackling the svchost.exe (NETsvcs) Challenge</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-malfunctioning-windows-keyboard-buttons/"><u>Fix Malfunctioning Windows Keyboard Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-broken-usb-ports-on-windows-11-devices-quick-solutions/"><u>Fixing Broken USB Ports on Windows 11 Devices – Quick Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-i-fixed-the-windows-1n-update-not-installing-issue-tips-and-tricks-inside/"><u>How I Fixed the Windows 1N Update Not Installing Issue – Tips & Tricks Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/inconsistent-text-replication-windows-11/"><u>Inconsistent Text Replication, Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-mixed-media-with-color-for-2024/"><u>Mastering Mixed Media with Color for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-stop-your-pc-from-falling-asleep-unintentionally/"><u>Quick Fixes: How to Stop Your PC From Falling Asleep Unintentionally</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-bluetooth-woes-windows-11-wireless-fixes-and-tips-for-pairing-success/"><u>Solve Your Bluetooth Woes: Windows ˈ11 Wireless Fixes and Tips for Pairing Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-gaming-nights-innovative-techniques-to-design-dandd-characters-with-chatgpt-and-dall-e/"><u>Transform Gaming Nights: Innovative Techniques to Design D&D Characters with ChatGPT & DALL-E</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-11-startup-crashes/"><u>Troubleshooting Guide: Resolving Windows 11 Startup Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/xbox-one-wireless-controller-connection-problem-heres-how-to-fix-it/"><u>Xbox One Wireless Controller Connection Problem? Here's How to Fix It</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-depth-look-at-srt-knowledge-for-all-levels/"><u>[New] In-Depth Look at SRT Knowledge for All Levels</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-wireless-mouse-randomly-stops-working-on-windows-1110/"><u>[Solved] Wireless Mouse Randomly Stops Working on Windows 11/10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-overwatch-playback-techniques-explained/"><u>[Updated] 2024 Approved Overwatch Playback Techniques Explained</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-essential-ringtones-a-chrome-companion-collection/"><u>[Updated] In 2024, Essential Ringtones A Chrome Companion Collection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-jestjungle-your-gateway-to-universal-comedy/"><u>[Updated] JestJungle Your Gateway to Universal Comedy</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-editing-engine-room/"><u>2024 Approved Editing Engine Room</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-non-functional-shortcut-win-shift-and-s-on-microsoft-windows-versions/"><u>Effective Fixes for Non-Functional Shortcut: Win, Shift, and S on Microsoft Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-pc-utilization-despite-high-cpuram-demands-from-unrealcefsubprocess/"><u>Efficient PC Utilization Despite High CPU/RAM Demands From UnrealCEFSubprocess</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-create-a-sports-youtube-channel-on-mac-for-2024/"><u>How to Create a Sports YouTube Channel on Mac for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-recurring-restart-problems-in-windows-11-effortlessly/"><u>How to Resolve Recurring Restart Problems in Windows 11 Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/how-to-torrent-safely-without-getting-caught-without-virus/"><u>How to Torrent Safely [Without Getting Caught, Without Virus]</u></a></li>
+<li><a href="https://facebook.techidaily.com/must-see-update-giphys-future-linked-to-fb-sale/"><u>Must-See Update: Giphy's Future Linked to FB Sale?</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-to-enable-your-devices-bluetooth-feature-on-windows-11-or-10/"><u>Quick Fixes to Enable Your Device's Bluetooth Feature on Windows 11 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-the-print-driver-host-has-stopped-working-on-32-bit-systems/"><u>Troubleshooting Guide - Resolving 'The Print Driver Host Has Stopped Working' On 32-Bit Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-safari-errors-easily-fix-pages-that-wont-open/"><u>Troubleshooting Safari Errors: Easily Fix Pages That Won't Open</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-windows-11-installation-error-80240020-solved/"><u>Troubleshooting Tips for Fixing Windows 11 Installation Error 80240020 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-joystick-pc-compatibility-fixes/"><u>Xbox One Joystick: PC Compatibility Fixes</u></a></li>
 </ul></div>
 

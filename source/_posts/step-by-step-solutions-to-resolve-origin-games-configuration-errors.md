@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Resolve Origin Games Configuration Errors.
-date: 2025-01-14T16:02:09.304Z
-updated: 2025-01-16T16:23:26.263Z
+date: 2025-01-20T17:36:04.587Z
+updated: 2025-01-22T19:36:11.260Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,10 +54,6 @@ To do this:
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**Compatibility** tab and click**Change settings for all users** .  
   
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-2.jpg)
@@ -69,6 +61,10 @@ To do this:
  3) Under the**Settings** section, click**Run this program as an administrator** . Then click**Apply** .  
   
 ![run Warframe as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-3-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After applying the changes, try relaunching Warframe.
 
@@ -88,6 +84,10 @@ After applying the changes, try relaunching Warframe.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Optimize your internet connection
 
  When updating Warframe, you need to make sure that you have a stable internet connection.
@@ -99,10 +99,6 @@ After applying the changes, try relaunching Warframe.
  You can type**ethernet** on the**Search** box, and click**Ethernet settings** from the result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/ethernet-settings-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Under the**Ethernet** section, you can see if it’s connected or not.  
   
@@ -139,6 +135,10 @@ ethernet
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair/ Update Microsoft Visual C++ Redistributable
 
  If the internet connection isn’t your problem, having your Microsoft Visual C++ Redistributable fixed might work for you.
@@ -154,16 +154,12 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![open control panel ](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Programs and Features**
 
 ![repair download packages; Warframe update failed](https://images.drivereasy.com/wp-content/uploads/2020/09/program-and-features.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the**Uninstall or change a program** section, find the**Microsoft Visual C++** packages.
@@ -175,12 +171,16 @@ Both the repairing and updating might work. So just choose one of them.
 ![repair Microsoft Visual C++](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) When the**Modify Setup** window pops up, click**Repair** .
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) When you’re asked “Do you want to allow this app to make changes to your device?”, click**Yes** .
 
@@ -189,7 +189,7 @@ Both the repairing and updating might work. So just choose one of them.
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-3-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Update Microsoft Visual** **C++**
@@ -208,6 +208,10 @@ Both the repairing and updating might work. So just choose one of them.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Change the launcher settings
 
  If those methods haven’t worked for you, then you can change the launcher settings.
@@ -218,10 +222,6 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-the-settings-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Uncheck**Bulk Download** and when the**Warning** window appears, click**OK** . Then click**OK** on the**Settings** window.
 
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-launcher-settings.jpg)
@@ -229,7 +229,7 @@ Both the repairing and updating might work. So just choose one of them.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Verify the download cache
@@ -287,21 +287,18 @@ To use a VPN service, you need to download a VPN application.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-connect-movie-files-in-youtv-catalog/"><u>[New] 2024 Approved Connect Movie Files in YouTV Catalog</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-best-miniature-portable-dvd-systems-ranked/"><u>[New] Best Miniature Portable DVD Systems Ranked</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-page-visibility-key-techniques/"><u>[Updated] Mastering Facebook Page Visibility Key Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[Updated] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-windows-sudden-cpu-usage-peaks/"><u>Addressing Windows' Sudden CPU Usage Peaks</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-failed-minecraft-loads-on-your-windows-system/"><u>Diagnosing and Fixing Failed Minecraft Loads on Your Window's System</u></a></li>
-<li><a href="https://common-error.techidaily.com/gaining-authorization-from-trustedinstaller-to-make-changes-to-encrypted-files/"><u>Gaining Authorization From TrustedInstaller to Make Changes to Encrypted Files</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-bootloader-easily-by-drfone-android/"><u>How to Unlock Honor X9b Bootloader Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-locked-icloud-features-on-your-apple-device-with-simple-fixes/"><u>Overcoming Locked iCloud Features on Your Apple Device with Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-d3dx939dll-not-found-issue-step-by-step-guide/"><u>Resolve the 'd3dx9_39.dll' Not Found Issue: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-volume-functionality-on-your-windows-latebolz-step-by-step-fixes/"><u>Restore Volume Functionality on Your Windows ˈlaɪtəbóʊlz - Step by Step Fixes</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-tecno-pop-8-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Tecno Pop 8</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-successful-smartaudio-activation-after-initial-failures-resolved/"><u>Tips for Successful SmartAudio Activation After Initial Failures - Resolved</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-display-problems-on-your-favorite-sites/"><u>Troubleshooting Display Problems on Your Favorite Sites</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>[New] In 2024, Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quintessential-fps-experiences-ranked-by-fun-factor/"><u>[New] Quintessential FPS Experiences Ranked by Fun Factor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-broadcasting-brilliance-how-to-capture-compelling-sports-content/"><u>2024 Approved Broadcasting Brilliance How to Capture Compelling Sports Content</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/crucial-aspects-navigating-the-world-of-dash-cam-purchases/"><u>Crucial Aspects: Navigating the World of Dash Cam Purchases</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-overcoming-bluetooth-offline-problems/"><u>Expert Advice on Overcoming 'Bluetooth Offline' Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-new-realm-of-augmented-reality-with-apple-vision-pro-price-breakdown-feature-list-user-experience-and-full-insight-coverage-zdnet-exclusive/"><u>Exploring the New Realm of Augmented Reality with Apple Vision Pro: Price Breakdown, Feature List, User Experience, and Full Insight Coverage | ZDNET Exclusive</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-cannot-reach-system-event-notification-service-error-message/"><u>Fixing 'Windows Cannot Reach System Event Notification Service' Error Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-skype-video-glitches-in-no-time-on-windows-11/"><u>Fixing Skype Video Glitches in No Time on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-14-pro-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 14 Pro?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-enhance-fb-story-visibility-with-these-tips/"><u>In 2024, Enhance FB Story Visibility with These Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-sony-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Sony</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guided-troubleshooting-windows-cannot-access-system-event-notifier-service/"><u>Solution Guided: Troubleshooting Windows Cannot Access System Event Notifier Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-0x80072efd-error-in-windows-10-effortlessly/"><u>Troubleshooting and Fixing the 0X80072EFD Error in Windows 10 Effortlessly</u></a></li>
 </ul></div>
 

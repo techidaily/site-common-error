@@ -1,7 +1,7 @@
 ---
 title: "SystemProfile Desktop Access Denied: Solutions for the Common Error"
-date: 2024-12-23T16:10:34.981Z
-updated: 2024-12-25T19:10:03.230Z
+date: 2025-01-16T16:05:14.541Z
+updated: 2025-01-22T18:10:33.589Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ Read on this page and follow the steps:
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Disable the full screen optimization of your game application
@@ -53,26 +53,22 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on your game .exe file and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Tick on **Disable fullscreen optimizations**  under the **Compatibility**  pane. Then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7557a69aaf6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Relaunch your game application to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your graphics card driver
@@ -91,6 +87,10 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -98,7 +98,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755f4db1724.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer to make the new driver take effect, and relaunch your game to see if it works now.
@@ -120,21 +120,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-hotspots-for-online-video-dialogue/"><u>[New] 2024 Approved Find Hotspots for Online Video Dialogue</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-chasing-charm-innovative-photo-techniques-to-ignite-insta/"><u>[New] Chasing Charm Innovative Photo Techniques to Ignite Insta</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-10-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video/"><u>[New] In 2024, 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-everyone-quickly-which-platform-triumphs-for-shorter-videos/"><u>[Updated] 2024 Approved Engaging Everyone Quickly Which Platform Triumphs for Shorter Videos?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-photo-perfection-how-to-automatically-save-snaps-from-snapchat-for-2024/"><u>[Updated] Photo Perfection How to Automatically Save Snaps From Snapchat for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-address-unregistered-class-errors-on-windows-11-systems/"><u>Effective Techniques to Address Unregistered Class Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208249116-how-to-troubleshoot-pc-game-crashes-in-nier-automata-solved/"><u>How to Troubleshoot PC Game Crashes in Nier: Automata - Solved</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-13t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi 13T Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/managing-antivirus-impact-reducing-msmppingexes-cpu-drain-on-windows-11-fixed/"><u>Managing Antivirus Impact: Reducing msmpping.exe's CPU Drain on Windows 11 [FIXED]</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-se-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 SE Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-system-performance-curbing-wudfhostexes-high-cpu-usage-on-windows-11/"><u>Optimizing System Performance: Curbing wudfhost.exe's High CPU Usage on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/reappearing-desktop-icons-fix-and-prevention-strategies-for-windows-11-users/"><u>Reappearing Desktop Icons: Fix and Prevention Strategies for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-dolby-atmos-on-windows-11-a-guide-to-fixing-and-starting-your-dolby-audio-driver/"><u>Resolving Issues with Dolby Atmos on Windows 11: A Guide to Fixing and Starting Your Dolby Audio Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-driver-framework-for-reduced-processor-load/"><u>Resolving Window's Driver Framework for Reduced Processor Load</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-fixing-windows-setup-interruption-issues-easily/"><u>Solution Found! Fixing Windows Setup Interruption Issues Easily</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-blue-badge-breakdown-a-guide-to-social-media-credibility/"><u>The Blue Badge Breakdown A Guide to Social Media Credibility</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secure-your-cash-ranking-safe-and-effective-posts-for-2024/"><u>[Updated] Secure Your Cash Ranking Safe & Effective Posts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-snapping-wonders-how-to-find-optimal-iphone-viewing-points/"><u>[Updated] Snapping Wonders How to Find Optimal iPhone Viewing Points</u></a></li>
+<li><a href="https://common-error.techidaily.com/call-of-duty-ww2-bug-busters-a-guide-to-overcoming-error-42n00/"><u>Call of Duty WW2 Bug Busters: A Guide to Overcoming Error 42N00</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/driving-sales-not-just-views-monetizing-your-social-media-videos/"><u>Driving Sales, Not Just Views Monetizing Your Social Media Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210594666-9780593330012-enchantment/"><u>Enchantment | Free Book</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-global-audiences-using-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Engage with Global Audiences Using Leading Platforms: Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206758917-errtoomanyredirects-get-instant-solutions-now/"><u>ERR_TOO_MANY_REDIRECTS? Get Instant Solutions Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-tech-offers-affordable-surveillance-cameras-high-capacity-power-banks-by-anker-and-elite-gaming-headsets-from-razer/"><u>Exclusive Tech Offers: Affordable Surveillance Cameras, High-Capacity Power Banks by Anker and Elite Gaming Headsets From Razer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nokia-g42-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nokia G42 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-infinix-note-30-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Note 30 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-pdf-printing-woes-swift-solutions-that-work/"><u>No More PDF Printing Woes - Swift Solutions That Work!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-endless-wait-solving-valorants-infinite-loading-issue/"><u>Overcome the Endless Wait: Solving Valorant's Infinite Loading Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-missing-cursor-in-windows-10-system/"><u>Solving the Issue of Missing Cursor in Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-hp-laptop-non-functional-keys-with-these-simple-steps/"><u>Troubleshoot HP Laptop Non-Functional Keys with These Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-a-non-responsive-lenovo-keyboard/"><u>Troubleshooting Tips: Fixing a Non-Responsive Lenovo Keyboard</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-whos-the-best-tivos-dvr-vs-comcasts-x1-platform-for-2024/"><u>Updated Whos the Best TiVos DVR vs Comcasts X1 Platform for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-surface-device-not-charging-despite-being-connected/"><u>Why Is My Surface Device Not Charging Despite Being Connected?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Lenovo's Unresponsive Keys: How to Fix a Non-Functioning Keyboard"
-date: 2024-12-27T17:21:37.990Z
-updated: 2025-01-04T00:42:27.201Z
+date: 2025-01-15T21:58:59.794Z
+updated: 2025-01-22T21:53:46.048Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Restart your computer
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update the driver
@@ -68,21 +68,21 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  4) Restart your laptop, and check to see if your keyboard works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Press the problem keys diagonally
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -120,6 +116,10 @@ If you have no idea how to do a system restore, refer steps below:
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
@@ -155,18 +155,21 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-8-best-fbx-game-recorder-alternatives/"><u>[New] 2024 Approved Top 8 Best FBX Game Recorder Alternatives</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/breaking-free-from-tiktoks-invisibility-unshadowban-strategies/"><u>Breaking Free From TikTok's Invisibility Unshadowban Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elegoo-saturn-4-ultra-reviewed-transforming-the-landscape-of-resin-based-3d-printing-innovations/"><u>Elegoo Saturn 4 Ultra Reviewed - Transforming the Landscape of Resin-Based 3D Printing Innovations</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-italys-charm-key-italian-greetings-to-learn/"><u>Embrace Italy's Charm: Key Italian Greetings to Learn</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-when-windows-cannot-execute-protection-command/"><u>Fixing The Issue When Windows Cannot Execute Protection Command</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-file-explorer-working-again-after-it-stops-responding-on-windows-cuarenta/"><u>How to Get Your File Explorer Working Again After It Stops Responding on Windows Cuarenta</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-streamlining-design-with-new-fonts-in-after-effects/"><u>In 2024, Streamlining Design with New Fonts in After Effects</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-imac-with-m1-enhanced-performance-and-stunning-display/"><u>In-Depth Analysis of the iMac with M1: Enhanced Performance & Stunning Display</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-release-fixes-basic-printer-and-scanner-drivers-now-included-with-windows-ten-os/"><u>New Release Fixes: Basic Printer & Scanner Drivers Now Included with Windows ˈtēn OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-the-ascent-a-guide-to-smooth-playback-and-higher-fps/"><u>Optimize 'The Ascent': A Guide to Smooth Playback and Higher FPS</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-rapid-response-fixes-error-1053-immediate-services-restoration/"><u>Resolved: Rapid Response Fixes Error 1053 – Immediate Services Restoration</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-successfully-restarting-a-computer-stuck-on-boot-sequence/"><u>Tips for Successfully Restarting a Computer Stuck on Boot Sequence</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mpowering-learning-through-educational-videos-on-youtube/"><u>[New] Empowering Learning Through Educational Videos on YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-ultimate-hack-grabbing-gif-images-from-tweets/"><u>[New] In 2024, The Ultimate Hack Grabbing GIF Images From Tweets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-synchronize-your-calendars-for-smooth-video-calls/"><u>[New] Synchronize Your Calendars for Smooth Video Calls</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-top-6-nft-environments-for-creatives/"><u>[New] Unveiling the Top 6 NFT Environments for Creatives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>[Updated] 2024 Approved Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[Updated] 2024 Approved From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-virtual-versus-vital-gears-in-the-pursuit-of-perfect-pixels/"><u>[Updated] In 2024, Virtual Versus Vital Gears in the Pursuit of Perfect Pixels</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-oneplus-12r-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 OnePlus 12R Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-windows-11s-disappearing-bluetooth-feature-get-started-now/"><u>Easy Fixes for Windows 11'S Disappearing Bluetooth Feature – Get Started Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-diagnosing-and-fixing-non-functional-corsair-keyboard-problems/"><u>Expert Advice on Diagnosing and Fixing Non-Functional Corsair Keyboard Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-overcoming-service-interruption-in-hamachi-software/"><u>Expert Tips on Overcoming ‘Service Interruption’ in Hamachi Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-audio-output-device-not-detected-errors-on-windows/"><u>Quick Fixes for Audio Output Device Not Detected Errors on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-fixing-a-non-responsive-laptop-trackpad-on-windows-10-8-and-7/"><u>Solved: Fixing a Non-Responsive Laptop Trackpad on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-0x80240034-glitch-in-windows-11-updates-effective-strategies-for-success/"><u>Troubleshooting the 0X80240034 Glitch in Windows 11 Updates – Effective Strategies for Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-loading-lag-solved-steps-to-fix-boot-time-crashes-and-freezes/"><u>Windows 11 Loading Lag Solved: Steps to Fix Boot Time Crashes and Freezes</u></a></li>
 </ul></div>
 

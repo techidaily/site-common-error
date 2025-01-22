@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Steam Update Stuck Issue"
-date: 2024-12-29T00:52:09.844Z
-updated: 2025-01-03T17:24:13.427Z
+date: 2025-01-19T17:18:22.967Z
+updated: 2025-01-22T18:55:14.158Z
 tags:
   - win11
   - win10
@@ -40,18 +40,18 @@ Your**Windows Store** has been acting up recently.
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**R** at the same time, then type**wsreset.exe** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Once completed, Windows Store will pop open.
@@ -76,10 +76,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
 
 * If yes, rename the folder**cache.old** . Create a new folder and name it**cache** . Close the window.
@@ -88,6 +84,10 @@ Your**Windows Store** has been acting up recently.
  4) Restart your computer and run the Windows apps troubleshooter again. This time, it’ll not only report the issue and probably solve it too.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Microsoft Store
 
@@ -99,21 +99,17 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Reset** , and you’ll receive a confirmation button. Click **Reset** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer and check if the problem has been sorted out.
 
@@ -122,6 +118,10 @@ Your**Windows Store** has been acting up recently.
 ### Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Free-Tech-Support.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/) (just $29.95) and you get free technical support as part of your purchase** . Then you can contact our computer technicians directly, explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -142,17 +142,20 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-key-techniques-to-maximize-your-spotify-ad-reach/"><u>[New] Key Techniques to Maximize Your Spotify Ad Reach</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-skyward-gazing-inside-the-world-of-x4-fpv-quads-for-2024/"><u>[New] Skyward Gazing Inside the World of X4 FPV Quads for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728472066353-4/"><u>失われた写真を取り戻せ：パソコンで行うゴミ箱からの画像回復方法トップ4</u></a></li>
-<li><a href="https://fox-info.techidaily.com/cutting-edge-online-methods-for-supercharging-vhs-artifacts/"><u>Cutting-Edge Online Methods for Supercharging VHS Artifacts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-se-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone SE?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-elite-editing-experience-photonshift-phenomenon/"><u>In 2024, Elite Editing Experience PhotonShift Phenomenon</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-to-recover-missing-thumbnails-from-videos/"><u>In 2024, Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-frustrating-freeze-frame-situations-on-your-desktop-or-laptop/"><u>Overcoming Frustrating Freeze-Frame Situations on Your Desktop or Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-overwatch-voice-communication-problems/"><u>Quick Fixes for Overwatch Voice Communication Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-overcome-the-hamachi-connection-halt-error/"><u>Step-by-Step Guide to Overcome the Hamachi Connection Halt Error</u></a></li>
-<li><a href="https://win-dash.techidaily.com/streamline-your-experience-on-windows-1nvite-intels-iris-plus-graphics-driver-v655-for-optimal-display-quality/"><u>Streamline Your Experience on Windows 1Nvite Intel's Iris Plus Graphics Driver v655 for Optimal Display Quality</u></a></li>
-<li><a href="https://common-error.techidaily.com/xbox-one-joystick-restoring-functionality-to-pc-games/"><u>Xbox One Joystick: Restoring Functionality to PC Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/"><u>[New] 2024 Approved Mastering Chroma Key Techniques in Live Broadcasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-enhance-film-scenes-with-soundtracks-in-premiere-pro/"><u>[New] In 2024, Enhance Film Scenes With Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-action-hunting-cameras-of-the-year/"><u>[New] Top Action Hunting Cameras of the Year</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-craft-individualized-farewell-soundtracks-without-spending/"><u>2024 Approved Craft Individualized Farewell Soundtracks Without Spending</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-barrier-fixing-path-not-found-errors-on-a-windows-system/"><u>Bypassing The Barrier: Fixing 'Path Not Found' Errors on a Windows System</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-mic-malfunction-heres-a-detailed-guide-to-diagnose-and-repair-your-audio-device/"><u>Corsair HS50 Mic Malfunction? Here's a Detailed Guide to Diagnose & Repair Your Audio Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fix-for-non-connecting-airpods-on-laptops-latest-tips-and-techniques-202e/"><u>Easy Fix for Non-Connecting AirPods on Laptops - Latest Tips & Techniques (202E)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-iphoneipad-content-moving-with-winx-mediatrans-your-best-choice-for-pc-to-mobile-file-transfer/"><u>Effortless iPhone/iPad Content Moving with WinX MediaTrans: Your Best Choice for PC to Mobile File Transfer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-11-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 11 Pro Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-stand-out-in-snapchat-spotlight/"><u>In 2024, How to Stand Out in Snapchat Spotlight</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-arrow-keys-on-the-keyboard-with-these-expert-fixes/"><u>Revive Your Arrow Keys on the Keyboard with These Expert Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-unruly-pro-7-displays/"><u>Taming Unruly Pro 7 Displays</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-crackling-audio-on-your-pc-with-windows-11-and-7-solved/"><u>Troubleshooting Crackling Audio on Your PC with Windows 11 & 7 - Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-failed-sign-in-errors-in-user-profile-services-on-windows-operating-systems/"><u>Troubleshooting Failed Sign-In Errors in User Profile Services on Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/unreachable-blizzard-services-offline/"><u>Unreachable: Blizzard Services Offline</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Restoring Audio Output in a Malfunctioning Windows System"
-date: 2024-12-20T17:40:43.504Z
-updated: 2024-12-25T20:31:55.537Z
+date: 2025-01-20T19:38:14.755Z
+updated: 2025-01-22T21:14:15.023Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -47,6 +51,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -57,21 +65,21 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -83,23 +91,15 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -142,19 +142,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-economical-vr-headsets-from-the-east/"><u>[New] 2024 Approved Economical VR Headsets From the East</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-managing-a-day-job-and-your-thriving-youtube-channel/"><u>[New] 2024 Approved Managing a Day Job and Your Thriving YouTube Channel</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-navigating-new-worlds-an-in-depth-study-of-6-metaverse-models-for-2024/"><u>[New] Navigating New Worlds An In-Depth Study of 6 Metaverse Models for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-overlooked-wonders-latest-free-macspeech-software/"><u>[Updated] Overlooked Wonders Latest Free macSpeech Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/connect-airpods-to-pc-effortlessly-expert-tips-and-tricks-for-windows-users-in-202n/"><u>Connect AirPods to PC Effortlessly - Expert Tips and Tricks for Windows Users in 202N</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/easy-steps-setting-up-dejavu-add-on-in-kodi-versions-19-and-18-for-ultimate-media-streaming/"><u>Easy Steps: Setting Up DejaVu Add-On in Kodi (Versions 19 and 18) for Ultimate Media Streaming</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-internet-anonymity-access-to-free-ip-checker-services/"><u>Explore Internet Anonymity: Access to Free IP Checker Services</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-iphone-xs-identity-verification-face-id-repair/"><u>In 2024, Mastering iPhone X's Identity Verification Face ID Repair</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pro-controller-101-mastering-steam-and-switch-integration/"><u>In 2024, Pro Controller 101 Mastering Steam and Switch Integration</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-error-0x80071ac3-volume-has-been-removed-from-windows-explorer/"><u>Overcoming the Challenge of Error 0X80071AC3: Volume Has Been Removed From Windows Explorer</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10-microphone-malfunction-with-easy-fixes-and-advice/"><u>Resolving Windows 10 Microphone Malfunction with Easy Fixes and Advice</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ethernet-connectivity-errors-for-windows-117-users-effective-strategies/"><u>Troubleshooting Ethernet Connectivity Errors for Windows 11/7 Users: Effective Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-persistent-issue-of-error-code-0x8024200d-in-windows-updates/"><u>Understanding & Fixing the Persistent Issue of Error Code 0X8024200D in Windows Updates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capture-gifs-like-pro-on-any-mac/"><u>[Updated] Capture GIFs Like Pro on Any Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-proven-techniques-to-convert-and-download-pinterest-video-audio/"><u>[Updated] Proven Techniques to Convert and Download Pinterest Video Audio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-capturing-content-on-vimeo-for-2024/"><u>[Updated] The Art of Capturing Content on Vimeo for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-your-ink-flowing-install-hp-projeto-8710-printer-drivers-windows/"><u>Get Your Ink Flowing - Install HP Projeto 8710 Printer Drivers (Windows)</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/guide-effortlessly-recover-chosen-information-from-your-iphone/"><u>Guide: Effortlessly Recover Chosen Information From Your iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-steam-shop-display-problems/"><u>How to Successfully Resolve Steam Shop Display Problems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>In 2024, From Blurred to Bold A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-sluggish-startup-on-your-windows-7-pc/"><u>Quick Fixes: Resolving Sluggish Startup on Your Windows 7 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/reclaiming-lost-dll-msvcr71-restored/"><u>Reclaiming Lost DLL: MSVCR71 Restored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplifying-age-confirmation-on-tiktok/"><u>Simplifying Age Confirmation on TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-the-vcruntime140dll-couldnt-be-loaded-error-easily/"><u>Troubleshoot and Fix the 'VCRUNTIME140.dll Couldn't Be Loaded' Error Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-class-not-registered-warnings-in-windows-11-solutions-provided/"><u>Troubleshooting Class Not Registered Warnings in Windows 11 – Solutions Provided</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsticking-destiny-2-expert-tips-for-fixing-initialization-delays-in-your-gameplay/"><u>Unsticking Destiny 2: Expert Tips for Fixing Initialization Delays in Your Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-updates-whats-in-the-name-and-number/"><u>Windows Updates: What's in the Name and Number?</u></a></li>
 </ul></div>
 

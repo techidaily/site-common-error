@@ -1,7 +1,7 @@
 ---
 title: The IT Professional's Checklist for Fixing a Frozen System
-date: 2025-01-12T16:21:23.665Z
-updated: 2025-01-16T16:15:30.606Z
+date: 2025-01-18T20:01:30.538Z
+updated: 2025-01-22T18:31:41.175Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these tips
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,7 +40,7 @@ You don’t have to try them all; just work your way down the list until you fin
 6. [**Bonus tip**](#t7)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 1: Enable Show desktop icons
@@ -48,20 +52,20 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
@@ -71,10 +75,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 3: Rebuild icon cache
 
 You can also try these steps to rebuild the icon cache:
@@ -82,6 +82,10 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -101,23 +105,19 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -151,7 +151,7 @@ OR
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -177,17 +177,18 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-achieving-youtube-earnings-excellence-strategies-and-beyond/"><u>[New] 2024 Approved Achieving YouTube Earnings Excellence - Strategies and Beyond</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-screencapture-guide-for-laptop-techies/"><u>[New] The Ultimate ScreenCapture Guide for Laptop Techies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capture-your-device-free-android-recorder-for-2024/"><u>[Updated] Capture Your Device – Free Android Recorder for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-steady-and-true-keeping-it-all-together-in-your-youtube-shoots-for-2024/"><u>[Updated] Steady and True Keeping It All Together in Your YouTube Shoots for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-compressed-to-captioned-zip-to-srt-effortlessly-for-2024/"><u>From Compressed To Captioned Zip to .Srt Effortlessly for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-multi-tasking-on-edge-with-picture-in-picture/"><u>In 2024, Master Multi-Tasking on Edge with Picture-in-Picture</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-repairing-the-red-screen-error/"><u>Resolved: Step-by-Step Guide to Repairing the Red Screen Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210166882-solving-the-ps4s-notorious-ce-34878-0-glitch-steps-and-tips-inside/"><u>Solving the PS4's Notorious CE-34878-0 Glitch – Steps & Tips Inside</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-8-methods-for-unlocking-copyrighted-dvd-content-discover-5-complimentary-techniques/"><u>Top 8 Methods for Unlocking Copyrighted DVD Content - Discover 5 Complimentary Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-get-your-airpods-working-with-windows/"><u>Troubleshooting Step-by-Step: Get Your AirPods Working with Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-lack-of-pen-and-touch-input-on-your-screen/"><u>Troubleshooting: Fixing the Lack of Pen and Touch Input on Your Screen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocked-treasures-art-without-intellectual-property-restrictions/"><u>Unlocked Treasures Art Without Intellectual Property Restrictions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-retro-cinema-a-look-at-the-goofy-adventure/"><u>[Updated] 2024 Approved Retro Cinema A Look at 'The Goofy Adventure'</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023-how-to-watch-twitter-videos-in-full-hd-for-2024/"><u>2023 | How To Watch Twitter Videos in Full HD for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-file-editing-simplified-cut-trim-and-split-with-these-easy-steps-for-2024/"><u>AVI File Editing Simplified Cut, Trim, and Split with These Easy Steps for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-ultimate-compact-tablets-of-2024-comprehensive-reviews-and-rankings-digital-trends/"><u>Expert Picks for Ultimate Compact Tablets of 202^4: Comprehensive Reviews and Rankings | Digital Trends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-these-apps-leverage-gpt-4-technology/"><u>How Do These Apps Leverage GPT-4 Technology?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quickconvert-pro-change-ogm-files-into-various-formats-mkv-avi-mp3/"><u>QuickConvert Pro: Change OGM Files Into Various Formats (MKV, AVI, MP3)</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-huion-sketch-tool-5-fast-fixes-for-a-broken-pen/"><u>Revitalize Your Huion Sketch Tool - 5 Fast Fixes for a Broken Pen</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-persistent-keyboard-keys-on-windows-systems/"><u>Troubleshooting and Repairing Persistent Keyboard Keys on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-miracast-unsupported-by-graphics-card-steps-for-resolution/"><u>Troubleshooting Miracast Unsupported by Graphics Card: Steps for Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206185064-ultimate-fallout-4-performance-tips-say-goodbye-to-lag/"><u>Ultimate Fallout 4 Performance Tips - Say Goodbye to Lag</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-failed-to-create-directx-graphics-device-error-message/"><u>Understanding & Fixing the 'Failed to Create DirectX Graphics Device' Error Message</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-power-of-wax-a-free-video-editor-tutorial-for-2024/"><u>Updated Discover the Power of Wax A Free Video Editor Tutorial for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-tethering-on-windows-11-easily/"><u>USB Tethering on Windows 11 Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting More Bangs From LoL: Overcoming Sluggish Download Times Easily"
-date: 2024-12-30T04:10:08.151Z
-updated: 2025-01-04T02:57:02.381Z
+date: 2025-01-21T17:28:03.867Z
+updated: 2025-01-22T16:31:34.093Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,6 +48,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -53,15 +61,15 @@ League of Legends is a world popular game, but the slow download speed can easil
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on it and click**Run as administrator** .
 
 Downloading again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Turn off Windows Firewall
 
@@ -71,22 +79,14 @@ Downloading again to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -132,12 +132,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -165,24 +165,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-the-requested-operation-requires-elevation-on-windows-11107/"><u>[FIXED] The Requested Operation Requires Elevation on Windows 11/10/7</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-full-media-potential-with-funimate-tools/"><u>[New] Unlock Full Media Potential with Funimate Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-complete-routine-for-hulu-capture-on-diverse-devices/"><u>[Updated] The Complete Routine for Hulu Capture on Diverse Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlock-flawless-mac-screen-record-through-keyboard-expertise/"><u>2024 Approved Unlock Flawless Mac Screen Record Through Keyboard Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-policy-settings-with-windows-11-expertise/"><u>Accelerate Policy Settings with Windows 11 Expertise</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-tutorial-for-implementing-hyper-v-on-your-windows-n-version/"><u>Complete Tutorial for Implementing Hyper-V on Your Windows N Version</u></a></li>
-<li><a href="https://common-error.techidaily.com/definitive-fixes-for-latency-problems-with-keyboards-under-windows-10-operating-system/"><u>Definitive Fixes for Latency Problems with Keyboards Under Windows 10 Operating System</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-samsung-960-evo-m2-ssd-drivers-on-your-windows-pc/"><u>Download & Install Samsung 960 EVO M.2 SSD Drivers on Your Windows PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/economical-pc-graphics-saving-apps/"><u>Economical PC Graphics Saving Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fading-audio-tips-for-better-mixes-in-ableton/"><u>Fading Audio Tips for Better Mixes in Ableton</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-disconnection-steps-to-make-your-usb-mouse-work-again-on-laptops/"><u>Fixing the Disconnection: Steps to Make Your USB Mouse Work Again on Laptops</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-secure-connection-could-not-be-established-message-in-firefox-browser/"><u>How to Fix 'Secure Connection Could Not Be Established' Message in Firefox Browser</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-with-words-15-task-filled-podcast-sessions/"><u>In 2024, Navigating the World with Words 15 Task-Filled Podcast Sessions</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-when-your-lenovos-fingerprint-scanner-stops-responding/"><u>Quick Fixes When Your Lenovo's Fingerprint Scanner Stops Responding</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-13-mp3-converters-on-youtube-find-your-perfect-match/"><u>Top 13 MP3 Converters on YouTube - Find Your Perfect Match</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-update-failed-issues-in-warframe/"><u>Troubleshooting Guide: Resolving 'Update Failed' Issues in Warframe</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-non-responsive-sound-issues-in-windows-10/"><u>Ultimate Guide: Fixing Non-Responsive Sound Issues in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-black-ops-4-critical-glitches/"><u>Ultimate Guide: Resolving Black Ops 4 Critical Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-are-my-arrow-keys-not-responding-quick-solutions-inside/"><u>Why Are My Arrow Keys Not Responding? Quick Solutions Inside</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-streamers-guide-to-best-free-options-across-every-system/"><u>2024 Approved Ultimate Streamer's Guide to Best Free Options Across Every System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/audio-alchemy-made-accessible-discover-free-transformation-techniques-for-sound/"><u>Audio Alchemy Made Accessible Discover Free Transformation Techniques for Sound</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-your-videos-the-basics-of-stunning-slow-motion-capturing-in-android-for-2024/"><u>Elevate Your Videos The Basics of Stunning Slow Motion Capturing in Android for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-to-prevent-nier-automata-crashes-on-personal-computers/"><u>Essential Fixes to Prevent Nier: Automata Crashes on Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-your-wacom-touchpad-wont-function-correctly/"><u>Expert Solutions for When Your Wacom Touchpad Won’t Function Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-for-service-failed-error-during-logon-on-windows-11-devices/"><u>Fix Guide for 'Service Failed' Error During Logon on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-stuck-or-damaged-scroll-wheel-on-your-logitech-mouse-expert-tips-and-tricks/"><u>Fixing the Stuck or Damaged Scroll Wheel on Your Logitech Mouse - Expert Tips & Tricks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a15-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A15 4G Phones with/without a PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-unveils-revolutionary-vr-language-learning-experience/"><u>Mondly Unveils: Revolutionary VR Language Learning Experience!</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-mastering-audio-recording-on-your-mac-using-el-capitan/"><u>Step-by-Step Guide: Mastering Audio Recording on Your Mac Using El Capitan</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/omprehensive-playbook-for-self-branded-content-creators/"><u>The Comprehensive Playbook for Self-Branded Content Creators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-pc-components-with-guidance-from-toms-computing-site/"><u>Unveiling Cutting-Edge PC Components with Guidance From Tom's Computing Site</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models!
-date: 2025-01-15T16:10:13.331Z
-updated: 2025-01-16T16:26:03.809Z
+date: 2025-01-15T18:48:37.840Z
+updated: 2025-01-22T19:13:04.912Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -78,7 +82,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -99,10 +103,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -110,7 +110,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -122,9 +122,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -134,10 +142,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,24 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-monetized-space-a-buyers-primer/"><u>[New] Mastering the Monetized Space A Buyer's Primer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-become-a-pro-in-calculating-youtube-ratio-measures/"><u>[Updated] In 2024, Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-navigating-the-crossroads-of-full-time-work-and-youtube/"><u>2024 Approved Navigating the Crossroads of Full-Time Work & YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-and-repairing-secure-socket-layer-problems-in-firefox-web-explorer/"><u>Addressing and Repairing Secure Socket Layer Problems in Firefox Web Explorer</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-solving-icue-hardware-detection-issues-effectively/"><u>Expert Advice on Solving ICUE Hardware Detection Issues Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-resolve-nier-automata-game-crashing-issues-on-pc/"><u>Fixes and Solutions: How to Resolve Nier Automata Game Crashing Issues on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-to-improve-your-entire-lifestyle/"><u>How to Use ChatGPT to Improve Your Entire Lifestyle</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-quick-fixes-for-a-glitchy-windows-10-taskbar/"><u>Mastering Quick Fixes for a Glitchy Windows 10 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-inconsistent-gestures-on-your-windows-device/"><u>Mending Inconsistent Gestures on Your Windows Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-overcoming-game-lag-and-crashes-on-path-of-exile-free/"><u>Quick Guide: Overcoming Game Lag and Crashes on Path of Exile (Free)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/redirect-macs-image-backup-to-new-folder/"><u>Redirect Mac's Image Backup to New Folder</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-shockwave-flash-issues-fixed-in-google-chrome/"><u>Resolved: Shockwave Flash Issues Fixed in Google Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-unrecognized-usb-drives-in-minutes/"><u>Solving the Mystery of Unrecognized USB Drives in Minutes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/speedy-closure-solutions-overcoming-windows-11s-lagging-power-down-problems/"><u>Speedy Closure Solutions: Overcoming Windows 11'S Lagging Power Down Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-a-damaged-windows-installation-win1110/"><u>Step-by-Step Guide to Repair a Damaged Windows Installation (Win11/10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-fixing-the-persistent-xerox-update-error-code-0x800f020b-on-pcs-running-windows/"><u>Step-by-Step Solution: Fixing the Persistent Xerox Update Error Code 0X800f020b on PCs Running Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-repair-image-persistence-across-different-screens/"><u>Troubleshoot and Repair Image Persistence Across Different Screens</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-raw-audio-to-polished-masterpiece-editing-with-avidemux-2023-edition/"><u>Updated From Raw Audio to Polished Masterpiece Editing with Avidemux - 2023 Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-navigating-safaris-picture-in-picture-for-mobiledesktop-for-2024/"><u>[New] Navigating Safari’s Picture in Picture for Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-3-effective-methods-to-archive-itunes-videos/"><u>[Updated] 2024 Approved 3 Effective Methods to Archive iTunes Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eatable-zero-price-software-choices-for-online-media-makers-for-2024/"><u>8 Unbeatable Zero-Price Software Choices For Online Media Makers for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728487976131-5/"><u>完成操作系统数据保护：按照5个基本步骤制定系统备份方案</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472825782-airplay-malfunction-heres-how-you-can-get-it-up-and-running-again/"><u>AirPlay Malfunction? Here's How You Can Get It Up and Running Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208786262-chromecast-wont-pair-discover-quick-solutions-for-better-connectivity/"><u>Chromecast Won't Pair? Discover Quick Solutions for Better Connectivity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertisseur-video-gratuit-avifichier-a-fma-sans-frais/"><u>Convertisseur Vidéo Gratuit: Avifichier À Fma Sans Frais</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-repair-nonfunctional-ethernet-setup-in-windows-11-and-7-systems/"><u>Effective Techniques to Repair Nonfunctional Ethernet Setup in Windows 11 & 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-behringers-professional-audio-driver-for-seamless-usb-connectivity/"><u>How to Get Behringer's Professional Audio Driver for Seamless USB Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-technique-efficiently-restarting-your-malfunctioning-keyboard/"><u>Master the Technique: Efficiently Restarting Your Malfunctioning Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-select-proper-boot-device-glitch-on-your-pc-effective-fixes-unveiled/"><u>Overcome 'Select Proper Boot Device' Glitch on Your PC: Effective Fixes Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-error-code-39-issues-in-computer-media-players-tips-and-techniques-for-optical-drive-repair/"><u>Overcoming Error Code 39 Issues in Computer Media Players: Tips and Techniques for Optical Drive Repair</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-misconfigured-elements-in-your-windows-setup/"><u>Step-by-Step Guide: Correcting Misconfigured Elements in Your Windows Setup</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209565149-9781634504775-the-big-dictionary-of-dreams/"><u>The Big Dictionary of Dreams | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-routers-insights/"><u>Top Rated Wireless Routers - Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-broken-usb-connections-in-windows-1011/"><u>Troubleshooting and Fixing Broken USB Connections in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-issues-with-pc-and-bluetooth-keyboard-connection/"><u>Troubleshooting Guide: Solving Issues with PC and Bluetooth Keyboard Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-teredo-tunneling-overcoming-qualification-challenges/"><u>Troubleshooting Teredo Tunneling – Overcoming Qualification Challenges</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-websites-to-add-emojis-to-photos-online/"><u>Updated In 2024, Best Websites to Add Emojis to Photos Online</u></a></li>
 </ul></div>
 

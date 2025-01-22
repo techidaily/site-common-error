@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue
-date: 2025-01-14T16:22:29.975Z
-updated: 2025-01-16T16:14:54.509Z
+date: 2025-01-16T21:29:16.263Z
+updated: 2025-01-22T16:45:40.674Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ A lot Windows 10 users reported that system restore did not complete successfull
 
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
 
 1)  
@@ -43,6 +39,10 @@ Then type **msconfig** in the box and hit **Enter**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 On the pop-up window, view on **Boot** pane.  
 Then tick on **Safe boot**and click **OK**.  
@@ -50,6 +50,10 @@ Click **Restart**, if prompted by system configuration
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then your Windows 10 would get into safe mode.  
   
@@ -63,7 +67,7 @@ When prompted by User Account Control, click   **Yes.**
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3)  
@@ -89,7 +93,7 @@ When it finish rebooting, run System Restore again.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -113,7 +117,7 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 c)  
@@ -121,10 +125,6 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2)  
 
@@ -156,20 +156,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-download-unlimited-mcb-visual-elements/"><u>[New] 2024 Approved Download Unlimited MCB Visual Elements</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-maximizing-impact-strategies-for-overcoming-video-short-snags/"><u>[New] In 2024, Maximizing Impact Strategies for Overcoming Video Short Snags</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-right-way-to-pick-spiritual-phone-tunes/"><u>[New] In 2024, The Right Way to Pick Spiritual Phone Tunes</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206482260-geforce-experience-setup-glitch-solved-retrieve-your-custom-configurations-now/"><u>GeForce Experience Setup Glitch Solved - Retrieve Your Custom Configurations Now!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Civi 3 Disney 100th Anniversary Edition without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech-in-2024/"><u>Navigating Your Way Through VR Headset Selection Is the Mobile Experience More Attractive Than Tethered Tech, In 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-new-world-overcomes-previous-easy-anti-cheat-issues/"><u>Resolved: 'New World' Overcomes Previous Easy Anti-Cheat Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-paste-functionality-in-common-web-browsers/"><u>Restoring Paste Functionality in Common Web Browsers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206650968-sd-invisible-no-more-find-the-answer-here/"><u>SD Invisible No More, Find the Answer Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-win32-app-crash-code-0x00000005/"><u>Step-by-Step Guide: Resolving the Win32 App Crash - Code 0X00000005</u></a></li>
-<li><a href="https://common-error.techidaily.com/success-story-restoring-communication-with-a-non-responsive-dhcp-server/"><u>Success Story: Restoring Communication With a Non-Responsive DHCP Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successful-creation-of-d3d-device-after-failure/"><u>Troubleshooting Guide: Successful Creation of D3D Device After Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-high-wudfhostexe-process-load-in-windows-10-systems/"><u>Troubleshooting High WUDFHost.exe Process Load in Windows 10 Systems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/ultra-portable-moko-collapsible-wireless-keyboard/"><u>Ultra-Portable MoKo Collapsible Wireless Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-common-dll-errors-fix-and-prevention-tips/"><u>Winning Against Windows Common Dll Errors: Fix and Prevention Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google/"><u>[New] 2024 Approved Perfect Planning How to Schedule Your Online Team's Virtual Gatherings (Google)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uilding-a-strong-foundation-for-advertising-deals-using-famebit-methods-for-2024/"><u>[New] Building a Strong Foundation for Advertising Deals Using FameBit Methods for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-hearing-beginnings-mastering-volume-control-in-adobe-audition-for-2024/"><u>[New] Hearing Beginnings Mastering Volume Control in Adobe Audition for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-personal-content-management-building-a-structured-watch-later-list/"><u>[New] Mastering Personal Content Management Building a Structured 'Watch Later' List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploration-comparison-gopros-hero5-black-and-sessions/"><u>2024 Approved Exploration Comparison GoPro's Hero5 Black & Sessions</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/"><u>Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-dealing-with-the-easy-anti-cheat-glitch-in-apex-legends/"><u>Effortless Solutions for Dealing with the Easy Anti-Cheat Glitch in Apex Legends</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10c-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10C without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-d3derrnotavailable-troubleshooting-steps-inside/"><u>How to Overcome 'D3DERR_NOTAVAILABLE': Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-initial-load-problems-eliminating-the-pitch-black-display-during-launch-of-mhw/"><u>How to Overcome Initial Load Problems: Eliminating the Pitch Black Display During Launch of MHW</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-economics-a-detailed-blueprint-for-profit-for-2024/"><u>Instagram Economics A Detailed Blueprint for Profit for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2024-lineup-of-great-family-flicks-to-enjoy-on-amazon-prime-video/"><u>July 2024 Lineup of Great Family Flicks to Enjoy on Amazon Prime Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-to-keep-your-computer-awake-and-alert/"><u>Quick Troubleshooting Guide to Keep Your Computer Awake and Alert</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recognizing-indicators-of-hardware-issues-a-guide-by-yl-computing-and-software-solutions/"><u>Recognizing Indicators of Hardware Issues: A Guide by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-critical-issues-in-call-of-duty-black-ops-4/"><u>Resolving Critical Issues in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/shift-key-malfunction-diagnosis-and-effective-remedies-fixed/"><u>Shift Key Malfunction: Diagnosis and Effective Remedies [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-ultimate-guide-to-troubleshoot-windows-11-bluetooth-connection-issues/"><u>Solving the Mystery: Ultimate Guide to Troubleshoot Windows 11 Bluetooth Connection Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-your-windows-computers-non-functional-built-in-camera/"><u>Troubleshooting Steps: Resolving Your Windows Computer's Non-Functional Built-In Camera</u></a></li>
 </ul></div>
 

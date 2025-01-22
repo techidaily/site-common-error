@@ -1,7 +1,7 @@
 ---
 title: "Successfully Remedied: Stuck and Unresponsive Toshiba Keyboard Keys"
-date: 2025-01-09T16:23:25.536Z
-updated: 2025-01-16T16:21:25.355Z
+date: 2025-01-16T19:22:45.295Z
+updated: 2025-01-22T18:45:03.763Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04f
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,9 +47,17 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -71,23 +79,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -106,10 +110,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -142,13 +142,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,24 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-the-quintessential-editing-advantages-of-filmora/"><u>[New] The Quintessential Editing Advantages of Filmora</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-a-fresh-take-on-viewing-the-new-lg-bp550-review-for-2024/"><u>[Updated] A Fresh Take on Viewing The New LG BP550 Review for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-impressive-grids-the-top-apps/"><u>[Updated] Crafting Impressive Grids - The Top Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-harnessing-instagrams-potential-with-video-posts-for-2024/"><u>[Updated] Harnessing Instagram's Potential with Video Posts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-cameras-for-vlogging/"><u>[Updated] In 2024, Best Cameras for Vlogging</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-fix-no-sound-driver-installed-problem-in-windows-11/"><u>Comprehensive Solutions to Fix ‘No Sound Driver Installed’ Problem in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-for-free-gigabytes-high-quality-sound-driver/"><u>Download for Free: Gigabyte's High-Quality Sound Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204929300-easy-guide-stop-that-constant-cursor-fix-blink-issue-now/"><u>Easy Guide: Stop That Constant Cursor - Fix Blink Issue Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-can-cause-ftdi-memory-verification-failure/"><u>How Incompatible Drivers Can Cause FTDI Memory Verification Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211732304-how-to-resolve-issues-with-computer-not-powering-off-in-windows-11-fixed/"><u>How to Resolve Issues with Computer Not Powering Off in Windows 11 – FIXED</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-oddworld-soulstorms-startup-problems-on-a-personal-laptop-solution-included/"><u>How To Resolve Oddworld: Soulstorm's Startup Problems On A Personal Laptop (Solution Included)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-smart-8-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Smart 8 Pro Without PUK Codes</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-windows-10-cant-be-installed-error-code-abo)80240020-issue-solved/"><u>Overcoming the 'Windows 10 Can't Be Installed (Error Code Abo>80240020)' Issue - Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-7-boot-delays-improve-system-performance-now/"><u>Quick Fixes for Windows 7 Boot Delays – Improve System Performance Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-download-guide-essential-hp-drivers-compatible-with-windows-10/"><u>Quick-Download Guide: Essential HP Drivers Compatible with Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-guide-to-repairing-windows-update-error-0x80244n2c-proven-solutions-applied/"><u>The Definitive Guide to Repairing Windows Update Error 0X80244n2c - Proven Solutions Applied</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-user-configuration-options-easily/"><u>Troubleshooting Unresponsive User Configuration Options Easily</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/want-to-know-if-chatgpt-is-active-explore-these-amoebas-for-a-quick-status-update/"><u>Want to Know if ChatGPT Is Active? Explore These Amoebas for a Quick Status Update</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-nokia-c300-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Nokia C300 Phones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-screen-capture-in-linux-with-these-tools/"><u>[New] Mastering Screen Capture in Linux with These Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fundamental-principles-of-powerful-video-product-endorsements-for-2024/"><u>[Updated] Fundamental Principles of Powerful Video Product Endorsements for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ejecucion-perfecta-de-instalaciones-de-libdvdcss-junto-con-handbrake-para-clonar-dvds-en-los-sistemas-macwindows-10/"><u>Ejecución Perfecta De Instalaciones De Libdvdcss Junto Con HandBrake Para Clonar DVDs en Los Sistemas Mac/Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-error-ultimate-troubleshooting-guide/"><u>Fixing the Red Screen Error: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-phantom-mouse-cursor-problem/"><u>Fixing Windows 11'S Phantom Mouse Cursor Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-non-functional-surface-pro-4-digital-pen-fixed/"><u>How to Repair Non-Functional Surface Pro 4 Digital Pen [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-failure-to-detect-wd-my-passport-ultra-drive/"><u>How to Resolve Windows Failure to Detect WD My Passport Ultra Drive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-up-your-game-advanced-video-trimming-techniques-in-windows-11/"><u>In 2024, Step Up Your Game Advanced Video Trimming Techniques in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-poco-c55-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Poco C55 Phone Hassle-Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-poco-x6-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Poco X6 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-mixing-the-advantages-of-using-dj-equipment-dex-3-with-pioneer-cdjs/"><u>Mastering Mixing: The Advantages of Using DJ Equipment Dex 3 With Pioneer CDJs</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-poor-communication-between-epson-printer-and-scanner/"><u>Navigating Poor Communication Between Epson Printer and Scanner</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-pcie-fe-family-controller-drivers-for-windows-10-free-download/"><u>Realtek PCIe FE Family Controller Drivers for Windows 10 Free Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-windows-presscreen-five-step-by-step-solutions-for-windows-10-users/"><u>Reviving Your Windows Presscreen: Five Step-by-Step Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722991384504-starcraft-2-pc-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Starcraft 2 PC Stability Issues Resolved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://common-error.techidaily.com/stopping-windows-overzealous-cpu-consumption/"><u>Stopping Window's Overzealous CPU Consumption</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-announcement-new-world-clears-the-way-past-previous-anti-cheat-glitches/"><u>Update Announcement: New World Clears the Way Past Previous Anti-Cheat Glitches</u></a></li>
 </ul></div>
 

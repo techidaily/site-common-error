@@ -1,7 +1,7 @@
 ---
 title: Bypass RDR2's Memory Hurdle - Easy Tweaks to Upgrade Your Pagefile and Keep Playing
-date: 2025-01-14T16:35:02.927Z
-updated: 2025-01-16T16:30:26.868Z
+date: 2025-01-19T16:30:18.811Z
+updated: 2025-01-22T19:49:08.713Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 If this didn’t work for you, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows Update troubleshooter
@@ -64,28 +68,24 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-43-38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Select **Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-43-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Windows Update,** and then click **Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-43-55.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Wait for the troubleshooter to detect your problem, and then follow the on-screen instructions to fix it automatically.
 
  If your computer fails to detect the problem, don’t worry! There are still 2 more fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Clear the Windows Update cache
@@ -104,10 +104,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-46-02-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Stop** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-46-54.jpg)
@@ -115,6 +111,10 @@ Here is how to do it:
 **5)** On your keyboard, press the**Windows logo** key and**R** at the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Type**%windir%\\SoftwareDistribution** and click**OK** .
 
@@ -124,19 +124,11 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-24.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Right-click**the highlighted folders,** and then click**Delete** .
 
  If you’re prompted for permissions, select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-34.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **9)** On your keyboard, press the**Windows logo** key and**R** .
 
@@ -146,9 +138,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-44-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **11)** Right-click**Windows Update** and select**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-673.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **12)** Restart your computer and perform a system update to see if your problem has been resolved.
 
@@ -163,7 +163,7 @@ If not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-50-59.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run Command Prompt as administrator.
@@ -176,13 +176,13 @@ If not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-51-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-51-23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
@@ -210,22 +210,17 @@ If not, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-pathway-to-popularity-on-instagram-from-zero-to-a-thousand-in-30-days/"><u>[New] 2024 Approved The Pathway to Popularity on Instagram From Zero to a Thousand in 30 Days</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-balancing-primary-and-b-footage-for-dynamic-video-production/"><u>[New] Balancing Primary & B-Footage for Dynamic Video Production</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-core-dll-not-present-on-windows-pc/"><u>[Resolved] Core DLL Not Present on Windows PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-androids-compendium-for-synchronized-and-curved-videography/"><u>[Updated] Android's Compendium for Synchronized & Curved Videography</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-quick-turn-artistry-professionally-crafted-valorant-game-imagery/"><u>[Updated] In 2024, Quick-Turn Artistry Professionally Crafted Valorant Game Imagery</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-perfect-purity-extract-background-from-your-photos-at-home/"><u>[Updated] Perfect Purity Extract Background From Your Photos at Home</u></a></li>
-<li><a href="https://common-error.techidaily.com/boost-your-pcs-boot-speed-essential-fixes-for-windows-7-delays/"><u>Boost Your PC's Boot Speed: Essential Fixes for Windows 7 Delays</u></a></li>
-<li><a href="https://common-error.techidaily.com/dll-concern-msvcr120-not-present-in-win/"><u>DLL Concern: MSVCR120 Not Present in Win</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-troubleshooting-for-persistent-0x800705b4-windows-11-update-failures/"><u>Expert Troubleshooting for Persistent 0X800705b4 Windows 11 Update Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-your-pcs-disabled-function-keys-easily/"><u>How to Reactivate Your PC's Disabled Function Keys Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-t2x-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo T2x 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/ps4-over-amplified-sounds-causes-fixes-and-prevention-techniques/"><u>PS4 Over-Amplified Sounds: Causes, Fixes, and Prevention Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-audio-equipment-of-2024/"><u>Top Rated Gaming Audio Equipment of 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tp-link-wifi-adapter-drivers-updated-downloads-for-windows-11-8-and-7/"><u>TP-Link WiFi Adapter Drivers: Updated Downloads for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-steam-network-connection-issues/"><u>Troubleshooting Guide: Resolving Steam Network Connection Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-creativity-final-cut-pros-top-10-plug-ins-for-2024/"><u>Unleash Creativity Final Cut Pro’s Top 10 Plug-Ins for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-computers-built-in-security-not-responding-fix-windows-smartscreen-gaps/"><u>Why Is My Computer's Built-In Security Not Responding? Fix Windows SmartScreen Gaps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-essential-guide-to-crafting-dynamic-snaps-for-2024/"><u>[New] The Essential Guide to Crafting Dynamic Snaps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-deciphering-cosmic-constructs-metaverse-vs-multiverse/"><u>[Updated] 2024 Approved Deciphering Cosmic Constructs Metaverse vs Multiverse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-escapes-how-to-choose-between-rift-vive-ps-vr/"><u>2024 Approved Immersive Escapes How to Choose Between Rift, Vive, PS VR?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-poco-x6-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/cutting-edge-tips-for-outshining-others-in-facebooks-social-space/"><u>Cutting-Edge Tips for Outshining Others in Facebook's Social Space</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-why-windows-cant-search-for-system-updates/"><u>Diagnosing and Repairing: Why Windows Can't Search for System Updates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-meizu-21-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Meizu 21</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-11s-persistent-update-error-code-0x8024401c-troubleshooting-guide/"><u>How to Overcome Windows 11'S Persistent Update Error: Code 0X8024401C Troubleshooting Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Reno 10 5G FRP?</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/les-deux-facons-defendantes-de-sassurer-la-securite-de-votre-windows-10-avec-un-disque-nas-qnap/"><u>Les Deux Façons Défendantes De S'Assurer La Sécurité De Votre Windows 10 Avec Un Disque NAS QNAP</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-display-issues-fixing-hdcp-unsupported-devices/"><u>Overcoming Display Issues: Fixing HDCP Unsupported Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-sound-control-problems-solved-quick-fixes-for-dead-volume-buttons/"><u>Windows 11 Sound Control Problems Solved: Quick Fixes for Dead Volume Buttons</u></a></li>
 </ul></div>
 

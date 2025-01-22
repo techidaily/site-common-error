@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixes for a Non-Responsive Razer Keyboard"
-date: 2025-01-13T16:10:03.195Z
-updated: 2025-01-16T16:24:17.338Z
+date: 2025-01-19T19:05:16.325Z
+updated: 2025-01-22T18:33:45.143Z
 tags:
   - win11
   - win10
@@ -32,15 +32,15 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Restart your computer
 
  Restarting computer could resolve many hardware issues instantly. So it’s recommended you try this simple fix first before moving on.
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update the driver
 
@@ -64,32 +64,24 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  4) Restart your laptop, and check to see if your keyboard works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Press the problem keys diagonally
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -101,16 +93,24 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Click **System Restore** .
@@ -155,22 +155,24 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ips-for-seamlessly-adding-youtube-to-your-gslides-deck/"><u>[New] Tips for Seamlessly Adding YouTube to Your GSlides Deck</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-pubg-cannot-find-dxgidll-error/"><u>[Solved] PUBG Cannot Find dxgi.dll Error</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elite-arena-showdown-best-of-the-royales-for-2024/"><u>[Updated] Elite Arena Showdown Best of the Royales for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-newcomer-to-notable-nominee-nudging-numbers-naturally-for-2024/"><u>[Updated] From Newcomer to Notable Nominee Nudging Numbers Naturally for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-green-screen-shooting-made-simple/"><u>2024 Approved Mastering Green Screen Shooting Made Simple</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-broken-volume-controls-in-windows-10-solved/"><u>Effective Fixes for Broken Volume Controls in Windows 10 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-correct-user-profile-service-failure-on-windows-11-machines/"><u>Effective Solutions to Correct 'User Profile Service' Failure on Windows 11 Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/evaluating-video-codecs-making-an-informed-decision-on-windows/"><u>Evaluating Video Codecs: Making an Informed Decision on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-critical-imaging-errors-in-your-windows-11-or-10-pc/"><u>How to Overcome Critical Imaging Errors in Your Windows 11 or 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-a-stuck-windows-10-update-process-expert-tips-and-tricks/"><u>How to Resolve a Stuck Windows 10 Update Process – Expert Tips & Tricks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-13-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 13 online without SIM Card?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-synchronized-screenscape-tv-loops-of-online-media/"><u>In 2024, Synchronized Screenscape TV Loops of Online Media</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-youtube-audio-issues-on-windows-11-a-comprehensive-guide/"><u>Resolve YouTube Audio Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-experts-pathway-transforming-sdr-footage-into-hdri-for-2024/"><u>The Expert's Pathway Transforming SDR Footage Into HDRI for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-get-the-latest-sata-storage-device-drivers-on-your-pc-with-windows-os/"><u>The Ultimate Walkthrough to Get the Latest SATA Storage Device Drivers on Your PC with Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-successfully-loading-sites-in-safari-when-problems-arise/"><u>Troubleshooting Guide: Successfully Loading Sites in Safari When Problems Arise</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-the-issue-when-windows-key-plus-shift-plus-s-is-unresponsive-on-windows-11-or-10/"><u>Troubleshooting Steps: Fixing the Issue When Windows Key + Shift + S Is Unresponsive on Windows 11 or 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveil-image-by-removing-surroundings/"><u>[New] 2024 Approved Unveil Image by Removing Surroundings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-perfect-your-subtitle-skills-with-this-complete-guide-and-tips/"><u>[New] Perfect Your Subtitle Skills with This Complete Guide & Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-newbies-guide-to-av1-codec-for-2024/"><u>[New] The Newbie's Guide to AV1 Codec for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-the-path-starting-with-your-youtube-identity/"><u>[New] Unveiling the Path Starting with Your YouTube Identity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-capturing-landscapes-with-mi-drone-4k-analysis/"><u>[Updated] 2024 Approved Capturing Landscapes with MI Drone 4K Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-pathways-to-promoting-in-vr-lands/"><u>[Updated] Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://common-error.techidaily.com/compatibility-issue-detected-monitor-ignores-active-signal-frequency/"><u>Compatibility Issue Detected - Monitor Ignores Active Signal Frequency</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-diagnosing-and-repairing-frozen-movements-in-your-laptop-mouse/"><u>Comprehensive Guide to Diagnosing & Repairing Frozen Movements in Your Laptop Mouse</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95806971-9781944529321-consciousness-and-extraordinary-phenomena/"><u>Consciousness and Extraordinary Phenomena | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/gameplay-might-force-a-shutdown/"><u>Gameplay Might Force a Shutdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/halo-4-in-unreal-engine-4-fixing-the-persistent-crash-bug-of-2024/"><u>Halo 4 in Unreal Engine 4: Fixing the Persistent Crash Bug of 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-to-restore-bluetooth-functionality-on-windows-10/"><u>Quick Guide to Restore Bluetooth Functionality on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-dead-laptop-battery-fast-and-effortlessly/"><u>Revive Your Dead Laptop Battery Fast & Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-image-troubles-in-windows-11-and-windows-10-environments/"><u>Step-by-Step Solutions to Overcome Image Troubles in Windows 11 and Windows 10 Environments</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-to-youtube-copyright/"><u>The Ultimate Guide to YouTube Copyright</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-functional-wacom-pen-in-windows-11-and-10/"><u>Troubleshooting Guide: Fixing a Non-Functional Wacom Pen in Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/unmute-netflix-effortless-fixes-to-bring-back-sound/"><u>Unmute Netflix: Effortless Fixes to Bring Back Sound</u></a></li>
 </ul></div>
 

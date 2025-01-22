@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Turned Off Computers: Diagnosis and Repair Techniques"
-date: 2024-09-04T20:19:02.889Z
-updated: 2024-09-05T20:19:02.889Z
+date: 2025-01-15T17:12:41.382Z
+updated: 2025-01-22T19:55:34.009Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  Your keyboard keeps typing wrong letters? This is extremely annoying and you’re certainly not the only one who faces it. Many Windows users are reporting this issue. But the good news is that you can fix it. Here are 6 fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 4. **[Update your keyboard driver](#d)**
 5. **[Check for Windows updates](#e)**
 6. **[Reconnect your keyboard to your computer](#f)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable Num Lock
 
@@ -42,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  Hope your keyboard is back to normal now. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Switch between your keyboard layouts
 
  If you have more than one keyboard layout installed on your computer, chances are you have inadvertently changed your keyboard layout. But don’t worry, you can fix it. Follow the instructions below:
@@ -55,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 **1)** Click the language button on the taskbar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-230.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Switch to another input language and then switch back. (In my case, I’ll change the input language to German, then change it back to English.)
 
@@ -73,22 +79,14 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Keyboard** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Wait for Windows to find and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. There are still 3 more fixes to try.
@@ -144,31 +142,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Restart your computer after the update is complete. Then, check if your keyboard is able to function properly.
 
 If your problem persists, check the fix 6, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reconnect your keyboard to your PC
 
  If none of the fixes above worked, reinstalling your keyboard is very likely the solution to your issue. Here is how to do it:
@@ -217,8 +205,6 @@ If your problem persists, check the fix 6, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +212,22 @@ If your problem persists, check the fix 6, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-immersive-sound-listening-on-the-go-with-iphone-for-2024/"><u>[New] Immersive Sound Listening on the Go With iPhone for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits/"><u>[Updated] Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-comprehensive-overview-of-cost-free-livestream-apps-and-solutions-for-everyone/"><u>[Updated] In 2024, Comprehensive Overview of Cost-Free Livestream Apps & Solutions for Everyone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-and-quirky-make-memes-with-kapwing-app/"><u>2024 Approved Quick & Quirky Make Memes with Kapwing App</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-continuous-usb-port-malfunctions/"><u>Diagnosing and Repairing Continuous USB Port Malfunctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-future-of-vision-best-smart-goggles-on-the-market/"><u>Exploring the Future of Vision: Best Smart Goggles on the Market</u></a></li>
+<li><a href="https://common-error.techidaily.com/fortnite-unsupported-graphics-card-in-windows-fixed/"><u>Fortnite Unsupported Graphics Card in Windows [Fixed]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-successful-steps-to-run-windows-11-on-non-compatible-processors/"><u>Guide: Successful Steps to Run Windows 11 on Non-Compatible Processors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138591020-9781449731021-past-imperfect/"><u>Past Imperfect | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefine-where-you-play-change-switch-region/"><u>Redefine Where You Play: Change Switch Region</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-windows-10-bluetooth-connectivity-problems-fast-and-simple/"><u>Resolve Windows 10 Bluetooth Connectivity Problems Fast and Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-problem-with-non-illuminated-keys-on-a-razor-board/"><u>Solved! The Problem with Non-Illuminated Keys on a Razor Board</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-reducing-playstation-4-fan-noise-why-it-happens-and-solutions/"><u>The Ultimate Guide to Reducing PlayStation 4 Fan Noise – Why It Happens & Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/webinar-recording-tactics-zero-price-strategy-for-2024/"><u>Webinar Recording Tactics Zero Price Strategy for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/white-screen-of-death-heres-what-you-need-to-know-about-laptop-repairs/"><u>White Screen of Death? Here's What You Need to Know About Laptop Repairs!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Solve the Problem of Non-Functional FN Keys on Laptop/PC
-date: 2025-01-10T16:19:12.897Z
-updated: 2025-01-16T16:04:57.857Z
+date: 2025-01-18T19:44:05.842Z
+updated: 2025-01-22T20:50:07.062Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -30,6 +34,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -41,16 +49,12 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -74,12 +78,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
@@ -96,7 +100,7 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
@@ -105,10 +109,6 @@ To do so:
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
@@ -150,18 +150,22 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/2024-tips-how-to-fix-bluetooth-not-pairing-on-windows-10/"><u>[2024 Tips] How to Fix Bluetooth Not Pairing on Windows 10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-integrating-tiktok-content-with-facebook/"><u>[New] In 2024, Integrating TikTok Content with Facebook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-revolutionizing-video-views-conquering-youtube-millions/"><u>[New] In 2024, Revolutionizing Video Views, Conquering YouTube Millions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-turning-dull-vids-into-engaging-experienents-with-music-for-2024/"><u>[New] Turning Dull Vids Into Engaging Experienents With Music for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-ultimate-converter-mp4-videos-to-facebook/"><u>[New] Ultimate Converter MP4 Videos to Facebook</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-weave-webcomic-wonders-with-giphy-for-2024/"><u>[New] Weave Webcomic Wonders with Giphy for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-prime-attraction-for-cyber-threats/"><u>ChatGPT: A Prime Attraction for Cyber Threats?</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-non-compatible-user-interface-messages-on-your-monitor/"><u>Dealing with Non-Compatible User Interface Messages on Your Monitor</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-windows-press-11s-startup-freeze-a-comprehensive-guide/"><u>Diagnosing and Resolving Windows Press 11'S Startup Freeze: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g13-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resetting-keyboards-made-simple-an-ultimate-tutorial/"><u>Resetting Keyboards Made Simple: An Ultimate Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-excessive-cpu-usage-by-windows-audio-device-graph/"><u>Solving the Problem of Excessive CPU Usage by Windows Audio Device Graph</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-trick-for-bringing-back-disappeared-desktop-icons-in-windows-11/"><u>The Ultimate Trick for Bringing Back Disappeared Desktop Icons in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-top-insights-on-maximizing-business-engagement-on-insta/"><u>[New] 2024 Approved Top Insights on Maximizing Business Engagement on Insta</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-from-capture-to-share-reviewing-the-newest-sprout-version/"><u>[New] In 2024, From Capture to Share Reviewing the Newest Sprout Version</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamline-caption-insertion-photos-app-tutorials-for-win-11-for-2024/"><u>[New] Streamline Caption Insertion Photos App Tutorials for WIN 11 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-expert-tricks-instant-clearance-of-ssgnature-backdrops/"><u>[Updated] In 2024, Expert Tricks Instant Clearance of Ssgnature Backdrops</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-profit-potential-earning-from-your-youtube-mobile-subscribers-for-2024/"><u>[Updated] Profit Potential Earning From Your YouTube Mobile Subscribers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/acquiring-trustedinstaller-consent-to-change-system-files/"><u>Acquiring TrustedInstaller Consent to Change System Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-your-desktops-snooze-mode-troubleshoot-and-prevent-involuntary-shutdowns/"><u>Combat Your Desktop's Snooze Mode: Troubleshoot and Prevent Involuntary Shutdowns</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-windows-printer-driver-recognition-issues-successfully/"><u>Guide to Overcome Windows Printer Driver Recognition Issues Successfully</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-cutting-edge-review-superior-text-plugins-for-adobe-ae/"><u>In 2024, Cutting-Edge Review Superior Text Plugins for Adobe AE</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-magic5-ultimate-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Magic5 Ultimate Lock Screen Password</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-module-not-found-issues-in-development-projects/"><u>Overcoming 'Module Not Found' Issues in Development Projects</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-call-of-duty-wwii-error-4220-easy-solutions-and-troubleshooting-steps/"><u>Overcoming Call of Duty: WWII Error 4220 – Easy Solutions & Troubleshooting Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snag-your-new-ipad-at-the-unbeatable-price-of-199-exclusive-offer-from-amazons-labor-day-blowout-event-discover-how/"><u>Snag Your New iPad at the Unbeatable Price of $199 - Exclusive Offer From Amazon’s Labor Day Blowout Event – Discover How</u></a></li>
+<li><a href="https://common-error.techidaily.com/support-locked-blizzard-disconnected/"><u>Support Locked: Blizzard Disconnected</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-black-screen-conundrum-now-solved-with-these-effective-strategies/"><u>The Black Screen Conundrum - Now Solved with These Effective Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-non-functional-cameras-in-microsofts-latest-os/"><u>Troubleshooting Steps for Non-Functional Cameras in Microsoft's Latest OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/your-video-card-does-not-support-alpha-blending-fixed/"><u>Your Video Card Does Not Support Alpha Blending [FIXED]</u></a></li>
 </ul></div>
 

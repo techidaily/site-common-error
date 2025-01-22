@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Microphone Woes? A Step-by-Step Guide to Audio Fixes
-date: 2025-01-10T16:17:28.698Z
-updated: 2025-01-16T16:15:43.638Z
+date: 2025-01-19T21:00:16.421Z
+updated: 2025-01-22T16:13:48.372Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -41,10 +45,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -52,6 +52,10 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -70,16 +74,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -91,16 +99,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -109,13 +109,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -150,18 +150,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-digital-personas-made-simple-a-guide-for-the-curious-vr-explorer/"><u>[Updated] 2024 Approved Digital Personas Made Simple A Guide for the Curious VR Explorer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-dynamic-duo-wearable-and-mac-harmony/"><u>2024 Approved Dynamic Duo Wearable & Mac Harmony</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-ensure-seamless-pubg-gameplay-a-must-read-launch-optimization-guide/"><u>How to Ensure Seamless PUBG Gameplay: A Must-Read Launch Optimization Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-hanging-on-100-completion/"><u>How to Fix Windows Update Hanging on 100% Completion</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-persistent-0x800705b4-error-in-your-windows-10-update-process/"><u>How to Successfully Overcome the Persistent 0X800705b4 Error in Your Windows 10 Update Process</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-premier-media-transformer-mp4-)-fb/"><u>In 2024, Premier Media Transformer MP4 -> FB</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/live-stream-excellence-which-software-leads-the-pack-in-2024-vmix-or-wirecast/"><u>Live Stream Excellence Which Software Leads the Pack, In 2024 VMix or Wirecast?</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-network-modification-alerts-with-simple-repair-steps/"><u>Overcome Network Modification Alerts with Simple Repair Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-high-utilization-of-ntoskrnlexe-in-windows/"><u>Tackling High Utilization of ntoskrnl.exe in Windows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/turning-hobby-into-habit-making-money-with-vlogs/"><u>Turning Hobby Into Habit Making Money with Vlogs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-v1607-troubleshooting-feature-update-installation-failures/"><u>Windows 11 v1607: Troubleshooting Feature Update Installation Failures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhance-editing-unlimited-free-audio-samples-for-2024/"><u>[New] Enhance Editing Unlimited Free Audio Samples for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-stepping-into-filmmaking-learning-the-basics-of-key-shots/"><u>[Updated] Stepping Into Filmmaking Learning the Basics of Key Shots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-outsmarting-the-obtrusive-fb-video-ads/"><u>2024 Approved Outsmarting the Obtrusive FB Video Ads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-v29-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo V29 to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphones-unveiling-the-enhanced-features-of-the-iphone-15-pro-over-its-predecessor-the-iphone-14-pro/"><u>Comparing iPhones: Unveiling the Enhanced Features of the iPhone 15 Pro Over Its Predecessor, the iPhone ^[14 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-for-the-persistent-0x80070490-error-on-windows-update/"><u>Comprehensive Troubleshooting for the Persistent 0X80070490 Error on Windows Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-the-frustration-of-a-dead-usb-mouse-in-windows-and-macos-with-easy-fixes/"><u>Defeat the Frustration of a Dead USB Mouse in Windows and MacOS with Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-non-recognition-of-logitech-peripherals-on-a-windows-10-pc/"><u>Expert Tips for Resolving Non-Recognition of Logitech Peripherals on a Windows 10 PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209780342-9781950253012-how-to-meditate-like-a-buddhist/"><u>How to Meditate Like a Buddhist | Free Book</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/livekernelevent-bug-fix-overcoming-error-144-challenges/"><u>LiveKernelEvent Bug Fix: Overcoming Error 144 Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/problem-solved-troubleshooting-techniques-for-when-windows-wont-install/"><u>Problem Solved: Troubleshooting Techniques for When Windows Won't Install</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-driver-downloads-for-the-acer-predator-xb271h-ultra-gaming-screen/"><u>Quick Driver Downloads for the Acer Predator XB271H Ultra Gaming Screen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-how-to-remove-music-tracks-from-your-ipod-touch-nano-shuffle-classic/"><u>Quick Fixes: How To Remove Music Tracks From Your iPod (Touch, Nano, Shuffle, Classic)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-errcachemiss-issue-on-google-chrome/"><u>Resolving the 'ERR_CACHE_MISS' Issue on Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-laptop-trackpad-step-by-step-solutions-for-windows-1187-users/"><u>Reviving Your Laptop Trackpad: Step-by-Step Solutions for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/spectral-silence-monitor-quandary/"><u>Spectral Silence: Monitor Quandary</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-the-problem-usb-connectivity-with-hdmi-devices/"><u>Understanding and Solving the Problem: USB Connectivity with HDMI Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-online-video-rotators-for-rotating-videos-winmac-for-2024/"><u>Updated Best Online Video Rotators for Rotating Videos Win/Mac for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Unsupported Input Errors Detected by Display Device"
-date: 2024-12-31T23:44:29.440Z
-updated: 2025-01-03T18:31:46.809Z
+date: 2025-01-21T20:11:10.300Z
+updated: 2025-01-22T16:22:59.754Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why does the error occur to my monitor?
 
@@ -64,16 +60,8 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94623c6595.jpg)
 2. Scroll down and find the**Scale and layout** section, then choose the**recommended resolution** for your display. If you’re on Windows 11, it’ll be**Display resolution** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946559c00e.jpg)
 3. If you see a popup to confirm the change, click Keep changes to confirm.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94693c702d.jpg)
 4. Then click**Advanced display settings** .  
@@ -82,7 +70,7 @@ Here’s what you can do:
 5. Under the monitor name that is having the Input Not Supported error, click**Display adapter properties for Display** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9472de63ac.jpg)
@@ -91,15 +79,15 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94769aa3f3.jpg)
 7. Save the changes and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re using Windows 8 and Windows 7:
 
 1. Right click on any**empty area** on your desktop, and select**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f17a6508.jpg)
 2. If you have multiple displays, select the display that is having the error. Then choose the**recommended resolution** , and click**Apply** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f74c12c9.jpg)  
  If your current screen resolution is not proper, you’ll see a notification like this:  
@@ -107,17 +95,25 @@ If you’re using Windows 8 and Windows 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fc52735d.jpg)
 3. On the same pane, click**Advanced** **settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fec42db3.jpg)
 4. Click the**Monitor** tab, then choose the**recommended or default refresh rate setting** in the**Screen refresh rate** section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd945d0dd649.jpg)
 5. Save the changes and restart your computer.
 
-You should fix the error and boot your computer as normal.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+You should fix the error and boot your computer as normal.
 
 ### Fix 3: Update your monitor driver and graphics card driver
 
@@ -139,6 +135,10 @@ You should fix the error and boot your computer as normal.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9478ba7d6a.jpg)
 3. Click the**Update** button next to the flagged monitor and graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd947aa82f4c.jpg)
@@ -164,22 +164,19 @@ You should fix the error and boot your computer as normal.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-90s-chuckles-dissecting-the-vhs-of-the-goofies-for-2024/"><u>[New] '90S Chuckles Dissecting the VHS of The Goofies for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-efficient-recording-methods-for-skype-calls-using-obs/"><u>[New] In 2024, Efficient Recording Methods for Skype Calls Using OBS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-video-creator-hub/"><u>[New] In 2024, Video Creator Hub</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essence-of-earnings-a-3-step-expedient-to-measure-your-youtube-profitability-for-2024/"><u>[Updated] The Essence of Earnings A 3-Step Expedient to Measure Your YouTube Profitability for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-throughput-your-videos-8-top-android-apps/"><u>[Updated] Throughput Your Videos 8 Top Android Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-hassles-simple-repair-techniques-for-winodws-error-ebd-c0fe3897-b4f0-4aa5-a8e1-2dd5d3cbcefa/"><u>Bypassing the Hassles: Simple Repair Techniques for Winodws Error Ebd-C0fe3897-B4f0-4aa5-A8e1-2dd5d3cbcefa</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-issues-with-your-dell-laptops-usb-interface/"><u>Diagnosing and Correcting Issues with Your Dell Laptop's USB Interface</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/efficiently-secure-apples-newest-macbook-pro-and-mac-mini-without-waiting-in-line-tips-curated-by-zdnet/"><u>Efficiently Secure Apple's Newest MacBook Pro and Mac Mini Without Waiting in Line - Tips Curated by ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-huion-pen-in-minutes-with-these-effective-strategies/"><u>Fix a Non-Responsive Huion Pen in Minutes with These Effective Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-mic-working-again-on-a-laptop-running-windows-tenth-edition/"><u>How to Get Your Mic Working Again on a Laptop Running Windows Tenth Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-gram-pro-vs-macbook-air-top-3-performance-triumphs-unveiled/"><u>LG Gram Pro Vs. MacBook Air: Top 3 Performance Triumphs Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-to-speedy-shutdown-on-windows-10-systems/"><u>Quick Fix Guide to Speedy Shutdown on Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-err-too-many-redirects-no-hassle-solutions-inside/"><u>Quick Fixes for ERR TOO MANY REDIRECTS - No Hassle Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-the-feature-update-failure-in-windows-11-build-1803/"><u>Resolved: Troubleshooting the Feature Update Failure in Windows 11 Build 1803</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-z50-70-software-enhancements/"><u>Streamline Z50-70 Software Enhancements</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-aw-snap-issue-in-google-chrome/"><u>Troubleshooting the 'Aw, Snap!' Issue in Google Chrome</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-best-full-hd-action-cameras-below-100/"><u>[New] Top 5 Best Full HD Action Cameras Below $100</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-webcam-use-in-professional-settings-for-slide-shows/"><u>[Updated] Webcam Use in Professional Settings for Slide Shows</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-guide-on-how-to-enable-the-text-to-speech-function-on-iphone/"><u>2024 Approved Guide on How to Enable the Text to Speech Function on iPhone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/2024-mp4-15/"><u>2024年版 MP4 編輯器選擇清單 - 15 件推荐的最佳工具</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-guide-to-address-svchostexe-overutilization-of-cpu-resources-in-windows-11/"><u>Definitive Guide to Address svchost.exe Overutilization of CPU Resources in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-windows-connectivity-issues-with-the-event-notifications-service/"><u>How to Repair Windows Connectivity Issues with the Event Notifications Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-resolving-code-0xc1900208-during-your-windows-11-installation-fixed/"><u>Mastering the Fix: Resolving Code 0Xc1900208 During Your Windows 11 Installation [FIXED]</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-screen-record-with-ease-top-10-webcam-software-for-windows-10/"><u>New In 2024, Screen Record with Ease Top 10 Webcam Software for Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/saving-gameplay-moments-for-the-web/"><u>Saving Gameplay Moments for the Web</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screensnipers-digest-the-ultimate-2023-software-roundup-for-2024/"><u>ScreenSniper's Digest The Ultimate 2023 Software Roundup for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-icue-when-your-computer-doesnt-recognize-hardware/"><u>Solution Steps for ICUE When Your Computer Doesn't Recognize Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-accessing-admin-mode-on-windows-11/"><u>Step-by-Step Guide: Accessing Admin Mode on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-resolving-the-diagnostic-policy-service-not-active-error/"><u>Successfully Resolving the 'Diagnostic Policy Service Not Active' Error</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-3-voice-capturing-ipad-apps-reviewed/"><u>TOP 3 Voice Capturing iPad Apps Reviewed</u></a></li>
 </ul></div>
 

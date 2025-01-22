@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Secured Browsing on Firefox After Failures"
-date: 2024-08-31T17:42:55.649Z
-updated: 2024-09-01T17:42:55.649Z
+date: 2025-01-16T18:24:47.837Z
+updated: 2025-01-22T19:20:12.011Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
  Press**Windows** key +**R** key at the same time to open Run box.  
  Type**devmgmt.msc** in the box and hit**Enter** to open Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-20.png)
 
  2)  
@@ -48,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now the Windows will detect the update for your driver automatically. Follow the on-screen instructions if there is update detected.
 
 **Note:** For some reasons, Microsoft cannot always detect the update. In order not to miss the latest driver, it’s advised that let**Driver Easy** help you.
@@ -55,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 [Driver Easy](https://tools.techidaily.com/drivereasy/download/) is an extremely safe and helpful driver tool. It can help you scan out all the missing and outdated drivers and find the correct ones for you. With its **[Free version](https://tools.techidaily.com/drivereasy/download/)**  , you can install the new driver one by one. But if upgrade to its **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , all your drivers can be updated with just one click —**Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/5-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 No worry to try its Pro version as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7\.
 
@@ -74,16 +79,14 @@ No worry to try its Pro version as it comes with a no-questions-asked **30-day m
 
  Type**sfc /scannow** in the open window and hit**Enter** to run it.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/11-2.jpg)
 
  Wait till Verification**100%** complete.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 3\. Use Windows PowerShell**
 
  If your Operating System cannot verify the identities of the devices (such as playback and recording devices) and their drivers, you will meet the error either. In such case, we can use PowerShell to configure Windows to accept certificates.
@@ -93,28 +96,27 @@ No worry to try its Pro version as it comes with a no-questions-asked **30-day m
  Type**PowerShell** in the search box from Start menu.  
  Then right-click on **Windows PowerShell** from the top result and choose Run as Administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)  
 
  Click**Yes** when prompted by**User Account Control** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
  Type the following command in the pop-up window and press**Enter** .  
  **Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/9-4.png)
 
  4)  
@@ -131,8 +133,6 @@ Hope your error has been solved with the solutions here.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +140,26 @@ Hope your error has been solved with the solutions here.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-cutting-edge-4k-panels-top-10-revealed-list/"><u>[New] In 2024, Cutting-Edge 4K Panels Top 10 Revealed List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-optimize-and-streamline-your-podcast-entry/"><u>[Updated] 2024 Approved Optimize and Streamline Your Podcast Entry</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-boost-engagement-posting-twitter-videos-on-snapchat/"><u>[Updated] In 2024, Boost Engagement Posting Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-interacting-with-a-blended-world-the-essence-of-mixed-reality/"><u>[Updated] In 2024, Interacting with a Blended World The Essence of Mixed Reality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-showcasing-iconic-ae-templates-for-social-media/"><u>2024 Approved Showcasing Iconic AE Templates for Social Media</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/daytime-showdown-google-pixel-8a-vs-oneplus-12r-which-device-reigns-supreme/"><u>Daytime Showdown: Google Pixel 8A Vs. OnePlus 12R – Which Device Reigns Supreme?</u></a></li>
+<li><a href="https://techidaily.com/decoding-internet-myths-the-truth-behind-google-recommends-unconventional-ingredients-for-cooking/"><u>Decoding Internet Myths: The Truth Behind 'Google Recommends' Unconventional Ingredients for Cooking</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-navigating-past-error-code-0x800f0922-on-your-windows-11-system/"><u>Effortless Fixes for Navigating Past Error Code 0X800F0922 on Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhance-your-gaming-experience-resolve-rdr2-out-of-memory-errors-instantly/"><u>Enhance Your Gaming Experience: Resolve RDR2 Out of Memory Errors Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-corrupted-file-issues-in-latest-windows-operating-systems/"><u>Expert Advice: Correcting Corrupted File Issues in Latest Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-errors-with-remote-procedure-call-servers-in-windows-environments/"><u>Guide to Fixing Errors with Remote Procedure Call Servers in Windows Environments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-numeric-key-malfunction-heres-how-you-fixed-it/"><u>Keyboard Numeric Key Malfunction? Here's How You Fixed It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connection-issues-with-audiovideo-hardware-in-windows-tips-and-tricks/"><u>Overcoming Connection Issues with Audio/Video Hardware in Windows - Tips and Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-silent-pc-get-your-computer-speakers-working-now/"><u>Quick Fixes for a Silent PC – Get Your Computer Speakers Working Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-system-lags-high-usage-of-ntoskrnlexe/"><u>Solving System Lags: High Usage of Ntoskrnl.exe</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-perplexing-problem-of-irreversible-errors-in-directx-technology/"><u>Solving The Perplexing Problem of Irreversible Errors in DirectX Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-windows-driver-power-state-errors/"><u>Step-by-Step Solutions for Windows Driver Power State Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-steam-wont-open-on-windows-10-and-how-to-fix-it/"><u>Troubleshooting: Why Steam Won't Open on Windows 10 & How to Fix It</u></a></li>
+</ul></div>
 

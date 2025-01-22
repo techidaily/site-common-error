@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Drag-and-Drop: Winning Against Slow Windows 10 Closures"
-date: 2025-01-10T16:13:00.950Z
-updated: 2025-01-16T16:25:31.427Z
+date: 2025-01-16T21:27:16.173Z
+updated: 2025-01-22T17:54:50.670Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Run a Startup Repair
 
  The Startup Repair can repair the files necessary for the startup of your computer. To run a Startup Repair to fix your issue:
@@ -48,31 +44,43 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Select **Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968810c5917f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Select**Windows 10** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968812f12e1e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Run system checks
 
@@ -92,10 +100,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Select**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
@@ -114,10 +118,6 @@ _**bootrec /scanos**_
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Reset your Windows 10
 
@@ -154,19 +154,21 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-eliminate-hurdle-video-playback-issue-in-chrome/"><u>[New] In 2024, Eliminate Hurdle Video Playback Issue in Chrome</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-present-trends-in-drone-technology-for-the-future/"><u>[Updated] 2024 Approved Present Trends in Drone Technology for the Future</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-experts-choice-7-premium-videos-on-mac/"><u>[Updated] Expert's Choice 7 Premium Videos on Mac</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-video-subtitle-enhancement-essential-online-tools-explored/"><u>[Updated] In 2024, Mastering Video Subtitle Enhancement Essential Online Tools Explored</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-youtube-to-webm-the-finest-video-converters-unveiled/"><u>2024 Approved YouTube-to-WebM The Finest Video Converters Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211671450-airpods-wont-pair-with-windows-11-master-the-fixes-you-need/"><u>AirPods Won't Pair with Windows 11? Master the Fixes You Need</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-setup-successfully-resolved-ensure-smooth-integration-in-games/"><u>BattlEye Setup Successfully Resolved – Ensure Smooth Integration in Games</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-asus-rt-ax88u-ax6000-revolutionary-smart-wifi-6-router-performance/"><u>Comprehensive Review: Asus RT-AX88U AX6000 - Revolutionary Smart WiFi 6 Router Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-cyclic-redundancy-check-failures-in-your-system/"><u>How to Resolve Cyclic Redundancy Check Failures in Your System</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-farm-frenzy-fun-pack-the-ultimate-agritainment-guide/"><u>In 2024, Farm Frenzy Fun-Pack The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-system-errors-with-this-critical-media-driver-update/"><u>Resolve Your System Errors with This Critical Media Driver Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-overcome-the-configuring-windows-hangaroo-scenario-easily/"><u>Solution Found: Overcome the 'Configuring Windows' Hangaroo Scenario Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-tips-for-resolving-windows-11s-black-display-problem/"><u>Solving the Dilemma: Effective Tips for Resolving Windows 11'S Black Display Problem</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-audio-excellence-in-ios-settings/"><u>[New] 2024 Approved Unlocking Audio Excellence in iOS Settings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-apeak-captures-attention-an-in-depth-screen-recorder-examination/"><u>[New] In 2024, Apeak Captures Attention An In-Depth Screen Recorder Examination</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-comparison-of-googles-ar-embellishments-to-competitors/"><u>[New] In 2024, Comparison of Google's AR Embellishments to Competitors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-studio-masterclass-in-depth-xvideostudio-report/"><u>[Updated] In 2024, Studio Masterclass In-Depth XVideoStudio Report</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-graphics-engine-failure-during-launch/"><u>Comprehensive Fixes Graphics Engine Failure During Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-troubleshooting-why-its-not-responding-and-what-to-do-next/"><u>Corsair Keyboard Troubleshooting: Why It's Not Responding & What To Do Next</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-straightening-gridlines-on-monitors/"><u>Effective Solutions for Straightening Gridlines on Monitors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-magic-v2-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor Magic V2 Lock Screen Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-way-through-printer-management-in-w11-max-52-chars/"><u>Mastering Your Way Through Printer Management in W11 (Max 52 Chars)</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-problems-in-torrent-file-downloading-processes/"><u>Overcoming Common Problems in Torrent File Downloading Processes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-sound-adjustment-problems-in-windows-10-expert-tips-and-tricks/"><u>Resolving Sound Adjustment Problems in Windows 10 – Expert Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-request-modification-authorization-from-trustedinstaller/"><u>Steps to Request Modification Authorization From TrustedInstaller</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-loops-in-windows-10-automatic-repairs-solved/"><u>Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved</u></a></li>
 </ul></div>
 

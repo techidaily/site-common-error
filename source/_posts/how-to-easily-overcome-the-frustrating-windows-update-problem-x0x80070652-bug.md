@@ -1,7 +1,7 @@
 ---
 title: "How to Easily Overcome the Frustrating Windows Update Problem: X0X80070652 Bug"
-date: 2025-01-13T16:19:24.771Z
-updated: 2025-01-16T16:10:10.756Z
+date: 2025-01-21T19:31:48.759Z
+updated: 2025-01-22T16:26:49.790Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Check the status of the Bluetooth service
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -81,11 +81,7 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
@@ -100,13 +96,13 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
@@ -138,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -175,22 +175,19 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-20-mindfulness-tracks-legal-and-copyright-free-downloads/"><u>[New] 20 Mindfulness Tracks Legal and Copyright-Free Downloads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-productivity-io-screen-capture-secrets/"><u>[New] Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-passive-to-profitable-youtube-revenue-techniques-for-2024/"><u>[New] From Passive to Profitable YouTube Revenue Techniques for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-boomerang-strategies-for-engaging-loops/"><u>[New] In 2024, Insta-Boomerang Strategies for Engaging Loops</u></a></li>
-<li><a href="https://common-error.techidaily.com/0x80244022-windows-update-error-solved/"><u>0X80244022 Windows Update Error [SOLVED]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-computer-resurrects-past-technological-phenomenon-and-sparks-vibrant-industry-debate-insights-from-zdnet/"><u>Budget-Friendly Computer Resurrects Past Technological Phenomenon and Sparks Vibrant Industry Debate | Insights From ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-for-repairing-compromised-hardware-drivers-fast/"><u>Effortless Solutions for Repairing Compromised Hardware Drivers Fast</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2010-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2010 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208689449-fixing-a-laptop-that-wont-exit-the-startup-display-issue-solution-included/"><u>Fixing a Laptop That Won't Exit the Startup Display Issue - Solution Included!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-excessive-gpu-usage-in-windows-1n-a-guide-to-optimizing-the-desktop-window-manager/"><u>Fixing Excessive GPU Usage in Windows 1N: A Guide to Optimizing the Desktop Window Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-windows-10-microphone-working-again-expert-tips-and-tricks/"><u>How to Get Your Windows 10 Microphone Working Again – Expert Tips and Tricks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210664368-9782889059706-loracle-du-cancer/"><u>L'Oracle du Cancer | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ntdlldll-failures-corrected-a-guide-for-stabilizing-your-windows-11-or-windows-10/"><u>ntdll.dll Failures Corrected: A Guide for Stabilizing Your Windows 11 or Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-inactive-number-keys-on-your-computer-keypad/"><u>Resolving the Issue of Inactive Number Keys on Your Computer Keypad</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-repair-for-semaphore-timeout-period-has-expired-error/"><u>Step-by-Step Repair for 'Semaphore Timeout Period Has Expired' Error</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-and-tricks-for-clearing-cluttered-backdrops-in-figma-for-2024/"><u>Tips and Tricks for Clearing Cluttered Backdrops in Figma for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-your-game-installation-woes-with-quick-tips-to-solve-steam-errors/"><u>Troubleshoot & Overcome Your Game Installation Woes with Quick Tips to Solve Steam Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-v30-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme V30 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/sba-ppp-blue-prism85000/"><u>銀行でのSBA PPP ローン自動化：Blue Prismによって85,000以上の雇用が守られ、中小企業の経営安定</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-online-webm-converter-para-mp4-mov-e-wmv-pelo-movavi/"><u>Grátis Online Webm Converter Para Mp4, Mov E Wmv Pelo Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-system-integrity-on-windows-amo-using-sfc-and-dism-solutions/"><u>Guide to Restoring System Integrity on Windows Amo Using SFC & DISM Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-keeping-airpods-connected-to-a-single-device-at-once/"><u>Guide: Keeping AirPods Connected to a Single Device at Once</u></a></li>
+<li><a href="https://common-error.techidaily.com/handled-problem-unsuccessful-writing-attempt-at-0xpointed-out-memory-spot/"><u>Handled Problem: Unsuccessful Writing Attempt at 0XPointed-Out Memory Spot</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211096912-how-to-fix-no-audio-output-device-is-installed-error-in-windows-1011/"><u>How to Fix No Audio Output Device Is Installed Error in Windows 10/11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v27e-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V27e to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laugh-loom-robotic-deadlines/"><u>In 2024, Laugh Loom Robotic Deadlines</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208087754-overcoming-the-windows-10-cant-be-installed-error-code-abo)80240020-issue-solved/"><u>Overcoming the 'Windows 10 Can't Be Installed (Error Code Abo>80240020)' Issue - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205841172-overcoming-voice-communication-problems-in-overwatch-simple-solutions/"><u>Overcoming Voice Communication Problems in Overwatch - Simple Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-camera-spin-top-professionals-360cameras-of-2023/"><u>Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-the-soundscape-fixing-silent-modem-issues-in-acer-computers/"><u>Revive the Soundscape: Fixing Silent Modem Issues in Acer Computers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211435021--truth-demands/"><u>Truth Demands | Free Book</u></a></li>
 </ul></div>
 

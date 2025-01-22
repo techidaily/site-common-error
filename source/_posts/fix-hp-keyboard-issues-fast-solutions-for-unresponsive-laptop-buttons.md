@@ -1,7 +1,7 @@
 ---
 title: Fix HP Keyboard Issues Fast - Solutions for Unresponsive Laptop Buttons
-date: 2024-12-30T23:38:46.503Z
-updated: 2025-01-03T23:01:49.220Z
+date: 2025-01-17T17:22:59.966Z
+updated: 2025-01-22T18:57:30.303Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -43,19 +47,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -74,10 +82,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -103,10 +107,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -126,10 +126,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -138,17 +134,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,20 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>[New] Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tepwise-guide-to-antiquated-visual-effects-in-videos-for-2024/"><u>[New] Stepwise Guide to Antiquated Visual Effects in Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/breaking-free-from-frozen-windows-updates-on-older-operating-systems-expert-advice-for-users-seeking-assistance-edition-helpful-tips-and-guides/"><u>Breaking Free From Frozen Windows Updates on Older Operating Systems – Expert Advice for Users Seeking Assistance Edition! (Helpful Tips and Guides.)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-self-scrolled-windows-with-ease-and-precision/"><u>Fix Self-Scrolled Windows with Ease and Precision</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-too-many-redirects-error-instantly-simple-solutions/"><u>Fix the 'Too Many Redirects' Error Instantly - Simple Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-windows-11-display-flickers-step-by-step-guide-for-a-stable-viewing-experience/"><u>Fix Your Windows 11 Display Flickers: Step-by-Step Guide for a Stable Viewing Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-right-click-functionality-on-a-windows-10-computer/"><u>How to Repair Right Click Functionality on a Windows 10 Computer</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-x6-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo Find X6 by Name | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/los-mejores-8-aplicaciones-gratuitas-con-inteligencia-artificial-para-rescatar-fotografias-antiguas-efimeramente-olvidadas/"><u>Los Mejores 8 Aplicaciones Gratuitas Con Inteligencia Artificial Para Rescatar Fotografías Antiguas Efímeramente Olvidadas</u></a></li>
-<li><a href="https://common-error.techidaily.com/repairing-an-unresponsive-hp-laptop-webcam-when-using-windows-11-best-practices/"><u>Repairing an Unresponsive HP Laptop Webcam When Using Windows 11 - Best Practices</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-when-your-usb-to-hdmi-converter-wont-connect/"><u>Solving the Issue: When Your USB To HDMI Converter Won't Connect</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-narzo-n55-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Narzo N55</u></a></li>
-<li><a href="https://techidaily.com/unlocking-the-secrets-of-disk-management-a-beginners-tutorial-for-windows-11-users/"><u>Unlocking the Secrets of Disk Management: A Beginner's Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-error-no-more-eliminate-device-not-detected-pop-ups-forever/"><u>USB Error No More: Eliminate 'Device Not Detected' Pop-Ups Forever</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-expedite-your-pcs-performance-get-rid-of-high-cpu-load-stuck-by-shell-infrastructures/"><u>[Solution] Expedite Your PC's Performance - Get Rid of High CPU Load Stuck by Shell Infrastructures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevating-the-cold-with-five-cozy-cinematic-elements-for-2024/"><u>[Updated] Elevating the Cold with Five Cozy Cinematic Elements for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-poco-c55-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/adjusting-date-time-and-numerical-format-settings-a-comprehensive-guide-by-yl-computing/"><u>Adjusting Date, Time, and Numerical Format Settings: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-spacebar-problem-in-windows-10-computers/"><u>Diagnosing and Fixing the Spacebar Problem in Windows 10 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960957445-download-and-enhance-your-dell-screen-with-effortless-driver-updates/"><u>Download and Enhance Your Dell Screen with Effortless Driver Updates!</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-insights-into-microsoft-security-essentials-mse-tackling-high-disk-utilization-issues-with-mssecesexe/"><u>Essential Insights Into Microsoft Security Essentials (MSE): Tackling High Disk Utilization Issues with msseces.exe</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-11-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus 11 5G?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-acer-tablet-or-laptop-if-it-wont-accept-power/"><u>How to Fix Your Acer Tablet or Laptop if It Won’t Accept Power</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/innovate-your-intonation-ranking-the-best-audio-modification-apps-for-mobile/"><u>Innovate Your Intonation Ranking the Best Audio Modification Apps for Mobile</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g14-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G14</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-eliminating-delays-in-keyboard-responses-for-windows-11-users/"><u>Solution Found: Eliminating Delays in Keyboard Responses for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-non-compatible-hardware-drivers-on-your-pc-a-guide-to-overcoming-wow-issues/"><u>Solution Steps for Non-Compatible Hardware Drivers on Your PC - A Guide to Overcoming WoW Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/winning-the-space-race-in-windows-11-free-up-drive-efficiently/"><u>Winning the Space Race in Windows 11 - Free Up Drive Efficiently</u></a></li>
 </ul></div>
 

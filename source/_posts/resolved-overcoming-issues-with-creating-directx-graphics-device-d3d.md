@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcoming Issues with Creating DirectX Graphics Device (D3D)"
-date: 2024-09-04T20:18:20.629Z
-updated: 2024-09-05T20:18:20.629Z
+date: 2025-01-21T21:40:26.070Z
+updated: 2025-01-22T19:03:05.514Z
 tags:
   - win11
   - win10
@@ -31,6 +31,11 @@ Some graphics cards manufacturers have cut support for **Miracast**. So we might
 
 1. On your keyboard, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters**  (aka. **graphics card** , **video card** ) to expand it.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e2baf0279.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the**Driver** tab >**Roll Back Driver** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e27a083b7.jpg)
 4. Click**Yes** if asked for confirmation. Then the driver will be restored to a previous version.
 5. Restart you computer and see if**Miracast** works properly on your computer.
@@ -38,11 +43,9 @@ Some graphics cards manufacturers have cut support for **Miracast**. So we might
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Insert a **Miracast adapter**
 
 It’s also possible that the device you’re streaming content to doesn’t support Miracast. But don’t worry – if that’s the case, you need to do to enable Miracast is to plug in a Miracast adapter, such as a[Microsoft Wireless Display adapter](https://www.amazon.com/Microsoft-Wireless-Display-Adapter-P3Q-00001/dp/B01AZC3J3M/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1542013017&sr=1-1-spons&keywords=Microsoft+Wireless+Display+Adapter&psc=1&tag=drivereasycom-20), into an HDMI port on your display device.
@@ -50,27 +53,17 @@ It’s also possible that the device you’re streaming content to doesn’t sup
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be94122c9d87.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Check if Miracast works properly as should right now. If yes, then congrats! But if the problem still persists, then move on to**Fix 3**, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your **Miracast adapter** driver
 
 This error may also occur when you have a corrupt/outdated **Miracast adapter** driver.  So you should update your**Miracast adapter** driver  to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.  You can update your drivers automatically with either **[the FREE](https://tools.techidaily.com/drivereasy/download/)**  or **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
@@ -78,25 +71,12 @@ This error may also occur when you have a corrupt/outdated **Miracast adapter** 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b43060ad35f9.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b43066ed2b95.jpg) You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer and see if this **Miracast: not supported by graphics driver** error message has been sorted.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -111,8 +91,6 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +98,22 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-webcam-mastery-unique-ideas-explored/"><u>[New] Webcam Mastery Unique Ideas Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/airdrop-not-connecting-heres-how-to-restore-it-easily/"><u>AirDrop Not Connecting? Here's How to Restore It Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-step-by-step-guide-resolving-the-dell-laptops-mysterious-black-screen-issue/"><u>Complete Step-by-Step Guide: Resolving the Dell Laptop's Mysterious Black Screen Issue</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-print-settings-in-photoshop/"><u>Comprehensive Guide to Print Settings in Photoshop</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-night-light-feature-in-windows-10-and-11/"><u>Fixing the Issue: How to Restore Night Light Feature in Windows 10 & 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-a78-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo A78 5G FRP?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-frontier-of-film-virtual-realities-in-theaters/"><u>In 2024, Frontier of Film Virtual Realities in Theaters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g510-controller-driver-download-guide-for-windows-users-7810/"><u>Logitech G510 Controller Driver Download Guide for Windows Users (7/8/10)</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-gpu-usage-for-smoother-gameplay-of-cyberpunk-2077-on-windows-11-fixes-and-tips/"><u>Maximizing GPU Usage for Smoother Gameplay of Cyberpunk 2077 on Windows 11 - Fixes & Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-touchpad-glitches-how-to-restore-scrolling-functionality-effectively/"><u>Overcoming Touchpad Glitches: How to Restore Scrolling Functionality Effectively</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-social-integration-twitter-and-facebook-connections/"><u>Seamless Social Integration Twitter & Facebook Connections</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-corrupting-windows-10-update-error-0xc1900208/"><u>Step-by-Step Solution for Corrupting Windows 10 Update Error 0Xc1900208</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-boosting-your-intel-based-imacs-capabilities/"><u>The Ultimate Guide to Boosting Your Intel-Based iMac's Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unresponsive-lenovo-fn-keys-a-swift-guide/"><u>Troubleshooting Steps for Unresponsive Lenovo FN Keys: A Swift Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-10-free-football-streaming-sites-to-bookmark/"><u>Updated 10 Free Football Streaming Sites To Bookmark</u></a></li>
+</ul></div>
 

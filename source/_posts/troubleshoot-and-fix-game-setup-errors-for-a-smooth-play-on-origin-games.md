@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix Game Setup Errors for a Smooth Play on Origin Games
-date: 2024-12-19T18:19:05.227Z
-updated: 2024-12-25T20:34:14.345Z
+date: 2025-01-16T19:19:07.369Z
+updated: 2025-01-22T19:12:21.163Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Repair your game
 
  Missing or corrupt game files can cause a wide variety of issues. So you need to make sure they are intact. The feature, repairing games allows you to achieve that goal. It checks your game’s installation and then automatically downloads any replacement or missing files:
@@ -61,10 +57,6 @@ If that didn’t help, try the next fix below.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
@@ -75,13 +67,13 @@ If that didn’t help, try the next fix below.
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
@@ -93,13 +85,13 @@ If that didn’t help, try the next fix below.
   
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) In the address bar, click on**AppData** .  
   
@@ -110,16 +102,12 @@ If that didn’t help, try the next fix below.
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -138,7 +126,7 @@ Here’s how to update drivers with Driver Easy:
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
@@ -151,7 +139,7 @@ Here’s how to update drivers with Driver Easy:
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
@@ -164,17 +152,29 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Install the latest visual C++ redistributable pack
 
@@ -217,18 +217,22 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-30-effective-fb-ads-techniques-for-all-businesses/"><u>[New] In 2024, The Ultimate Guide to 30 Effective FB Ads Techniques (for All Businesses)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/banish-blackout-woes-in-fallout-4-with-this-essential-troubleshooting-guide-for-gamers/"><u>Banish Blackout Woes in Fallout 4 with This Essential Troubleshooting Guide for Gamers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-examination-gopro-silver-hero4-camera-testing/"><u>Detailed Examination GoPro Silver Hero4 Camera Testing</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhance-your-gaming-experience-resolve-rdr2-out-of-memory-errors-instantly/"><u>Enhance Your Gaming Experience: Resolve RDR2 Out of Memory Errors Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-solving-minecrafts-failure-to-load-problems/"><u>Expert Advice on Solving Minecraft's Failure to Load Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-hp-keyboard-issues-in-no-time-with-these-easy-steps/"><u>Fix HP Keyboard Issues in No Time with These Easy Steps!</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-past-how-easy-anti-cheat-is-no-more-a-hurdle-in-new-world-launches/"><u>Fixing the Past: How 'Easy Anti-Cheat' Is No More a Hurdle in New World Launches</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/free-solutions-how-to-restore-lost-information-from-an-ssd-in-windows/"><u>Free Solutions: How To Restore Lost Information From an SSD in Windows</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-rhythm-rangers-must-try-free-online-tools/"><u>In 2024, Rhythm Rangers' Must-Try Free Online Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instantaneous-gif-transformation-leading-online-platforms-ranked-for-2024/"><u>Instantaneous GIF Transformation Leading Online Platforms Ranked for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/maximizing-playtime-together-sharing-games-with-pals-on-xbox-one/"><u>Maximizing Playtime Together: Sharing Games with Pals on Xbox One</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-perplexing-problem-of-irreversible-errors-in-directx-technology/"><u>Solving The Perplexing Problem of Irreversible Errors in DirectX Technology</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-spectacular-top-liquid-physics-gaming/"><u>[New] 2024 Approved Spectacular Top Liquid Physics Gaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-beginners-guide-adding-text-overlays-on-youtube-for-2024/"><u>[Updated] Beginner's Guide Adding Text Overlays on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-farming-fun-and-friendship-the-best-agrigames-to-bond-with-friends-for-2024/"><u>[Updated] Farming Fun & Friendship The Best AgriGames to Bond With Friends for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-splitscreen-designer-for-2024/"><u>[Updated] SplitScreen Designer for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-cldll-absence-in-systems/"><u>Addressing ClDLL Absence in Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-irritating-pop-ups-and-cracks-in-your-speaker-with-these-solutions-for-windows-11-or-7/"><u>Banish Irritating Pop-Ups and Cracks in Your Speaker with These Solutions for Windows 11 or 7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/changing-image-filenames-for-macscreenshots-for-2024/"><u>Changing Image Filenames for MacScreenshots for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-monster-hunters-stealthy-foes-eradicating-the-dark-screen-malfunction-when-initiating-gameplay/"><u>Conquering Monster Hunter's Stealthy Foes: Eradicating the Dark Screen Malfunction When Initiating Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-hp-laptop-keyboard-issues-fast-and-simple-now-solved/"><u>Fix HP Laptop Keyboard Issues Fast and Simple - Now Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-non-working-dolby-surround-systems-in-windows-11/"><u>Guide to Fixing Non-Working Dolby Surround Systems in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-crackling-sound-from-speakers-on-pc-windows-10-and-7/"><u>How To Resolve Crackling Sound From Speakers on PC (Windows 10 & 7)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-command-center-redefined-your-pathway-through-studio/"><u>In 2024, Command Center Redefined Your Pathway Through Studio</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-troubleshooting-how-to-address-and-repair-error-code-grove/"><u>Mastering Windows Troubleshooting: How to Address and Repair Error Code Grove</u></a></li>
+<li><a href="https://win-bits.techidaily.com/navigating-information-systems-the-role-of-directories-in-yl-software-solutions/"><u>Navigating Information Systems: The Role of Directories in YL Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-dropped-signals-masterful-solutions-for-persistent-usb-disconnection-problems/"><u>No More Dropped Signals: Masterful Solutions for Persistent USB Disconnection Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-setup-obstacles-master-troubleshooting-for-your-origin-gaming-experience/"><u>Overcoming Setup Obstacles? Master Troubleshooting for Your Origin Gaming Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-itel-a05s-by-drfone-android/"><u>Three Ways to Sim Unlock Itel A05s</u></a></li>
 </ul></div>
 

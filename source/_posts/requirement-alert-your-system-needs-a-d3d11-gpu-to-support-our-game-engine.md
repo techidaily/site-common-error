@@ -1,7 +1,7 @@
 ---
 title: "Requirement Alert: Your System Needs a D3D11 GPU to Support Our Game Engine"
-date: 2024-12-30T02:36:04.328Z
-updated: 2025-01-04T04:35:03.622Z
+date: 2025-01-17T17:02:16.274Z
+updated: 2025-01-22T17:52:28.840Z
 tags:
   - win11
   - win10
@@ -72,28 +72,24 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-fun-on-a-budget-meme-creators-handbook/"><u>[New] In 2024, Fun on a Budget – Meme Creator’s Handbook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-insights-for-successful-short-video-creation/"><u>[New] The Ultimate Insights for Successful Short Video Creation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping/"><u>[Updated] 2024 Approved Effortless Downloads at Zero Cost Find the Top 20 Tools for YouTube Sound Ripping</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-venture-into-virtual-reality-with-top-mobile-headsets/"><u>[Updated] Venture Into Virtual Reality with Top Mobile Headsets</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nubia-red-magic-9-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nubia Red Magic 9 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211383111-cant-get-your-document-to-print-as-pdf-effortless-solutions-await/"><u>Can't Get Your Document to Print as PDF? Effortless Solutions Await!</u></a></li>
-<li><a href="https://common-error.techidaily.com/discords-silent-mic-now-speaking/"><u>Discord's Silent Mic Now Speaking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-scoop-on-the-new-google-pixel-tablet-key-features-release-timeline-and-news-coverage/"><u>Get the Scoop on the New Google Pixel Tablet - Key Features, Release Timeline & News Coverage</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-your-xbox-one-earphones-back-on-track-a-step-by-step-repair-tutorial/"><u>Getting Your Xbox One Earphones Back on Track: A Step-by-Step Repair Tutorial</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-7-plus-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 7 Plus or iPad?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-windows-11-refuses-to-power-off-a-simple-solution/"><u>How to Fix Your PC when Windows 11 Refuses to Power Off: A Simple Solution</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-8-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 8</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oneplus-11-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on OnePlus 11 5G Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-free-open-source-security-camera-software-options-for-customization/"><u>New 10 Free Open-Source Security Camera Software Options for Customization</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-pc-or-mac-mic-stops-working/"><u>Quick Fixes for When Your PC or Mac Mic Stops Working</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-uncontrolled-mouse-activity/"><u>Quick Solutions: How to Resolve Uncontrolled Mouse Activity</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-right-click-mouse-problem-effective-methods-and-advice/"><u>Resolving Windows 11 Right-Click Mouse Problem: Effective Methods and Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-restoring-functionality-of-a-non-working-lenovo-laptop-camera/"><u>Step-by-Step Solutions: Restoring Functionality of a Non-Working Lenovo Laptop Camera</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212117921-windows-10-casting-glitches-solved-get-your-devices-connected-again/"><u>Windows 10 Casting Glitches Solved: Get Your Devices Connected Again</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-hd-video-recorder-macpc-fullscreen/"><u>[New] Elite HD Video Recorder MacPC Fullscreen</u></a></li>
+<li><a href="https://common-error.techidaily.com/blizzard-out-of-service-status/"><u>Blizzard Out Of Service Status</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-destiny-2-connectivity-woes-fix-your-servers-now/"><u>Bypassing Destiny 2 Connectivity Woes: Fix Your Servers Now!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-15-plus-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 15 Plus screen turns black? | Stellar</u></a></li>
+<li><a href="https://win-top.techidaily.com/conversion-gratuite-de-fichiers-ts-a-laide-du-service-en-ligne-wav-par-movavi-guide-rapide-et-efficace/"><u>Conversion Gratuite De Fichiers TS À L'aide Du Service en Ligne WAV Par Movavi - Guide Rapide Et Efficace</u></a></li>
+<li><a href="https://discover-community.techidaily.com/conversione-libera-e-gratuita-di-file-gif-al-formato-jpeg-su-internet-guida-completa-di-movavi/"><u>Conversione Libera E Gratuita Di File GIF Al Formato JPEG Su Internet - Guida Completa Di Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/execution-interrupted-command-issued/"><u>Execution Interrupted: Command Issued</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-service-register-on-windows-10/"><u>How to Repair a Broken Service Register on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-and-prevent-driver-related-power-offset-problems-on-your-pc-windows/"><u>How to Repair and Prevent Driver-Related Power Offset Problems on Your PC (Windows)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-fix-for-disconnected-displayport/"><u>Immediate Fix for Disconnected DisplayPort</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-12-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 12</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204342003-maximizing-your-machines-potential-how-to-end-overbearing-system-load-from-shell-infrastructures/"><u>Maximizing Your Machine’s Potential – How to End Overbearing System Load From Shell Infrastructures!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-kids-cellphones-expert-recommendations-from-zdnet/"><u>Top-Rated Kid's Cellphones: Expert Recommendations From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-startup-error-learn-how-to-correct-entry-point-not-found-issues/"><u>Windows Startup Error? Learn How to Correct Entry Point Not Found Issues</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

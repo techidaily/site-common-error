@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Astro A40 Microphone Issues: Proven Solutions"
-date: 2024-12-30T02:45:54.532Z
-updated: 2025-01-03T21:50:51.154Z
+date: 2025-01-18T18:36:32.828Z
+updated: 2025-01-22T20:44:21.214Z
 tags:
   - win11
   - win10
@@ -41,28 +41,24 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -81,6 +77,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -95,10 +95,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
@@ -106,16 +102,20 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -150,16 +150,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-exclusive-insights-into-making-memorable-instagram-movies/"><u>[New] 2024 Approved Exclusive Insights Into Making Memorable Instagram Movies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-optimize-your-video-viewing-space-online/"><u>[New] 2024 Approved Optimize Your Video Viewing Space Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-insightful-analysis-of-modern-human-interaction-systems/"><u>[Updated] In 2024, Insightful Analysis of Modern Human Interaction Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-mastering-facetunes-complete-features/"><u>2024 Approved In-Depth Review Mastering Facetune's Complete Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capturing-skype-chats-an-obs-guide-for-2024/"><u>Capturing Skype Chats An OBS Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/compatibility-issues-preventing-ftdi-bus-system-resolving-driver-mismatch/"><u>Compatibility Issues Preventing FTDI Bus System: Resolving Driver Mismatch</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-solutions-get-your-overwatch-voice-communication-back-on-track-today/"><u>Fast-Track Solutions: Get Your Overwatch Voice Communication Back on Track Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-repair-stuck-on-getting-windows-ready-errors-in-your-system/"><u>How To Diagnose and Repair 'Stuck on Getting Windows Ready' Errors in Your System</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-freeze-entire-browser-display/"><u>In 2024, Freeze Entire Browser Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issues-with-launching-the-microsoft-store-now-fixed/"><u>Resolved: Issues with Launching the Microsoft Store Now Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-for-unknown-usb-device-problem-and-port-reset-failures-on-windows-10-computers/"><u>The Ultimate Fix Guide for 'Unknown USB Device' Problem & Port Reset Failures on Windows 10 Computers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-procedure-of-attaining-facebooks-blue-status-badge-for-2024/"><u>[New] Mastering the Procedure of Attaining Facebook's Blue Status Badge for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-ppts-potential-with-voiceover-techniques/"><u>[New] Unlocking PPT's Potential with Voiceover Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-choosing-between-vlc-and-mpc-for-free-video-viewing/"><u>[Updated] Choosing Between VLC and MPC for Free Video Viewing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-vidas-interface-and-features-for-seamless-creation-experience/"><u>2024 Approved Vida’s Interface and Features for Seamless Creation Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-productivity-with-file-explorer-in-windows-11-a-beginners-guide/"><u>Boost Productivity with File Explorer in Windows 11 - A Beginner's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/cooling-down-excessive-windows-11-cpu-usage-with-interrupts/"><u>Cooling Down Excessive Window's 11 CPU Usage with Interrupts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-into-language-models-how-does-gpt-stack-up-against-bert/"><u>Delving Into Language Models: How Does GPT Stack Up Against BERT?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finders-folio-the-top-6-strategies-for-capturing-folder-and-file-paths-in-win11/"><u>Finder's Folio: The Top 6 Strategies for Capturing Folder & File Paths in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-high-network-activity-caused-by-svchostexe-netsvcs/"><u>How to Reduce High Network Activity Caused by svchost.exe NETSVCS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-typing-setup-when-the-at-symbol-doesnt-work/"><u>How To Repair Your Typing Setup When the 'At' Symbol Doesn’t Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-update-obstacles-expert-advice-and-solutions/"><u>Overcoming Windows 11 Update Obstacles: Expert Advice & Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shared-experiences-the-unspoken-challenges-of-moving-to-ios-18-on-iphones/"><u>Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-resolved-windows-updates-now-working/"><u>Successfully Resolved: Windows Updates Now Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-pro-4-camera-malfunction-effective-fixes-for-windows-10-users/"><u>Surface Pro 4 Camera Malfunction - Effective Fixes for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-google-hangouts-mic-fixes-for-common-problems/"><u>Troubleshoot Your Google Hangouts Mic - Fixes for Common Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pasting-problems-a-guide-for-windows-11-users/"><u>Troubleshooting Pasting Problems: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-secrets-to-studio-level-audio-on-your-phone-a-look-at-apples-iphone-16-pro-sound-mix-technology-analysis/"><u>Unlocking the Secrets to Studio-Level Audio on Your Phone: A Look at Apple's iPhone 16 Pro Sound Mix Technology Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030351650-usbdvd/"><u>USBへのDVDコピーと保存：ステップバイステップチュートリアル</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-were-your-imessages-undelivered-last-day-uncover-the-reasons-with-insights/"><u>Why Were Your iMessages Undelivered Last Day? Uncover the Reasons with Insights</u></a></li>
 </ul></div>
 

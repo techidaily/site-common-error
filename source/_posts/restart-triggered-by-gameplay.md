@@ -1,7 +1,7 @@
 ---
 title: "[RESTART] Triggered By Gameplay"
-date: 2025-01-12T16:19:01.217Z
-updated: 2025-01-16T16:30:46.488Z
+date: 2025-01-17T20:27:49.761Z
+updated: 2025-01-22T18:42:21.557Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 5. [**Adjust the size of your virtual memory**](#m5)
 6. [**Run System File Checker**](#m6)
 7. [**Check for viruses and malware**](#m7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Lower in-game settings
 
@@ -67,19 +59,11 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/graphic-chipset-1.jpg)
 4. Restart your computer and check if your game now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Clear your temp files
 
@@ -96,7 +80,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Run a memory check
@@ -108,14 +92,22 @@ OR
 2. If you want to run the check immediately, click**Restart now and check for problems (recommended)** . If you want to check later, click**Check for Problems the next time I start my computer** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67cd8214e.jpg)
 3. When Windows restarts, this screen will appear showing the progress of the check and the number of passes it’ll run on your memory card.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa89992510a.jpg)  
  If you don’t see any errors, your memory card probably isn’t causing your problem, and you can move on to Method 5, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -129,14 +121,26 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6b4c54aa9.jpg)
 2. Click the**Advanced** tab, then click the**Settings** button in the Performance section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6db7a7b90.jpg)
 3. From the**Advanced** tab, click**Change…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e0a6f204.jpg)
 4. De-select**Automatically manage paging file size for all drives** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e4d0df27.jpg)
 5. **Select** your system drive ( the hard drive or partition where you installed your system — usually**C:** ), and select**Custom size** , enter the**Initial size** and**Maximum size** for your virtual memory. Click**Set** , then**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    * **Initial size** — This value varies, depending on your computer. If you’re not sure what value to use, enter the**Recommended** size.  
    * **Maximum size** — Don’t set this value too high. It should be about**1.5 times** the size of your physical RAM. For example, a computer with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4,096 MB x 1.5).  
@@ -153,18 +157,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa7486e289d.jpg)
 2. Type **sfc /scannow** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa7493ccb0a.jpg)
 3. It should begin running a system scan and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 7: Check for viruses and malware
 
@@ -195,21 +195,19 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-mobile-overlay-tools-top-10-innovative-photo-enhancers/"><u>[Updated] Free Mobile Overlay Tools - Top 10 Innovative Photo Enhancers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-creating-compelling-call-to-actions-utilizing-three-critical-copy-techniques/"><u>[Updated] In 2024, Creating Compelling Call-To-Actions Utilizing Three Critical Copy Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-new-to-youtube-how-to-skip-the-top-8-common-errors-on-your-platform-journey/"><u>[Updated] New to YouTube How to Skip the Top 8 Common Errors on Your Platform Journey</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-valheim-vegetation-value-optimal-sapling-guidance/"><u>[Updated] Valheim Vegetation Value Optimal Sapling Guidance</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-win-10s-update-hurdle-fixes-for-error-code-0x800f0922-in-8-steps/"><u>Beat Win 10'S Update Hurdle: Fixes for Error Code 0X800F0922 in 8 Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-video-error-code-22403-easy-steps-to-resume-viewing-successfully/"><u>Bypass Video Error Code 22403: Easy Steps to Resume Viewing Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-dll-file-absence-how-to-fix-vcruntime140dll-error-swiftly/"><u>Dealing with DLL File Absence: How to Fix VCRUNTIME140.dll Error Swiftly</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-dns-server-top-4-simple-fixes/"><u>Fix a Non-Responsive DNS Server: Top 4 Simple Fixes</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/guide-pratique-pour-capturer-lecran-la-webcam-and-le-son-avec-winxvideo-ai-sur-windows/"><u>Guide Pratique Pour Capturer L’Écran, La Webcam & Le Son Avec Winxvideo AI Sur Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-computer-keeps-freezing-issues/"><u>How To Fix Computer Keeps Freezing Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-and-ios-a-beginners-approach-to-vr-videos/"><u>In 2024, IPhone & IOS A Beginner's Approach to VR Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneering-teams-changing-vrs-course-for-2024/"><u>Pioneering Teams Changing VR's Course for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/power-your-day-with-essential-windows-10-hacks/"><u>Power Your Day with Essential Windows 10 Hacks</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-cwindowssystem32configsystemprofiledesktop-not-accessible-issue/"><u>Resolving the 'C: Windows System32 Config SystemProfile Desktop Not Accessible' Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-vanishing-mouse-pointer-in-windows-10/"><u>Resolving the Issue of Vanishing Mouse Pointer in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compilation-of-devout-ringtones/"><u>[Updated] The Ultimate Compilation of Devout Ringtones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/4-solutions-for-the-mystery-of-quirky-marks-on-macbooks/"><u>4 Solutions for the Mystery of Quirky Marks on MacBooks</u></a></li>
+<li><a href="https://win11.techidaily.com/check-if-your-pc-meets-windows-11-criteria/"><u>Check If Your PC Meets Windows 11 Criteria</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-fixes-for-quick-recovery-from-windows-setup-errors/"><u>Fast Fixes for Quick Recovery From Windows Setup Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-your-system-error-with-missing-or-not-found-d3d9dll/"><u>Fix Your System Error with Missing or Not Found d3d9.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-delayed-typing-fast-and-easy-methods-for-a-responsive-keyboard/"><u>Fixing Delayed Typing - Fast & Easy Methods for a Responsive Keyboard</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-play-8t-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Play 8T</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-n53-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme Narzo N53 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/raucous-revelations-top-10-scenarios-for-comedy-driven-videography-for-2024/"><u>Raucous Revelations Top 10 Scenarios for Comedy-Driven Videography for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connection-errors-in-geforce-experience-settings-retrieval/"><u>Resolving Connection Errors in GeForce Experience Settings Retrieval</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-compliant-with-all-configurations-yet-lacking-response/"><u>System Compliant with All Configurations Yet Lacking Response</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-missing-device-drivers-on-windows-7-installation/"><u>Troubleshooting Guide: Missing Device Drivers on Windows 7 Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-hello-isnt-available-on-this-device-on-windows-10-solved/"><u>Windows Hello Isn’t Available on This Device on Windows 10 [Solved]</u></a></li>
 </ul></div>
 

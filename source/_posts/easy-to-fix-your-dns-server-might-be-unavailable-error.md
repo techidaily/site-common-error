@@ -1,7 +1,7 @@
 ---
 title: Easy to Fix Your DNS Server Might Be Unavailable Error
-date: 2025-01-10T16:28:00.872Z
-updated: 2025-01-16T16:03:41.897Z
+date: 2025-01-16T18:10:34.996Z
+updated: 2025-01-22T17:14:36.283Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 3. **[Update your mouse and/or keyboard driver](#c)**
 4. **[Check for Windows Updates](#d)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the keyboard troubleshooter
 
  The keyboard troubleshooter is a built-in utility in Windows designed to identify and automatically rectify common keyboard or mouse errors. To use this troubleshooter, follow these steps:
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 **1)** On your keyboard, press the **Windows logo** key and type **troubleshoot** . Then, select **Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click **Keyboard** , then click**Run the troubleshooter** .
 
@@ -65,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-530.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under**View by** , select **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-531.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**Mouse** .
 
@@ -82,12 +74,16 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Check to see if your mouse can work properly now.
 
 If your problem persists, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your mouse and/or mouse driver
 
@@ -130,7 +126,7 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Updates
@@ -144,6 +140,10 @@ OR
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer after the update is complete.
 
@@ -171,14 +171,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unlock-your-potential-dominant-tiktok-campaigns-and-techniques/"><u>[Updated] Unlock Your Potential Dominant TikTok Campaigns and Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-perfect-picture-presentation-tools/"><u>2024 Approved Perfect Picture Presentation Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/live-recording-gadgets-for-youtube-content-creators-for-2024/"><u>Best Live Recording Gadgets for YouTube Content Creators for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-defeating-error-code-0x800705b4-during-windows-update-in-windows-10-expert-solutions-revealed/"><u>Decoding and Defeating Error Code 0X800705B4 During Windows Update in Windows 10 – Expert Solutions Revealed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-note-to-call-how-to-convert-tamil-songs-into-ringtones/"><u>In 2024, Note to Call How To Convert Tamil Songs Into Ringtones</u></a></li>
-<li><a href="https://common-error.techidaily.com/innovative-solutions-to-get-your-ps4-microphone-working-again/"><u>Innovative Solutions to Get Your PS4 Microphone Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-steps-to-repair-specified-module-not-located-error/"><u>Resolving Issues: Steps to Repair 'Specified Module Not Located' Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-surface-computer-not-charging-despite-being-plugged-in/"><u>Solving the Dilemma: Surface Computer Not Charging Despite Being Plugged In</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-there-is-a-problem-with-this-windows-installer-package/"><u>[FIXED] There Is a Problem with This Windows Installer Package</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-raw-footage-to-final-cut-youtube-and-its-equivalents/"><u>[New] From Raw Footage to Final Cut YouTube and Its Equivalents</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unveiling-fbs-topest-latest-perks/"><u>2024 Approved Unveiling FB's Topest Latest Perks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/capture-and-broadcast-seamlessly-using-manycam-the-ultimate-choice-for-virtual-camcorder-and-online-recording-solution/"><u>Capture & Broadcast Seamlessly Using ManyCam: The Ultimate Choice for Virtual Camcorder & Online Recording Solution</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-the-modern-content-creators-dilemma-for-2024/"><u>Decoding the Modern Content Creator's Dilemma for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-optimize-and-reduce-svchostexe-cpu-usage-on-windows-11-the-ultimate-fixes/"><u>Expert Tips to Optimize and Reduce svchost.exe CPU Usage on Windows 11 - The Ultimate Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix FRP Without Computer</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/macmovavi-photoeditor/"><u>Mac用的Movavi PhotoEditor:专业修图与图片编辑解决方案</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-11-reducing-ms-compatibility-telemetrys-impact-on-hard-drive-space/"><u>Optimizing Windows 11: Reducing MS Compatibility Telemetry's Impact on Hard Drive Space</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-tips-navigate-past-windows-error-code-0x887a0006-effortlessly/"><u>Quick-Fix Tips: Navigate Past Windows Error Code 0X887A0006 Effortlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reviewing-the-pinnacle-of-tv-tech-lg-27ud88-uhd-oled-hdtv/"><u>Reviewing the Pinnacle of TV Tech - LG 27UD88-UHD OLED HDTV</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-when-logitech-keyboard-not-detected-by-windows-11/"><u>Solving the Issue When Logitech Keyboard Not Detected by Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-windows-update-problem-fixing-error-code-0x802n4002e/"><u>Solving the Windows Update Problem: Fixing Error Code 0X802n4002E</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-device-drivers-not-found-error-in-windows-7/"><u>Step-by-Step Solution for 'Device Drivers Not Found' Error in Windows 7</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-essential-manual-for-youtube-to-gif-conversion-online/"><u>The Essential Manual for YouTube-to-GIF Conversion Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-your-pcs-persistent-freezing-problem/"><u>Ultimate Guide: Resolving Your PC's Persistent Freezing Problem</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-a78-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo A78 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

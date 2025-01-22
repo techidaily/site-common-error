@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Updates Not Installing? Here's Your Comprehensive Solution Guide
-date: 2024-09-04T20:18:15.603Z
-updated: 2024-09-05T20:18:15.603Z
+date: 2025-01-17T21:15:05.668Z
+updated: 2025-01-22T18:25:08.030Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)  
 
  Choose to view on**Driver** pane.  
@@ -46,18 +50,24 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -71,17 +81,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -90,12 +92,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -109,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +112,22 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[Updated] 2024 Approved The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dominate-search-results-essential-tips-for-optimizing-youtube-videos-for-2024/"><u>[Updated] Dominate Search Results Essential Tips for Optimizing YouTube Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-unresponsive-backspace-buttons/"><u>Diagnosing and Repairing Unresponsive Backspace Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-fix-errors-where-windows-cant-find-printer-driver/"><u>Effortlessly Fix Errors Where Windows Can't Find Printer Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-getting-past-windows-installation-configuration-errors/"><u>Expert Advice: Getting Past Windows Installation Configuration Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-module-not-found-errors-in-development/"><u>Expert Tips for Overcoming 'Module Not Found' Errors in Development</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-apple-m1-explained-the-future-in-your-hands/"><u>In 2024, Apple M1 Explained The Future in Your Hands</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-enhance-your-conference-experience-with-webcam-recordings/"><u>In 2024, Enhance Your Conference Experience with Webcam Recordings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-made-easy-ultimate-guide-to-manycam-features-and-virtual-camera-solutions/"><u>Live Streaming Made Easy: Ultimate Guide to ManyCam Features and Virtual Camera Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-crypto-transactions-a-comprehensive-guide-on-purchasing-and-utilizing-digital-coins-with-yl-computing-solutions/"><u>Mastering Crypto Transactions: A Comprehensive Guide on Purchasing & Utilizing Digital Coins with YL Computing Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/patch-notes-review-correcting-league-of-legends-connection-vexation-for-enhanced-gaming-experience/"><u>Patch Notes Review: Correcting League of Legends' Connection Vexation for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-unsupported-codecs-a-guide/"><u>Resolving Unsupported Codecs: A Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-airdrop-issues-fast/"><u>Troubleshooting Guide: Fixing AirDrop Issues Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ps4-connection-a-comprehensive-fix-for-failed-nat-types/"><u>Troubleshooting PS4 Connection: A Comprehensive Fix for Failed NAT Types</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-fixes-resolving-windows-11s-dark-display-dilemma/"><u>Troubleshooting the Fixes: Resolving Windows 11'S Dark Display Dilemma</u></a></li>
+</ul></div>
 

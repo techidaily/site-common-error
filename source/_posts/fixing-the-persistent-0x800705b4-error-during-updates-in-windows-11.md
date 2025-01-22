@@ -1,7 +1,7 @@
 ---
 title: Fixing the Persistent 0X800705b4 Error During Updates in Windows 11
-date: 2024-12-31T19:47:59.307Z
-updated: 2025-01-04T00:40:07.770Z
+date: 2025-01-15T17:21:28.812Z
+updated: 2025-01-22T20:14:29.996Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
 
 **a)**  First, you should run your**security software** to**scan out malicious programs** . Viruses or malware on your computer (if any) can affect your system and cause the 0xc0000005 error. You should run a virus scan before going to any further troubleshooting.
@@ -52,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **c)**  Sometimes the error appears due to**corrupted Registry** . You can **[restore your Registry](https://tools.techidaily.com/drivereasy/download/)**  or check all your Registry entries and remove any redundant one.
 
 **However** , you should note that modifying registry is an**advanced and complicated job** . Any improper manipulation can bring unexpected consequences to your Registry and therefore to your computer. If you are a computer novice, you can find a computer expert to help you solve the problem. If you insist on doing it yourself. It is strongly recommended that you**back up** your Registry before you proceed.
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 **d)**  In addition to all the causes above, an**incompatible** **RAM** (Random Access Memory, shown by images below, an essential part of the computer) can also result in Access violation error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
@@ -106,12 +106,16 @@ To resolve this error, you can try the methods below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
@@ -140,13 +144,13 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
 
@@ -180,10 +184,6 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
@@ -191,7 +191,7 @@ bootrec /rebuildbcd
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
@@ -215,24 +215,18 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723207550094-no-device-drivers-were-found-when-installing-windows-7-solved/"><u>‘No Device Drivers Were Found’ when Installing Windows 7 [Solved]</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-dive-into-dollars-15-online-stock-market-experts/"><u>[New] In 2024, Dive Into Dollars 15 Online Stock Market Experts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-explore-advanced-techniques-making-a-difference-with-your-captivating-slow-motion-videos-and-photos-for-instagram/"><u>[Updated] 2024 Approved Explore Advanced Techniques Making a Difference with Your Captivating Slow-Motion Videos & Photos for Instagram</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-comprehensible-guide-to-authoritative-testimonial-films/"><u>[Updated] In 2024, A Comprehensible Guide to Authoritative Testimonial Films</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-compreenas-for-snapchat-success-stories/"><u>[Updated] The Compreenas for SnapChat Success Stories</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-sony-xperia-1-v-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Sony Xperia 1 V Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/convert-your-laptop-into-a-full-desktop-experience-with-this-compact-multimedia-docking-station-insights-from-zdnet/"><u>Convert Your Laptop Into a Full Desktop Experience with This Compact Multimedia Docking Station: Insights From ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-techniques-to-repair-unresponsive-ps4-controller-sync-issue/"><u>DIY Techniques to Repair Unresponsive PS4 Controller Sync Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-correcting-non-registered-windows-10-system-components/"><u>Guide to Correcting Non-Registered Windows 10 System Components</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-device-connectivity-problems-for-effective-casting/"><u>How to Resolve Windows 11 Device Connectivity Problems for Effective Casting</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-the-mystery-of-an-unidentified-usb-gadget-device-descriptor-problems/"><u>How to Solve the Mystery of an Unidentified USB Gadget (Device Descriptor Problems)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-90-lite-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor 90 Lite Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-proplus-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 Pro+ 5G Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/ineteresourcenotfound-problem-strategies-for-rectification-and-improvement/"><u>INET_E_RESOURCE_NOT_FOUND Problem? Strategies for Rectification and Improvement</u></a></li>
-<li><a href="https://common-error.techidaily.com/microsoft-print-to-pdf-malfunctioning-heres-how-to-fix-it-on-windows-11/"><u>Microsoft Print to PDF Malfunctioning? Here's How to Fix It on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-improving-your-keyboards-reaction-time-quickly/"><u>Simple Solutions: Improving Your Keyboard's Reaction Time Quickly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-streaming-hd-dvd-movies-with-your-home-theater-pc/"><u>Ultimate Guide to Streaming HD DVD Movies with Your Home Theater PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-pc-unexplained-breaks/"><u>Windows 11 PC: Unexplained Breaks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-relaxation-reigns-top-pc-titles/"><u>[New] In 2024, Relaxation Reigns Top PC Titles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-integrating-songs-and-snaps-online/"><u>[Updated] Integrating Songs and Snaps Online</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-comprehensive-guide-to-fixing-update-error-with-code-0x8024401c-on-windows-1110/"><u>A Comprehensive Guide to Fixing 'Update Error' With Code 0X8024401c on Windows 11/10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-career-in-ai-discover-the-best-five-specialized-courses-for-prompt-engineering/"><u>Ace Your Career in AI: Discover the Best Five Specialized Courses for Prompt Engineering</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-in-technology-meet-kaley-torres-at-the-helm-of-digiarty-software/"><u>Expertise in Technology: Meet Kaley Torres at the Helm of Digiarty Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-directory-name-is-incorrectly-set-up-error/"><u>Fixing the Issue: 'Directory Name' Is Incorrectly Set Up Error</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-acer-bluetooth-driver-secure-and-easy-installation/"><u>Get Your Acer Bluetooth Driver - Secure & Easy Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-an-issue-occurred-when-reinstalling-windows-11-message/"><u>How to Resolve the 'An Issue Occurred When Reinstalling Windows 11' Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-update-errors-successfully-installing-the-windows-10-may-2019-v1903-upgrade/"><u>Overcoming Windows Update Errors: Successfully Installing the Windows 10 May 2019 (v1903) Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-escaping-the-endless-loop-of-windows-configuration-preparation/"><u>Solution Guide: Escaping the Endless Loop of Windows Configuration Preparation</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-pdf-printers-discover-swift-solutions/"><u>Trouble With PDF Printers? Discover Swift Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-chromebook-video-editor-roundup-top-picks-for-2024/"><u>Updated Chromebook Video Editor Roundup Top Picks for 2024</u></a></li>
 </ul></div>
 

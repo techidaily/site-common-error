@@ -1,7 +1,7 @@
 ---
 title: DIY Fix for Dolby Home Theater Malfunction When Using Windows 11 – A Comprehensive Guide
-date: 2025-01-01T22:58:41.524Z
-updated: 2025-01-03T22:27:09.239Z
+date: 2025-01-20T16:55:40.313Z
+updated: 2025-01-22T20:35:07.660Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -38,7 +34,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -55,17 +51,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -78,6 +78,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
@@ -85,6 +89,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -99,10 +107,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -120,15 +124,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -154,18 +154,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>[New] 2024 Approved The Elevation of Professional Display An In-Depth Examination of the BL2711U</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-chroma-keying-in-video-making-for-2024/"><u>[New] How to Use Chroma Keying in Video Making for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tailored-techniques-to-procure-tweets-gifs-for-2024/"><u>[New] Tailored Techniques to Procure Tweets GIFs for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-inshot-evaluation-how-it-stacks-up-in-editing-arena-for-2024/"><u>[Updated] InShot Evaluation How It Stacks Up in Editing Arena for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-speed-filled-guide-to-double-exposure-methods-for-2024/"><u>[Updated] Speed-Filled Guide to Double Exposure Methods for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-disk-read-errors-a-comprehensive-guide-to-overcoming-cddvd-player-error-39-issues/"><u>Beat Disk Read Errors: A Comprehensive Guide to Overcoming CD/DVD Player Error 39 Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-issues-with-unresponsive-dhcp-servers-solutions-and-tips/"><u>Fixing Issues with Unresponsive DHCP Servers - Solutions and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-missing-msvcp140dll-accurately/"><u>Fixing Missing MSVCP140.dll Accurately</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-remedy-for-timeout-error-fixing-the-service-did-not-respond-issue/"><u>Immediate Remedy for Timeout Error - Fixing the Service Did Not Respond Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/investigating-the-reasons-behind-unprompted-start-ups-in-windows-11-systems/"><u>Investigating the Reasons Behind Unprompted Start-Ups in Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-issues-the-newest-fix-for-the-acpi-drivers-in-dells-smo8-cuisine/"><u>Resolving Issues: The Newest Fix for the ACPI Drivers in Dell's SMO8 Cuisine.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-advanced-llms-on-future-search-engine-dominance-is-chatgpt-a-concern/"><u>The Impact of Advanced LLMs on Future Search Engine Dominance: Is ChatGPT a Concern?</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-and-bluetooth-woes-heres-how-to-make-your-peripherals-visible-again/"><u>Windows 10 and Bluetooth Woes? Here's How to Make Your Peripherals Visible Again</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unlock-the-secrets-of-building-budget-friendly-youtube-ads/"><u>[Updated] 2024 Approved Unlock the Secrets of Building Budget-Friendly YouTube Ads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-step-by-step-approach-to-youtube-copyright-mastery/"><u>2024 Approved Your Step-by-Step Approach to YouTube Copyright Mastery</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-secret-ingredient-for-enhanced-marketing-analytics/"><u>Cookiebot: The Secret Ingredient for Enhanced Marketing Analytics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/editorial-powerhouses-free-for-web-enthusiasts/"><u>Editorial Powerhouses Free for Web Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-overcome-driver-failed-after-adjusting-user-preferences/"><u>Fixing the Issue: Overcome 'Driver Failed' After Adjusting User Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-a-failed-to-initialize-device-driver-error-setup-guide-for-users/"><u>How to Correct a 'Failed to Initialize Device Driver' Error: Setup Guide for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-failed-remote-function-invocation-in-your-network/"><u>How to Fix a Failed Remote Function Invocation in Your Network</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-master-of-mayhem-top-10-roguelites/"><u>In 2024, Master of Mayhem Top 10 Roguelites</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-d3d9-creation-faults-expert-tips-for-video-card-issues/"><u>Overcoming D3D9 Creation Faults: Expert Tips for Video Card Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206948543-quick-fix-for-0x800f0831-error-update-your-windows-today/"><u>Quick Fix for 0X800F0831 Error - Update Your Windows Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-handling-sudden-shutdowns-while-gaming-on-multiple-versions-of-windows-operating-systems/"><u>Solutions for Handling Sudden Shutdowns While Gaming on Multiple Versions of Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-microsoft-store-connectivity-issues-causing-non-opening-scenarios/"><u>Step-by-Step Fix for Microsoft Store Connectivity Issues Causing Non-Opening Scenarios</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-troubleshoot-windows-updates-not-progressing-past-1n/"><u>Step-by-Step Guide to Troubleshoot Windows Updates Not Progressing Past 1N%</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-showing-your-iphones-display-on-a-windows-or-mac-computer/"><u>Step-by-Step Guide: Showing Your iPhone's Display on a Windows or Mac Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trusted-results-with-movavi-premier-multimedia-editing-tools/"><u>Trusted Results with Movavi – Premier Multimedia Editing Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-stream-anything-to-chromecast-the-ultimate-video-format-guide-for-2024/"><u>Updated Stream Anything to Chromecast The Ultimate Video Format Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-essentials-repair-and-restoration-solutions/"><u>Windows Update Essentials: Repair & Restoration Solutions</u></a></li>
 </ul></div>
 

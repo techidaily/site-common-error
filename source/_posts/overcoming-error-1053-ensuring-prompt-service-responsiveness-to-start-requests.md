@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Error 1053: Ensuring Prompt Service Responsiveness to Start Requests"
-date: 2025-01-15T16:13:55.191Z
-updated: 2025-01-16T16:26:29.879Z
+date: 2025-01-16T20:53:35.899Z
+updated: 2025-01-22T18:21:02.461Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 fixes for **Skype mic is not working**
 
  All the screenshots below are are Windows 10, but the fixes also work in Windows 8.1 and 7\. Just work your way down the list until the **microphone on Skype not working** problem is solved.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Tweak your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reinstall Skype**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow Skype to access your microphone
 
@@ -48,8 +48,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21c099eec3.jpg)
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
@@ -67,14 +75,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -90,10 +94,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27cb3d565f.jpg)
 3. Click the   **Update** button next to a flagged audio  driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27e508edd4.jpg)
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
@@ -101,7 +101,7 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Tweak your audio settings
@@ -113,6 +113,11 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
@@ -122,10 +127,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
@@ -157,17 +158,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-dissecting-and-defeating-dreadful-greenscreen-a-mac-editors-directive-for-2024/"><u>[New] Dissecting & Defeating Dreadful Greenscreen A Mac Editor's Directive for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>[New] In 2024, The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-90-lite-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 90 Lite</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-darkness-expert-tips-for-solving-obs-game-capturing-issues/"><u>Beat the Darkness: Expert Tips for Solving OBS Game Capturing Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-pcs-performance-expert-strategies-for-window-10-enhancement/"><u>Boost Your PC's Performance: Expert Strategies for Window 10 Enhancement</u></a></li>
-<li><a href="https://common-error.techidaily.com/feature-update-to-windows-10-version-1803-failed-solved/"><u>Feature Update to Windows 10 Version 1803 Failed [SOLVED]</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-14-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 14 Pro Max without Password?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-instagram-enhancement-picture-posting-guide/"><u>In 2024, Instagram Enhancement Picture Posting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-pc-restart-overcoming-trouble-with-windows-10-power-down/"><u>Mastering PC Restart: Overcoming Trouble with Windows 10 Power Down</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-xiaomi-redmi-k70-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Xiaomi Redmi K70</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphone-14-battery-performance-key-insights/"><u>Understanding iPhone 14 Battery Performance: Key Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-arent-the-function-keys-responding-solving-problems-with-your-asus-laptop/"><u>Why Aren't the Function Keys Responding? Solving Problems with Your Asus Laptop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses/"><u>[New] Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-high-visibility-features-mastering-snapchats-star/"><u>[New] High-Visibility Features Mastering Snapchat's Star</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-harmony-hub-tech-evolution/"><u>[Updated] 2024 Approved Harmony Hub Tech Evolution</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-which-gopro-to-buy-the-complete-gopro-comparison-guide/"><u>2024 Approved Which GoPro to Buy The Complete Gopro Comparison Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-miracast-not-available-hurdle-top-strategies-for-ensuring-device-compatibility-in-2hren/"><u>Beat the 'Miracast Not Available' Hurdle - Top Strategies for Ensuring Device Compatibility in 2Hren</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-3d-text-psd-files/"><u>Best Free 3D Text PSD Files</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/breaking-boundaries-top-10-novel-facebook-memes-for-2024/"><u>Breaking Boundaries Top 10 Novel Facebook Memes for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/deciphering-wow-flaw-fix-no-51900319/"><u>Deciphering WoW Flaw: Fix No. 51900319</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-demystified-effortless-solutions-to-restore-your-windows-update-functionality/"><u>Error 0X8024200D Demystified: Effortless Solutions to Restore Your Windows Update Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-activate-directx-11-features-if-your-gpu-does-not-support-them-initially/"><u>How to Activate DirectX 11 Features if Your GPU Does Not Support Them Initially</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-a-directory-name-error-on-your-website/"><u>How to Correct a Directory Name Error on Your Website</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-initialization-woes-fixing-network-connection-in-dragon-ball-fighterz/"><u>Overcoming Initialization Woes: Fixing Network Connection in Dragon Ball FighterZ</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-network-disconnection-glitches-in-monster-hunter-world-for-pc/"><u>Resolving Network Disconnection Glitches in Monster Hunter World for PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-swift-and-smooth-ipad-recordings/"><u>The Ultimate Guide to Swift and Smooth iPad Recordings</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-object-enumeration-failed-problem-in-windows-nplus1-setup-expert-advice-solved/"><u>Troubleshooting the Object Enumeration Failed Problem in Windows N+1 Setup – Expert Advice [Solved]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpts-latest-feature-can-its-music-maker-outshine-audiosun-and-suno/"><u>Unveiling ChatGPT's Latest Feature - Can Its Music Maker Outshine AudioSUN and Suno?</u></a></li>
 </ul></div>
 

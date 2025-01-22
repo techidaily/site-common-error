@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Epson Scan Non-Responsiveness"
-date: 2024-12-24T20:58:27.231Z
-updated: 2024-12-25T18:25:19.963Z
+date: 2025-01-20T20:34:59.587Z
+updated: 2025-01-22T19:18:59.228Z
 tags:
   - win11
   - win10
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Press Fn + Esc on your keyboard
 
  This method is very simple. Just press Fn + Esc on your keyboard. It has worked for some Dell laptop users. Why not have a try?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update Related Drivers
 
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
@@ -62,24 +66,20 @@ Follow these steps:
 
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. View by Large icons and select**Windows Mobility Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3\. In the Windows Mobility Center window, locate Fn Key Behavior. Click the drop-down arrow and select**Function key** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4： Try Uninstalling and reinstalling the keyboard drivers**
@@ -91,7 +91,7 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Expand category**Keyboards** , Right-click on the keyboard device, and click**Uninstall device** from the pop-up menu. Then follow the on-screen instructions.
@@ -121,22 +121,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-sync-across-platforms-downloading-and-storing-gifs-from-facebook-for-2024/"><u>[New] Sync Across Platforms Downloading and Storing GIFs From Facebook for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieve-high-definition-quality-with-video-enhancer-22-tutorial/"><u>Achieve High-Definition Quality with Video Enhancer 2.2 Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/best-electrolytes-for-hero5-authentic-and-3rd-party-companies/"><u>Best Electrolytes for Hero5 - Authentic & 3Rd Party Companies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/combat-automatic-sleep-mode-easy-remedies-for-stable-pc-performance/"><u>Combat Automatic Sleep Mode – Easy Remedies for Stable PC Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/elevate-your-windows-11-gaming-performance-essential-adjustments-and-tweaks/"><u>Elevate Your Windows 11 Gaming Performance – Essential Adjustments & Tweaks</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-driverpowerstatefailure-issue/"><u>How to Fix DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-excessive-cpu-usage-from-iastordatasvc-service-on-windows-10-32-bit-resolved/"><u>How to Fix Excessive CPU Usage From IAStorDataSvc Service on Windows 10 (32 Bit) [Resolved]</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-a78-phone-by-drfone-android/"><u>How to Reset a Locked Oppo A78 Phone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-the-marketplace-30-advanced-fb-techniques-explored/"><u>In 2024, Mastering the Marketplace 30 Advanced FB Techniques Explored</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-google-pixel-fold-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Google Pixel Fold Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-malfunctioning-keyboard-backlights-on-pcmac-systems/"><u>Step-by-Step Solution for Malfunctioning Keyboard Backlights on PC/Mac Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208083482-stuck-with-a-non-printable-pdf-heres-how-to-solve-it-fast/"><u>Stuck with a Non-Printable PDF? Here's How to Solve It Fast!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/ultimate-software-guide-for-video-game-shows-for-2024/"><u>Ultimate Software Guide for Video Game Shows for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/winkernel-power-failure-error-41-fixed/"><u>WinKernel Power Failure: Error #41 Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-correcting-the-direct-x-version-10-error-for-optimal-performance/"><u>WWE 2K Battlegrounds: Correcting the Direct X Version 10 Error for Optimal Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-efficient-image-capturing-made-simple-the-best-pc-snipers-listed-for-2024/"><u>[New] Efficient Image Capturing Made Simple The Best PC Snipers Listed for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-video-capturing-across-devices-and-platforms/"><u>[New] In 2024, Mastering Video Capturing Across Devices and Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/eamlessly-transferring-youtube-videos-to-your-instagram-account/"><u>[New] Seamlessly Transferring YouTube Videos to Your Instagram Account</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-your-instareel-game-with-unbeatable-slow-motion-techniques/"><u>[Updated] Enhancing Your InstaReel Game with Unbeatable Slow Motion Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-favorite-frames-socials-1-8-vids/"><u>2024 Approved Favorite Frames Social's #1-#8 Vids</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-problem-0x800f0831-swiftly-using-the-latest-windows-patches/"><u>Bypassing Problem 0X800F0831 Swiftly Using the Latest Windows Patches</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-restoring-a-malfunctioning-windows-11-start-interface/"><u>Diagnosing and Restoring a Malfunctioning Windows 11 Start Interface</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-guide-to-install-winx-youtube-downloader-beginner-friendly-tutorial/"><u>Easy Guide to Install WinX YouTube Downloader - Beginner-Friendly Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-updateerror-on-windows-11-resolve-0x80240034-issue/"><u>How to Fix the 'Update_Error' On Windows 11 – Resolve 0X80240034 Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repairing-unidentified-usb-equipment-a-step-by-step-fix-for-port-reset-failures-in-windows-10/"><u>Mastering the Art of Repairing Unidentified USB Equipment: A Step-by-Step Fix for Port Reset Failures in Windows 10</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-bring-your-art-to-life-top-7-animation-software-for-2024/"><u>New Bring Your Art to Life Top 7 Animation Software for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/screen-sync-error-resolved-update-and-adjust-for-compatible-display-response-times/"><u>Screen Sync Error Resolved: Update and Adjust for Compatible Display Response Times</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-overcoming-windows-driver-power-failures/"><u>Step-by-Step Solution: Overcoming Windows Driver Power Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-managing-high-cpu-load-due-to-wudfhost-service-in-windows-11/"><u>Tips for Managing High CPU Load Due to WUDFHost Service in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-macx-avi-converter-transform-your-media-into-any-video-type-without-payment/"><u>Top Rated MacX Avi Converter - Transform Your Media Into Any Video Type without Payment!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/understanding-the-inner-workings-of-youtube-post-upload/"><u>Understanding the Inner Workings of YouTube Post-Upload</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-success-a-step-by-nstep-strategy-to-overcome-windows-update-issue-0x80240017/"><u>Unlocking Success: A Step-by-nStep Strategy to Overcome Windows Update Issue 0X80240017</u></a></li>
 </ul></div>
 

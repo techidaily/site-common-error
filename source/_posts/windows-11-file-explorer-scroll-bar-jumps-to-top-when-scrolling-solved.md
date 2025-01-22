@@ -1,7 +1,7 @@
 ---
 title: Windows 11 File Explorer - Scroll Bar Jumps to Top when Scrolling [Solved]
-date: 2024-08-31T17:39:32.191Z
-updated: 2024-09-01T17:39:32.191Z
+date: 2025-01-20T16:10:44.133Z
+updated: 2025-01-22T16:42:19.809Z
 tags:
   - win11
   - win10
@@ -19,39 +19,27 @@ If you are having problem making your scroll bar scroll to position other than t
   
 Let me be more clear to see if the description fits your situation: you open a folder in your**File Explorer**, let say, to see the pictures. After you finish viewing the first screen of the pictures, you want to scroll down a little bit to see more, but you find the scroll bar on the side won’t budge, it just keeps jumping to the top position no matter how many times you roll your mouse wheel.
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/scroll-bar-keeps-on-top.jpg)
 
 To solve this problem, you just need to do the following moves.
   
 1) Follow the path:**Start**button**\> Settings > Personalization**.
   
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-settings-personalization-600x444.jpg)
 
 2) On the left side of the pane, choose**Colors**, and the on the right side of the pane, make sure the option**Automatically pick and accent color from my background**option is slide to **Off**.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/automatically-pick-and-accent-color-from-my-background.jpg)
 
 There you go, problem solved.
   
 The problem will also be gone if you reset your desktop wallpaper from Slideshow to a static picture. If you are still having this problem, it’s always worth a shot.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,4 +48,30 @@ The problem will also be gone if you reset your desktop wallpaper from Slideshow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-innovative-thumbnail-techniques-to-boost-your-youtube-visibility/"><u>[New] 2024 Approved Innovative Thumbnail Techniques to Boost Your YouTube Visibility</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-song-guide-for-newbies-for-2024/"><u>[New] The Ultimate Song Guide for Newbies for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-tips-for-youtube-audio-optimization/"><u>[Updated] 2024 Approved Essential Tips for YouTube Audio Optimization</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-advanced-techniques-to-record-and-edit-videos-on-adobe-connect-for-2024/"><u>[Updated] Unlock Advanced Techniques to Record & Edit Videos on Adobe Connect for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-magic-demystifying-its-code-translation-capabilities/"><u>ChatGPT's Magic: Demystifying Its Code Translation Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965711551-download-the-newest-dolby-sound-drivers-for-windows-11-10-and-81-now-available/"><u>Download the Newest Dolby Sound Drivers for Windows 11, 10, and 8.1 - Now Available!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-broken-usb-input-devices-in-microsofts-windows-xpvista7-platform/"><u>Effective Fixes for Broken USB Input Devices in Microsoft's Windows XP/Vista/7 Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-the-long-delay-alert-in-semaphore-systems-fix-for-error-code-0x80070079/"><u>Eliminate the Long Delay Alert in Semaphore Systems - Fix for Error Code 0X80070079</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-darkness-to-display-troubleshooting-guide-to-fix-google-chromes-black-out-problem/"><u>From Darkness to Display: Troubleshooting Guide to Fix Google Chrome's Black Out Problem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/future-cinema-the-vr-impact-for-2024/"><u>Future Cinema The VR Impact for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-failing-remote-procedure-call-comprehensive-guide/"><u>How to Fix a Failing Remote Procedure Call - Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-master-bluetooth-on-windows-11-expert-strategies-for-flawless-device-sync/"><u>How to Master Bluetooth on Windows 11: Expert Strategies for Flawless Device Sync</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-13-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 13 Pro/iPad/iPod</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-zero-30-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Zero 30 5G Face Lock?</u></a></li>
+<li><a href="https://common-error.techidaily.com/non-responsive-component-in-correctly-configured-system/"><u>Non-Responsive Component in Correctly Configured System</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimal-cameras-compatible-with-windows-hello/"><u>Optimal Cameras Compatible with Windows Hello</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-unsolicited-boot-solving-the-mystery-of-self-activating-pcs-in-windows-10/"><u>Preventing Unsolicited Boot: Solving the Mystery of Self-Activating PCs in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tier-surveillance-alert-why-the-waterproof-blink-mini-2-stands-above-all-wyze-cam-alternatives-zdnet-insights/"><u>Top-Tier Surveillance Alert! Why the Waterproof Blink Mini 2 Stands Above All Wyze Cam Alternatives | ZDNET Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208660770-troubleshooting-hp-laptop-usb-connectivity-fixes-and-solutions/"><u>Troubleshooting HP Laptop USB Connectivity: Fixes & Solutions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

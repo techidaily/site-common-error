@@ -1,7 +1,7 @@
 ---
 title: Impact of D3D Device Disappearance on Unreal
-date: 2025-01-13T16:24:31.685Z
-updated: 2025-01-16T16:11:46.083Z
+date: 2025-01-18T20:40:03.856Z
+updated: 2025-01-22T17:47:10.567Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -58,7 +54,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -75,6 +71,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -84,10 +84,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -107,15 +103,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -138,17 +134,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,20 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-conceal-dont-reveal-how-to-blur-faces-online/"><u>[New] 2024 Approved Conceal, Don't Reveal How to Blur Faces Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-keeps-crashing/"><u>[SOLVED] Windows 11 Keeps Crashing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-xbox-fanatics-manual-perfect-your-screenshot-skills-for-2024/"><u>[Updated] Xbox Fanatics' Manual Perfect Your Screenshot Skills for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-x-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone X How to Bypass?</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-tips-for-dealing-with-a-non-functioning-notebook-touchpad/"><u>Comprehensive Tips for Dealing with a Non-Functioning Notebook Touchpad</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202427841-expert-tips-to-optimize-and-fast-track-your-windows-the-boot-sequence-for-a-smoother-start-every-time/"><u>Expert Tips to Optimize and Fast-Track Your Windows the Boot Sequence for a Smoother Start Every Time.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-4630-upgrade-software-release/"><u>HP Printer 4630 Upgrade Software Release</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y17s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y17s to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-precision-in-panorama-steadying-the-gopro-sight/"><u>In 2024, Precision in Panorama Steadying the GoPro Sight</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-review-of-lg-bp350-for-home-theaters/"><u>In 2024, Ultimate Review of LG BP350 for Home Theaters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-key-scenes-a-filmmakers-guidebook-for-2024/"><u>Mastering Key Scenes A Filmmaker's Guidebook for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-loadlibrary-failed-with-error-t-87-problem-by-adjusting-incorrect-parameters/"><u>Overcome the 'Loadlibrary Failed with Error T 87' Problem by Adjusting Incorrect Parameters</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-user-privilege-issues-fixing-operation-needs-admin-access-in-windows-11-10-and-7/"><u>Resolving User Privilege Issues: Fixing 'Operation Needs Admin Access' In Windows 11, 10 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/unblocking-the-path-expert-tips-for-fixing-steams-failed-downloads/"><u>Unblocking the Path: Expert Tips for Fixing Steam's Failed Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>[New] Boost Your Visibility with a Cutting-Edge Set of Banners!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-discover-freely-accessible-video-tricks/"><u>[New] Discover Freely Accessible Video Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-flipping-the-script-in-photography-how-angles-can-make-or-break-your-insta-posts-for-2024/"><u>[New] Flipping the Script in Photography How Angles Can Make or Break Your Insta Posts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-alchemy-converting-ordinary-into-extraordinary/"><u>[Updated] Image Alchemy Converting Ordinary Into Extraordinary</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-become-an-nft-expert-with-these-top-7-creative-tools/"><u>[Updated] In 2024, Become an NFT Expert with These Top 7 Creative Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beneath-the-surface-assessing-huawei-p10-writability-features-for-2024/"><u>Beneath the Surface Assessing Huawei P10' Writability Features for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-gaming-experience-on-steam-fixing-installation-and-update-hiccups-swiftly/"><u>Error-Free Gaming Experience on Steam - Fixing Installation and Update Hiccups Swiftly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-linksys-ea9500-a-deep-dive-into-next-gen-network-performance/"><u>Exploring the Linksys EA9500: A Deep Dive Into Next-Gen Network Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 13 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-frozen-updates-on-outdated-operating-systems-latest-solutions-for-users-seeking-assistance-in-the-year-of-our-lord-two-thousand-and-twenty-four-g85/"><u>Overcoming Frozen Updates On Outdated Operating Systems – Latest Solutions for Users Seeking Assistance In The Year Of Our Lord Two Thousand And Twenty Four (Guide, Helpful Tips & Troubleshooting Steps)</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-c65-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco C65 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-your-ps4s-sound-problems-expert-guide-to-identifying-and-fixing/"><u>Understanding Your PS4's Sound Problems: Expert Guide to Identifying and Fixing</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-10-reset-failures-expert-fixes-for-pc-restoration-errors-in-depth-guide/"><u>Winning Against Windows 10 Reset Failures: Expert Fixes for PC Restoration Errors [In-Depth Guide]</u></a></li>
 </ul></div>
 

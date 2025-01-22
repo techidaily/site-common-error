@@ -1,7 +1,7 @@
 ---
 title: "Navigating System Files: Is MSDA80.DLL Essential to Preserve?"
-date: 2024-12-30T00:25:20.090Z
-updated: 2025-01-03T23:44:30.835Z
+date: 2025-01-20T20:06:11.971Z
+updated: 2025-01-22T16:44:10.718Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Window Update is an important component of your Windows system. It helps you ins
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Run Windows Update Troubleshooter
 
 Windows Update Troubleshooter is a tool released by Microsoft that can help you troubleshoot issues with your Windows Update. You can run it to check your Windows Update when it fails to work properly. To do so:**1)**Download **[Windows Update Troubleshooter](https://aka.ms/diag%5Fwu)** (the program is from a Microsoft site and it’s verified and safe).**2)** Run the tool you’ve just downloaded and follow the on-screen instructions to complete the troubleshooting process.
@@ -39,16 +43,12 @@ Windows Update Troubleshooter is a tool released by Microsoft that can help you 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c046d056cc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Reset the Windows Update related components
 
 Your Windows Update may fail to update your Windows because its components are corrupted. These components include the services and temporary files and folders associated with Windows Update. You can try resetting these components and see if this can fix your problem. To reset these components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right-click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * _**net stop bits**_
 * _**net stop wuauserv**_
@@ -82,11 +82,11 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fafbba7758.png)
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
 
 **4)**Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)** . Then search for the updates you have failed to install.
 
@@ -96,13 +96,13 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb49473bae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click the link on the new window to download the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb79898ae2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)**Open the file you’ve just downloaded and follow the on-screen instructions to install the update.
 
@@ -112,16 +112,24 @@ It’s also possible that your Windows Update can’t work because of the corrup
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbd72bc9a4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** In Command Prompt, to run System File Checker, type “_**sfc /scannow**_” and press**Enter**on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbe8bbd499.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**To run DISM, type “_**dism /online /cleanup-image /restorehealth**_“. and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbeb602fef.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**Wait for the process to complete, then restart your computer. After that, check to see if your Windows Update recovers.
@@ -142,24 +150,16 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc666d51a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**System Restore**. The System Restore wizard will pop up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc6fa8971e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to choose a system restore point and restore your Windows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc712671f3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Wait for the restore process to complete and then check to see if your Windows Update gets back to normal.
@@ -182,20 +182,18 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-incompatibility-issue-current-input-timings-unsupported-on-your-display-screen/"><u>[FIXED] Incompatibility Issue: Current Input Timings Unsupported on Your Display Screen</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-boosting-engagement-adjusting-speed-of-instagram-stories/"><u>[New] Boosting Engagement Adjusting Speed of Instagram Stories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-ignite-engagement-on-twitch-alive-tweeting-techniques/"><u>[New] Ignite Engagement on Twitch Alive Tweeting Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rofessional-thumbnails-from-your-phone-for-youtube-for-2024/"><u>[New] Professional Thumbnails From Your Phone for YouTube for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-discover-the-leading-8-web-resources-for-free-3d-text-psdfiles-for-2024/"><u>[Updated] Discover the Leading 8 Web Resources for Free 3D Text PSDFiles for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-cure-white-monitor-issue-in-laptops-easily/"><u>Diagnose & Cure White Monitor Issue in Laptops Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/display-driver-error-resolved-overcoming-stopped-responding-issues/"><u>Display Driver Error Resolved: Overcoming 'Stopped Responding' Issues</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-level-file-deletion-with-stellars-winstandard-eraser-version-5-uncompromising-quality-guaranteed/"><u>Expert-Level File Deletion with Stellar's WinStandard Eraser Version 5 - Uncompromising Quality Guaranteed</u></a></li>
-<li><a href="https://common-error.techidaily.com/google-chrome-fixed-how-to-troubleshoot-non-responsiveness-problems/"><u>Google Chrome Fixed: How to Troubleshoot Non-Responsiveness Problems</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-just-initial-acquisition/"><u>In 2024, Just Initial Acquisition</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211990213-papillary-carcinoma-is-the-most-common-form-of-thyroid-cancer-and-generally-has-an-excellent-prognosis/"><u>Papillary Carcinoma Is the Most Common Form of Thyroid Cancer and Generally Has an Excellent Prognosis</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-windows-11-installation-problem-80240020-resolved/"><u>Troubleshooting Step-by-Step: Windows 11 Installation Problem 80240020 Resolved</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ultimate-box-office-hype-films-for-2024/"><u>Ultimate Box Office Hype Films for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-downloading-and-installing-hp-envy-5660-drivers/"><u>Ultimate Guide to Downloading and Installing HP Envy 5660 Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-race-against-time-boosting-your-windows-10-pcs-shutdown-speed/"><u>Winning the Race Against Time: Boosting Your Windows 10 PC's Shutdown Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-ais-boundless-potential-secret-methods/"><u>Accessing AI's Boundless Potential: Secret Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-watch-series-7-discover-cost-estimates-sales-start-time-and-complete-device-specifications/"><u>Apple Watch Series 7 - Discover Cost Estimates, Sales Start Time, And Complete Device Specifications</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-mend-internet-explorer-has-stopped-working-errors/"><u>Comprehensive Guide to Mend 'Internet Explorer Has Stopped Working' Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-and-preventing-ineteresourcenotfound-glitches-successfully/"><u>Expert Advice: Correcting and Preventing INET_E_RESOURCE_NOT_FOUND Glitches Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/genetic-mutations-such-as-braf-and-ras-are-commonly-implicated-in-papillary-thyroid-carcinoma-with-targeted-therapies-available-to-address-these-specific-al75/"><u>Genetic Mutations Such as BRAF and RAS Are Commonly Implicated in Papillary Thyroid Carcinoma, with Targeted Therapies Available to Address These Specific Alterations</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-troubleshooting-windows-1011-plus-acer-laptop/"><u>Keyboard Troubleshooting: Windows 10/11 + Acer Laptop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-kids-app-named-one-of-google-plays-best-apps-of-2017back-buttonfilter-button/"><u>Mondly Kids App Named One Of Google Play's Best Apps Of 2017Back ButtonFilter Button</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-digital-landscapes-smart-use-of-facebooks-timers/"><u>Navigating Digital Landscapes: Smart Use of Facebook’s Timers</u></a></li>
+<li><a href="https://common-error.techidaily.com/reboot-required-for-next-game-start/"><u>Reboot Required for Next Game Start</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-v29e-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo V29e</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-overcoming-challenges-in-casting-from-windows-10-systems/"><u>Solved! Overcoming Challenges in Casting From Windows 10 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-your-chromecast-device/"><u>Step-by-Step Guide: Updating Your Chromecast Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
 

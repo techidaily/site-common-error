@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Lowering High CPU Usage by svchost.exe on Windows 10 Devices – Solved
-date: 2025-01-14T16:17:27.856Z
-updated: 2025-01-16T16:32:42.384Z
+date: 2025-01-16T17:11:29.346Z
+updated: 2025-01-22T20:55:44.627Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
  1) Right-click the taskbar at the bottom of your PC desktop and click **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
@@ -76,26 +84,26 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9) See if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Empty event viewer log**
@@ -106,23 +114,23 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
- 4) Restart your computer after this.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Restart your computer after this.
 
 ## **4: Troubleshoot Windows Updates issues**
 
@@ -141,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -160,19 +168,11 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,24 +189,18 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[New] 2024 Approved Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-direct-from-instagram-masterful-techniques-for-igtv-video-transferring-for-2024/"><u>[New] Direct From Instagram Masterful Techniques for IGTV Video Transferring for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rom-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools-for-2024/"><u>[New] From Raw Video to Engaging YouTube Videos with Sony Vegas Tools for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-boosting-collaboration-mastery-of-zoom-capabilities-in-win10/"><u>[New] In 2024, Boosting Collaboration Mastery of Zoom Capabilities in Win10</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-cutting-edge-strategies-for-recording-online-classes/"><u>[New] In 2024, Cutting-Edge Strategies for Recording Online Classes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-gear-360-vs-lgcam-determining-best-in-3d-capture/"><u>[Updated] In 2024, Gear 360 vs LGCam Determining Best in 3D Capture</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-comprehensive-guide-to-ultimate-video-editing-vivacut-24-edition/"><u>[Updated] The Comprehensive Guide to Ultimate Video Editing VivaCut '24 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/breaking-free-how-to-fix-the-windows-10-endless-recovery-cycle/"><u>Breaking Free: How to Fix the Windows 10 Endless Recovery Cycle</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-x50i-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor X50i</u></a></li>
-<li><a href="https://common-error.techidaily.com/effectively-managing-elevated-cpu-utilization-in-system-idle-tasks-a-solution-guide/"><u>Effectively Managing Elevated CPU Utilization in System Idle Tasks: A Solution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-invalid-directory-name-error-step-by-step-troubleshooting-guide/"><u>How to Fix 'Invalid Directory Name' Error: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-note-30-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Note 30 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-outage-or-glitch-heres-how-you-can-get-it-running-smoothly-again/"><u>Netflix Outage or Glitch? Here's How You Can Get It Running Smoothly Again</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-anatomy-of-great-lower-thirds-a-guide-for-fcpx-editors/"><u>New 2024 Approved The Anatomy of Great Lower Thirds A Guide for FCPX Editors</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-issues-with-the-battleye-anti-cheat-installation/"><u>Resolved: Fixing Issues with the BattlEye Anti-Cheat Installation</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210106262-troubleshoot-windows-10-bluetooth-not-detected-with-ease/"><u>Troubleshoot Windows 10 Bluetooth Not Detected with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-error-with-steam-apps-dll/"><u>Troubleshooting Error with Steam App's Dll</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-rapid-ascension-of-scroll-bars-in-windows-11s-file-explorer-a-complete-guide/"><u>Troubleshooting the Rapid Ascension of Scroll Bars in Windows 11'S File Explorer: A Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-understanding-unexpected-auto-boot-in-windows-10-systems/"><u>Unraveling the Mystery: Understanding Unexpected Auto-Boot in Windows 10 Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exploring-roleplayings-boundaries-rogues-and-roguities/"><u>[New] 2024 Approved Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inpointing-your-place-in-youtubes-varied-landscapes-for-2024/"><u>[New] Pinpointing Your Place in YouTube's Varied Landscapes for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-to-creating-your-dream-wedding-slideshow/"><u>Easy Guide to Creating Your Dream Wedding Slideshow!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-common-hamachi-disconnection-problems/"><u>Fixing The Common Hamachi Disconnection Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-windows-update-error-with-code-0x80070490-solution/"><u>How To Correctly Address the Windows Update Error with Code 0X80070490 [SOLUTION]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-solution-how-to-fix-a-severe-unsolvable-directx-glitch/"><u>Mastering the Solution: How to Fix a Severe, Unsolvable DirectX Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/msvcr71dll-was-not-found-solved/"><u>MSVCR71.dll Was Not Found [Solved]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pivotal-moments-in-figure-skating-22-highlights/"><u>Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-lava-yuva-2-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Lava Yuva 2 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-guide-to-file-backup-strategies-and-protecting-your-data-expert-advice-from-yl-computing/"><u>Step-by-Step Guide to File Backup Strategies and Protecting Your Data - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-pico-rp2040-development-boards-of-2024/"><u>Top Raspberry Pi Pico (RP2040) Development Boards of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unwanted-system-stops-on-windows-10/"><u>Unwanted System Stops on Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Application.exe Has Stopped Working"
-date: 2025-01-09T16:09:34.897Z
-updated: 2025-01-16T16:04:25.206Z
+date: 2025-01-17T20:32:27.515Z
+updated: 2025-01-22T20:18:14.912Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
 
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
@@ -66,13 +62,17 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -88,16 +88,12 @@ To do so:
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
@@ -105,6 +101,10 @@ To do so:
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -156,22 +156,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-essential-list-7-cost-free-video-tags-extractors-on-youtube-for-2024/"><u>[Updated] Essential List 7 Cost-Free Video Tags Extractors on YouTube for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-expertly-blending-tracks-using-audacity-crossfade-tools-for-2024/"><u>[Updated] Expertly Blending Tracks Using Audacity Crossfade Tools for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-slippery-slope-of-simulated-support-instagram-style/"><u>[Updated] In 2024, The Slippery Slope of Simulated Support, Instagram Style</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726227567286-movavi/"><u>無料で簡単に行えるオンラインツァグリッチ・アンド・ティファニーフォルムの変換 - Movavi ガイダンス</u></a></li>
-<li><a href="https://common-error.techidaily.com/binkw32dll-absent-error-remedies-how-to-restore-functionality-on-windows/"><u>Binkw32.dll Absent Error Remedies - How to Restore Functionality on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207857121-code-28-in-windows-device-manager-heres-how-to-fix-it-quickly/"><u>Code 28 in Windows Device Manager? Here's How to Fix It Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquer-windows-11-update-code-0x800f0922-your-ultimate-guide-to-8-solutions/"><u>Conquer Windows 11 Update Code 0X800f0922 - Your Ultimate Guide to 8 Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208122953-discover-hidden-touchpad-in-device-manager/"><u>Discover Hidden Touchpad in Device Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-correcting-no-signal-display-problem-without-fuss/"><u>Expert Advice: Correcting 'No Signal' Display Problem Without Fuss</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-i-fixed-my-dead-corsair-hs50-mic-sharing-the-effective-method/"><u>How I Fixed My Dead Corsair HS50 Mic: Sharing the Effective Method</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-magic-5-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Magic 5 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-solutions-for-audio-files-missing-dlls/"><u>Immediate Solutions for Audio Files' Missing DLLs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-reviving-your-windows-photo-viewer-approaches-for-w10-enthusiasts/"><u>In 2024, Reviving Your Windows Photo Viewer Approaches for W10 Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/instagram-a-comprehensive-guide-to-video-posting-for-2024/"><u>Instagram A Comprehensive Guide to Video Posting for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-connection-repairs-how-to-overcome-unable-to-connect-with-a-remote-server/"><u>Mastering Connection Repairs: How to Overcome 'Unable to Connect' With a Remote Server</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequential-screen-time-with-taylor-swift-in-film-and-tv/"><u>Sequential Screen Time with Taylor Swift in Film and TV</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-nokia-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>[New] 2024 Approved Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-skyrocket-your-e-commerce-with-these-15-facebook-analytics/"><u>[Updated] In 2024, Skyrocket Your E-Commerce with These 15 Facebook Analytics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/decoding-the-complexities-of-drone-photography-and-gimbals/"><u>Decoding the Complexities of Drone Photography and Gimbals</u></a></li>
+<li><a href="https://common-error.techidaily.com/dna-damage-and-mutations/"><u>DNA Damage and Mutations</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208316634-expert-tips-to-get-overwatch-voice-chat-working-again-no-hassle/"><u>Expert Tips to Get Overwatch Voice Chat Working Again – No Hassle!</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-algorithmic-recommendations-explained/"><u>Facebook's Algorithmic Recommendations Explained</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-easy-storage-solutions-for-androidmac-snaps-on-devices/"><u>In 2024, Easy Storage Solutions for Android/Mac Snaps on Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y100i-power-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y100i Power 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-successful-steps-to-resolve-error-code-1-new-best-seo-titles-for-google-search-fatal-installer-glitch-error-1603-solved/"><u>Master the Fix: Successful Steps to Resolve Error Code 1 # New Best SEO Titles for Google Search - Fatal Installer Glitch (Error 1603) Solved</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-revenue-with-youtube-shorts-strategies-for-2024/"><u>Maximize Revenue with YouTube Shorts Strategies for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-teredos-disqualification-hurdles-for-successful-implementation/"><u>Overcoming Teredo's Disqualification Hurdles for Successful Implementation</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-cannot-locate-suitable-printer-driver-error/"><u>Solution Steps for 'Windows Cannot Locate Suitable Printer Driver' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-overcoming-issues-when-teredo-cant-connect-properly/"><u>Solved: Overcoming Issues When Teredo Can’t Connect Properly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-cs-go-game-crashes-instantly-and-simply/"><u>Solving CS: GO Game Crashes Instantly and Simply</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-lag-issues-in-avatar-frontiers-of-pandora-fixes-for-frame-rate-drops-and-jitter/"><u>Solving Lag Issues in 'Avatar: Frontiers of Pandora' - Fixes for Frame Rate Drops & Jitter</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-fix-the-power-state-driver-failure-issue/"><u>Troubleshooting Tips to Fix the Power State Driver Failure Issue</u></a></li>
 </ul></div>
 

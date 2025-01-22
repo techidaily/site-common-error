@@ -1,7 +1,7 @@
 ---
 title: Optimize Mouse Wheel for PC Gains
-date: 2025-01-02T05:40:22.363Z
-updated: 2025-01-04T05:45:03.270Z
+date: 2025-01-20T20:19:54.264Z
+updated: 2025-01-22T21:14:29.484Z
 tags:
   - win11
   - win10
@@ -26,11 +26,19 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is ntoskrnl.exe?
 
  Ntoskrnl.exe, short for**Windows NT operating system kernel** , is a fundamental part of the system. Usually, when you see the uncommon usage of high CPU or memory, you should shut down the possible programs that are causing the problem.
 
  If this happens a lot, you should see if there is something wrong with certain application settings or files in your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix it?
 
@@ -52,15 +60,19 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Disable Windows Search service
 
@@ -71,11 +83,15 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 2. Expand**Services and Applications** and click**Services** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
 3. Double-click**Windows Search** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/windwos-search-6101.jpg)
 4. In the**General** tab, click **Stop** .  
@@ -89,17 +105,9 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 
  Some users say that this only happens when they use certain programs. Especially when they have antivirus software running in the background. The antivirus software might have some conflicts with certain programs. The next time you encounter this situation, try to pay extra attention to see if you can find the program that is messing with your system. If such a program can be located, try reinstallingit or uninstalling it completely.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Run SFC and DISM
 
  Corrupted system files may cause high CPU and disk usage with ntoskrnl.exe, but luckily, there are two built-in tools that can help to identify and repair such bad system files. The whole process could take some time, and we suggest you don’t run any other programs when doing the test. To run these tools:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.1\. Scan corrupt files with System File Checker
 
@@ -108,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -120,10 +128,6 @@ sfc /scannow
  3) System File Checker will then scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.2\. Run dism.exe
 
@@ -168,10 +172,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
 5. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <ins class="adsbygoogle"
@@ -189,20 +189,16 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-masterclass-naming-your-podcast-and-top-50plus-name-suggestions-for-inspiration/"><u>[New] 2024 Approved Masterclass Naming Your Podcast & Top 50+ Name Suggestions for Inspiration</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-peak-engagement-spark-plug/"><u>[New] 2024 Approved Peak Engagement Spark Plug</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-converting-your-cinematics-from-standard-definition-to-dynamic-range-dynamism-for-2024/"><u>[Updated] Converting Your Cinematics From Standard Definition to Dynamic Range Dynamism for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-tools-for-creatives-comprehensively-evaluating-ae-plugins/"><u>[Updated] Pro Tools for Creatives Comprehensively Evaluating AE Plugins</u></a></li>
-<li><a href="https://common-error.techidaily.com/avoid-costly-repairs-correctly-troubleshoot-and-mend-your-windows-10-touchscreen-here-5-methods/"><u>Avoid Costly Repairs - Correctly Troubleshoot and Mend Your Windows 10 Touchscreen Here (5 Methods)</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-windows-file-access-error-expert-solutions-and-tips/"><u>Dealing with 'Windows File Access Error': Expert Solutions and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/forgotten-sd-card-reclaim-detection-with-ease/"><u>Forgotten SD Card? Reclaim Detection with Ease!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-y17s-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo Y17s FRP In 3 Different Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/narratives-that-captivate-ai-and-video-games/"><u>Narratives That Captivate: AI and Video Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-start-guide-overcoming-common-fortnite-loading-difficulties/"><u>Quick-Start Guide: Overcoming Common Fortnite Loading Difficulties</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-twitch-streaming-issue-a-step-by-step-guide-for-error-code-4000/"><u>Resolving Twitch Streaming Issue: A Step-by-Step Guide for Error Code 4000</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-correctly-address-steam-gaming-software-update-mishaps/"><u>Steps to Correctly Address Steam Gaming Software Update Mishaps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-video-flv-gratuitamente-in-mkv-con-movavi-online-metodi-piu-veloci-e-facili/"><u>Trasforma I Tuoi Video FLV Gratuitamente in MKV Con Movavi Online – Metodi Più Veloci E Facili</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-missing-classes-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Missing Classes on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-customization-how-organizational-policies-shape-user-experience-and-settings/"><u>Windows Customization: How Organizational Policies Shape User Experience and Settings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elevate-ps2-gameplay-on-ios-devices/"><u>[Updated] Elevate PS2 Gameplay on iOS Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-meet-mycam-cam-the-home-video-revolution-unfolding/"><u>[Updated] In 2024, Meet MyCam Cam The Home Video Revolution Unfolding</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsungs-opponent-the-finest-non-gear-360-cameras/"><u>2024 Approved Samsung's Opponent The Finest Non-Gear 360 Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-list-of-leading-artificial-intelligence-apps-for-notetaking/"><u>Critical List of Leading Artificial Intelligence Apps for Notetaking</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-windows-update-stuck-at-0-issue/"><u>Easy to Fix Windows Update Stuck at 0% Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-secure-access-configuring-windows-hello-fingerprints/"><u>Enable Secure Access: Configuring Windows Hello Fingerprints</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-troubleshooting-of-persistent-windows-10-update-failures/"><u>Master the Troubleshooting of Persistent Windows 10 Update Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-an-unresponsive-microsoft-store-a-step-by-step-fix/"><u>Overcoming the Challenge of an Unresponsive Microsoft Store: A Step-by-Step Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-the-soundscape-solving-silent-issues-with-your-acer-pc/"><u>Revive the Soundscape: Solving Silent Issues with Your Acer PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-keyboard-activity-on-a-dell-computer/"><u>Step-by-Step Guide to Restore Keyboard Activity on a Dell Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-pcs-sound-device-drivers-across-windows-versions/"><u>Step-by-Step Guide: Updating Your PC's Sound Device Drivers Across Windows Versions</u></a></li>
 </ul></div>
 

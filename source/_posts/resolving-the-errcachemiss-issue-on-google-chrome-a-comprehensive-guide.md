@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_CACHE_MISS Issue on Google Chrome: A Comprehensive Guide"
-date: 2025-01-14T16:08:18.436Z
-updated: 2025-01-16T16:17:12.499Z
+date: 2025-01-20T18:08:44.472Z
+updated: 2025-01-22T18:46:39.513Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -41,10 +45,6 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -59,10 +59,6 @@ To rule out this as a possibility:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
@@ -92,21 +88,17 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -116,17 +108,25 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
@@ -156,24 +156,24 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-gaming-hits-with-powerful-hashtag-strategies/"><u>[New] Gaming Hits with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-comprehensive-guide-to-top-8-collaborative-video-collage-tools-android/"><u>[New] The Comprehensive Guide to Top 8 Collaborative Video Collage Tools (Android)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-list-of-top-tier-9-mic-recorder-apps/"><u>[Updated] 2024 Approved Essential List of Top-Tier 9 Mic Recorder Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-revamp-chromebooks-soundscape-with-our-picks-for-web-extensions/"><u>[Updated] 2024 Approved Revamp Chromebook's Soundscape with Our Picks for Web Extensions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-capture-chill-vibes-top-winter-bg-ideas-for-yt/"><u>[Updated] In 2024, Capture Chill Vibes Top Winter Bg Ideas for YT</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>[Updated] The Key to Stellar Zoom Calls Smart Use of Filters</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solution-for-dealing-with-failed-attempts-at-accessing-a-remote-server/"><u>Comprehensive Solution for Dealing With Failed Attempts at Accessing a Remote Server</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-strategies-to-overcome-recurring-freezing-errors-on-windows-or-mac-systems/"><u>Comprehensive Strategies to Overcome Recurring Freezing Errors on Windows or Mac Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-repairing-error-0x802n4401c-that-hampers-update-process-on-windows-10-and-11-machines/"><u>Expert Advice for Repairing Error 0X802n4401C That Hampers Update Process on Windows 10 & 11 Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-a-broken-internet-explorer-connection/"><u>Expert Tips for Repairing a Broken Internet Explorer Connection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-x50iplus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from X50i+?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-drone-equipment-collection-guide/"><u>In 2024, The Complete Drone Equipment Collection Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-windows-update-failure-error-0x80070002/"><u>Step-by-Step Guide to Correcting Windows Update Failure (Error 0X80070002)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-non-working-print-screen-button-on-pcs-with-windows-10-or-11/"><u>Step-by-Step Solutions for the Non-Working Print Screen Button on PCs with Windows 10 or 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-rated-apps-for-capturing-and-saving-videos-online-for-2024/"><u>Top-Rated Apps for Capturing & Saving Videos Online for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-making-bluetooth-appear-in-your-computers-device-manager/"><u>Troubleshooting Tips for Making Bluetooth Appear in Your Computer's Device Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcome-the-hurdle-of-error-0x800f0831-using-windows-update-features/"><u>Troubleshooting Tips: Overcome the Hurdle of Error 0X800f0831 Using Windows Update Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-11-keyboard-lag-effective-fixes-revealed/"><u>Winning Against Window's 11 Keyboard Lag - Effective Fixes Revealed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-from-basic-to-exceptional-a-step-by-step-thumbnail-guide/"><u>[Updated] 2024 Approved From Basic to Exceptional A Step-by-Step Thumbnail Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-uncovering-the-best-apps-to-transform-your-speech/"><u>[Updated] 2024 Approved Uncovering the Best Apps to Transform Your Speech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-efficient-path-to-time-stamped-image-documentation/"><u>[Updated] The Efficient Path to Time-Stamped Image Documentation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-setup-with-new-release-z270-carbon-chipset-and-graphics-combo-available-to-download/"><u>Boost Your Setup with New Release: Z270 Carbon Chipset & Graphics Combo Available to Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-user-configuration-errors-fixing-set-user-settings-to-driver-failed/"><u>Expert Advice: Resolving User Configuration Errors - Fixing 'Set User Settings To Driver Failed'</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-your-windows-10-screensaver-functionality/"><u>Expert Tips for Restoring Your Windows 10 Screensaver Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-breaking-ssltls-handshake-in-firefox-browser/"><u>How to Fix a Breaking SSL/TLS Handshake in Firefox Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-users-from-tampering-with-windows-time/"><u>How To Stop Users From Tampering with Windows Time</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-gionee-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Gionee</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/intelligent-innovation-in-security-a-detailed-examination-of-the-ring-doorbell-pro/"><u>Intelligent Innovation in Security: A Detailed Examination of the Ring Doorbell Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-repair-success-restoring-type-functionality-step-by-step/"><u>Keyboard Repair Success: Restoring Type Functionality Step by Step</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mp4twitter2-2024/"><u>MP4形式に転写するための最新Twitter動画変換法2つ - 2024バージョン</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-10-health-understanding-the-power-of-sfc-and-dism-repair-methods/"><u>Optimizing Windows 10 Health: Understanding the Power of SFC and DISM Repair Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-soundscape-how-to-update-focusrites-scarlett-6i6/"><u>Seamless Soundscape: How to Update Focusrite's Scarlett 6I6</u></a></li>
+<li><a href="https://common-error.techidaily.com/tech-trouble-gaming-interruptions-in-windows-os/"><u>Tech Trouble: Gaming Interruptions in Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-selection-of-the-top-8-tv-streaming-sites-to-watch-in-202/"><u>The Definitive Selection of the Top 8 TV Streaming Sites to Watch in 202</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-unresponsive-mousepad-issues-in-windows-1187-systems/"><u>Troubleshoot and Resolve Unresponsive Mousepad Issues in Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-servers-not-available-error-on-destiny-2-expert-tips-and-fixes/"><u>Troubleshooting 'Servers Not Available' Error on Destiny 2 - Expert Tips and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-cast-troubles-heres-how-you-can-get-it-working-smoothly-again/"><u>Windows 10 Cast Troubles? Here's How You Can Get It Working Smoothly Again</u></a></li>
 </ul></div>
 

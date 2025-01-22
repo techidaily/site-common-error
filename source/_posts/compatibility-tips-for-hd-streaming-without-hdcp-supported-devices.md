@@ -1,7 +1,7 @@
 ---
 title: Compatibility Tips for HD Streaming Without HDCP Supported Devices
-date: 2024-08-31T17:42:48.407Z
-updated: 2024-09-01T17:42:48.407Z
+date: 2025-01-17T17:06:04.520Z
+updated: 2025-01-22T17:06:55.628Z
 tags:
   - win11
   - win10
@@ -15,18 +15,12 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 
 ## Critical Update for FTDI Systems: Avoid Compatibility Errors and Preserve Memory Integrity
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-48.png)
 
  Memory Integrity can’t be turned on due to incompatible driver ftdibus.sys
 
  No need to worry much about it if your Memory Integrity is turned off due to incompatible drivers like ftdibus.sys: for one, Windows Defender is already strong enough to fend off malware for you, so Memory Integrity is more like the icing on the cake. For two, it’s not that hard a problem to fix. We have here 3 ways that you can get the incompatible fdtibus.sys driver problem fixed. Read on and see more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## How to fix the incompatible fdtibus.sys driver that turns off Memory Integrity
 
  Generally speaking, you can reinstall or update the incompatible driver mentioned in Core Isolation to fix the fdtibus.sys driver issue. The tricky part is how you can do it, without harming the functionality of the mentioned driver. Follow the instructions below to see how this can be done easily.
@@ -46,16 +40,19 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-49.png)
 2. Type this command:**`pnputil.exe -d oem<NUMBER>.inf`** and hit**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The <NUMBER> here should be filled with the number you see on your computer. For instance, I’m seeing**51** , so my command should be**`pnputil.exe -d oem51.inf`** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-50.png)
 3. This is how the command looks like on my computer. Hit**Enter** when the command is typed in.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-51.png)
 4. When you see**Driver package deleted successfully** , restart your computer for the ftdibus.sys driver to be install automatically by Windows again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-52.png)
@@ -63,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
  Go go the Core Isolation window again to see if the fdtibus.sys driver is still regarded as an incompatible driver that stops Memory Integrity from turning on. If so, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update ftdibus.sys driver
 
@@ -81,15 +82,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-53.png)
 3. Click to download the driver that works for your OS.  
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-54.png)
 4. When the driver download is done, unzip or extract the driver file folder, and right-click the**ftdibus.inf** file and select**Install** to run the driver installation.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-55.png)
 5. Restart your computer for the change to take effect.
 
@@ -103,12 +102,14 @@ The ultimate burning program for all your needs!</a>
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -127,8 +128,6 @@ Then check if your Memory Integrity can be turned on again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,26 @@ Then check if your Memory Integrity can be turned on again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-a-practical-guide-elevating-your-podcast-with-an-iconic-title-for-2024/"><u>[New] A Practical Guide Elevating Your Podcast with an Iconic Title for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-15-no-cost-image-editing-apps-top-picks-of-2023/"><u>[New] Leading 15 No-Cost Image Editing Apps - Top Picks of 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-error-code-0x80073cf9-in-windows-11-store/"><u>[Solved] Error Code 0X80073cf9 in Windows 11 Store</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-get-paid-to-review-products-on-youtube/"><u>[Updated] How to Get Paid to Review Products on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-nine-leading-iphone-image-watermarking-tools-analysis/"><u>[Updated] In 2024, Nine Leading iPhone Image Watermarking Tools Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-lava-agni-2-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Lava Agni 2 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-iphone-backup-strategies-using-icloud-and-mac-tools-expert-advice-by-zdnet-unveiled/"><u>Effortless iPhone Backup Strategies Using iCloud and Mac Tools, Expert Advice by ZDNET Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-secure-socket-layer-issues-on-the-firefox-platform/"><u>Expert Tips for Overcoming Secure Socket Layer Issues on the Firefox Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-on-unsupported-graphics-drivers-a-comprehensive-fix/"><u>How to Enable Miracast on Unsupported Graphics Drivers - A Comprehensive Fix</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/masterclass-in-tablet-selection-prioritizing-weight-and-display-for-optimal-use/"><u>Masterclass in Tablet Selection: Prioritizing Weight and Display for Optimal Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-replacing-missing-xinput13dll-files/"><u>Mastering The Art: Replacing Missing XINPUT1_3.dll Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-dns-error-instantly-using-our-4-step-guide/"><u>Resolve 'DNS Error' Instantly Using Our 4 Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-upside-down-in-windows-10-fixed/"><u>Screen Upside Down in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/spreading-smiles-crafting-visual-jokes-for-fbinstagram-shares-for-2024/"><u>Spreading Smiles Crafting Visual Jokes for FB/Instagram Shares for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-replacing-computer-hardware-components-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Replacing Computer Hardware Components with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-updateinstallation-error-0x80070643/"><u>Troubleshooting Guide: Resolving Windows Update/Installation Error 0X80070643</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sign-in-issues-user-profile-service-errors-in-windows/"><u>Troubleshooting Sign-In Issues: User Profile Service Errors in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-issues-with-built-in-solutions-the-power-of-sfc-and-dism/"><u>Troubleshooting Windows 10 Issues with Built-In Solutions: The Power of SFC & DISM</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-controller-unleash-potential-for-pc-play/"><u>Xbox One Controller: Unleash Potential for PC Play</u></a></li>
+</ul></div>
 

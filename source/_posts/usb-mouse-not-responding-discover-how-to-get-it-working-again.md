@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Not Responding? Discover How to Get It Working Again!
-date: 2024-08-31T17:42:02.155Z
-updated: 2024-09-01T17:42:02.155Z
+date: 2025-01-18T20:41:17.654Z
+updated: 2025-01-22T17:41:24.154Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/db7a51fc88bb312b4c001dc26d2d013159de6bfbe
 
 ## PS4 Controller Not Charging? Here's How to Get It Working Again
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503449d171d.jpg)
 
  When you plug your PS4 controller with the charging cable, the light on the front of it doesn’t light up at all? But rest assured, you’re not alone; many PS4 users are struggling with the**PS4 controller won’t charge** problem. More importantly, you can fix it with this guide. Read on to find out how…
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes for PS4 Controller Won’t Charge
 
 1. **[Reset your PS4 controller](#solution1)**
@@ -33,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/db7a51fc88bb312b4c001dc26d2d013159de6bfbe
 4. **[Check the charging port of your PS4 controller](#solution4)**
 5. **[Replace the batteries of your PS4 controller](#solution5)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Solution 1: Reset your PS4 controller
 
  Generally, the PS4 controller not charging issue is caused by the malfunctioned controller itself. So, as the initial solution, we recommend you reset your PS4 controller.
@@ -44,9 +38,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 You can easily reset your controller through these several steps:
 
 1. Find**the reset button** on your controller: it’s a very small hole on the back of your controller and under the L2 button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503f4b68e7f.jpg)
 2. Put a toothpick or a similar object into the reset hole; press the button; hold it down for a few seconds and then release.
 3. Your controller should then restart. Once it gets started, try to charge it again to see if successful.
@@ -57,15 +48,19 @@ You can easily reset your controller through these several steps:
 
 Just put your PS4 controller upside down and then charge it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3: Check the charging cable of your PS4 controller
 
  Sometimes, your PS4 not charging problem could be due to the charging USB cable. Follow the steps below to check if there’s any problem with your USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a504e5686cb2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Charge your other controller if you have one with the same charging USB cable.
 2. If the other controller does charge, then the problem is on your cable’s side. Please skip to the following solution. If the other controller also does not charge, it seems there’s something wrong with your USB cable. Please go on with the next step.
@@ -75,8 +70,9 @@ Just put your PS4 controller upside down and then charge it.
  So please**use an official charging USB cable** to charge your controller. If you lost the USB cable coming with your PS4, you can buy an official one from Sony.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 4: Check the charging port of your PS4 controller
 
  Like the charging cable, a bad charging port on your PS4 controller could also prevent your controller from charging.
@@ -84,6 +80,10 @@ Just put your PS4 controller upside down and then charge it.
  Follow to check if there’s something wrong with your charging port:
 
  Charge your other controller if you have one with the same charging USB cable. If the other controller does charge, there’s probably some problem with the charging port with your not charging controller. You then need to replace the charging port with a new one. If you’re not sure how to do it, you can ask for help from[the official PlayStation website](http://www.playstation.com/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5: Replace the batteries of your PS4 controller
 
@@ -95,14 +95,11 @@ Just put your PS4 controller upside down and then charge it.
 
 * [PlayStation 4 (PS4)](/tag-search/?tagId=180)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +108,23 @@ Just put your PS4 controller upside down and then charge it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-harness-the-power-of-gopro-for-captivating-time-lapse-videos/"><u>[New] 2024 Approved Harness the Power of GoPro for Captivating Time-Lapse Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-becoming-an-expert-in-fisheye-panoramic-shots/"><u>[New] In 2024, Becoming an Expert in Fisheye Panoramic Shots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unblocking-video-sharing-how-to-solve-fb-chat-issues-for-iphonesandroid/"><u>[New] In 2024, Unblocking Video Sharing How to Solve FB Chat Issues for iPhones/Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tiny-content-overview-made-easy/"><u>[New] Tiny Content Overview Made Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-usb-to-hdmi-adapter-not-working/"><u>[SOLVED] USB to HDMI Adapter Not Working</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-premium-top-11-list-audio-recording-essentials/"><u>[Updated] 2024 Approved Premium Top 11 List - Audio Recording Essentials</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-low-cost-recording-choices-top-11-vlogger-essentials/"><u>[Updated] In 2024, Low-Cost Recording Choices Top 11 Vlogger Essentials</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-pcs-shutdown-time-with-these-tips-for-windows-11-users/"><u>Accelerate Your PC's Shutdown Time with These Tips for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-fixing-inoperative-webcams-on-a-windows-machine/"><u>Comprehensive Solutions for Fixing Inoperative Webcams on a Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-silent-microphone-problem-in-your-corsair-hs50-setup/"><u>Diagnosing and Fixing the Silent Microphone Problem in Your Corsair HS50 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-malfunctioning-usb-hubs-on-windows-11-systems/"><u>Diagnosing and Repairing Malfunctioning USB Hubs on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-how-to-set-a-custom-ringtone-on-your-iphone-x/"><u>Easy Steps: How to Set a Custom Ringtone on Your iPhone X</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-dealing-with-a-malfunctioning-mic-on-your-arctis-7-by-steelseries/"><u>Effective Solutions for Dealing with a Malfunctioning Mic on Your Arctis 7 by SteelSeries</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30i-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30i</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-file-error-resolved-complete-restoration-of-missing-game-content/"><u>Steam File Error Resolved: Complete Restoration of Missing Game Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11s-troublesome-touchscreen-try-these-five-fixes/"><u>Windows 11'S Troublesome Touchscreen? Try These Five Fixes!</u></a></li>
+</ul></div>
 

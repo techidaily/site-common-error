@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: IPhone Stuck on 'Charged' But Won't Charge – Solutions Inside"
-date: 2024-08-31T17:41:21.163Z
-updated: 2024-09-01T17:41:21.163Z
+date: 2025-01-21T20:04:57.885Z
+updated: 2025-01-22T20:06:43.308Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 **Function keys (Fn keys) not working** on your computer’s keyboard? You would be very annoyed and frustrated. But don’t worry. You won’t be stuck with it forever. Here we’ve put together 4 methods for your to try. Read on and see how…
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Check if the function keys are locked](#f1)**
@@ -27,28 +28,27 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 3. **[Update your keyboard driver](#f3)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check if the function keys are locked
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Sometimes the function keys on your keyboard could be locked by the F lock key. As a result, you can’t use function keys. Check if there was any key like**F Lock** ![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) or **F Mode** ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.png) key on your keyboard. If there is one key like that, press that key and then check if the Fn keys could work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Try to press these keys
 
  As many users reported, they make their function keys work again by pressing the**F11** or**F12** key. You can give it a shot and see if it also helps you solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### ```` ```` ``
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  If the keyboard driver on your computer is old or incompatible, functions keys may not function either. You can solve it easily through updating your keyboard driver.
@@ -59,10 +59,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 To update your drivers with Driver Easy, just click the **Scan Now**  button, then when it lists the drivers you need to update, click **Update**  . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you update your keyboard driver, restart your computer and check if Fn keys work now.  
 ``
@@ -81,8 +82,6 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,4 +89,22 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-uncover-5-windows-11-tools-for-professional-audio-recording/"><u>[New] Uncover 5 Windows 11 Tools for Professional Audio Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-video-valedictions-sign-off-strategies-for-online-platforms/"><u>[New] Video Valedictions Sign-Off Strategies for Online Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-companion-for-recording-google-video-calls/"><u>[Updated] The Ultimate Companion for Recording Google Video Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-guide-restoring-your-steam-files-privileges/"><u>A Step-by-Step Guide: Restoring Your Steam Files’ Privileges</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/complete-file-restoration-with-ifind-data-rescue-effortless-drive-reformat-and-hard-drive-data-retrieval-solution/"><u>Complete File Restoration with iFind Data Rescue: Effortless Drive Reformat & Hard Drive Data Retrieval Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-capture-experience-recording-sound-with-snipping-tools-screen-feature-max-156/"><u>Enhance Your Capture Experience: Recording Sound with Snipping Tool's Screen Feature (Max 156)</u></a></li>
+<li><a href="https://common-error.techidaily.com/explorerexe-error-solved-and-secured/"><u>Explorer.exe Error: Solved & Secured</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/five-premier-secured-email-platforms-for-optimal-privacy/"><u>Five Premier Secured Email Platforms for Optimal Privacy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-adjusting-folder-display-settings-in-the-macos-finder/"><u>Guide: Adjusting Folder Display Settings in the MacOS Finder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-12-pro-max-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 12 Pro Max without a computer?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snap-scissor-and-save-how-the-iphone-revolutionizes-image-cropping/"><u>In 2024, Snap, Scissor & Save How the iPhone Revolutionizes Image Cropping</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-stop-your-mouse-from-wandering-solo/"><u>Quick Solutions: Stop Your Mouse From Wandering Solo</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-message-applicationexe-has-stopped-now-fixed/"><u>Resolved: Error Message 'Application.exe Has Stopped' Now Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-persistent-restarting-in-windows-11-with-simple-solutions/"><u>Troubleshoot Persistent Restarting in Windows 11 with Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-10-freeze-tips-and-fixes-for-update-woes/"><u>Winning Against Windows 10 Freeze: Tips and Fixes for Update Woes</u></a></li>
+</ul></div>
 

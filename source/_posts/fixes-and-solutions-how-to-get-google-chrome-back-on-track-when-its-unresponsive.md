@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Solutions: How To Get Google Chrome Back On Track When It's Unresponsive"
-date: 2024-12-28T19:27:03.647Z
-updated: 2025-01-04T05:22:45.573Z
+date: 2025-01-15T18:58:35.834Z
+updated: 2025-01-22T21:59:13.315Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -56,6 +56,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -71,17 +75,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -113,6 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -126,6 +126,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -135,7 +139,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,24 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-voice-logging-access-and-evaluation/"><u>[New] 2024 Approved Voice Logging Access & Evaluation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-acoustic-mastery-secrets-for-exceptional-audio-capture/"><u>[New] Acoustic Mastery Secrets for Exceptional Audio Capture</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-exclusive-access-premium-youtube-film-watchlists/"><u>[Updated] In 2024, Exclusive Access Premium YouTube Film Watchlists</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-syncopated-patterns-in-youtube-music-collections/"><u>[Updated] Syncopated Patterns in YouTube Music Collections</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-input-speed-learn-from-typingaid/"><u>Boost Input Speed: Learn From TypingAid</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/craft-laughs-eyedroppermemes-for-2024/"><u>Craft Laughs EyeDropperMemes for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/definitive-guide-to-correcting-the-windows-11-0xc1900208-update-failure-best-practices/"><u>Definitive Guide to Correcting the Windows 11 0XC1900208 Update Failure [Best Practices]</u></a></li>
-<li><a href="https://common-error.techidaily.com/discover-the-tools-used-by-businesses-to-adjust-windows-configurations/"><u>Discover the Tools Used by Businesses to Adjust Windows Configurations</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-a-non-functional-asus-webcam-on-windows-11-devices/"><u>Effective Solutions for a Non-Functional ASUS Webcam on Windows 11 Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nubia-z50-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nubia Z50 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-continuous-system-lag-and-keep-your-computer-running-smoothly/"><u>How to Overcome Continuous System Lag and Keep Your Computer Running Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-thaw-a-frozen-taskbar-in-windows-11-proven-methods-for-a-smooth-desktop/"><u>How to Thaw a Frozen Taskbar in Windows 11 - Proven Methods for a Smooth Desktop</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtube-playlist-rearrangement-made-simple/"><u>In 2024, YouTube Playlist Rearrangement Made Simple</u></a></li>
-<li><a href="https://common-error.techidaily.com/issue-addressed-comprehve-solutions-for-non-typing-keyboards/"><u>Issue Addressed: Comprehve Solutions for Non-Typing Keyboards</u></a></li>
-<li><a href="https://common-error.techidaily.com/struggling-with-printer-and-pdfs-find-swift-fixes-here/"><u>Struggling with Printer and PDFs? Find Swift Fixes Here.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-no-more-freezes-in-fallout-4-on-pc/"><u>Troubleshooting Complete: No More Freezes in Fallout 4 on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-restoring-access-to-windows-system-event-notification-services/"><u>Troubleshooting Steps: Restoring Access to Windows System Event Notification Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-directx-graphics-device-cannot-be-created-error/"><u>Understanding and Fixing the 'DirectX Graphics Device Cannot Be Created' Error</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tablets-user-wishes-vs-actuality-for-microsoft-surface-analysis-by-zdnet/"><u>Unveiling the Future of Tablets: User Wishes Vs. Actuality for Microsoft Surface - Analysis by ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-online-and-offline-freebies-in-text-animation/"><u>[New] Online & Offline Freebies in Text Animation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-free-versatile-laptop-software-to-watch-dvds-for-2024/"><u>[Updated] Free, Versatile Laptop Software to Watch DVDs for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevate-your-slides-with-auditory-elements-powerpoint/"><u>2024 Approved Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-vimeo-and-youtube-the-ultimate-showdown/"><u>2024 Approved Vimeo and YouTube The Ultimate Showdown</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crack-the-code-ultimate-fixes-for-nba-2k24-error-72e66ac-and-elevate-your-gaming-experience/"><u>Crack the Code: Ultimate Fixes for NBA 2K24 Error 72^%E66aC and Elevate Your Gaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cross-format-communication-from-srt-to-xml-ssa-and-beyond/"><u>Cross-Format Communication From SRT to XML, SSA, and Beyond</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-ensure-your-system-has-a-d3d11-compatible-graphics-card/"><u>Error Resolved: Ensure Your System Has a D3D11-Compatible Graphics Card</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-common-issues-how-to-repair-a-non-functional-dell-laptop-keyboard/"><u>Fixing Common Issues: How to Repair a Non-Functional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-failed-initialization-of-directx-d3d-rendering-engine/"><u>Fixing the Failed Initialization of DirectX D3D Rendering Engine</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/highlight-halo-the-ultimate-iosandroid-coverage-app/"><u>Highlight Halo The Ultimate iOS/Android Coverage App</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-the-best-voice-alteration-programs-for-vtubers/"><u>In 2024, Unveiling the Best Voice Alteration Programs for VTubers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mac-ready-detailed-screenflow-review-with-v4/"><u>Mac Ready Detailed ScreenFlow Review with V4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-sign-in-challenges-tackling-the-user-profile-service-error-in-windows-11/"><u>Overcoming Sign-In Challenges: Tackling the User Profile Service Error in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-streaming-hurdles-a-users-manual-for-correcting-twitch-error-4000/"><u>Overcoming Streaming Hurdles: A User's Manual for Correcting Twitch Error 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-windows-11-startup-hanging-problems/"><u>Step-by-Step Fixes for Windows 11 Startup Hanging Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-escaping-the-clutches-of-a-false-google-chrome-crisis/"><u>Step-by-Step Guide: Escaping the Clutches of a False Google Chrome Crisis</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-print-driver-host-issues-in-32-bit-systems/"><u>Troubleshooting Guide: Fixing 'Print Driver Host' Issues in 32-Bit Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-getting-your-windows-10-mic-working-again/"><u>Troubleshooting Guide: Getting Your Windows 10 Mic Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-failed-to-enumerate-objects-in-the-container-access-is-denied-solved/"><u>Windows 10 Failed to Enumerate Objects in the Container. Access Is Denied [Solved]</u></a></li>
 </ul></div>
 

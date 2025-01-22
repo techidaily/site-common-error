@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Control: How to Recover Windows That Wandered Off-Screen"
-date: 2024-12-29T21:25:35.225Z
-updated: 2025-01-03T23:56:26.539Z
+date: 2025-01-19T20:27:23.764Z
+updated: 2025-01-22T16:59:11.860Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -56,7 +52,7 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
@@ -66,6 +62,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -94,7 +94,7 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
@@ -103,13 +103,13 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -123,13 +123,13 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus tip
@@ -147,12 +147,12 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -177,21 +177,17 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-game-streamers-for-your-watchlist/"><u>[New] 2024 Approved Essential Game Streamers for Your Watchlist</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-step-by-step-embedding-youtube-content-in-slideshows/"><u>[New] In 2024, Step-by-Step Embedding YouTube Content in Slideshows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-locating-your-own-playlists-on-youtube/"><u>[New] Locating Your Own Playlists on Youtube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-boomerangs-demystified-your-comprehensive-guide/"><u>[Updated] 2024 Approved Snapchat Boomerangs Demystified Your Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exclusive-reveal-top-downloading-tools-for-fans-of-apples-ios-and-facebook/"><u>2024 Approved Exclusive Reveal Top Downloading Tools for Fans of Apple's iOS and Facebook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-students-guide-to-top-10-best-history-youtube-sources/"><u>2024 Approved Student's Guide to Top 10 Best History YouTube Sources</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-what-to-do-when-you-encounter-d3derror-notavailable/"><u>Fixing the Issue: What to Do When You Encounter D3Derror NotAvailable</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-clean-up-computer-to-make-it-run-faster/"><u>How to Clean Up Computer to Make It Run Faster</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-compatibility-telemetry-excessive-storage-use-in-windows-10/"><u>How to Fix Microsoft Compatibility Telemetry Excessive Storage Use in Windows 10</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-optimizing-your-vlc-livestream-over-the-net/"><u>In 2024, Optimizing Your VLC Livestream over the Net</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202925255-lose-not-the-tracking-of-your-sd-cards/"><u>Lose Not the Tracking of Your SD Cards</u></a></li>
-<li><a href="https://common-error.techidaily.com/simplify-your-pc-management-expert-guide-to-using-file-explorer-in-windows-11/"><u>Simplify Your PC Management: Expert Guide to Using File Explorer in Windows 11</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/solution-immediate-securisation-reussie-de-lacces-au-profil-utilisateur-apres-le-dysfonctionnement-initial/"><u>Solution Immédiate : Sécurisation Réussie De L'accès Au Profil Utilisateur Après Le Dysfonctionnement Initial</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-common-opengl-issues-in-minecraft-a-comprehensive-guide/"><u>Solving Common OpenGL Issues in Minecraft: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-television-display-with-simple-adjustments-top-5-settings-to-elevate-picture-quality/"><u>Upgrade Your Television Display with Simple Adjustments: Top 5 Settings to Elevate Picture Quality</u></a></li>
-<li><a href="https://common-error.techidaily.com/vcruntime140-dll-missing-start-your-windows-11-applications-effortlessly-comprehensive-fix-guide/"><u>VCRUNTIME140 DLL Missing? Start Your Windows 11 Applications Effortlessly – Comprehensive Fix Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-sonic-and-the-hedgehog-switch-edition-top-10/"><u>[New] In 2024, Sonic and the Hedgehog Switch Edition (Top 10)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-technology-showcase-highlights-of-the-5-best-slow-cams/"><u>[New] In 2024, Technology Showcase Highlights of the 5 Best Slow Cams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-curls-and-contours-creating-a-personalized-beauty-channel-for-2024/"><u>[Updated] Crafting Curls and Contours Creating a Personalized Beauty Channel for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/aacwma/"><u>AACからWMAへの効果的な変換ツール - 最適化ガイド</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-error-code-31-for-good-expert-advice-on-clearing-up-your-windows-system-issues/"><u>Banish Error Code 31 for Good: Expert Advice on Clearing Up Your Windows System Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-resolving-touchscreen-problems-in-windows-10-discover-5-useful-techniques/"><u>Easy Solutions for Resolving Touchscreen Problems in Windows 10: Discover 5 Useful Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/emudeck-tips-for-optimal-emulation-on-steam-deck/"><u>EmuDeck Tips for Optimal Emulation on Steam Deck</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-resolving-driverpowerstatefailure-in-windows-systems/"><u>Expert Advice for Resolving DRIVER_POWER_STATE_FAILURE in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-shift-key-issues-proven-solutions-and-fixes/"><u>Mastering Shift Key Issues: Proven Solutions and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-geforce-setup-failing-to-load-preferences/"><u>Overcoming Obstacles: GeForce Setup Failing to Load Preferences</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-caixun-a-cost-effective-dive-into-its-75-4k-android-tv-capabilities/"><u>Unveiling the Caixun: A Cost-Effective Dive Into Its 75 4K Android TV Capabilities</u></a></li>
 </ul></div>
 

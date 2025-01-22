@@ -1,7 +1,7 @@
 ---
 title: How to Tackle and Solve the Frustrating 0X80073712 Error Code in Windows 11
-date: 2025-01-10T16:30:51.225Z
-updated: 2025-01-16T16:28:19.047Z
+date: 2025-01-19T17:26:20.195Z
+updated: 2025-01-22T18:09:43.862Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,19 +50,11 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Follow the on-screen instructions to troubleshoot.
 
 4) Restart your computer, try Windows Update again and hopefully this problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the SFC scan
 
@@ -71,7 +63,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
@@ -81,6 +73,10 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 2) In the command prompt window, type **sfc /scannow**   and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?  
  3) Restart your computer and see if the error**0x80073712**   has been solved.
@@ -94,10 +90,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type **the following command**   and press **Enter** :
 
@@ -123,7 +115,15 @@ Wait for a while for the whole process to finishes.
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Scroll down to the bottom, right-click on **Windows Update**  . Then click**Stop** .
 
@@ -137,21 +137,17 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a98e3f0f6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) When asked to provide administrator permission, check**the box** before**Do this for all current items** and click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
 
@@ -162,6 +158,10 @@ Wait for a while for the whole process to finishes.
  After that, check if the**0x80073712** error code problem has been sorted.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -188,22 +188,24 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-industry-standard-guide-implementing-stopwatches-in-video-streaming-software/"><u>[New] In 2024, Industry Standard Guide Implementing Stopwatches in Video Streaming Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-your-pathway-to-virtual-video-landscape-on-iphone/"><u>[New] Your Pathway to Virtual Video Landscape on iPhone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-easiest-fix-on-how-to-livestream-a-podcast/"><u>[Updated] 2024 Approved The Easiest Fix on How to Livestream a Podcast</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ringtone-heaven-game-of-thrones-audio-collection/"><u>[Updated] Ringtone Heaven Game of Thrones Audio Collection</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unlocking-drone-knowledge-must-know-before-making-a-deal-for-2024/"><u>[Updated] Unlocking Drone Knowledge Must-Know Before Making a Deal for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/busting-the-code-comprehensive-guide-to-correcting-nba-2k21s-green-glitch/"><u>Busting the Code: Comprehensive Guide to Correcting NBA 2K21's Green Glitch</u></a></li>
-<li><a href="https://common-error.techidaily.com/definitive-fixes-for-non-responsive-print-screen-on-pcs-running-windows-11-or-10/"><u>Definitive Fixes for Non-Responsive Print Screen on PCs Running Windows 11 or 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-ios-18-whats-new-in-the-latest-update-insights-and-specs/"><u>Discover IOS 18 – What's New in the Latest Update? Insights & Specs</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-errors-during-smartaudio-setup-process/"><u>Fixing Errors During SmartAudio Setup Process</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-shopping-spree-to-stardom-editing-your-haul-video/"><u>From Shopping Spree to Stardom Editing Your Haul Video</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-brightness-back-overcoming-windows-10s-screen-setting-glitches/"><u>Getting Brightness Back: Overcoming Windows 10'S Screen Setting Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastery-in-correcting-error-0x887a0006-speedy-fixes-unveiled-here/"><u>Mastery in Correcting Error 0X887A0006 - Speedy Fixes Unveiled Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-administrator-privileges-needed-errors-in-windows-11-10-and-7/"><u>Resolving 'Administrator Privileges Needed' Errors in Windows 11, 10 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-functionality-to-your-directional-keypad-proven-remedies-for-broken-arrows/"><u>Restore Functionality to Your Directional Keypad: Proven Remedies for Broken Arrows!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pova-5-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-diagnosing-and-repairing-driverpowerstatefailure-issues-on-computers/"><u>Step-by-Step Strategies for Diagnosing & Repairing DRIVER_POWER_STATE_FAILURE Issues on Computers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-safely-refreshing-bios-software/"><u>Step-by-Step Tutorial on Safely Refreshing BIOS Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-role-of-authenticity-checks-in-social-media-posts/"><u>[New] In 2024, The Role of Authenticity Checks in Social Media Posts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-ios-psp-games-and-emulators-revealed/"><u>[Updated] 2024 Approved Top iOS PSP Games & Emulators Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-7-packet-opening-experience-hacks/"><u>[Updated] Top 7 Packet Opening Experience Hacks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-copycat-cinema-steps-for-satirical-video-making/"><u>2024 Approved Copycat Cinema Steps for Satirical Video Making</u></a></li>
+<li><a href="https://common-error.techidaily.com/bridging-gap-acquired-msvcr71dll/"><u>Bridging Gap: Acquired MSVCR71.dll</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-update-amd-graphics-driver-on-windows-platforms-10-11-and-7/"><u>Comprehensive Guide to Update AMD Graphics Driver on Windows Platforms (10, 11 & 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/directx-error-resolved-mastering-device-creation-techniques-for-optimal-performance/"><u>DirectX Error Resolved: Mastering Device Creation Techniques for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-brightness-issue-how-to-restore-functionality/"><u>Fixing Windows 10 Brightness Issue: How To Restore Functionality</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-depth-look-at-the-newly-launched-samsung-galaxy-chromebook-2-for-seamless-mobile-workflows/"><u>In-Depth Look at the Newly Launched Samsung Galaxy Chromebook 2 for Seamless Mobile Workflows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learning-ai-made-simple-find-support-and-knowledge-herein/"><u>Learning AI Made Simple: Find Support and Knowledge Herein</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-common-h264-file-errors/"><u>Mending Common H.264 File Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-1011-user-profile-service-failure-during-sign-in/"><u>Resolving Windows 10/11: User Profile Service Failure During Sign In</u></a></li>
+<li><a href="https://common-error.techidaily.com/restarting-and-repairing-windows-7-sound-services-a-comprehensive-guide/"><u>Restarting and Repairing Windows 7 Sound Services: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-wacom-pen-on-windows-11-or-windows-10-a-comprehensive-fix-guide/"><u>Reviving Your Wacom Pen on Windows 11 or Windows 10 - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/section-cuation/"><u>Section Cuation:</u></a></li>
+<li><a href="https://common-error.techidaily.com/side-by-side-configuration-is-incorrect-error-in-windows-10-fixed/"><u>Side by Side Configuration Is Incorrect Error in Windows 10 [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/smooth-out-the-glitches-expert-advice-for-solving-minecraft-stuttering-problems/"><u>Smooth Out the Glitches: Expert Advice for Solving Minecraft Stuttering Problems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-insiders-guide-to-frame-by-frame-video-examination-free-for-2024/"><u>The Insider's Guide to Frame-by-Frame Video Examination (Free) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-getting-your-airpods-working-on-windows-10-and-11/"><u>Ultimate Guide: Getting Your AirPods Working on Windows 10 & 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows 10 Synaptics Touchpad Unresponsive Scrolling
-date: 2025-01-01T02:21:04.250Z
-updated: 2025-01-03T16:46:05.886Z
+date: 2025-01-16T18:31:17.230Z
+updated: 2025-01-22T22:02:45.692Z
 tags:
   - win11
   - win10
@@ -57,7 +57,7 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -80,6 +80,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
@@ -91,10 +95,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
@@ -116,17 +116,21 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
@@ -135,10 +139,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 Now check to see your mic is back on track.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -149,7 +149,7 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
@@ -159,7 +159,7 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
@@ -167,7 +167,7 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
@@ -193,24 +193,22 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-digital-delinquency-games-comparable-to-gta-v/"><u>[New] 2024 Approved Digital Delinquency Games Comparable to GTA V</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-skyrocket-your-e-commerce-game-with-these-essential-15-social-media-insights/"><u>[New] In 2024, Skyrocket Your E-Commerce Game with These Essential 15 Social Media Insights</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mobile-blur-apps-to-soften-images/"><u>[New] Mobile Blur Apps to Soften Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocked-design-potential-100-free-pp-templates/"><u>[Updated] Unlocked Design Potential 100% Free PP Templates</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-buffering-fixing-world-of-warcraft-delay-issues-once-and-for-all/"><u>Beat the Buffering: Fixing World of Warcraft Delay Issues Once and For All</u></a></li>
-<li><a href="https://common-error.techidaily.com/ending-skyrims-never-ending-loads-insider-tips-and-solutions-unveiled/"><u>Ending Skyrim's Never-Ending Loads - Insider Tips & Solutions Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x887a0006-fast-and-simple-solutions/"><u>Error 0X887A0006 - Fast & Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-how-to-restore-the-battery-symbol-on-your-windows-10-pc/"><u>Fix: How to Restore the Battery Symbol on Your Windows 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-accelerate-windows-11-closing-times-for-a-smoother-experience/"><u>How to Accelerate Windows 11 Closing Times for a Smoother Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-function-of-a-non-responsive-integrated-graphics-and-video-processor-igfx-unit/"><u>How to Restore Function of a Non-Responsive Integrated Graphics and Video Processor (iGFX) Unit</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/peek-into-pixel-play-resolution-basics-explained/"><u>Peek Into Pixel Play Resolution Basics Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-class-registration-issues-in-windows-11/"><u>Resolving Class Registration Issues in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-amd-high-definition-audio-driver-unplugged-issue/"><u>Solved: AMD High Definition Audio Driver Unplugged Issue</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-deciding-whether-to-go-for-a-macbook-pro-or-macbook-air-cnets-latest-review/"><u>The Ultimate Showdown: Deciding Whether to Go for a MacBook Pro or MacBook Air | CNET's Latest Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206375056-troubleshoot-and-correct-system-error-0x887a0006-a-step-by-step-guide-to-a-swift-solution/"><u>Troubleshoot and Correct System Error 0X887A0006: A Step-by-Step Guide to a Swift Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-the-deathloop-stuttering-issue-on-pc-and-playstation-5/"><u>Ultimate Troubleshooting Guide: Solving the Deathloop Stuttering Issue on PC and PlayStation 5</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-from-novice-to-pro-mastering-wax-free-video-editor-in-for-2024/"><u>Updated From Novice to Pro Mastering Wax Free Video Editor In for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerful-tools-f/"><u>Updated The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/xbox-one-wont-connect-a-comprehensive-guide-to-correcting-the-no-signal-error/"><u>Xbox One Won't Connect: A Comprehensive Guide to Correcting the 'No Signal' Error</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unleashing-potential-learning-steams-switch-controller/"><u>[Updated] 2024 Approved Unleashing Potential Learning Steam's Switch Controller</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-setting-up-a-vpn-connection-on-windows-10-easy-step-by-step-instructions/"><u>A Comprehensive Guide: Setting Up a VPN Connection on Windows 10 - Easy, Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-micromobility-event-schedules-breaking-stories-gossip-and-comprehensive-info/"><u>All About Micromobility: Event Schedules, Breaking Stories, Gossip & Comprehensive Info</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-update-fixes-critical-display-issue-deactivates-error-27711/"><u>Black Ops Cold War Update Fixes Critical Display Issue, Deactivates Error 27711</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubre-como-anadir-libdvdcss-a-handbrake-en-tu-mac-o-pc-con-windows-11-para-una-copia-dvd-sin-problemas/"><u>Descubre Cómo Añadir Libdvdcss a HandBrake en Tu Mac O PC Con Windows 11 Para Una Copia DVD Sin Problemas</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-addressing-and-repairing-ethernet-malfunctions-in-windows-operating-systems/"><u>Effective Fixes: Addressing and Repairing Ethernet Malfunctions in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/harmonious-solution-to-laptop-headphones-disconnect/"><u>Harmonious Solution to Laptop-Headphones Disconnect</u></a></li>
+<li><a href="https://article-files.techidaily.com/hero-4-vs-hero-5-performance-face-off-for-2024/"><u>Hero 4 VS Hero 5 Performance Face-Off for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-cyclic-redundancy-checks-detect-data-corruption-issues/"><u>How Cyclic Redundancy Checks Detect Data Corruption Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p40-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P40 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207874253-quick-fixes-for-common-airdrop-problems-now-resolved/"><u>Quick Fixes for Common AirDrop Problems – Now Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-the-endless-loop-of-windows-11-reboots/"><u>Quick Fixes: Resolving the Endless Loop of Windows 11 Reboots</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-fatal-installation-mishaps-overcoming-error-1603-for-smooth-software-launches/"><u>Resolving Fatal Installation Mishaps: Overcoming Error 1603 for Smooth Software Launches</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205671582-speeding-up-league-of-legends-setup-fixes-for-sluggish-downloads/"><u>Speeding Up League of Legends Setup – Fixes for Sluggish Downloads!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-test-chatgpt-vs-innovative-ai-claude/"><u>The Ultimate Test: ChatGPT Vs. Innovative AI Claude</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fix-for-the-persistent-0x800705b4-windows-update-problem-in-windows-11-systems/"><u>Ultimate Fix for the Persistent 0X800705b4 Windows Update Problem in Windows 11 Systems</u></a></li>
 </ul></div>
 
