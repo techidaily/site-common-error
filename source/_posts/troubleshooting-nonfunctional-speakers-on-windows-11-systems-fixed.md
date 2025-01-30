@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Nonfunctional Speakers on Windows 11 Systems [FIXED]
-date: 2024-12-18T19:38:55.349Z
-updated: 2024-12-25T19:12:53.308Z
+date: 2025-01-24T17:02:22.036Z
+updated: 2025-01-30T07:01:00.526Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these tips
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,6 +39,10 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -45,10 +53,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
@@ -58,14 +62,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -75,6 +79,10 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -83,10 +91,6 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -100,20 +104,12 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -127,10 +123,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -148,7 +148,7 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
@@ -177,24 +177,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/oop-and-relish-youtube-videos-double-the-delight-on-tv-for-2024/"><u>[New] Loop & Relish YouTube Videos, Double the Delight on Tv for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-optimizing-twitter-video-shares-for-facebook-users/"><u>[Updated] 2024 Approved Optimizing Twitter Video Shares for Facebook Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-a-seamless-viewing-experience-no-more-buffering-on-kodi/"><u>Expert Tips for a Seamless Viewing Experience: No More Buffering on Kodi</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-non-reactive-customizable-preferences-errors/"><u>How to Resolve Non-Reactive Customizable Preferences Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-your-mouse-cursor-in-windows-11-solution/"><u>How to Restore Your Mouse Cursor in Windows 11 [Solution]</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-disk-usage-for-microsoft-telemetry-in-windows-10-environments/"><u>Optimizing Disk Usage for Microsoft Telemetry in Windows 10 Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-window-11s-touchscreen-woes-here-are-5-tips-for-quick-repairs/"><u>Overcome Window 11'S Touchscreen Woes? Here Are 5 Tips for Quick Repairs!</u></a></li>
-<li><a href="https://facebook.techidaily.com/shield-yourself-from-facebook-fakes-identify-these-14-tricks/"><u>Shield Yourself From Facebook Fakes: Identify These 14 Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-achieved-easy-anti-cheat-hurdles-in-new-world-now-resolved/"><u>Solution Achieved: 'Easy Anti-Cheat' Hurdles in 'New World' Now Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-alert-ensure-you-have-a-d3d11-compliant-graphics-card-for-optimal-performance/"><u>Solution Alert: Ensure You Have a D3D11 Compliant Graphics Card for Optimal Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-livekernelevent-code-issue-117/"><u>Step-by-Step Solutions for Correcting LiveKernelEvent Code Issue #117</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-how-to-manual-for-overcoming-a-web-sites-access-is-denied-hurdles/"><u>The Definitive How-To Manual for Overcoming a Web Site’s ‘Access Is Denied’ Hurdles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-lexicon-of-persuasion-in-business-communication-for-2024/"><u>The Lexicon of Persuasion in Business Communication for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-optimize-your-files-with-windows-10-file-explorer-hacks/"><u>Troubleshoot and Optimize Your Files with Windows 10 File Explorer Hacks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-unavailable-status-on-steam-server-connections/"><u>Troubleshooting: Fixing 'Unavailable' Status on Steam Server Connections</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-screen-snapper-unlocking-zd-softwares-potential-for-2024/"><u>Ultimate Screen Snapper Unlocking ZD Software's Potential for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/webcammastery-practicalrecordingsteps/"><u>WebCamMastery PracticalRecordingSteps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quickcam-plus-audio-guide-integration-tool/"><u>[New] QuickCam + Audio Guide Integration Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-mastering-quick-screen-recording-on-mac-via-keys-for-2024/"><u>[New] Ultimate Guide Mastering Quick Screen Recording on Mac via Keys for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-high-end-horizons-the-elite-8k-camera-selection/"><u>[Updated] In 2024, High-End Horizons The Elite 8K Camera Selection</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/acclaimed-screenplay-assembly-place-for-2024/"><u>Acclaimed Screenplay Assembly Place for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-alcatel-joy-tab-2-with-lte-comprehensive-reviews/"><u>Budget-Friendly Alcatel Joy Tab 2 with LTE - Comprehensive Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-the-rpc-server-is-unavailable-problem-in-windows-operating-system/"><u>Comprehensive Solutions to the 'RPC Server Is Unavailable' Problem in Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-the-user-profile-sign-in-error-messages-in-windows-operating-systems/"><u>Effective Solutions to the User Profile Sign-In Error Messages in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-volume-icon-missing-on-windows-11-with-pictures/"><u>Fix Volume Icon Missing on Windows 11 [with Pictures]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-how-to-get-the-microsoft-store-running-again/"><u>Fixing Issues - How To Get The Microsoft Store Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-absent-media-device-driver-issue/"><u>How to Resolve the Absent Media Device Driver Issue</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-lava-agni-2-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Lava Agni 2 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-activating-ea-games-new-world-easy-anti-cheat-feature/"><u>Overcoming the Challenge of Activating EA Games' New World Easy Anti-Cheat Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-no-audio-output-device-found-issue-on-windows-10-and-11/"><u>Resolving the 'No Audio Output Device Found' Issue on Windows 10 & 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-color-theory-and-practical-application-techniques-for-2024/"><u>The Ultimate Guide to Color Theory and Practical Application Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/valorant-lag-issue-solved-escape-from-the-infinite-wait-screen/"><u>Valorant Lag Issue Solved: Escape From the Infinite Wait Screen</u></a></li>
 </ul></div>
 

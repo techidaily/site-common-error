@@ -1,7 +1,7 @@
 ---
 title: Unblock Party Chat on Your Device – Understanding Network Configuration Fixes
-date: 2024-09-11T14:38:48.718Z
-updated: 2024-09-14T23:03:41.942Z
+date: 2025-01-24T02:38:32.212Z
+updated: 2025-01-29T20:31:31.027Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
  4) On your device, reconnect to your WiFi network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 2: Check if the WiFi signal is blocked to fix WiFi not working**
 
  As we all know: the weaker your WiFi signal is, the worse your WiFi is working. So please pay attention if there is anything that may prevent your WiFi signal from being connected. You can check the possible conditions below:
@@ -103,24 +107,15 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e56f9063046.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2)**Open a browser** on your PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
 
  3) Type your**Username** and**Password** , and click**Login** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3760447c1ad.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to**Wireless** and click**Wireless 2.4 GHz** or**Wireless 5 GHz** , and**change Channel** to a less-crowded one.
 
@@ -128,9 +123,17 @@ netsh wlan show drivers
 
  5) Try your WiFi again to see if it works better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **If WiFi not working in your Windows PC/laptop**
 
  If your WiFi works on other devices, but not on your Windows, you can try checking these methods below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Enable WiFi service to fix WiFi not working**
 
@@ -154,7 +157,15 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378b1249f89.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your Windows and reconnect to your WiFi again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 2: Turn on WLAN AutoConfig service to fix WiFi not working**
 
@@ -190,13 +201,6 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377e666c11b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Try to connect to your WiFi again.
 
  If the problem still occurs, it may not be a problem of Windows Firewall, and you can**turn on Windows Firewall again** to protect your computer.
@@ -223,6 +227,10 @@ netsh wlan show drivers
 
  5) Click**OK** to save the settings, and try to connect to your WiFi again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 4: Update your WiFi network driver**
 
  WiFi not working can probably be caused by the missing or outdated wireless network driver, so updating your wireless network driver can solve this problem. There are two ways to update the WiFi network driver:
@@ -240,13 +248,6 @@ netsh wlan show drivers
  2) Run Driver Easy and click**Scan Now** . Driver Easy will scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e45c31965d6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged driver, then download and install the correct version of that driver (you can do this with the FREE version).
 
@@ -269,6 +270,10 @@ netsh wlan show drivers
  1\. Please make sure that you have turned on your WiFi and turned off the**Airplane mode** on your iPhone, and you are within the WiFi range when troubleshooting.  
  2\. The screenshots below are shown on iOS 10, but the fixes apply to other iOS versions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 1: Force a reboot on your iPhone**
 
  It’s never harmful to force a reboot on your iPhone, as many technical issues can be solved by restarting your device.
@@ -284,13 +289,6 @@ netsh wlan show drivers
 **If you are using iPhone 6s and the earlier** : Press and hold both the**Power button** and**Home button** for at least ten seconds, sometimes up to 20 seconds, until you see the Apple logo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a38f06b2d5e6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After restart your iPhone, try to connect to your WiFi to see if it works.
 
@@ -341,10 +339,7 @@ netsh wlan show drivers
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3775494f933.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type **8.8.8.8** (Google DNS) as Primary DNS and**your original DNS** as alternative DNS. Don’t forget to type a**comma** to separate these two DNS numbers.
@@ -352,6 +347,10 @@ netsh wlan show drivers
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3775cd0285c.png)
 
  4) Then try to connect to your WiFi again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 5: Turn on WLAN Assist**
 
@@ -384,5 +383,16 @@ netsh wlan show drivers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-conquering-export-errors-for-srt-in-premiere-pro/"><u>[New] Conquering Export Errors for SRT in Premiere Pro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/6-figure-views-prime-hashtag-strategies-for-success-for-2024/"><u>6-Figure Views Prime Hashtag Strategies for Success for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-free-profile-imagery-for-youtubers/"><u>In 2024, Free Profile Imagery for YouTubers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210737665-netflix-no-volume-easy-fixes-to-get-your-sounds-back/"><u>Netflix No Volume? Easy Fixes to Get Your Sounds Back!</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-pc-freezing-problems-resolved-easy-fixes-and-tweaks/"><u>Oddworld: Soulstorm PC Freezing Problems Resolved: Easy Fixes and Tweaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-reset-failed-message-in-windows-10-step-by-step-fix/"><u>Solving the 'Reset Failed' Message in Windows 10: Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-synergy-of-technology-and-spirituality-with-chatgpt/"><u>The Synergy of Technology and Spirituality with ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-address-the-livekernelevent-error-number-117/"><u>Troubleshooting Tips to Address the LiveKernelEvent Error Number 117</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979107361-update-your-msi-aorus-x470-drivers-now-direct-free-downloads-inside/"><u>Update Your MSI AORUS X470 Drivers Now - Direct Free Downloads Inside!</u></a></li>
+</ul></div>
 

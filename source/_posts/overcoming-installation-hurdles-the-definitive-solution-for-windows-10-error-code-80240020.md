@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Installation Hurdles: The Definitive Solution for Windows 10 Error Code 80240020"
-date: 2025-01-16T18:09:26.999Z
-updated: 2025-01-22T19:00:32.657Z
+date: 2025-01-23T02:35:37.067Z
+updated: 2025-01-30T09:24:25.029Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -32,10 +36,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -52,20 +52,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -78,10 +78,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
@@ -89,10 +85,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -102,11 +94,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -116,10 +116,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -127,6 +123,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,24 +154,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubing-success-final-stages-and-top-resources/"><u>[New] In 2024, YouTubing Success Final Stages and Top Resources</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-maximizing-returns-15-top-stock-market-vids/"><u>[Updated] 2024 Approved Maximizing Returns 15 Top Stock Market Vids</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-amplify-your-iphones-sound-with-top-rated-podcasts/"><u>[Updated] Amplify Your iPhone's Sound with Top-Rated Podcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-convert-ppt-to-motion-picture-for-2024/"><u>[Updated] Convert PPT to Motion Picture for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ios-integration-listening-to-podcasts-made-easy/"><u>[Updated] IOS Integration Listening to Podcasts Made Easy</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-moonlit-musings-capturing-the-essence-of-nocturnal-imagery/"><u>2024 Approved Moonlit Musings Capturing the Essence of Nocturnal Imagery</u></a></li>
-<li><a href="https://common-error.techidaily.com/easily-restore-charging-on-your-laptop-solutions-at-hand/"><u>Easily Restore Charging on Your Laptop - Solutions at Hand</u></a></li>
-<li><a href="https://common-error.techidaily.com/eradicating-never-ending-startup-glitches-on-skyrims-initial-screen/"><u>Eradicating Never-Ending Startup Glitches on Skyrim's Initial Screen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/everboom-audio-unveils-new-ultimate-ears-speaker-with-cutting-edge-usb-c-technology/"><u>Everboom Audio Unveils New Ultimate Ears Speaker with Cutting-Edge USB-C Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fehlerbehebung-fur-hevc-abspielprobleme-in-windows-operating-systems-praktische-tipps-fur-windows-1187/"><u>Fehlerbehebung Für HEVC-Abspielprobleme in Windows Operating Systems - Praktische Tipps Für Windows 11/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209312169-google-chrome-crashes-relaunch-and-fix-your-browser-issues-now/"><u>Google Chrome Crashes? Relaunch and Fix Your Browser Issues Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-non-responsive-surface-pen-problems-quickly/"><u>How to Resolve Non-Responsive Surface Pen Problems Quickly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphoneiso/"><u>IPhoneによるISOファイルの簡単リッチプレーン再生 - 最新ガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-driver-failed-setting-issue-a-step-by-step-guide/"><u>Resolving the 'Driver Failed' Setting Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/revitalize-your-windows-10-touch-display-with-these-5-fixes/"><u>Revitalize Your Windows 10 Touch Display with These 5 Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-hub-correcting-configuration-glitches-for-seamless-play-on-origin-platform/"><u>Solution Hub: Correcting Configuration Glitches for Seamless Play on Origin Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-problem-of-off-closed-captions-on-roku-quick-tips-and-tricks/"><u>Solving the Problem of Off Closed Captions on Roku: Quick Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-laptops-touch-pad-issues-in-windows-solutions-for-win7-win8-and-win10/"><u>Troubleshooting Your Laptop's Touch Pad Issues in Windows: Solutions for Win7, Win8 & Win10</u></a></li>
-<li><a href="https://common-error.techidaily.com/yac569-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1ymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-ro14/"><u>YAC569 - Yamaha'aturboSound II Sound Module Based on the YMF7A1/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-closer-look-at-high-end-vr-walking-machines-for-2024/"><u>[Updated] A Closer Look at High-End VR Walking Machines for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-most-viewed-vids-worldwide-roundup/"><u>2024 Approved Most Viewed Vids Worldwide Roundup</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202702840-access-denied-on-your-computer-install-the-necessary-printer-drivers-first/"><u>Access Denied on Your Computer? Install the Necessary Printer Drivers First!</u></a></li>
+<li><a href="https://common-error.techidaily.com/apex-legends-troubleshooting-easily-correcting-the-error-cheats-detected/"><u>Apex Legends Troubleshooting: Easily Correcting the Error - Cheats Detected</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209058146-desktop-icon-disappearance-issue-in-windows-11-heres-the-solution/"><u>Desktop Icon Disappearance Issue in Windows 11? Here's the Solution!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-opencl-dll-absence-issues/"><u>Resolving OpenCL DLL Absence Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-numbers-a-guide-to-fixing-unresponsive-keyboard-digits/"><u>Reviving Numbers: A Guide to Fixing Unresponsive Keyboard Digits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-successful-google-gemini-utilization/"><u>Step-by-Step Instructions for Successful Google Gemini Utilization</u></a></li>
+<li><a href="https://win-tips.techidaily.com/text-alignment-techniques-in-flipbuilder-mastering-right-and-left-positioning/"><u>Text Alignment Techniques in FlipBuilder - Mastering Right and Left Positioning</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-through-thoughts-transforming-video-into-cash/"><u>Thriving Through Thoughts Transforming Video Into Cash</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-benefits-of-hp-chromebook-11-a-versatile-companion-for-education-work-life-and-playtime-fun/"><u>Unveiling the Benefits of HP Chromebook 11: A Versatile Companion for Education, Work Life and Playtime Fun</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: YAC550 - Yamaha'aturboSound II Sound Module Based on the YMF794/YMU794 (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector
-date: 2025-01-17T17:33:39.052Z
-updated: 2025-01-22T19:01:45.340Z
+date: 2025-01-23T23:10:46.021Z
+updated: 2025-01-30T05:55:35.603Z
 tags:
   - win11
   - win10
@@ -31,9 +31,17 @@ Does this look familiar?
  **Method 1:[ Using Group Policy Editor ](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 1. Using Group Policy Editor) Method 2:[ Using Registry Editor](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 2. Using Registry Editor)**
  **Method 3:[Updating your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Using Group Policy Editor
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Type **gpedit.msc**  and click**OK** .
 
@@ -54,10 +62,6 @@ Does this look familiar?
  3) Go to **Computer Configuration** \> **Administrative** **Templates** \>**Windows Components** \> **Data Collection and Preview Builds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279c6c18122.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `
 ` `
@@ -108,21 +112,21 @@ Does this look familiar?
 ` `
 `
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Using Registry Editor
 
  1)On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) T ype**regedit**  in the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a22807d2e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **YES**  when prompted by User Account Control.
 
@@ -131,20 +135,20 @@ Does this look familiar?
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a4ede532e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Double-click**Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a53baa7f6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **NOTE:** If you can’t find Allow Telemetry, create it manually: Right-click on DataCollection and choose**New** \>**DWORD (32-bit) Value** . Then name the new value **Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Set**Value date** to **0** (zero) and click**OK** .
 
@@ -174,10 +178,6 @@ Does this look familiar?
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6a0c3f690.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 PC.
 
@@ -211,24 +211,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-pc-stops-without-reason-w11/"><u>[FIXED] PC Stops Without Reason: W11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-exquisite-background-melodies-for-edits/"><u>[New] 2024 Approved Exquisite Background Melodies for Edits</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-yi-4k-plus-action-camera-complete-review/"><u>[New] Yi 4K + Action Camera Complete Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-achieving-gradual-sound-boosts-with-lumafusion-for-2024/"><u>[Updated] Achieving Gradual Sound Boosts with Lumafusion for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-issues-with-window-10-slow-shut-down-processes/"><u>Bypassing Issues with Window 10 Slow Shut Down Processes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-iphone-app-guide-navigating-with-google-maps/"><u>Comprehensive iPhone App Guide: Navigating with Google Maps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/digital-image-coloring-upside-down/"><u>Digital Image Coloring Upside Down</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-ways-to-stop-windows-11-from-continuously-restarting/"><u>Effortless Ways to Stop Windows 11 From Continuously Restarting</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-224003-deciphered-how-to-troubleshoot-and-resolve-unplayable-video-files/"><u>Error 224003 Deciphered: How to Troubleshoot and Resolve Unplayable Video Files</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-lava-yuva-2-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Lava Yuva 2 Pro? Try These Fixes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-12-pro-max-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 12 Pro Max The Right Way</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-and-avoid-the-notorious-google-chrome-crash-scam/"><u>How to Fix and Avoid the Notorious Google Chrome Crash Scam</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-peripherals-keyboard-and-mouse-woes-under-win7/"><u>How to Fix Unresponsive Peripherals: Keyboard and Mouse Woes Under Win7</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-philosophers-guide-ios-and-android-writers-choice/"><u>In 2024, Photo Philosopher's Guide – iOS & Android Writers' Choice</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-failure-during-resetting-your-pc-challenges-on-windows-11-solutions-applied/"><u>Overcoming 'Failure During Resetting Your PC' Challenges on Windows 11: Solutions Applied</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-high-cpu-load-issues-in-the-windows-driver-framework/"><u>Resolving High CPU Load Issues in the Windows Driver Framework</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-dealing-with-hp-spectre-x360-overheating-woes/"><u>Step-by-Step Fix for Dealing with HP Spectre X360 Overheating Woes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-trick-to-keep-a-record-of-your-chatgpt-interactions/"><u>The Ultimate Trick to Keep a Record of Your ChatGPT Interactions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>[New] 2024 Approved The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-picturepuns-comic-creation-tool/"><u>[New] In 2024, PicturePuns Comic Creation Tool</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unlock-6-figure-visibility-on-youtube-via-optimal-hashtags/"><u>[New] In 2024, Unlock 6-Figure Visibility on YouTube via Optimal Hashtags</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-tips-for-effortless-screen-recording-on-android/"><u>[Updated] Expert Tips for Effortless Screen Recording on Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-complete-playbook-for-youtube-shorts-template-success/"><u>[Updated] The Complete Playbook for YouTube Shorts Template Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-vcruntime140dll-is-missing-error-with-these-effective-solutions/"><u>Eliminate 'VCRUNTIME140.dll Is Missing' Error with These Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-system-volume-control-in-windows-10-fix-tutorial/"><u>How to Restore System Volume Control in Windows 10 (Fix Tutorial)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-note-50-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme Note 50</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-x50-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor X50 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-diagnosing-and-resolving-usb-port-problems-on-windows-11/"><u>Mastering the Art of Diagnosing & Resolving USB Port Problems on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-understanding-teredos-road-to-qualification-difficulties/"><u>Overcoming Obstacles: Understanding Teredo's Road to Qualification Difficulties</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/retrieve-unsaved-and-accidentally-erased-pdfs-with-these-simple-steps/"><u>Retrieve Unsaved and Accidentally Erased PDFs with These Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-no-to-glitches-eliminating-screen-fluctuation-in-your-windows-11-experience/"><u>Say No to Glitches: Eliminating Screen Fluctuation in Your Windows 11 Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-is-my-corsair-keyboard-not-functioning/"><u>Solved: Why Is My Corsair Keyboard Not Functioning?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-overcoming-the-bad-pool-header-problem-on-various-windows-versions/"><u>Step-by-Step Solution for Overcoming the 'Bad Pool Header' Problem on Various Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-pc-doesnt-display-bluetooth-in-device-manager/"><u>Troubleshooting Tips for When Your PC Doesn't Display Bluetooth in Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-update-issues-decoded-overcoming-error-0x80240034/"><u>Windows 11 Update Issues Decoded: Overcoming Error 0X80240034</u></a></li>
 </ul></div>
 

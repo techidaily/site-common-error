@@ -1,7 +1,7 @@
 ---
 title: Understanding and Repairing Catastrophic DirectX Runtime Failures
-date: 2024-12-12T16:35:05.003Z
-updated: 2024-12-17T02:11:41.330Z
+date: 2025-01-24T20:02:03.046Z
+updated: 2025-01-30T08:24:54.928Z
 tags:
   - win11
   - win10
@@ -46,18 +46,10 @@ Quick Fix:**Install & update drivers automatically**
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/527.jpg)
 2. Click**Internet Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5271.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Speed Tester** and wait for the testing result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5272.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Usually, a large, HD content will require a high speed. If the problem is due to low internet speed, you can try[Fix 1](https://tools.techidaily.com/drivereasy/download/) .
@@ -71,7 +63,7 @@ Quick Fix:**Install & update drivers automatically**
 3. [Clear Kodi cache with One nation](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Stop Kodi buffering issue with a VPN
@@ -90,6 +82,10 @@ Quick Fix:**Install & update drivers automatically**
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.![](https://images.drivereasy.com/wp-content/uploads/2019/05/nord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Coupon tip** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
 ### Fix 2: Adjust video cache size with One nation
@@ -100,11 +96,15 @@ Quick Fix:**Install & update drivers automatically**
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
 4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
 6. Restart Kodi and check the buffering problem is still there or not.
@@ -117,11 +117,11 @@ Quick Fix:**Install & update drivers automatically**
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
 
-4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
 
 5. Follow the on-screen instructions to finish the process.
 6. Restart Kodi and check whether the buffering issue is still here or not.
@@ -145,18 +145,18 @@ Quick Fix:**Install & update drivers automatically**
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/charisma-in-characters-two-ways-to-enliven-text/"><u>Charisma in Characters Two Ways to Enliven Text</u></a></li>
-<li><a href="https://win-hot.techidaily.com/expert-tips-on-retrieving-data-when-your-ssd-refuses-to-start/"><u>Expert Tips on Retrieving Data When Your SSD Refuses to Start</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-dominance-with-one-exceptional-case/"><u>Google Play Pass Dominance - With One Exceptional Case</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-laptops-touchpad-in-widows-os/"><u>How to Restore Functionality of Your Laptop's Touchpad in Widows OS</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-12-pro-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 12 Pro to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-ghosts-in-the-machine-eradicate-minecrafts-error-5-now/"><u>No Ghosts in the Machine! Eradicate Minecraft's Error #5 Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-error-code-8007000e-on-windows-updates-fast-and-effective-solutions/"><u>Resolve Error Code 8007000E on Windows Updates: Fast and Effective Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-persistent-double-click-glitch-on-your-computer-mouse/"><u>Resolving Persistent Double-Click Glitch on Your Computer Mouse</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v12-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.2 File</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-windows-10-font-clarity-issues-easy-steps-to-improve-text-sharpness/"><u>Solve Windows 10 Font Clarity Issues: Easy Steps to Improve Text Sharpness</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-touch-screen-woes-on-windows-11-with-these-5-easy-techniques/"><u>Solve Your Touch Screen Woes on Windows 11 with These 5 Easy Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-review-screen-capture-with-vlc-player/"><u>[New] In 2024, In-Depth Review Screen Capture with VLC Player</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-deciphering-disguised-dialogues-with-youtube-viewers/"><u>[Updated] Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-innovative-image-caption-manipulation/"><u>[Updated] In 2024, Innovative Image Caption Manipulation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-spectrum-of-hand-tracking-technologies/"><u>[Updated] Unveiling the Spectrum of Hand Tracking Technologies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-asus-proart-4k-ultra-a-pro-artists-dream-display/"><u>2024 Approved ASUS ProArt 4K Ultra A Pro Artist's Dream Display</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-metaverse-frontier-gear-guide-select-8-headsets/"><u>2024 Approved Metaverse Frontier Gear Guide Select 8 Headsets</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-how-to-fix-an-inverted-display-on-your-portable-computer/"><u>Expert Advice on How to Fix an Inverted Display on Your Portable Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206628429-fix-your-laptops-non-charging-issue-a-fast-simple-solution/"><u>Fix Your Laptop's Non-Charging Issue: A Fast, Simple Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-locate-the-start-menu-in-windows-11-a-step-by-step-guide/"><u>How to Locate the Start Menu in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-14-pro-vs-iphones-14-pro-max-showdown-picking-the-best-device-to-upgrade-to-expert-analysis/"><u>IPhone 14 Pro Vs. IPhones 14 Pro Max Showdown: Picking the Best Device to Upgrade To Expert Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-valorants-perpetual-launch-loop-essential-tips-and-tricks/"><u>Overcome Valorant's Perpetual Launch Loop - Essential Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/safeguard-your-pc-with-local-security-authority-restart-protection-feature/"><u>Safeguard Your PC with Local Security Authority – Restart Protection Feature</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-x50-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor X50 for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair Unresponsive Buttons on a Win 10 or 11 Keyboard
-date: 2025-01-15T20:19:23.950Z
-updated: 2025-01-22T18:03:53.800Z
+date: 2025-01-24T19:23:18.053Z
+updated: 2025-01-29T23:04:43.837Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for the spacebar not working
 
 1. [**Check the Sticky Keys feature**](#method1)
@@ -43,11 +39,23 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 ![This image has an empty alt attribute; its file name is 2-24.png](https://images.drivereasy.com/wp-content/uploads/2017/06/2-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Keyboard** on the left pane. Then check the icon of Sticky Keys. If it’s **on** , set it to be**off** .
 
 ![This image has an empty alt attribute; its file name is 3-24.png](https://images.drivereasy.com/wp-content/uploads/2017/06/3-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If after making sure the Sticky Keys feature is disabled, you still cannot use your spacebar, try other methods below. The spacebar not working error is probably due to its driver issues. Rolling back its driver to an earlier version or doing a clean install for its driver helps many users fix the issue. You can try to do so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:   Roll back your keyboard driver to an earlier version
 
@@ -55,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
  Then click**Device Manager** to open it.
 
 ![This image has an empty alt attribute; its file name is img_59795d07cc3ee.png](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795d07cc3ee.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the pop-up Device Manager window, find and expand the**Keyboards** dialog. Then right-click on your keyboard software and choose**Properties** .
 
@@ -68,15 +72,7 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 ![This image has an empty alt attribute; its file name is img_59796277ea917.png](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59796277ea917.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** If the Roll Back Driver icon is grayed out, you can choose to download the driver of an earlier version from your keyboard manufacturer’s website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3\. Do a clean install for your keyboard driver
 
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
  2) Right-click on your keyboard driver. Then choose**Uninstall device** .
 
 ![This image has an empty alt attribute; its file name is img_59796713d5162.png](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59796713d5162.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Reboot your Windows 10 to let Windows reinstall your keyboard driver.
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -128,18 +128,20 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flipping-frames-innovative-techniques-for-backward-viewing-on-yt/"><u>[Updated] In 2024, Flipping Frames Innovative Techniques for Backward Viewing on YT</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-ethernet-issues-in-windows-11-windows-navigating-to-os-7/"><u>Diagnosing and Solving Ethernet Issues in Windows 11 / Windows Navigating to OS 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-right-click-functionality-in-windows-11-computers/"><u>Fixing the Non-Responsive Right-Click Functionality in Windows 11 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-right-click-functionality-on-windows-11-systems/"><u>Fixing the Unresponsive Right Click Functionality on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-cpu-use-by-windows-sound-card-driver/"><u>How to Fix Elevated CPU Use by Windows Sound Card Driver</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-poco-x5-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Poco X5 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nokia-c32-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nokia C32 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/master-your-snapchats-the-top-6-editing-apps-for-both-devices-for-2024/"><u>Master Your Snapchats The Top 6 Editing Apps for Both Devices for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-honor-x8b-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Honor X8b</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-device-connection-error-when-casting-from-a-windows-10-computer/"><u>Resolving Device Connection Error When Casting From a Windows 10 Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-code-24-fixing-the-missing-device-issue-in-windows-operating-systems/"><u>Troubleshooting Code 24: Fixing the Missing Device Issue in Windows Operating Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-solving-missing-ftd2xxdll-error-messages/"><u>Understanding and Solving Missing ftd2XX.dll Error Messages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-watchos-11-top-enhancements-on-your-apple-watch-await-you-techtimes/"><u>Unveiling WatchOS 11: Top Enhancements on Your Apple Watch Await You | TechTimes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-deep-dive-ultimate-ice-cream-viewer-analysis-for-2024/"><u>[New] Deep Dive Ultimate Ice Cream Viewer Analysis for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>[New] Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-4k-precision-on-asuss-professional-display/"><u>[Updated] Exploring 4K Precision on ASUS's Professional Display</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-destinations-enhancing-youtube-video-impact/"><u>[Updated] Key Destinations Enhancing YouTube Video Impact</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-videos-making-a-statement-on-instagram/"><u>2024 Approved YouTube Videos Making a Statement on Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-league-of-legends-installations-no-more-sluggish-downloads/"><u>Accelerate Your League of Legends Installations: No More Sluggish Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-steps-to-correct-error-0x80071ac3-faulty-disk-cleanup/"><u>Comprehensive Steps to Correct Error 0X80071AC3 - Faulty Disk Cleanup</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-fixing-problems-when-reaching-out-to-a-remote-server/"><u>Effective Strategies for Fixing Problems When Reaching Out to a Remote Server</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-touchpad-scrolling-problems/"><u>How to Fix Windows 11 Touchpad Scrolling Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-to-master-hunting-alien-monsters-an-in-depth-review-of-monster/"><u>How to Master Hunting Alien Monsters: An In-Depth Review of Monster</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997655349-nier-automata-stability-improvements-no-more-crashes/"><u>NieR: Automata Stability Improvements - No More Crashes!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a59-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A59 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-with-creating-a-directx-device/"><u>Resolved: Issues with Creating a DirectX Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-laptop-touchpad-issues-practical-solutions-and-advice/"><u>Solving Laptop Touchpad Issues: Practical Solutions and Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-a-non-functioning-windows-key-on-your-windows-11-pc/"><u>The Ultimate Fix for a Non-Functioning Windows Key on Your Windows 11 PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Tricks to Speed Up Your Unresponsive Keyboard
-date: 2025-01-20T22:03:28.135Z
-updated: 2025-01-22T21:00:50.819Z
+date: 2025-01-28T21:51:26.165Z
+updated: 2025-01-30T01:00:53.097Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -54,10 +46,6 @@ Here’s how to reinstall the keyboard driver:
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -88,6 +76,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,9 +114,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -135,7 +135,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -147,7 +147,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -184,24 +184,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-comprehensive-guide-to-top-ae-extensions-for-2024/"><u>[New] Comprehensive Guide to Top AE Extensions for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-techniques-for-snagging-switch-gaming-videos/"><u>[New] Techniques for Snagging Switch Gaming Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-motorola-edge-40-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ai-competition-the-in-depth-comparison-of-chatgpt-vs-bing-chat/"><u>Decoding AI Competition: The In-Depth Comparison of ChatGPT Vs. Bing Chat</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-eliminating-crackling-sounds-from-native-windows-media-center-sound-system/"><u>Diagnosing and Eliminating Crackling Sounds From Native Windows Media Center Sound System</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212143161-experience-uninterrupted-updates-on-windows-11-solve-error-code-0x800f0922-using-our-top-fixes/"><u>Experience Uninterrupted Updates on Windows 11: Solve ERROR CODE 0X800F0922 Using Our Top Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-the-problem-of-steam-store-failing-to-load/"><u>Expert Tips: Overcoming the Problem of Steam Store Failing to Load</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-aggregate-video-pieces-into-lists/"><u>In 2024, Aggregate Video Pieces Into Lists</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-fixes-for-the-elusive-error-in-windows-installer-services/"><u>Mastering Fixes for the Elusive Error in Windows Installer Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-quick-fixes-for-windows-11-and-errorcode-0x80072f8f/"><u>Mastering Quick Fixes for Windows 11 and #ErrorCode 0X80072F8f</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-safe-shutdowns-on-a-windows-n-based-system-troubleshooting-tips-and-solutions/"><u>Mastering Safe Shutdowns on a Windows N-Based System – Troubleshooting Tips & Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-discover-the-best-online-neon-sign-tools-for-beginners/"><u>New 2024 Approved Discover the Best Online Neon Sign Tools for Beginners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/proton-vpn-login-tips-how-to-change-your-email-plus-debunking-the-myth-of-counterfeit-windows-chatgpt-apps/"><u>Proton VPN Login Tips: How to Change Your Email + Debunking the Myth of Counterfeit Windows ChatGPT Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-common-huion-pen-issues-quickly-5-proven-fixes-for-smoother-drawing/"><u>Solve Common Huion Pen Issues Quickly – 5 Proven Fixes for Smoother Drawing</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-to-combat-high-resource-drain-caused-by-wudfhostexe-on-windows-10-systems/"><u>Tips to Combat High Resource Drain Caused by WUDFHost.exe on Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-minecrafts-opengl-issues-step-by-step-solutions/"><u>Ultimate Guide: Resolving Minecraft's OpenGL Issues - Step by Step Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-high-quality-display-for-less-2020-lenovo-tab-m10-fhd-plus-reviewed/"><u>Unlocking High-Quality Display for Less: 2020 Lenovo Tab M10 FHD Plus Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y100a-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y100A Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>[Updated] In 2024, Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smooth-shooting-secured-choosing-ideal-tripods-and-gimbals/"><u>[Updated] Smooth Shooting Secured Choosing Ideal Tripods & Gimbals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-converting-srt-into-sub-quick-effective-ways/"><u>2024 Approved Converting SRT Into SUB Quick, Effective Ways</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-proficiently-use-twitter-archives/"><u>2024 Approved How to Proficiently Use Twitter Archives?</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-repairing-unresponsive-ethernet-connectivity-in-windows-11-and-7/"><u>Comprehensive Guide to Repairing Unresponsive Ethernet Connectivity in Windows 11 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212002151-critical-lsa-shield-fully-operational-revamp-your-systems-local-security-today/"><u>Critical LSA Shield Fully Operational: Revamp Your System's Local Security Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/gaming-glitch-say-goodbye-with-simple-tweaks/"><u>Gaming Glitch? Say Goodbye with Simple Tweaks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-graphics-performance-boost-with-nvidia-gtx-1cu2nwgfytqfbgeplusaqzjd9lwzk3gnltvpjuh7s8hvodu5rmm04sxnbk6akreie/"><u>Get the Latest Graphics Performance Boost with NVIDIA GTX 1Cu2nwgFYTqfBGe+AQzjD9lWZK3GnL/tVpJuH7S8hvOdU5RMm04sxNbk6aKrEIe</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/high-resolution-repair-tool-video-recovery/"><u>High-Resolution Repair Tool: Video Recovery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-your-battlefield-5-game-from-keeping-crashing-on-windows/"><u>How to Stop Your Battlefield 5 Game From Keeping Crashing on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-high-usage-at-bay-streamline-media-on-windows-11/"><u>Keeping High Usage at Bay: Streamline Media on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-steam-download-troubles-update-not-installing-correctly/"><u>Solving Your Steam Download Troubles: Update Not Installing Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/turbocharged-tech-experience-unprecedented-rapidity-with-this-high-performance-device/"><u>Turbocharged Tech: Experience Unprecedented Rapidity with This High-Performance Device</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/virtual-victory-channel-over-a-hundred-heroes-rise/"><u>Virtual Victory Channel Over a Hundred Heroes Rise</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Silent Shutdown: Hardware Emergency"
-date: 2024-09-11T12:16:09.024Z
-updated: 2024-09-15T08:57:53.042Z
+date: 2025-01-26T01:24:42.204Z
+updated: 2025-01-29T17:00:47.330Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Activate & Update** button next to the flagged audio driver to automatically update the correct version of that driver. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click the button. If you are not sure whether Driver Easy is right for you, our free trial version lets you try out the_full features_ of the Pro version for 7 days. You won’t be charged before your trial ends.)
 
@@ -61,6 +65,10 @@ Here’s how:
 
 ![This image has an empty alt attribute; its file name is img_5ab8ceebb29b0.png](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ceebb29b0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Voice & Video** , then**Reset Voice Settings** .
 
 ![This image has an empty alt attribute; its file name is Snap57.jpg](https://images.drivereasy.com/wp-content/uploads/2018/03/Snap57.jpg)
@@ -70,6 +78,10 @@ Here’s how:
 ![This image has an empty alt attribute; its file name is img_5ab8cf4ebab15.png](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8cf4ebab15.png)
 
  4) Reconnect your microphone and try to send an audio message on Discord to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Quit Discord and rerun it as administrator
 
@@ -82,10 +94,7 @@ Here’s how to:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/discord-quit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On your desktop, right-click on the**Discord shortcut icon** and select**Run as administrator** .
@@ -93,10 +102,7 @@ Here’s how to:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-discord-as-admin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Yes**  when prompted by User Account Control.
@@ -130,5 +136,20 @@ Here’s how to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-achieving-professional-level-youtube-streams-using-wirecast/"><u>[New] Achieving Professional-Level Youtube Streams Using WireCast</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>[New] Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-avoid-piracy-safe-youtube-to-mp4-conversion-tips/"><u>[Updated] Avoid Piracy Safe YouTube to MP4 Conversion Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-embedding-on-screen-text-on-youtube-clips-for-2024/"><u>[Updated] Guide to Embedding On-Screen Text on YouTube Clips for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-your-big-day-easily-timed-top-mobile-apps-for-weddings/"><u>2024 Approved Your Big Day, Easily Timed Top Mobile Apps for Weddings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-critical-innovations-in-the-latest-gpt-update/"><u>AI Revolution: Critical Innovations in the Latest GPT Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-rid-of-your-keyboards-unresponsive-keys-on-a-windows-pc-easily/"><u>Get Rid of Your Keyboard's Unresponsive Keys on a Windows PC Easily!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/udio-enhancement-tools-for-social-media-experts-for-2024/"><u>Key Audio Enhancement Tools for Social Media Experts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-functionality-resolving-non-responsive-alphabet-keys-in-microsoft-windows-1011/"><u>Restore Functionality: Resolving Non-Responsive Alphabet Keys in Microsoft Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-repairing-your-lenovos-malfunctioning-fingerprint-scanner/"><u>Simple Solutions: Repairing Your Lenovo's Malfunctioning Fingerprint Scanner</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-handling-failed-logons-in-group-policy-clients/"><u>Solution Steps for Handling Failed Logons in Group Policy Clients</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-purchasing-the-right-tv-for-your-household-needs/"><u>Step-by-Step Guide: Purchasing the Right TV for Your Household Needs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
+</ul></div>
 

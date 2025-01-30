@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Destiny 2 Connectivity Woes: Fix Your Servers Now"
-date: 2025-01-21T16:46:01.185Z
-updated: 2025-01-22T19:13:20.113Z
+date: 2025-01-27T21:16:01.950Z
+updated: 2025-01-30T01:21:08.359Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to hard reset your Xbox One
 
 1) Press and hold the Xbox Logo on your console until the console shuts off. 2) Wait for a while then turn your console back on by pressing the same Xbox button on your console.
@@ -51,10 +47,6 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Change IP settings and DNS settings on Xbox Live
 
 The IP settings and DNS settings could also have an effect on the connection between your Xbox One and Xbox Live. Follow the steps here to correct it: 1) Click the Settings icon on left side of your Xbox Live. Then click**All settings**.
@@ -62,12 +54,16 @@ The IP settings and DNS settings could also have an effect on the connection bet
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click**Network**. Then select**Network settings**on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Go on to click**Advanced settings**.
 
@@ -83,35 +79,39 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 Now try to connect your Xbox one to Xbox Live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Check the services related to Xbox Live
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf2f4ab34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game Save**via the same steps above. They’re ussually listed closed to Xbox Live Networking Service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
 
@@ -119,13 +119,13 @@ Your Xbox One won’t connect to Xbox Live could also being caused by driver iss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe3c5e3c1c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe7ca890f7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After updating the drivers, please restart your computer to make the new drivers take effect.
 
@@ -146,21 +146,22 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-lenovo-screenshots-made-quickly-and-easy/"><u>[Updated] Lenovo Screenshots Made Quickly and Easy</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-revealing-the-rich-detail-of-your-roblox-journey-for-2024/"><u>[Updated] Revealing the Rich Detail of Your Roblox Journey for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-roadmap-to-establishing-your-unique-flair/"><u>[Updated] The Roadmap to Establishing Your Unique Flair</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207916874-decrease-wmi-cpu-load-on-win11-quick-guide/"><u>Decrease WMI CPU Load on Win11 - Quick Guide!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-bluetooth-mouse-problems-quickly-and-easily-a-comprehensive-guide/"><u>Fix Windows Bluetooth Mouse Problems Quickly and Easily – A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-adjust-monitor-settings-for-correct-signal-timing/"><u>How to Adjust Monitor Settings for Correct Signal Timing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-strategic-brand-integrations-within-youtube-realms/"><u>In 2024, Strategic Brand Integrations Within YouTube Realms</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-unleash-zooms-full-potential-with-essential-3-methods/"><u>In 2024, Unleash Zoom's Full Potential with Essential 3 Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/scroll-jumps-elevate-your-windows-experience/"><u>Scroll Jumps: Elevate Your Windows Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-arrow-key-issues-with-these-proven-fixes-for-malfunctioning-buttons/"><u>Solve Your Arrow-Key Issues with These Proven Fixes for Malfunctioning Buttons</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solve-your-iphones-autofocus-issues-with-these-proven-solutions/"><u>Solve Your iPhone's Autofocus Issues with These Proven Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/stifling-windows-update-seekings/"><u>Stifling Windows Update Seekings</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-note-13-proplus-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi Note 13 Pro+ 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovos-non-responsive-fn-key-with-these-simple-steps/"><u>Troubleshoot Your Lenovo's Non-Responsive FN Key with These Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-correcting-error-code-mnkraekt-rror-ked-fv/"><u>Understanding and Correcting Error Code ˈmɪnɪkrækt Ɛrror Kəʊd Fɪv/</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expedite-youtube-video-submission-rapid-rendering-secrets/"><u>[New] In 2024, Expedite YouTube Video Submission Rapid Rendering Secrets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-guide-to-real-photo-verification/"><u>[New] In 2024, Instagram's Guide to Real Photo Verification</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-reinforcing-windows-photo-viewer-functionality-in-windows-10/"><u>[New] In 2024, Reinforcing Windows Photo Viewer Functionality in Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-spark-the-momentum-channels-best-inspirational-videos/"><u>[New] In 2024, Spark the Momentum Channel's Best Inspirational Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtube-earning-masterclass-taking-your-streaming-business-to-new-heights/"><u>[New] In 2024, YouTube Earning Masterclass Taking Your Streaming Business to New Heights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-avoid-blandness-optimize-your-thumbnail-with-20-fonts-for-2024/"><u>[Updated] Avoid Blandness - Optimize Your Thumbnail with 20 Fonts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-distance-remote-podcast-broadcast/"><u>[Updated] In 2024, Mastering Distance Remote Podcast Broadcast</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-servicenow-embraces-ai-fundamentals-for-competitive-advantage-insights-and-implications-for-business-growth-zdnet/"><u>How ServiceNow Embraces AI Fundamentals for Competitive Advantage – Insights & Implications for Business Growth | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/insights-on-msda80dll-file-should-you-keep-or-delete-it-from-your-pc/"><u>Insights on MSDA80.DLL File: Should You Keep or Delete It From Your PC?</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-responsiveness-restored-a-guide-to-solving-lag-issues-in-windows-10/"><u>Keyboard Responsiveness Restored: A Guide to Solving Lag Issues in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-crc-data-integrity-problems-demystified/"><u>Resolved Issue: CRC Data Integrity Problems Demystified</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-lost-steam-file-privileges-a-comprehensive-solution/"><u>Restoring Lost Steam File Privileges - A Comprehensive Solution</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-ati-radeon-graphics-card-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your ATI Radeon Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-repairing-the-windows-installer-service-not-found-error/"><u>The Ultimate Guide to Repairing the 'Windows Installer Service Not Found' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-computer-resolving-constant-usb-not-detected-alerts-easily/"><u>Troubleshoot Your Computer: Resolving Constant 'USB Not Detected' Alerts Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-issue-of-windowsplusshiftpluss-unresponsiveness-in-windows-11-and-10/"><u>Troubleshooting Tips: Fixing the Issue of Windows+Shift+S Unresponsiveness in Windows 11 and 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-keys-on-your-windows-keyboard-easy-fixes-and-tips/"><u>Troubleshooting Unresponsive Keys on Your Windows Keyboard – Easy Fixes & Tips</u></a></li>
 </ul></div>
 

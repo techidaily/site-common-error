@@ -1,7 +1,7 @@
 ---
 title: HP Laptop USB Issues? Here's How You Can Get Them Fixed!
-date: 2025-01-18T18:34:27.361Z
-updated: 2025-01-22T20:20:58.656Z
+date: 2025-01-25T19:59:31.389Z
+updated: 2025-01-30T09:29:05.257Z
 tags:
   - win11
   - win10
@@ -40,12 +40,12 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3b628678.png)
 2. Make sure to toggle**On** **Allow apps to access your camera** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
 3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your camera driver
 
 It’s also possible that your current camera  driver is corrupted or in conflict with Windows 10 and triggers the**camera not working** issue. We can try uninstalling the driver before reinstalling it to see if it fixes the problem.
@@ -92,15 +96,11 @@ To do so:
 3. Right-click on**your camera device** and click**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
 4. Click **Yes**   to confirm the uninstall.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
@@ -108,14 +108,14 @@ To do so:
 7. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01480c86ca.jpg)
 8. Check your camera and see if it’s working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -139,21 +139,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-8-best-mirrorless-cameras-vloggers-should-know/"><u>[New] In 2024, 8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-win-10s-best-webcam-recording-software-guide/"><u>[New] In 2024, Win 10'S Best Webcam Recording Software Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unveiling-youtubes-hidden-feature-stop-snippet-viewing/"><u>[Updated] 2024 Approved Unveiling YouTube's Hidden Feature Stop Snippet Viewing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-discovering-local-insta-stars-finding-your-niches-top-influencers-for-2024/"><u>[Updated] Discovering Local Insta Stars Finding Your Niche's Top Influencers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-perfecting-the-art-of-itunes-video-recording/"><u>[Updated] In 2024, Perfecting the Art of iTunes Video Recording</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-video-backup-two-methods-for-seamless-access/"><u>2024 Approved Insta Video Backup Two Methods for Seamless Access</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/aumenta-il-fattore-di-impatto-del-tuo-contenuto-video-usando-winxvideo-ai-per-una-migliore-nitidezza-e-precisione/"><u>Aumenta Il Fattore Di Impatto Del Tuo Contenuto Video Usando Winxvideo AI per Una Migliore Nitidezza E Precisione</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exclusive-prime-day-deals-get-premium-tribit-speakers-and-earphones-at-incredible-prices/"><u>Exclusive Prime Day Deals - Get Premium Tribit Speakers and Earphones at Incredible Prices</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-and-prevent-frequent-mouse-disconnects-a-comprehensive-walkthrough/"><u>Fix and Prevent Frequent Mouse Disconnects: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-issues-with-mouses-right-click-feature-on-windows-11-pcs/"><u>Fixing Issues with Mouse's Right-Click Feature on Windows 11 PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-pitch-black-a-comprehensive-approach-to-dell-laptop-screen-problems/"><u>Fixing the Pitch Black: A Comprehensive Approach to Dell Laptop Screen Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-expired-semaphore-timeout-period-issue-with-error-0x80070079/"><u>How to Fix the 'Expired Semaphore Timeout Period' Issue with Error 0X80070079</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-audio-functionality-when-windows-1n-detects-no-output-device-installed/"><u>How to Restore Audio Functionality When Windows 1N Detects No Output Device Installed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-6-solutions-for-resolving-werfaultexe-errors-in-windows/"><u>Top 6 Solutions for Resolving werFault.exe Errors in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212161589-win-11-volume-troubleshooting-guide-get-your-sounds-back-today/"><u>Win 11 Volume Troubleshooting Guide - Get Your Sounds Back Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-screen-recording-software-unlimited-recordings/"><u>[New] In 2024, Elite Screen Recording Software, Unlimited Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-definitive-guide-to-film-gear-buying-tips-for-2024/"><u>[New] The Definitive Guide to Film Gear Buying Tips for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/2nas/"><u>安定したバックアップシステムを構築する：2台のNASサーバー同期ガイド</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/connecting-an-external-mic-to-your-pc-a-step-by-step-guide-for-windows-users-yl-software-solutions/"><u>Connecting an External Mic to Your PC: A Step-by-Step Guide for Windows Users - YL Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-guide-fixing-the-unresponsive-microphone-in-corsair-hs50/"><u>DIY Repair Guide: Fixing the Unresponsive Microphone in Corsair HS50</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-overcome-secured-connection-problems-in-firefox/"><u>Effective Solutions to Overcome 'Secured Connection' Problems in Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212123580-error-0x887a0006-unraveled-effortless-fixes-inside/"><u>Error 0X887A0006 Unraveled: Effortless Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-when-the-component-object-model-com-surrogate-stops-running/"><u>Fixes for When the Component Object Model (COM) Surrogate Stops Running</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-dead-or-unresponsive-laptop-mousepad-across-different-windows-versions/"><u>How to Fix a Dead or Unresponsive Laptop Mousepad Across Different Windows Versions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-12-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi 12 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-issues-with-resident-evil-village-game/"><u>Overcoming Launch Issues with Resident Evil Village Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-high-cpu-use-in-windows-amidst-stops/"><u>Preventing High CPU Use in Windows Amidst Stops</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/professional-video-grabber-high-res-recordings-for-2024/"><u>Professional Video Grabber High-Res Recordings for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-8-key-factors-in-purchasing-email-marketing-lists-insights-from-2010-with-massmail-solutions/"><u>Top 8 Key Factors in Purchasing Email Marketing Lists: Insights From 2010 with MassMail Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209230512-troubled-by-a-broken-touch-screen-on-your-windows-10-pc-heres-how-you-can-mend-it-in-5-steps/"><u>Troubled by a Broken Touch Screen on Your Windows 10 PC? Here's How You Can Mend It in 5 Steps!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing When You Can’t Connect to Destiny 2 Servers
-date: 2025-01-21T18:21:09.289Z
-updated: 2025-01-22T17:49:06.349Z
+date: 2025-01-28T03:18:22.964Z
+updated: 2025-01-30T03:40:39.823Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these steps
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 
 If all your USB ports aren’t working, try Step 2, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -52,7 +52,7 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Restart** your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. **Plug** your USB device into your laptop.
@@ -69,17 +69,21 @@ If all your USB ports aren’t working, try Step 2, below.
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
@@ -88,10 +92,6 @@ If all your USB ports aren’t working, try Step 2, below.
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 
 8. Check if your USB port works properly now. If not, try Step 4, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -136,18 +136,24 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-from-lurker-to-influencer-enhancing-your-facebook-experience-for-2024/"><u>[New] From Lurker to Influencer Enhancing Your Facebook Experience for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-add-a-youtube-video-to-google-slides-for-2024/"><u>[New] How to Add a YouTube Video to Google Slides for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pixelperfect-screen-capture-software/"><u>[New] PixelPerfect Screen Capture Software</u></a></li>
-<li><a href="https://article-posts.techidaily.com/expert-list-of-websites-for-text-styling-tools-for-2024/"><u>Expert List of Websites for Text Styling Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-power-on-your-unlit-razer-keyboard/"><u>Expert Tips to Restore Power on Your Unlit Razer Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204171759-fix-the-too-many-redirects-error-instantly-simple-solutions/"><u>Fix the 'Too Many Redirects' Error Instantly - Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-gain-access-adjusting-file-permissions-via-trustedinstaller/"><u>How to Gain Access: Adjusting File Permissions via TrustedInstaller</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-15-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 15 Pro Max Safe and Legal</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-magic-5-lite-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor Magic 5 Lite Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-deadlock-irreparable-error/"><u>System Deadlock: Irreparable Error</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-to-correctly-identify-gaming-software-on-steam/"><u>Tips to Correctly Identify Gaming Software on Steam</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-repairing-windows-defender-security-center-malfunctions-wrp-trouble/"><u>Understanding and Repairing Windows Defender Security Center Malfunctions: WRP Trouble</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-stability-upgrade-fixing-pixel-anomalies-and-ending-the-screen-dance/"><u>Windows 11 Stability Upgrade: Fixing Pixel Anomalies and Ending the Screen Dance.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-free-10-best-live-streaming-apps-for-android-and-iphone/"><u>[Updated] In 2024, FREE 10 Best Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-rapid-rendering-sounds-with-visuals-for-2024/"><u>[Updated] Rapid Rendering Sounds with Visuals for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-smoothie-your-phone-converting-iphones-jpegpng-to-pdf-for-2024/"><u>[Updated] Smoothie Your Phone Converting iPhone's JPEG/PNG to PDF for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-premier-screenshot-applications-for-linux-users/"><u>[Updated] The Premier Screenshot Applications for Linux Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/discords-silent-mic-no-more/"><u>Discord's Silent Mic: No More</u></a></li>
+<li><a href="https://common-error.techidaily.com/et3rminate-all-unnecessary-applications-running-in-the-background-that-might-be-hogging-system-resources-which-could-potentially-help-with-driver-installati98/"><u>e.t3rminate All Unnecessary Applications Running in the Background that Might Be Hogging System Resources, Which Could Potentially Help with Driver Installation Issues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-mp3-downloads-top-36-must-hear-turkish-tracks/"><u>Free MP3 Downloads: Top 36 Must-Hear Turkish Tracks</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-and-11-update-error-code-0x8024401c/"><u>How to Fix Windows 10 and 11 Update Error Code 0X8024401c</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/open-source-wins-get-the-best-of-chatgpt-desktop-experience-without-waiting/"><u>Open Source Wins: Get the Best of ChatGPT Desktop Experience Without Waiting!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-youtube-audio-issues-fixing-the-audio-renderer-glitch-in-windows-11/"><u>Resolving YouTube Audio Issues: Fixing the Audio Renderer Glitch in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-making-your-laptop-trackpad-work-again-on-different-versions-of-windows/"><u>Step-by-Step Solution: Making Your Laptop Trackpad Work Again on Different Versions of Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transforming-your-twitter-feed-adding-custom-thumbnails-to-videos-for-2024/"><u>Transforming Your Twitter Feed Adding Custom Thumbnails to Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211678844-troubleshooting-a-non-functional-usb-port-on-your-dell-device-solutions-revealed/"><u>Troubleshooting a Non-Functional USB Port on Your Dell Device - Solutions Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pcs-that-are-frozen-on-preparing-to-load-windows/"><u>Troubleshooting PCs That Are Frozen on 'Preparing to Load Windows'</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-windows-1011-system-files/"><u>Ultimate Guide: Repairing Damaged Windows 10/11 System Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-advanced-augmented-reality-in-apple-vision-pro-using-spatial-personas-step-by-step-guide/"><u>Unlock Advanced Augmented Reality in Apple Vision Pro Using Spatial Personas - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/victory-over-videogame-void-solving-the-obs-capture-screen-discoloration-problem/"><u>Victory over Videogame Void: Solving the OBS Capture Screen Discoloration Problem</u></a></li>
 </ul></div>
 

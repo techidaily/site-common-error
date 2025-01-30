@@ -1,7 +1,7 @@
 ---
 title: "Solving Typing Issues: Fix Broken Letter Keys Under Windows 11 Operating System"
-date: 2024-12-24T19:22:35.364Z
-updated: 2024-12-25T18:19:51.014Z
+date: 2025-01-24T03:03:06.374Z
+updated: 2025-01-29T20:32:59.913Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -42,10 +46,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -55,11 +55,15 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
@@ -79,6 +83,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -90,7 +98,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -101,16 +109,8 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -140,24 +140,16 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-innovating-filming-techniques-smartphones-as-webcams/"><u>[New] 2024 Approved Innovating Filming Techniques Smartphones as Webcams</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-9-free-youtube-logo-makers/"><u>[New] 2024 Approved Top 9 Free YouTube Logo Makers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-laugh-cry-or-shout-out-on-these-top-10-instagram-memes-hubs/"><u>[New] Laugh, Cry or Shout Out on These Top 10 Instagram Memes Hubs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-x-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone X</u></a></li>
-<li><a href="https://common-error.techidaily.com/clearing-up-shadows-a-guide-to-remedying-obss-black-screen-troubleshooting/"><u>Clearing Up Shadows: A Guide to Remedying OBS's Black Screen Troubleshooting</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosis-and-solutions-for-when-your-dell-laptops-keyboard-wont-work/"><u>Diagnosis & Solutions for When Your Dell Laptop's Keyboard Won't Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guide-to-resolving-the-persistent-windows-update-at-0-standoff/"><u>Effortless Guide to Resolving the Persistent 'Windows Update at 0%' Standoff</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-not-working-laptop-mousepad-on-windows-solutions-for-windows-1187-users/"><u>Fix Not Working Laptop Mousepad on Windows: Solutions for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-dells-malfunctioning-usb-port-a-comprehensive-guide/"><u>Fixing Dell's Malfunctioning USB Port: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-cinema-app-assessment-review/"><u>In 2024, Mobile Cinema App Assessment Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/les-top-3-methodes-pour-fabriquer-un-support-de-demarrage-sur-une-cle-usb-avec-windows-881/"><u>Les Top 3 Méthodes Pour Fabriquer Un Support De Démarrage Sur Une Clé USB Avec Windows 8/8.1</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-successful-windows-patches-and-fixes/"><u>Mastering Successful Windows Patches and Fixes</u></a></li>
-<li><a href="https://facebook.techidaily.com/online-morality-correct-to-ban-trump-but-not-permanently/"><u>Online Morality: Correct to Ban Trump but Not Permanently</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-issues-with-non-responsive-dell-wireless-keyboards-expert-advice/"><u>Overcoming Issues with Non-Responsive Dell Wireless Keyboards: Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209531378-resolving-0x80070002-update-issues-on-your-pc-with-ease/"><u>Resolving 0X80070002 Update Issues on Your PC with Ease!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-memes-with-these-7-top-gif-creation-techniques-for-2024/"><u>Revolutionize Your Memes with These 7 Top GIF Creation Techniques for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-error-0x80070002-in-windows-updates-quick-fixes-inside/"><u>Troubleshoot and Solve Error 0X80070002 in Windows Updates | Quick Fixes Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-resolve-blue-yeti-microphone-unrecognized-issues/"><u>Troubleshooting Guide: How To Resolve 'Blue Yeti Microphone Unrecognized' Issues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-game-changing-streaming-apps-for-gamers/"><u>[New] In 2024, Game-Changing Streaming Apps for Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-efficient-chrome-os-snaps-4-techniques-to-try/"><u>[Updated] Efficient Chrome OS Snaps - 4 Techniques to Try</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-footage-leading-stabilizers-on-youtube/"><u>2024 Approved Secure Footage Leading Stabilizers on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-stubborn-pdf-print-errors-instantly-with-these-handy-tricks/"><u>Fix Stubborn PDF Print Errors Instantly with These Handy Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/foddian-games-explained-origin-story/"><u>Foddian Games Explained: Origin Story</u></a></li>
+<li><a href="https://common-error.techidaily.com/game-changer-unleashed-experience-lightning-speed-in-action-today/"><u>Game-Changer Unleashed: Experience Lightning Speed in Action Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-the-missing-d3dx939dll-file-and-fix-related-issues-quickly/"><u>How To Restore The Missing D3DX9_39.dll File & Fix Related Issues Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-pc-boot-problems-with-getting-windows-ready-errors/"><u>Step-by-Step Guide: Resolving PC Boot Problems with 'Getting Windows Ready' Errors</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/the-architects-of-trust-in-crypto-trading-regulatory-bodies-explained-yl-softwares-perspective/"><u>The Architects of Trust in Crypto Trading: Regulatory Bodies Explained - YL Software's Perspective</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-essential-guide-to-using-voicemod-effectively-on-desktop-and-mobile/"><u>The Essential Guide to Using VoiceMod Effectively on Desktop & Mobile</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-improving-windows-audio-capabilities-easily/"><u>Troubleshooting and Improving Windows Audio Capabilities Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Non-Functional Fn Key Issues"
-date: 2024-09-12T02:44:54.796Z
-updated: 2024-09-15T14:36:49.631Z
+date: 2025-01-25T20:08:27.873Z
+updated: 2025-01-29T17:02:24.414Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -40,9 +44,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -62,6 +74,11 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -82,10 +99,7 @@ To do so:
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
@@ -93,19 +107,6 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -138,5 +139,23 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-excellence-in-hd-recording-leading-screen-recorder-options-for-2024/"><u>[New] Excellence in HD Recording Leading Screen Recorder Options for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>[Updated] 2024 Approved Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-no-cost-webcams-for-seamless-chats/"><u>[Updated] In 2024, Essential No-Cost Webcams for Seamless Chats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-your-fisheye-lens-techniques-stepwise/"><u>[Updated] Perfecting Your Fisheye Lens Techniques Stepwise</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-pros-picks-best-microphones-for-asmr-recording-for-2024/"><u>[Updated] Pros' Picks Best Microphones for ASMR Recording for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/alternative-approaches-for-integrating-additional-av-software/"><u>Alternative Approaches for Integrating Additional AV Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/decoding-the-mystery-insider-knowledge-on-story-watchers/"><u>Decoding the Mystery Insider Knowledge on Story Watchers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209262610-desktop-icon-disappearance-in-windows-11-heres-how-you-can-resolve-it/"><u>Desktop Icon Disappearance in Windows 11? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-distortion-techniques-and-applications/"><u>Digital Distortion Techniques and Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-troubleshooting-rebooting-your-keyboard-to-default-configuration/"><u>Easy Troubleshooting: Rebooting Your Keyboard to Default Configuration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-hot-40i-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Hot 40i.</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-navigate-past-a-frozen-setting-up-windows-process-now-fixed/"><u>How to Successfully Navigate Past a Frozen 'Setting Up Windows' Process (Now Fixed)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-with-print-driver-host-on-32-bit-software-discontinued/"><u>Resolved: Error with Print Driver Host on 32-Bit Software Discontinued</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-unresponsive-network-adapters-on-microsoft-operating-systems-windows-11-7/"><u>Solutions for Unresponsive Network Adapters on Microsoft Operating Systems (Windows 11, 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-to-your-windows-10-update-problems-tackling-error-0x80240034/"><u>The Definitive Fixes to Your Windows 10 Update Problems - Tackling Error 0X80240034</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tip-semaphore-timeout-limit-resolved-say-goodbye-to-error-0x80070079/"><u>Troubleshooting Tip: Semaphore Timeout Limit Resolved, Say Goodbye to Error 0X80070079</u></a></li>
+</ul></div>
 

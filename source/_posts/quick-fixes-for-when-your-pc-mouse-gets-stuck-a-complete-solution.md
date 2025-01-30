@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution
-date: 2024-09-12T02:46:03.488Z
-updated: 2024-09-15T05:29:47.555Z
+date: 2025-01-28T20:31:35.532Z
+updated: 2025-01-30T04:35:36.377Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -36,6 +40,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -43,6 +51,10 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -66,6 +78,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -79,16 +95,7 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
@@ -99,19 +106,6 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -144,5 +138,22 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-time-lapse-techniques-and-tools-5/"><u>[New] 2024 Approved Top Time-Lapse Techniques & Tools #5</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-a-symphony-for-photos-on-digital-platforms/"><u>[New] A Symphony for Photos on Digital Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/lotting-pioneering-partings/"><u>[New] Plotting Pioneering Partings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-webcam-recording-for-slideshows/"><u>[Updated] In 2024, Mastering Webcam Recording for Slideshows</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-strategies-for-repairing-common-oculus-tech-problems-this-year/"><u>Comprehensive Strategies for Repairing Common Oculus Tech Problems This Year</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-on-ergodriven-topo-mat-curbing-office-fatigue-with-an-innovative-standing-desk-pad/"><u>Expert Review on Ergodriven Topo Mat: Curbing Office Fatigue with an Innovative Standing Desk Pad</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-no-playable-source-errors-in-windows-media-player-complete-guide/"><u>Fixing 'No Playable Source' Errors in Windows Media Player - Complete Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s23-fe-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S23 FE FRP Without Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-and-solving-the-infamous-windows-update-hurdle-code-0x800705b4-in-windows-11/"><u>Navigating and Solving the Infamous Windows Update Hurdle: Code 0X800705B4 in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-data-management-convert-idle-ssds-to-efficient-external-storage-for-just-12-tips-revealed-by-zdnet/"><u>Revolutionize Your Data Management: Convert Idle SSDs to Efficient External Storage for Just $12! Tips Revealed by ZDNET</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionizing-data-restoration-stellar-enhances-consumer-friendly-features-in-latest-upgrade/"><u>Revolutionizing Data Restoration: Stellar Enhances Consumer-Friendly Features in Latest Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-windows-11-blue-screen-dilemma-a-comprehensive-guide/"><u>Solving the Windows 11 Blue Screen Dilemma - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-fixing-failed-attempts-at-creating-a-directx-visual-device/"><u>Success Story: Fixing Failed Attempts at Creating a DirectX Visual Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-failed-startup-on-windows-10-a-step-by-step-solution-guide/"><u>Troubleshoot Failed Startup on Windows 10 - A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-boost-your-systems-capacity-beyond-insufficient-resources-errors/"><u>Update: Boost Your System's Capacity Beyond 'Insufficient Resources' Errors</u></a></li>
+</ul></div>
 

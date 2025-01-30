@@ -1,7 +1,7 @@
 ---
 title: Why Is My Computer's Built-In Security Not Responding? Fix Windows SmartScreen Gaps
-date: 2024-09-11T16:53:50.094Z
-updated: 2024-09-14T19:54:40.463Z
+date: 2025-01-24T17:27:31.484Z
+updated: 2025-01-30T01:07:19.273Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f339adae6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Both fixes below work in Windows 10, 8 and 7.
 
  Just work your way down the list until your Lenovo trackpad behaves properly again.
@@ -38,8 +42,23 @@ Both fixes below work in Windows 10, 8 and 7.
 
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
@@ -65,6 +84,10 @@ Both fixes below work in Windows 10, 8 and 7.
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  If the fixes above both failed, then chances are your**Lenovo** touchpad is having some physical damages. Be sure to leave it with technical hands to avoid further problems.
@@ -88,18 +111,24 @@ Both fixes below work in Windows 10, 8 and 7.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-voice-logging-access-and-evaluation/"><u>[New] 2024 Approved Voice Logging Access & Evaluation</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-glitches-a-guide-to-correcting-windows-11-touchscreen-malfunctions-in-5-ways/"><u>Bypassing Glitches: A Guide to Correcting Windows 11 Touchscreen Malfunctions in 5 Ways</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722584432842-can-the-samsung-cf591-deliver-an-exceptional-gaming-experience-an-experts-insight/"><u>Can the Samsung CF591 Deliver an Exceptional Gaming Experience? An Expert's Insight.</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-activate-bluetooth-in-windows-7-solution-guide/"><u>Easy Steps to Activate Bluetooth in Windows 7 - Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-corrective-measures-for-when-your-laptop-keys-dont-work/"><u>Expert Advice: Corrective Measures for When Your Laptop Keys Don’t Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-audio-device-not-installed-error-effectively-for-windows-users/"><u>Fix the 'Audio Device Not Installed' Error Effectively for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-your-aoc-display-screen-in-compatibility-mode-for-windows-11/"><u>Fixing Issues with Your AOC Display Screen in Compatibility Mode for Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2536731-9781501129124-guided/"><u>Guided | Free Book</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-google-pixel-7a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Google Pixel 7a to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lumapro-the-budget-friendly-lightroom-pairings-for-2024/"><u>LumaPro The Budget-Friendly Lightroom Pairings for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-resolving-lenovo-mouse-pad-problems-across-multiple-windows-environments-xpvista/"><u>Mastering the Fix: Resolving Lenovo Mouse Pad Problems Across Multiple Windows Environments (XP/Vista)</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-glitches-in-call-of-duty-black-ops-cold-war-fixing-tips-and-solutions/"><u>Overcoming Freezing Glitches in Call of Duty: Black Ops Cold War - Fixing Tips and Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/prime-visual-screenshots-on-apple-systems-max-length-156-for-2024/"><u>Prime Visual Screenshots on Apple Systems (Max Length 156) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sending-large-videos-via-email-with-gmail-tips-for-files-over-25mb/"><u>Sending Large Videos via Email with Gmail - Tips for Files Over 25MB</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-tips-to-eliminate-lag-in-rainbow-six-siege-enjoy-seamless-gaming/"><u>Top Tips to Eliminate Lag in Rainbow Six Siege – Enjoy Seamless Gaming!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooted-voltage-spike-on-switch-entry/"><u>Troubleshooted: Voltage Spike on Switch Entry</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-update-failed-to-install-solved/"><u>Windows 11 Update Failed to Install [SOLVED]</u></a></li>
+</ul></div>
 

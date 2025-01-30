@@ -1,7 +1,7 @@
 ---
 title: "Guide: Restoring Audio Output in a Malfunctioning Windows System"
-date: 2025-01-20T19:38:14.755Z
-updated: 2025-01-22T21:14:15.023Z
+date: 2025-01-25T20:17:28.417Z
+updated: 2025-01-29T21:42:52.979Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -52,7 +48,7 @@ If the other keys stop working either, check the next question:
 2. [Update your keyboard driver](#solution2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
@@ -65,20 +61,20 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -91,13 +87,13 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
@@ -116,6 +112,10 @@ Follow these:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. Your keyboard driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
@@ -142,19 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-capture-gifs-like-pro-on-any-mac/"><u>[Updated] Capture GIFs Like Pro on Any Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-proven-techniques-to-convert-and-download-pinterest-video-audio/"><u>[Updated] Proven Techniques to Convert and Download Pinterest Video Audio</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-capturing-content-on-vimeo-for-2024/"><u>[Updated] The Art of Capturing Content on Vimeo for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-your-ink-flowing-install-hp-projeto-8710-printer-drivers-windows/"><u>Get Your Ink Flowing - Install HP Projeto 8710 Printer Drivers (Windows)</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/guide-effortlessly-recover-chosen-information-from-your-iphone/"><u>Guide: Effortlessly Recover Chosen Information From Your iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-steam-shop-display-problems/"><u>How to Successfully Resolve Steam Shop Display Problems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>In 2024, From Blurred to Bold A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-sluggish-startup-on-your-windows-7-pc/"><u>Quick Fixes: Resolving Sluggish Startup on Your Windows 7 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/reclaiming-lost-dll-msvcr71-restored/"><u>Reclaiming Lost DLL: MSVCR71 Restored</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplifying-age-confirmation-on-tiktok/"><u>Simplifying Age Confirmation on TikTok</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-the-vcruntime140dll-couldnt-be-loaded-error-easily/"><u>Troubleshoot and Fix the 'VCRUNTIME140.dll Couldn't Be Loaded' Error Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-class-not-registered-warnings-in-windows-11-solutions-provided/"><u>Troubleshooting Class Not Registered Warnings in Windows 11 – Solutions Provided</u></a></li>
-<li><a href="https://common-error.techidaily.com/unsticking-destiny-2-expert-tips-for-fixing-initialization-delays-in-your-gameplay/"><u>Unsticking Destiny 2: Expert Tips for Fixing Initialization Delays in Your Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-updates-whats-in-the-name-and-number/"><u>Windows Updates: What's in the Name and Number?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simplify-zoom-a-comprehensive-guide-to-blurry-borders-for-2024/"><u>[New] Simplify Zoom A Comprehensive Guide to Blurry Borders for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-asmr-sounds-promoting-deep-sleep/"><u>[Updated] Top ASMR Sounds Promoting Deep Sleep</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/analyzing-audio-editing-tools-in-magix-producer-suite-for-2024/"><u>Analyzing Audio Editing Tools in Magix Producer Suite for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-touchpad-guide-to-device-management/"><u>Bring Back Touchpad - Guide to Device Management</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-ds-stylus-issues-a-thorough-strategy-guide-to-restoring-precision-and-control-in-your-handheld-gaming-adventures/"><u>Defeating DS Stylus Issues - A Thorough Strategy Guide to Restoring Precision and Control in Your Handheld Gaming Adventures</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-d3dx9tld-error-expert-tips-for-quick-recovery/"><u>Fixing Missing D3dx9_tld Error: Expert Tips for Quick Recovery</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 13 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-meetings-using-zoom-with-win11/"><u>In 2024, Streamlining Your Meetings Using Zoom with Win11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-video-production-a-compreey-guide-to-powerdirector/"><u>Mastering Video Production A Compreey Guide to PowerDirector</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-driverpowerstatefailure-error-step-by-step-guide/"><u>Resolving the DRIVER_POWER_STATE_FAILURE Error: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-print-screens-effective-fixes-for-common-problems-on-microsofts-latest-operating-systems/"><u>Restoring Print Screens: Effective Fixes for Common Problems on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-in-windows-operations-to-retain-or-remove/"><u>The Role of MSDIA80.DLL in Windows Operations – To Retain or Remove?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/thrilling-space-adventure-unleashed-a-critique-on-star-wars-squadrons/"><u>Thrilling Space Adventure Unleashed: A Critique on Star Wars: Squadrons</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-dell-camera-steps-to-get-it-working-on-windows-again/"><u>Troubleshoot Your Dell Camera: Steps to Get It Working on Windows Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/undetected-hard-drives-find-out-why-and-how-you-can-fix-it/"><u>Undetected Hard Drives? Find Out Why and How You Can Fix It</u></a></li>
 </ul></div>
 

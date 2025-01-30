@@ -1,7 +1,7 @@
 ---
 title: Best Remedies for Windows 11'S Stuck Taskbar Dilemma – An Expert Guide
-date: 2024-09-09T08:54:50.584Z
-updated: 2024-09-10T08:54:50.584Z
+date: 2025-01-26T23:09:51.243Z
+updated: 2025-01-30T01:57:13.556Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a375f9959471.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wireless network has become more critical in our daily lives, but can you imagine this: one day you connect to your WiFi as usual, but your**WiFi is not working** anymore, and you loss the access to the Internet. Isn’t it a horrible thing?
 
  The WiFi not working issue includes: WiFi connection failed or[WiFi not showing up](https://tools.techidaily.com/drivereasy/download/) . Sometimes it’s difficult to locate the cause. However, you can easily fix WiFi not working without paying much time and patience! Try the fixes in this article and solve your problem step by step!
@@ -59,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 
  4) On your device, reconnect to your WiFi network.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Step 2: Check if the WiFi signal is blocked to fix WiFi not working**
 
  As we all know: the weaker your WiFi signal is, the worse your WiFi is working. So please pay attention if there is anything that may prevent your WiFi signal from being connected. You can check the possible conditions below:
@@ -107,12 +95,6 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a39df6e29286.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **If your devices can only work with 2.4 GHz frequency, you are very likely to have the network congestion issue, so you can change the WiFi channel to solve your problem** . And there are only 11 channels available to choose. Among these, only channel 1, 6, 11 are most commonly used.
 
  Follow the instructions to set it up (Here we take a TP-link WiFi router as an example):
@@ -132,16 +114,18 @@ netsh wlan show drivers
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_59fd21f747e4f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Try your WiFi again to see if it works better.
 
 ## **If WiFi not working in your Windows PC/laptop**
 
  If your WiFi works on other devices, but not on your Windows, you can try checking these methods below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Enable WiFi service to fix WiFi not working**
 
@@ -155,15 +139,13 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59eda233aeeaa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3760bf8ebf5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Right click **WiFi** (also referred to **Wireless Network Connection**  in different computers) , and click **Enable** .
 
@@ -171,32 +153,8 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378b1249f89.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your Windows and reconnect to your WiFi again.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 2: Turn on WLAN AutoConfig service to fix WiFi not working**
 
  The WLAN AutoConfig service (also referred to Wireless Configuration in Windows XP) can configure**wireless security** and**connectivity settings** . When enabled, WLAN AutoConfig settings apply to all network adapters installed on your computer. Moreover, when the WiFi becomes available, it will automatically connect to a preferred wireless network. You can follow these steps to enable it:
@@ -205,40 +163,20 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e577bc99f89.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down and right click**WLAN AutoConfig** (if you are using Windows XP, right click**Wireless Configuration** ), and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a376cad273b0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select**Automatic** in Startup type, then click**Apply** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a376d4119de1.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your PC and reconnect to your WiFi network to see if your WiFi works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 3: Disable the Windows Firewall**
 
  Windows Firewall can protect your Windows from network attacks. It’s possible that your Windows Firewall may stop your computer from connecting to your WiFi. You can try to temporarily disable Windows Firewall and see if it helps:
@@ -247,12 +185,6 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3780b9f2cb4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Turn Windows Firewall on or off** on the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377dfb13b41.jpg)
@@ -267,6 +199,10 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37813698434.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your problem is solved, it seems to be caused by Windows Firewall. Then you can allow your WiFi through Windows Firewall:
 
  1) Still on the**Windows Firewall window** , click **Turn Windows Firewall on or off** on the left pane.
@@ -278,11 +214,9 @@ netsh wlan show drivers
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378365d2d6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Back to the**Windows Firewall window** , click**Allow an app or feature through Windows Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3783a8094df.jpg)
@@ -291,12 +225,6 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3783fd943ca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click**OK** to save the settings, and try to connect to your WiFi again to see if it works.
 
 ### **Method 4: Update your WiFi network driver**
@@ -317,12 +245,6 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e45c31965d6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged driver, then download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -330,11 +252,9 @@ netsh wlan show drivers
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a376dd753425.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -342,12 +262,6 @@ netsh wlan show drivers
 
  4) Restart your computer and connect to your WiFi again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **If WiFi not working on your iPhone**
 
  If the WiFi works on your computer or other devices, but not on your iPhone, you may check the WiFi settings on your iPhone.
@@ -364,40 +278,20 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a38eedf4012b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **If you are using iPhone 7 and iPhone 7 plus** : Press and hold both the**Power button** and**Volume Down button** for at least ten seconds, sometimes up to 20 seconds, until you see the Apple logo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a38ef6db4e2f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **If you are using iPhone 6s and the earlier** : Press and hold both the**Power button** and**Home button** for at least ten seconds, sometimes up to 20 seconds, until you see the Apple logo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a38f06b2d5e6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After restart your iPhone, try to connect to your WiFi to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 2: Forget WiFi network and connect again**
 
  If you can connect to your WiFi, but the speed is slow or you don’t have Internet connection, forgetting your WiFi network will help you get a new connection to your WiFi.
@@ -417,11 +311,9 @@ netsh wlan show drivers
 4) Go back to**Settings** \>**WLAN** , select your WiFi network, and enter the**password** to join the network again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 3: Reset WiFi network settings**
 
  It’s a helpful solution to reset network settings if your WiFi is not working on your iPhone. Follow these steps:
@@ -438,6 +330,10 @@ netsh wlan show drivers
 
  3) Then your network will be reset. Connect to your WiFi again and see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 4: Modify DNS on your iPhone**
 
  This method works when you can connect to your WiFi, but you can’t access to the Internet, or the WiFi speed slows down to a crawl. Changing the existing DNS server to Google DNS may work, because the Google DNS can help you get faster WiFi speed.
@@ -446,28 +342,10 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377120e6dd8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Tap your**WiFi name** , and you will see the detailed information about your WIFi. Then tap**DNS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3775494f933.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Type **8.8.8.8** (Google DNS) as Primary DNS and**your original DNS** as alternative DNS. Don’t forget to type a**comma** to separate these two DNS numbers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3775cd0285c.png)
@@ -486,12 +364,6 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377706a26ef.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Try to connect to your WiFi again.
 
  That’s all about it. Feel free to comment below if WiFi not working still persists on your device.
@@ -504,8 +376,6 @@ netsh wlan show drivers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -513,4 +383,16 @@ netsh wlan show drivers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevating-your-work-with-impeccable-thumbnails/"><u>[New] 2024 Approved Elevating Your Work with Impeccable Thumbnails</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y100t-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y100t</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-solved-adjusting-user-configuration-after-a-driver-failed-incident/"><u>Error Solved: Adjusting User Configuration After a 'Driver Failed' Incident</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-razr-40-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Razr 40 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ios-guide-your-step-by-step-vr-video-experience-for-2024/"><u>IOS Guide Your Step-by-Step VR Video Experience for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sharing-and-editing-on-apples-pages-through-icloud-tips-and-tricks/"><u>Sharing and Editing on Apple's Pages Through iCloud - Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolving-windows-11s-faulty-sound-adjustment-issues/"><u>Step-by-Step: Resolving Windows 11'S Faulty Sound Adjustment Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-pc-connection-issues-with-your-bluetooth-keyboard/"><u>Troubleshooting Steps: Resolving PC Connection Issues with Your Bluetooth Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-update-woes-heres-how-you-can-fix-the-perplexing-reset-your-pc-error-for-good/"><u>Windows 11 Update Woes? Here’s How You Can Fix the Perplexing ‘Reset Your PC Error’ for Good</u></a></li>
+</ul></div>
 

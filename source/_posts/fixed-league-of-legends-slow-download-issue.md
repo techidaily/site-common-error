@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] League of Legends Slow Download Issue"
-date: 2024-09-08T17:25:29.675Z
-updated: 2024-09-14T22:55:41.226Z
+date: 2025-01-27T00:33:49.468Z
+updated: 2025-01-30T02:39:32.980Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -60,6 +64,11 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
@@ -71,6 +80,10 @@ Re-download to check.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -78,13 +91,6 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -116,14 +122,15 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -149,5 +156,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-quick-access-to-xps-movie-making-tools/"><u>[New] In 2024, Quick Access to XP's Movie Making Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sharpen-your-stream-top-5-video-improvement-tech-for-2024/"><u>[New] Sharpen Your Stream Top 5 Video Improvement Tech for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-srt-conversion-masterclass-direct-route-to-sub/"><u>[New] SRT Conversion Masterclass Direct Route to SUB</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-11x-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme 11X 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-integrating-multimedia-elements-for-engaging-facebook-slideshows/"><u>2024 Approved Integrating Multimedia Elements for Engaging Facebook Slideshows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-approaches-to-convert-youtube-videos-to-mp4/"><u>Key Approaches to Convert YouTube Videos to MP4</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-laughs-ultimate-meme-creation-apps/"><u>Leading Laughs Ultimate Meme Creation Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-reactivate-touchpad-scroll-functionality/"><u>Solution Steps: Reactivate Touchpad Scroll Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-setup-gaming-launcher-installation-guide/"><u>Steam Deck Setup: Gaming Launcher Installation Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-stop-frequent-automatic-shutdowns-on-windows-tenth/"><u>Step-by-Step Guide: Stop Frequent Automatic Shutdowns on Windows Tenth</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-windows-error-0xc0000098-issues/"><u>Step-by-Step Solutions for Windows Error 0xC0000098 Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-non-responsive-touchpad-scroll-problems/"><u>Troubleshooting Guide: Solving Non-Responsive Touchpad Scroll Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-and-repairing-your-lenovo-laptops-malfunctioning-webcam/"><u>Ultimate Guide: Troubleshooting and Repairing Your Lenovo Laptop's Malfunctioning Webcam</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-newest-epson-wf-7710-drivers-compatible-with-windows-os-download-here/"><u>Update to Newest Epson WF-7710 Drivers – Compatible with Windows OS: Download Here</u></a></li>
+</ul></div>
 

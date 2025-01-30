@@ -1,7 +1,7 @@
 ---
 title: Windows 11 No Speakers Error? Here's How You Can Fix It
-date: 2024-12-12T17:04:00.924Z
-updated: 2024-12-17T01:10:31.355Z
+date: 2025-01-23T22:43:18.310Z
+updated: 2025-01-30T06:55:52.539Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Automatically update your audio device drivers**
 
  Your sound problem is probably being caused by driver issues. If you don’t have the time, patience, or computer skills to update the drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/no-audio-output-device-update-driver-automatically1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -62,18 +70,18 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Find**Sound, video, and game controllers** , then double-click on it to expand the list. Right-click on your audio device and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-uninstall-device-in-the-Device-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Restart your PC. After restarting, Windows should automatically re-install the sound driver. Assuming it installs the latest correct driver, this may resolve the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Re-enable the device**
@@ -84,13 +92,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate the**Sound, video, and game controllers** category in the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Sound-video-and-game-controllers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you don’t see this category in your list, continue with step 2a) below. Otherwise, skip to[step 3](#step3) .
 
@@ -98,21 +106,17 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Add-legacy-hardware.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2b) Click **Next**  to start the Add Hardware wizard. (If the Add Hardware wizard doesn’t display at all, you can try [Method 3](https://tools.techidaily.com/drivereasy/download/) .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2c) Select **Search for and install hardware automatically (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2d) If the wizard tells you it can’t find any new hardware, click **Next** .
 
@@ -129,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
  If you’re not sure what manufacturer and model to select, press the**Windows logo + R keys** simultaneously to open the Run box, type**dxdiag,** and hit Enter to open the DirectX Diagnostic Tool. Select the**Sound** tab and you should be able to see your sound card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-check-which-sound-card-youre-using.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2g) Click **Next**  to install the device, then when the installation is complete, click **Finish** .
 
@@ -163,17 +163,24 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-pushing-boundaries-in-media-text-curve-concepts-for-2024/"><u>[New] Pushing Boundaries in Media Text Curve Concepts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-pathway-to-vimeo-recording/"><u>[Updated] 2024 Approved The Ultimate Pathway to Vimeo Recording</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-solo-self-portraits-on-youtube-how-to-impress-viewers/"><u>2024 Approved Solo Self-Portraits on YouTube How to Impress Viewers</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-prevent-your-usb-from-keep-dropping-out/"><u>Expert Advice: Prevent Your USB From Keep Dropping Out</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-laptops-trackpad-issues-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fixing Your Laptop's Trackpad Issues on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-troubleshooting-tips-overcoming-in-game-building-loading-problems/"><u>PUBG Troubleshooting Tips - Overcoming In-Game Building Loading Problems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reigning-in-your-digital-domain-with-a-precision-plan-for-smm-excellence/"><u>Reigning in Your Digital Domain with a Precision Plan for SMM Excellence</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-steps-to-resolve-your-nonfunctional-wi-fi-connection/"><u>Simple Steps to Resolve Your Nonfunctional Wi-Fi Connection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a25-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A25 5G Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-outlook-cannot-reach-microsoft-exchange-server-errors/"><u>Troubleshooting Steps for 'Outlook Cannot Reach Microsoft Exchange Server' Errors</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/which-dvr-is-king-tivo-and-comcast-go-head-to-head-in-our-expert-review-for-2024/"><u>Which DVR Is King? TiVo and Comcast Go Head-to-Head in Our Expert Review for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-features-advanced-logitech-webcam-techniques-for-2024/"><u>[New] Unlocking Features Advanced Logitech Webcam Techniques for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-your-essential-top-10-playlist/"><u>[New] Your Essential Top 10 Playlist</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-discovering-the-best-in-screen-recording/"><u>[Updated] Discovering the Best in Screen Recording</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-professional-precision-flip-canon-photos-from-basic-to-advanced-with-luts/"><u>[Updated] Professional Precision Flip Canon Photos From Basic to Advanced with LUTs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-8-most-reliable-and-free-open-source-video-chat-options/"><u>2024 Approved The 8 Most Reliable and Free Open Source Video Chat Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-error-0x887a0006-easily-with-these-quick-fixes-resolved-tutorial/"><u>Bypass Error 0X887A0006 Easily with These Quick Fixes! | Resolved Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/dll-resolution-core-library-loader-not-found/"><u>DLL Resolution: Core Library Loader Not Found</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-windows-10-system-crashes/"><u>Effective Fixes for When Your Windows 10 System Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/hidden-sd-trouble-break-free-now/"><u>Hidden SD Trouble, Break Free Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-eliminate-latency-in-fallout-4-proven-techniques-for-faster-gameplay/"><u>How to Eliminate Latency in Fallout 4 - Proven Techniques for Faster Gameplay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-14-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi 14 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-nord-ce-3-lite-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus Nord CE 3 Lite 5G Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-guide-downloading-wacom-tablet-drivers/"><u>Quick and Simple Guide: Downloading Wacom Tablet Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/reactivate-and-revel-in-the-radiance-fixing-corsairs-dimmed-backlight-issue/"><u>Reactivate and Revel in the Radiance: Fixing Corsair's Dimmed Backlight Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-troubleshooting-failed-directx-hardware-initialization-processes/"><u>Solution Found: Troubleshooting Failed DirectX Hardware Initialization Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-overcoming-twitch-error-4nk/"><u>Solving the Mystery: A Step-by-Step Guide to Overcoming Twitch Error 4Nk</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-logitech-mouse-scroll-wheel-issues/"><u>Troubleshooting Guide: Solving Logitech Mouse Scroll Wheel Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turning-still-shots-into-audio-visual-narratives-for-2024/"><u>Turning Still Shots Into Audio-Visual Narratives for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
 

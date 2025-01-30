@@ -1,7 +1,7 @@
 ---
 title: "Unsticking Stuck Buttons: Essential Tips for Restoring Function to a Faulty Dell Laptop Keyboard"
-date: 2024-09-11T22:03:55.680Z
-updated: 2024-09-14T22:47:51.383Z
+date: 2025-01-24T07:42:23.041Z
+updated: 2025-01-29T17:38:19.806Z
 tags:
   - win11
   - win10
@@ -62,15 +62,27 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -91,10 +103,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -102,6 +111,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -111,13 +124,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -138,13 +144,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -178,5 +177,24 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/1716069515113-new-2024-approved-no-money-down-best-free-video-chat-platforms/"><u>[New] 2024 Approved No Money Down? Best Free Video Chat Platforms!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-your-step-by-step-guide-to-successful-lol-streaming/"><u>[New] In 2024, Your Step-by-Step Guide to Successful LOL Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-timeless-tech-how-90s-innovations-continue-to-shape-modern-technology/"><u>1. Timeless Tech: How '90S Innovations Continue to Shape Modern Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-compact-mobile-smoothie-recorder-gadget/"><u>2024 Approved Compact Mobile Smoothie Recorder Gadget</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigate-a-2023-hack-steps-to-regain-fb-access/"><u>2024 Approved Navigate a 2023 Hack Steps to Regain FB Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/dota-2-troubleshooting-speedily-fix-error-2024-change-rendering-api-problems/"><u>Dota 2 Troubleshooting: Speedily Fix Error 2024 - Change Rendering API Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-how-to-charge-your-laptop-battery-faster-and-easier/"><u>Effortless Solutions: How to Charge Your Laptop Battery Faster and Easier!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-sticky-keyboard-buttons-in-windows-a-comprehensive-guide/"><u>Fixing the Issue of Sticky Keyboard Buttons in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-zte-axon-40-lite-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset ZTE Axon 40 Lite Without Password | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-dell-laptops-unresponsive-keyboard-step-by-step-solutions/"><u>How to Repair Your Dell Laptop's Unresponsive Keyboard - Step-by-Step Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-70-lite-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Honor 70 Lite 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-webcam-options-for-professional-zoom-use/"><u>In 2024, Optimal Webcam Options for Professional Zoom Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/no-loss-mp4-video-transformation-rotating-your-clips-90-180-or-270-degrees/"><u>No-Loss MP4 Video Transformation - Rotating Your Clips 90, 180, or 270 Degrees</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-this-device-is-absent-error-code-24-across-various-windows-versions/"><u>Resolve This Device Is Absent Error (Code 24) Across Various Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-devices-plugged-in-but-wont-charge-on-pcs-running-windows-710/"><u>Resolved: Devices Plugged In But Won't Charge on PCs Running Windows 7/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-laptop-trackpad-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Solving Laptop Trackpad Issues on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-obtaining-trustedinstaller-rights-for-file-alterations/"><u>Step-by-Step Guide: Obtaining TrustedInstaller Rights for File Alterations</u></a></li>
+</ul></div>
 

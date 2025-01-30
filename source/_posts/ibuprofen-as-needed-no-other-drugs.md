@@ -1,7 +1,7 @@
 ---
 title: Ibuprofen as Needed; No Other Drugs
-date: 2025-01-16T18:09:34.347Z
-updated: 2025-01-22T18:19:57.527Z
+date: 2025-01-23T17:39:00.347Z
+updated: 2025-01-29T23:47:31.162Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix CS:GO crashing in Windows
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 4. **[Launch CSGO in -autoconfig or -safe mode](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reacquire all CSGO game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Change fastprox.dll to fastprox.dllold](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -74,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify integrity of game files
 
  You may have this**CSGO crashing** issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. So you can verify the integrity of game files to see if it fixes the issue.
@@ -90,17 +94,9 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-180.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES..** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-177.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Wait until the game cache verification finishes.
 
@@ -128,12 +124,16 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
@@ -158,10 +158,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-safe** and click**OK** .
@@ -173,6 +169,10 @@ To do so:
 7) Re-launch CS:GO and check if the CSGO crashing issue has been resolved. If yes, then congrats! But if you still haven’t had any success, move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reacquire all CSGO game files
 
@@ -193,10 +193,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Change fastprox.dll to fastprox.dllold
 
 1. On your keyboard, press**the Windows logo key** and**E** at the same time, then click**View** \>**Options** \>**Change folder and search options** .  
@@ -210,11 +206,15 @@ To do so:
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
 5. Re-launch your game and hope you’re enjoying your game right now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -237,24 +237,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-effortless-guide-never-see-youtube-shorts-again/"><u>[New] In 2024, Effortless Guide Never See YouTube Shorts Again</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlined-methods-for-iphone-screen-capture-for-2024/"><u>[New] Streamlined Methods for iPhone Screen Capture for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-become-a-meme-genius-the-best-8-gif-making-methods/"><u>[Updated] 2024 Approved Become a Meme Genius The Best 8 GIF-Making Methods</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-from-canvas-to-cryptos-select-7-nft-creating-powerhouses/"><u>[Updated] 2024 Approved From Canvas to Cryptos Select 7 NFT-Creating Powerhouses</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-synergy-of-content-and-platform-for-peak-performance/"><u>[Updated] The Synergy of Content and Platform for Peak Performance</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagram-promotions-five-key-strategies-for-influencers/"><u>2024 Approved Mastering Instagram Promotions Five Key Strategies for Influencers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715859822942-2024-approved-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>2024 Approved Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-incompatibility-resolving-your-devices-driver-issue-with-windows-update/"><u>Fixing Incompatibility: Resolving Your Device's Driver Issue with Windows Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-mouse-cursor-vanishing-issue-in-windows-11-a-step-by-step-guide/"><u>How to Fix the Mouse Cursor Vanishing Issue in Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-11-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme 11 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-speed-optimization-proven-methods-to-enhance-gameplay/"><u>Minecraft Speed Optimization: Proven Methods to Enhance Gameplay</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-windows-preparing-hang-essential-tips-and-tricks/"><u>Overcoming the 'Windows Preparing' Hang: Essential Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-issue-when-your-igfx-memory-module-stops-functionality/"><u>Resolved: Fixing the Issue When Your iGFX Memory Module Stops Functionality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-reno-8t-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo Reno 8T 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-destiny-2-server-accessibility-problems-a-step-by-step-guide/"><u>Solving Destiny 2 Server Accessibility Problems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-when-your-laptops-touchpad-fails/"><u>Step-by-Step Solutions for When Your Laptop's Touchpad Fails</u></a></li>
-<li><a href="https://common-error.techidaily.com/win-update-freeze-at-100-heres-how-to-get-it-moving-again-fixes-included/"><u>Win Update Freeze at 100%? Here's How to Get It Moving Again - Fixes Included!</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-1110-keyboard-repair-solving-letter-key-issues-effectively/"><u>Windows 11/10 Keyboard Repair: Solving Letter Key Issues Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-eliminated-non-display-of-shorts-videos-for-2024/"><u>[New] Eliminated Non-Display of Shorts Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-social-media-best-practices-uploading-and-displaying-subtitles/"><u>[Updated] In 2024, Social Media Best Practices Uploading and Displaying Subtitles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-enhanced-traffic-and-insights-with-cutting-edge-cookiebot-technology/"><u>1. Enhanced Traffic & Insights with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-up-confusion-how-to-deal-with-unknown-usb-device-and-failed-port-resets-on-your-windows-10-pc/"><u>Clearing Up Confusion: How to Deal with 'Unknown USB Device' And Failed Port Resets on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-errors-restoring-fixservice-functionality-in-windows-amoeba/"><u>Dealing with Errors: Restoring FixService Functionality in Windows Amoeba</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-x8b-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor X8b Quickly? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-vcruntime140dll-missing-error-efficiently-expert-tips-included/"><u>How to Resolve vcruntime140.dll Missing Error Efficiently - Expert Tips Included</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlocking-fb-content-windows-plus-mac-methods/"><u>In 2024, Unlocking FB Content Windows + Mac Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-audio-glitches-in-overwatch-with-quick-fixes/"><u>Overcoming Common Audio Glitches in Overwatch with Quick Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-rectify-0x80072af9-on-windows-os/"><u>Quick Guide to Rectify 0X80072AF9 on Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/recover-lost-desktop-images-for-windows-11-users-step-by-step-troubleshooting/"><u>Recover Lost Desktop Images for Windows 11 Users – Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mod-en-mp3-gratuitement-sur-internet-guide-rapide-avec-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier MOD en MP3 Gratuitement Sur Internet - Guide Rapide Avec Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-iastordatasvcs-excessive-processor-load-in-windows-11/"><u>Troubleshooting and Solving IAStorDataSvc's Excessive Processor Load in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-the-change-in-network-settings-alert/"><u>Troubleshooting Steps for the 'Change in Network Settings' Alert</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-power-stealers-in-windows-1011/"><u>WMI Power Stealers in Windows 10/11</u></a></li>
 </ul></div>
 

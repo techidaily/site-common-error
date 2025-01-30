@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models!
-date: 2025-01-15T18:48:37.840Z
-updated: 2025-01-22T19:13:04.912Z
+date: 2025-01-27T00:03:58.653Z
+updated: 2025-01-30T00:39:30.513Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -51,6 +47,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -75,15 +75,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,15 +103,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -123,7 +123,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -131,7 +131,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -184,24 +184,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-safaris-picture-in-picture-for-mobiledesktop-for-2024/"><u>[New] Navigating Safari’s Picture in Picture for Mobile/Desktop for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-3-effective-methods-to-archive-itunes-videos/"><u>[Updated] 2024 Approved 3 Effective Methods to Archive iTunes Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/eatable-zero-price-software-choices-for-online-media-makers-for-2024/"><u>8 Unbeatable Zero-Price Software Choices For Online Media Makers for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728487976131-5/"><u>完成操作系统数据保护：按照5个基本步骤制定系统备份方案</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472825782-airplay-malfunction-heres-how-you-can-get-it-up-and-running-again/"><u>AirPlay Malfunction? Here's How You Can Get It Up and Running Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208786262-chromecast-wont-pair-discover-quick-solutions-for-better-connectivity/"><u>Chromecast Won't Pair? Discover Quick Solutions for Better Connectivity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convertisseur-video-gratuit-avifichier-a-fma-sans-frais/"><u>Convertisseur Vidéo Gratuit: Avifichier À Fma Sans Frais</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-repair-nonfunctional-ethernet-setup-in-windows-11-and-7-systems/"><u>Effective Techniques to Repair Nonfunctional Ethernet Setup in Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-behringers-professional-audio-driver-for-seamless-usb-connectivity/"><u>How to Get Behringer's Professional Audio Driver for Seamless USB Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-technique-efficiently-restarting-your-malfunctioning-keyboard/"><u>Master the Technique: Efficiently Restarting Your Malfunctioning Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-select-proper-boot-device-glitch-on-your-pc-effective-fixes-unveiled/"><u>Overcome 'Select Proper Boot Device' Glitch on Your PC: Effective Fixes Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-error-code-39-issues-in-computer-media-players-tips-and-techniques-for-optical-drive-repair/"><u>Overcoming Error Code 39 Issues in Computer Media Players: Tips and Techniques for Optical Drive Repair</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-misconfigured-elements-in-your-windows-setup/"><u>Step-by-Step Guide: Correcting Misconfigured Elements in Your Windows Setup</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209565149-9781634504775-the-big-dictionary-of-dreams/"><u>The Big Dictionary of Dreams | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-wireless-routers-insights/"><u>Top Rated Wireless Routers - Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-broken-usb-connections-in-windows-1011/"><u>Troubleshooting and Fixing Broken USB Connections in Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-issues-with-pc-and-bluetooth-keyboard-connection/"><u>Troubleshooting Guide: Solving Issues with PC and Bluetooth Keyboard Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-teredo-tunneling-overcoming-qualification-challenges/"><u>Troubleshooting Teredo Tunneling – Overcoming Qualification Challenges</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-websites-to-add-emojis-to-photos-online/"><u>Updated In 2024, Best Websites to Add Emojis to Photos Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-solutions-for-an-unresponsive-obs-video-source/"><u>[New] 2024 Approved Solutions for an Unresponsive OBS Video Source</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-raw-footage-to-polished-content-youtube-studio-edition/"><u>[New] From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-streamline-marketing-with-top-rated-video-tags-generators/"><u>2024 Approved Streamline Marketing with Top-Rated Video Tags Generators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decrease-windows-wmi-usage-on-pcs/"><u>Decrease Windows WMi Usage on PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/engineer-meme-creation-in-adobe-for-2024/"><u>Engineer Meme Creation in Adobe for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/file-explorer-not-responding-in-windows-10-solved/"><u>File Explorer Not Responding in Windows 10 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-high-network-activity-caused-by-svchostexe-net-svcs/"><u>How To Resolve High Network Activity Caused by svchost.exe (Net Svcs)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-nuc-driver-update-fast-and-simple-steps-for-optimal-system-functionality/"><u>Intel NUC Driver Update: Fast & Simple Steps for Optimal System Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nokia-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nokia Phone Now with These Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-a-sluggish-keyboard-response/"><u>Quick Solutions: Resolving a Sluggish Keyboard Response</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-elevated-memory-use-by-microsoft-compatibility-telemetry-in-windows-10/"><u>Resolving Elevated Memory Use by Microsoft Compatibility Telemetry in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-this-device-is-not-found-error-with-code-24-on-windows-1087/"><u>Resolving the 'This Device Is Not Found' Error with Code 24 on Windows 10/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-running-swf-files-in-google-chrome-shockwave-flash-fixed/"><u>Successfully Running SWF Files in Google Chrome – Shockwave Flash Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-key-error-now-functional/"><u>Surface Key Error, Now Functional</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/tailoring-speech-interpretation-a-guide-with-google-translate-for-2024/"><u>Tailoring Speech Interpretation A Guide with Google Translate for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-unlimited-soundscape-best-budget-friendly-audio-mixer-software-ranked-for-2024/"><u>The Unlimited Soundscape Best Budget-Friendly Audio Mixer Software Ranked for 2024</u></a></li>
 </ul></div>
 

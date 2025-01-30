@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Epson Scan Non-Responsiveness"
-date: 2025-01-20T20:34:59.587Z
-updated: 2025-01-22T19:18:59.228Z
+date: 2025-01-29T09:33:25.587Z
+updated: 2025-01-30T00:43:53.725Z
 tags:
   - win11
   - win10
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Press Fn + Esc on your keyboard
 
  This method is very simple. Just press Fn + Esc on your keyboard. It has worked for some Dell laptop users. Why not have a try?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update Related Drivers
 
@@ -48,13 +48,17 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Change function key behavior
 
@@ -66,6 +70,10 @@ Follow these steps:
 
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. View by Large icons and select**Windows Mobility Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
@@ -73,14 +81,6 @@ Follow these steps:
  3\. In the Windows Mobility Center window, locate Fn Key Behavior. Click the drop-down arrow and select**Function key** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 4： Try Uninstalling and reinstalling the keyboard drivers**
 
@@ -91,7 +91,7 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Expand category**Keyboards** , Right-click on the keyboard device, and click**Uninstall device** from the pop-up menu. Then follow the on-screen instructions.
@@ -121,22 +121,24 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-efficient-image-capturing-made-simple-the-best-pc-snipers-listed-for-2024/"><u>[New] Efficient Image Capturing Made Simple The Best PC Snipers Listed for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-video-capturing-across-devices-and-platforms/"><u>[New] In 2024, Mastering Video Capturing Across Devices and Platforms</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/eamlessly-transferring-youtube-videos-to-your-instagram-account/"><u>[New] Seamlessly Transferring YouTube Videos to Your Instagram Account</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-your-instareel-game-with-unbeatable-slow-motion-techniques/"><u>[Updated] Enhancing Your InstaReel Game with Unbeatable Slow Motion Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-favorite-frames-socials-1-8-vids/"><u>2024 Approved Favorite Frames Social's #1-#8 Vids</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-problem-0x800f0831-swiftly-using-the-latest-windows-patches/"><u>Bypassing Problem 0X800F0831 Swiftly Using the Latest Windows Patches</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-restoring-a-malfunctioning-windows-11-start-interface/"><u>Diagnosing and Restoring a Malfunctioning Windows 11 Start Interface</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-guide-to-install-winx-youtube-downloader-beginner-friendly-tutorial/"><u>Easy Guide to Install WinX YouTube Downloader - Beginner-Friendly Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-updateerror-on-windows-11-resolve-0x80240034-issue/"><u>How to Fix the 'Update_Error' On Windows 11 – Resolve 0X80240034 Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repairing-unidentified-usb-equipment-a-step-by-step-fix-for-port-reset-failures-in-windows-10/"><u>Mastering the Art of Repairing Unidentified USB Equipment: A Step-by-Step Fix for Port Reset Failures in Windows 10</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-bring-your-art-to-life-top-7-animation-software-for-2024/"><u>New Bring Your Art to Life Top 7 Animation Software for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/screen-sync-error-resolved-update-and-adjust-for-compatible-display-response-times/"><u>Screen Sync Error Resolved: Update and Adjust for Compatible Display Response Times</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-overcoming-windows-driver-power-failures/"><u>Step-by-Step Solution: Overcoming Windows Driver Power Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-managing-high-cpu-load-due-to-wudfhost-service-in-windows-11/"><u>Tips for Managing High CPU Load Due to WUDFHost Service in Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-rated-macx-avi-converter-transform-your-media-into-any-video-type-without-payment/"><u>Top Rated MacX Avi Converter - Transform Your Media Into Any Video Type without Payment!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/understanding-the-inner-workings-of-youtube-post-upload/"><u>Understanding the Inner Workings of YouTube Post-Upload</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-success-a-step-by-nstep-strategy-to-overcome-windows-update-issue-0x80240017/"><u>Unlocking Success: A Step-by-nStep Strategy to Overcome Windows Update Issue 0X80240017</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-xbox-recorders-handbook-for-gamers/"><u>[New] 2024 Approved The Xbox Recorder’s Handbook for Gamers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/kyrocket-your-subscriber-count-6-proven-ways-to-keep-audiences-coming-back-for-2024/"><u>[New] Skyrocket Your Subscriber Count 6 Proven Ways to Keep Audiences Coming Back for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-hues-harmony-an-editors-guide-to-perfect-grading/"><u>[Updated] 2024 Approved Hues Harmony An Editor's Guide to Perfect Grading</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-access-top-8-platforms-for-free-green-screen-scenery-files-for-2024/"><u>[Updated] Exclusive Access Top 8 Platforms for Free Green Screen Scenery Files for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-professional-review-prime-drone-gimbals/"><u>[Updated] Professional Review Prime Drone Gimbals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/4k2024/"><u>最新流行的自由版4K影像串流器，2024上市最好的品牌一覽 - 適合使用推薦列表</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-walkthrough-for-correcting-windows-update-issues/"><u>A Step-by-Step Walkthrough for Correcting Windows Update Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-ps5-membership-bundles-for-value/"><u>Deciphering PS5 Membership Bundles for Value</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-repairing-a-broken-keyboard-for-your-dell-computer/"><u>Expert Tips on Repairing a Broken Keyboard for Your Dell Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-techniques-to-repair-windows-11s-touchscreen-issues/"><u>Five Effective Techniques to Repair Windows 11'S Touchscreen Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-update-error-code-80t7000e-instantly-a-step-by-step-guide/"><u>Fix Windows Update Error Code 80T7000E Instantly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/freezing-no-more-effective-solutions-to-resolve-a-frozen-pcmac/"><u>Freezing No More: Effective Solutions to Resolve a Frozen PC/Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-diagnosing-and-repairing-issues-preventing-computer-from-starting/"><u>Success Story: Diagnosing and Repairing Issues Preventing Computer From Starting</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/syncing-duration-whats-the-wait-for-updating-my-entire-apple-music-catalog/"><u>Syncing Duration: What's the Wait for Updating My Entire Apple Music Catalog?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-6-apps-for-creating-film-captions-in-various-languages/"><u>Top 6 Apps for Creating Film Captions in Various Languages</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205054994-trouble-with-win-10s-long-lasting-goodbyes-here-are-the-fixes-you-need/"><u>Trouble with Win 10'S Long-Lasting Goodbyes? Here Are the Fixes You Need</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-unknown-usb-device-error-and-descriptor-request-failures/"><u>Troubleshooting Tips: Fixing 'Unknown USB Device' Error and Descriptor Request Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/warframe-patch-problems-heres-how-you-can-successfully-install-updates-again/"><u>Warframe Patch Problems? Here's How You Can Successfully Install Updates Again!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Device</u></a></li>
 </ul></div>
 

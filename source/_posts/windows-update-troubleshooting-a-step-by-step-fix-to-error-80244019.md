@@ -1,7 +1,7 @@
 ---
 title: "Windows Update Troubleshooting: A Step-by-Step Fix to Error 80244019"
-date: 2025-01-18T20:48:29.541Z
-updated: 2025-01-22T17:45:45.826Z
+date: 2025-01-28T01:43:23.897Z
+updated: 2025-01-29T19:54:38.804Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/47ffc6f56df8f55aee8393dc2516df4e9eefe4f14
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 fixes for **Mouse keeps disconnecting**
 
 Here are 3 fixes that have helped other users resolve the mouse keeps disconnecting problem. Just work your way down the list until the problem is resolved.
@@ -32,20 +36,12 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
 2. **Try a different (and functioning) mouse**. Check if the **Mouse keeps disconnecting** issue has been resolved. If yes, then great! But if it still persists, move on to **Fix 2**, below .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
 
@@ -55,11 +51,7 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
@@ -68,7 +60,7 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
@@ -77,6 +69,10 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -90,6 +86,10 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -120,20 +120,21 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/oost-your-content-access-free-vocal-sfx-for-2024/"><u>[New] Boost Your Content Access Free Vocal SFX for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-high-fidelity-mp4-converter-to-fb/"><u>[New] High-Fidelity MP4 Converter to FB</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/avor-success-ideas-to-bolster-cookery-channel-brands-for-2024/"><u>[New] Savor Success Ideas to Bolster Cookery Channel Brands for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/curbing-high-gpu-usage-by-the-desktop-window-manager-5-effective-techniques-for-windows-11-users/"><u>Curbing High GPU Usage by the Desktop Window Manager: 5 Effective Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-when-your-bluetooth-mouse-wont-pair-on-your-pc-running-windows/"><u>DIY Fixes for When Your Bluetooth Mouse Won't Pair on Your PC Running Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolution-ensure-a-directx-11-compatible-graphics-card-is-installed/"><u>Error Resolution: Ensure a DirectX 11-Compatible Graphics Card Is Installed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-updated-logitech-g910-driver-package-for-a-seamless-pc-experience-on-windows-os/"><u>Get the Updated Logitech G910 Driver Package for a Seamless PC Experience on Windows OS</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-user-choice-top-free-streaming-sites-for-sports/"><u>In 2024, User Choice Top Free Streaming Sites for Sports</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-top-rated-free-video-creation-software-for-2024/"><u>New The Top-Rated Free Video Creation Software for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/notepad-enhancements-microsoft-introduces-spellcheck-and-autocorrect-features-after-decades/"><u>Notepad Enhancements: Microsoft Introduces Spellcheck & Autocorrect Features After Decades</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-tech-showdown-exclusive-insights-into-the-best-of-ces-2024-editors/"><u>Top Tech Showdown: Exclusive Insights Into the Best of CES 2024 Editors</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-correctly-address-error-0x887a0006/"><u>Troubleshooting Guide: How to Correctly Address Error 0X887A0006</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-battle-royale-games-resolving-in-game-crashes/"><u>Troubleshooting Tips for Battle Royale Games - Resolving In-Game Crashes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-tiktok-watermark-removal-made-easy-top-online-options-for-2024/"><u>Updated TikTok Watermark Removal Made Easy Top Online Options for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-isnt-my-windows-10-touchpad-responding-to-scroll-gestures/"><u>Why Isn't My Windows 10 Touchpad Responding to Scroll Gestures?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-prime-routines-for-documenting-live-sports-events-for-2024/"><u>[Updated] Prime Routines for Documenting Live Sports Events for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/apex-crash-cure-immediate-and-easy-steps/"><u>Apex Crash Cure: Immediate & Easy Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chronocapture-expert-time-lapse-techniques-for-samsung-users-for-2024/"><u>ChronoCapture Expert Time-Lapse Techniques for Samsung Users for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-sequences-a-movie-maker-approach-to-animation-for-2024/"><u>Crafting Sequences A Movie Maker Approach to Animation for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728490441658-error-404-unable-to-locate-pages/"><u>Error 404: Unable to Locate Pages</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-repairing-issues-with-unresponsive-dell-sound-systems/"><u>Expert Advice: Repairing Issues with Unresponsive Dell Sound Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-prevent-your-computers-speaker-drivers-from-causing-high-cpu-consumption-on-windows/"><u>How to Prevent Your Computer's Speaker Drivers From Causing High CPU Consumption on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/proven-techniques-in-the-art-of-srt-file-making/"><u>Proven Techniques in the Art of SRT File Making</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolved-fixes-implemented-for-mlb-the-show-2021-network-glitch/"><u>Resolved: Fixes Implemented for MLB The Show 2021 Network Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-with-creating-a-directx-graphics-device/"><u>Resolved: Issues with Creating a DirectX Graphics Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-problem-steps-for-pairing-a-faulty-xbox-one-gamepad/"><u>Solve the Problem: Steps for Pairing a Faulty Xbox One Gamepad</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-windows-11-brightness-adjustment-problems/"><u>Step-by-Step Fixes for Windows 11 Brightness Adjustment Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-solution-to-turning-on-bluetooth-for-windows-users/"><u>The Complete Solution to Turning On Bluetooth for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-clipboard-problems-in-windows-11/"><u>Troubleshooting Guide: Overcoming Clipboard Problems in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-motives-the-reason-behind-hacker-attacks-on-chatgpt/"><u>Unveiling the Motives: The Reason Behind Hacker Attacks on ChatGPT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-remove-tiktok-watermarks-with-ease-top-online-solutions/"><u>Updated 2024 Approved Remove TikTok Watermarks with Ease Top Online Solutions</u></a></li>
 </ul></div>
 

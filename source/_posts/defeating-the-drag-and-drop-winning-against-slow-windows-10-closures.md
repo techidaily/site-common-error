@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Drag-and-Drop: Winning Against Slow Windows 10 Closures"
-date: 2025-01-16T21:27:16.173Z
-updated: 2025-01-22T17:54:50.670Z
+date: 2025-01-23T08:58:59.690Z
+updated: 2025-01-29T19:28:34.023Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Run a Startup Repair
 
  The Startup Repair can repair the files necessary for the startup of your computer. To run a Startup Repair to fix your issue:
@@ -44,17 +48,9 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -64,23 +60,11 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968810c5917f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**  Select**Windows 10** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968812f12e1e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Run system checks
 
@@ -96,6 +80,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
@@ -103,6 +91,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 **5)**  Select**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Type the following lines in Command Prompt and press **Enter** on your computer after each.
 
@@ -114,6 +106,10 @@ _**bootrec /scanos**_
  _**bootrec /rebuildbcd**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
@@ -135,6 +131,10 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968970ab6012.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Follow the on-screen instructions to complete the reinstallation of your system.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -154,21 +154,16 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-audio-excellence-in-ios-settings/"><u>[New] 2024 Approved Unlocking Audio Excellence in iOS Settings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-apeak-captures-attention-an-in-depth-screen-recorder-examination/"><u>[New] In 2024, Apeak Captures Attention An In-Depth Screen Recorder Examination</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-comparison-of-googles-ar-embellishments-to-competitors/"><u>[New] In 2024, Comparison of Google's AR Embellishments to Competitors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-studio-masterclass-in-depth-xvideostudio-report/"><u>[Updated] In 2024, Studio Masterclass In-Depth XVideoStudio Report</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-graphics-engine-failure-during-launch/"><u>Comprehensive Fixes Graphics Engine Failure During Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-keyboard-troubleshooting-why-its-not-responding-and-what-to-do-next/"><u>Corsair Keyboard Troubleshooting: Why It's Not Responding & What To Do Next</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-straightening-gridlines-on-monitors/"><u>Effective Solutions for Straightening Gridlines on Monitors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-magic-v2-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor Magic V2 Lock Screen Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-way-through-printer-management-in-w11-max-52-chars/"><u>Mastering Your Way Through Printer Management in W11 (Max 52 Chars)</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-common-problems-in-torrent-file-downloading-processes/"><u>Overcoming Common Problems in Torrent File Downloading Processes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-sound-adjustment-problems-in-windows-10-expert-tips-and-tricks/"><u>Resolving Sound Adjustment Problems in Windows 10 – Expert Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-request-modification-authorization-from-trustedinstaller/"><u>Steps to Request Modification Authorization From TrustedInstaller</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-loops-in-windows-10-automatic-repairs-solved/"><u>Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlocking-the-potential-of-virtual-collaboration-starting-zoom-calls-on-android-for-2024/"><u>[New] Unlocking the Potential of Virtual Collaboration Starting Zoom Calls on Android for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-the-0x80072efd-error-in-windows-11/"><u>[Solved] How to Fix the 0X80072EFD Error in Windows 11</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728479685485-ssd/"><u>「SSDにおけるデータバックアップ：基本的な理解と利点のガイド」</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras/"><u>2024 Approved From Beginner to Pro Essential Steps in Recording with Logitech Cameras</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-uncontrolled-energy-bursts-at-primary-connection-junction-a-resolved-case-study/"><u>Addressing Uncontrolled Energy Bursts at Primary Connection Junction: A Resolved Case Study</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-troubleshooting-how-to-resolve-battery-not-charging-prompt-fast/"><u>Easy Troubleshooting: How To Resolve 'Battery Not Charging' Prompt Fast</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-hacks-filming-and-modifying-lengthy-video-sequences-for-2024/"><u>IPhone Hacks Filming & Modifying Lengthy Video Sequences for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-and-resolving-server-outages-in-destiny-2-expert-advice/"><u>Navigating and Resolving Server Outages in Destiny 2: Expert Advice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-spark-10-4g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Spark 10 4G and Browser | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-rapid-response-fixes-error-code-1053-service-unresponsive-on-time/"><u>Resolved: Rapid Response Fixes Error Code 1053 - Service Unresponsive on Time</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-quality-screen-recording-for-windows-10-pro/"><u>Top Quality Screen Recording for Windows 10 Pro</u></a></li>
 </ul></div>
 

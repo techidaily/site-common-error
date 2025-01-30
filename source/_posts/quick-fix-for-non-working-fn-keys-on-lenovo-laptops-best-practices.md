@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Non-Working FN Keys on Lenovo Laptops: Best Practices"
-date: 2024-12-20T19:59:45.629Z
-updated: 2024-12-25T18:03:53.802Z
+date: 2025-01-24T19:21:48.141Z
+updated: 2025-01-29T22:41:43.595Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -46,7 +50,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -73,10 +77,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -92,14 +92,14 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
@@ -114,7 +114,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -150,19 +150,21 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-add-a-countdown-timer-in-obs/"><u>[Updated] In 2024, How To Add a Countdown Timer in OBS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-moto-g14-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Moto G14 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-streamselect-an-alternative-to-dacast/"><u>2024 Approved StreamSelect An Alternative to DaCast</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-2024-exclusive-guide-to-october-deals-for-top-tier-laptops-zdnet-reviews/"><u>Amazon Prime Day 2024: Exclusive Guide to October Deals for Top-Tier Laptops | ZDNET Reviews</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-error-message-31-in-windows-a-step-by-step-fixing-tutorial/"><u>Deciphering Error Message 31 in Windows: A Step-by-Step Fixing Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-installation-and-update-complications-on-steam-gaming-services/"><u>Expert Tips for Resolving Installation and Update Complications on Steam Gaming Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-correcting-windows-11s-missing-sound-device-problem/"><u>Guide: Correcting Windows 11'S Missing Sound Device Problem</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-asus-rog-phone-7-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Asus ROG Phone 7 using Video Repair Utility?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/proven-techniques-to-restore-functionality-of-laptop-touchpad-on-oldernewer-windows-os/"><u>Proven Techniques to Restore Functionality of Laptop Touchpad on Older/Newer Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-unregistered-class-problems-on-your-pc-running-windows-nt-guide/"><u>Resolving Unregistered Class Problems on Your PC Running Windows nT [Guide]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-gear/"><u>Tom's Tech Hub: Comprehensive Guide to Computer Gear</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-error-alert-issues-with-windows-10-v1n607-application-of-patch/"><u>Update Error Alert: Issues with Windows 10 V1n607 Application of Patch</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-shorts-your-comprehensible-journey-starts-here/"><u>YouTube Shorts Your Comprehensible Journey Starts Here</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-complete-tutorial-to-turn-gifs-to-stickers-discordwhatsapptelegram/"><u>[Updated] Complete Tutorial to Turn GIFs to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>[Updated] The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/4-effortless-ways-to-fix-dns-server-not-responding-issues/"><u>4 Effortless Ways to Fix 'DNS Server Not Responding' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-dns-server-not-responding-discover-these-4-effortless-solutions/"><u>Beat 'DNS Server Not Responding': Discover These 4 Effortless Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-intermittent-power-state-malfunctions-caused-by-drivers-in-windows/"><u>Diagnosing & Fixing Intermittent Power State Malfunctions Caused by Drivers in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-ways-to-overcome-applicationexe-has-stopped-working-issues/"><u>Efficient Ways to Overcome 'Application.exe Has Stopped Working' Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuito-conversor-de-audio-aac-a-formato-avi-online-movavi/"><u>Gratuito Conversor De Audio AAC a Formato AVI Online - Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-note-30-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Note 30</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>Multitask Media Magic Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-unsuccessful-torrent-downloads/"><u>Overcoming Common Problems with Unsuccessful Torrent Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photoshop-partners-for-pixel-perfect-grids-and-frames-for-2024/"><u>Photoshop Partners for Pixel-Perfect Grids and Frames for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-addressing-the-common-issues-with-apex-legends-anti-cheat-system/"><u>Solved! Addressing the Common Issues with Apex Legends' Anti-Cheat System</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-high-resource-utilization-from-wudfhostexe-in-windows-10-systems/"><u>Solving the Issue of High Resource Utilization From WUDFHost.exe in Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-top-tier-content-guild/"><u>The Top Tier Content Guild</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-the-solution-for-non-appearing-wi-fi-choices-on-windows-11/"><u>Uncover the Solution for Non-Appearing Wi-Fi Choices on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/which-livestreaming-tool-wins-obs-or-bandicam/"><u>Which Livestreaming Tool Wins OBS or Bandicam?</u></a></li>
 </ul></div>
 

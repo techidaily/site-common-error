@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Improve Your File Explorer Experience on Windows 11
-date: 2024-12-15T22:57:00.972Z
-updated: 2024-12-17T01:00:58.059Z
+date: 2025-01-29T02:41:07.489Z
+updated: 2025-01-30T00:31:25.467Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -54,12 +50,12 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
@@ -79,9 +75,17 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -90,7 +94,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -102,15 +106,11 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Type **the following command** and press **Enter** :  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -140,20 +140,19 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-eliminating-unsteadiness-from-high-altitude-cinematography/"><u>[New] Eliminating Unsteadiness From High-Altitude Cinematography</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-fusion-feats-mixing-genres-in-the-worlds-most-engaging-tiktoks/"><u>[New] In 2024, Fusion Feats Mixing Genres in the World's Most Engaging TikToks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>2024 Approved Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210243867-error-code-0x80072f8f-on-your-computer-heres-how-you-can-troubleshoot-windows-1110-issues-easily/"><u>Error Code 0X80072F8F on Your Computer? Here's How You Can Troubleshoot Windows 11/10 Issues Easily!</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x800f081f-troubleshooting-during-your-net-framework-35-installation-journey/"><u>Error Code 0X800F081F Troubleshooting During Your .NET Framework 3.5 Installation Journey</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a15-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A15 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 8 Plus</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-content-effortless-download-of-youtube-video-for-ios/"><u>In 2024, Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/isomp4-dvd-shrink/"><u>ISOファイルからMP4へ変換： DVD Shrinkがキー！トラブルシューティングガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-compatibility-challenges-microsoft-wireless-screen-mirroring-in-windows-10-fixed/"><u>Overcoming Compatibility Challenges: Microsoft Wireless Screen Mirroring in Windows 10 [Fixed]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pixel-pro-complimentary-photo-beautification-for-smartphones/"><u>Pixel Pro Complimentary Photo Beautification for Smartphones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-online-presence-with-manycam-top-tier-live-video-production-and-virtual-camera-tech/"><u>Transform Online Presence with ManyCam - Top-Tier Live Video Production & Virtual Camera Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-twitchs-error-4000-issue-expert-advice/"><u>Troubleshooting and Repairing Twitch's Error 4000 Issue – Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-error-code-0xc0000098/"><u>Troubleshooting Guide: Resolving Windows Error Code 0xC0000098</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207168446-update-complete-overcoming-the-halt-in-32-bit-applications-printer-connection/"><u>Update Complete: Overcoming the Halt in 32-Bit Application's Printer Connection!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-how-long-does-a-20mb-video-last-for-2024/"><u>[New] How Long Does a 20MB Video Last for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-visual-mastery-leading-brands-in-8k-capture/"><u>[Updated] In 2024, Visual Mastery Leading Brands in 8K Capture</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-secure-your-travel-documents-grab-10-free-passport-photos-onlinedesktop-for-2024/"><u>[Updated] Secure Your Travel Documents Grab 10 FREE Passport Photos Online/Desktop for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-consistent-clarity-chatgpts-role-in-mindfulness/"><u>Crafting Consistent Clarity: ChatGPT's Role in Mindfulness</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-sharers-a-step-by-step-guide-to-tracking-shares-of-your-facebook-post/"><u>Discovering Sharers: A Step-by-Step Guide to Tracking Shares of Your Facebook Post</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-high-memory-usage-in-red-dead-redemption-ii-how-to-increase-pagefile/"><u>Fix High Memory Usage in Red Dead Redemption II: How to Increase Pagefile</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fresh-take-on-the-sony-s3700-bdp-performance/"><u>Fresh Take on the Sony S3700 BDP Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-repair-entrypointnotfound-bugs-within-windows-systems/"><u>How to Correctly Address and Repair 'EntryPointNotFound' Bugs Within Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-rectify-steamapidll-mismatch/"><u>How to Rectify SteamAPI_dll Mismatch</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-driverpowerstatefailure-problem-step-by-step-guide/"><u>Solving the DRIVER_POWER_STATE_FAILURE Problem: Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-8-best-tips-for-perfecting-igtv-video-dimensions-and-layouts-for-2024/"><u>The 8 Best Tips for Perfecting IGTV Video Dimensions and Layouts for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-inadequate-system-resources-complete-guide-to-repair-services/"><u>Troubleshooting Inadequate System Resources - Complete Guide to Repair Services</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-troubleshooting-guide-stop-final-cut-pro-x-from-crashing/"><u>Updated Troubleshooting Guide Stop Final Cut Pro X From Crashing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Code 28 Malfunction in Windows Explorer Explained: Solutions and Tips"
-date: 2024-09-08T18:44:57.618Z
-updated: 2024-09-15T15:38:49.620Z
+date: 2025-01-28T04:12:22.838Z
+updated: 2025-01-30T05:36:13.762Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 
  The**print screen key stops working** when you want to capture your screen? You would be very frustrated. But don’t panic. You can easily fix this problem and print your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 solutions you can try. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 3. **[Stop all the running programs](#solution3)**
 4. **[Update your operating system](#solution4)**
 5. **[Bonus Tip](#additional)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your keyboard driver
 
@@ -46,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 
 ```` ```` ```` ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check if the print screen key is enabled
 
 ```` ```` Try to press**F Mode** key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-3.png) or**F Lock** key![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) (when there are such keys on your keyboard, if not, please skip this fix), then check if the Print Screen works. That’s because such keys may prevent you from using print screen key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ```` ````
 
@@ -62,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 
 ```` ```` ````
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your operating system
 
 `` Check if your operating system is up-to-date.
@@ -78,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 2. Now on Windows Update Windows, you can check if there are any available updates for your window. If yes, install the updates and try to print screen again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus Tip
@@ -107,5 +113,22 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-lightning-fast-method-for-double-exposure-filming/"><u>[Updated] 2024 Approved Lightning-Fast Method for Double Exposure Filming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-stories-secrets-for-success/"><u>[Updated] Instagram Stories Secrets for Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-glitch-on-win-1110-resolved-no-more-complaints/"><u>Audio Glitch on WIN 11/10 Resolved - No More Complaints</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-focus-with-small-screen-setups-the-surprising-advantages-revealed/"><u>Boost Your Focus with Small-Screen Setups - The Surprising Advantages Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211748854-cant-locate-your-sd-card-here-to-guide-you/"><u>Can't Locate Your SD Card? Here to Guide You</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/corel-windvd-windows-10-and-11/"><u>Corel WinDVDを使用してビデオファイルを正常に再生するための解決策集 - Windows 10 & 11対応</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/initiating-engagement-start-your-live-on-instagram-for-2024/"><u>Initiating Engagement Start Your Live on Instagram for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-the-world-of-hardware-with-toms-insights-and-expertise/"><u>Navigating the World of Hardware with Tom's Insights and Expertise</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-stuck-hard-drive-challenges-on-windows-11-easy-fix-solutions-revealed/"><u>Overcoming Stuck Hard Drive Challenges on Windows 11: Easy Fix Solutions Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-bluetooth-connectivity-problems-and-missing-devices-on-windows-10-pcs/"><u>Solution Steps for Bluetooth Connectivity Problems and Missing Devices on Windows 10 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-how-to-troubleshoot-and-repair-touchpad-scrolling-on-a-windows-10-laptop/"><u>Step-by-Step Guide: How to Troubleshoot and Repair Touchpad Scrolling on a Windows 10 Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-function-key-issues-on-an-asus-laptop/"><u>Troubleshooting & Fixing Function Key Issues on an ASUS Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-best-of-the-best-october-prime-deals-on-laptops-spotted-early-by-zdnet/"><u>Unlock Best-of-the-Best October Prime Deals on Laptops, Spotted Early by ZDNet!</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-complete-reviving-essential-local-defense-protocols-for-enhanced-protection/"><u>Update Complete: Reviving Essential Local Defense Protocols for Enhanced Protection</u></a></li>
+</ul></div>
 

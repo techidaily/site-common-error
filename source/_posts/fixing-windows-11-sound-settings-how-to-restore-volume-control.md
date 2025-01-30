@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows 11 Sound Settings: How To Restore Volume Control"
-date: 2024-09-12T22:47:06.173Z
-updated: 2024-09-15T09:22:58.675Z
+date: 2025-01-27T20:40:25.455Z
+updated: 2025-01-29T19:48:58.513Z
 tags:
   - win11
   - win10
@@ -45,11 +45,25 @@ The good news is, you can fix it easily!
 1. **Download**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -78,28 +92,12 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
@@ -116,15 +114,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -147,5 +147,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-essential-guide-to-aspect-ratios-for-effective-youtube-engagement/"><u>[New] 2024 Approved Essential Guide to Aspect Ratios for Effective YouTube Engagement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-optimize-tasks-the-8-superior-facebook-schedulers/"><u>[New] 2024 Approved Optimize Tasks The 8 Superior Facebook Schedulers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-notch-game-capture-applications-outshining-fbx-capabilities/"><u>[New] 2024 Approved Top-Notch Game Capture Applications Outshining FBX Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uperior-streaming-recorders-for-youtube-vloggers/"><u>[New] Superior Streaming Recorders for YouTube Vloggers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-compilation-of-the-best-10-image-sharing-sites/"><u>[Updated] A Compilation of the Best 10 Image Sharing Sites</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-hp-laptops-malfunctioning-camera-on-windows-10-systems/"><u>Easy Fixes for HP Laptop's Malfunctioning Camera on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-update-failures-get-your-updates-rolling/"><u>Fixing Windows 10 Update Failures - Get Your Updates Rolling</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xperia-5-v-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Xperia 5 V Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphone-and-selfies-unite-our-top-8-gear-guide/"><u>Iphone and Selfies Unite - Our Top #8 Gear Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-and-repairing-stuck-function-keys-in-your-asus-portable-pc/"><u>Reviving and Repairing Stuck Function Keys in Your Asus Portable PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-server-accessibility-problems-in-destiny-2-a-step-by-step-guide/"><u>Solving Server Accessibility Problems in Destiny 2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-pcs-ethernet-connection-problems-a-guide-for-both-windows-7-and-10-users/"><u>Solving Your PC's Ethernet Connection Problems: A Guide for Both Windows 7 and 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-resolving-issues-with-windows-feature-update-to-may-2020-build-1903/"><u>The Ultimate Solution: Resolving Issues with Windows Feature Update to May 2020 (Build 1903)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-15-trending-youtube-opening-sequences-for-2024/"><u>Top 15 Trending YouTube Opening Sequences for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-10-issues-efficiently-with-sfc-and-dism-repair-methods/"><u>Troubleshoot Windows 10 Issues Efficiently With SFC and DISM Repair Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-overcoming-the-directx-unrecoverable-system-error/"><u>Troubleshooting Success: Overcoming the DirectX Unrecoverable System Error</u></a></li>
+<li><a href="https://article-files.techidaily.com/voice-change-leaders-the-magic-call-alternatives-for-2024/"><u>Voice-Change Leaders The Magic Call Alternatives for 2024</u></a></li>
+</ul></div>
 

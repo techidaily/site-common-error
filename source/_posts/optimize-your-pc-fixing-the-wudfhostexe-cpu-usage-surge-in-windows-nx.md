@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your PC: Fixing the WUDFHost.exe CPU Usage Surge in Windows nX"
-date: 2025-01-16T21:03:27.968Z
-updated: 2025-01-22T19:32:57.434Z
+date: 2025-01-22T16:07:29.578Z
+updated: 2025-01-30T01:22:36.910Z
 tags:
   - win11
   - win10
@@ -38,10 +38,14 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Virus & threat protection settings** .
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Add an exclusion** \>**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
@@ -64,15 +64,7 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
 
@@ -80,17 +72,21 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the bottom, double-click on**Windows Defender** , then right-click on**Windows Defender Scheduled Scan** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
@@ -104,13 +100,13 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
@@ -127,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
@@ -135,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
 5) Restart your computer and see if your computer runs normally now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
 
@@ -167,22 +167,20 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/he-breakdown-how-your-earnings-are-divided-in-youtube-shorts/"><u>[New] The Breakdown How Your Earnings Are Divided in YouTube Shorts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-optimizing-vr-video-quality-during-live-gaming/"><u>[Updated] 2024 Approved Optimizing VR Video Quality During Live Gaming</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-connecting-twitter-videos-with-facebook-friends/"><u>[Updated] Connecting Twitter Videos with Facebook Friends</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-exploring-the-top-7-voice-customization-applications-for-2024/"><u>[Updated] Exploring the Top 7 Voice Customization Applications for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-savor-the-hype-the-best-of-the-best-15-culinary-creations-from-tiktoks-food-influencers/"><u>[Updated] Savor the Hype The Best of the Best 15 Culinary Creations From TikTok’s Food Influencers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-compreenas-step-by-step-for-controlling-netflix-playback-rate-for-2024/"><u>A Compreenas Step-by-Step for Controlling Netflix Playback Rate for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/crc-error-explained-and-rectified-overcoming-continual-data-check-failures/"><u>CRC Error Explained and Rectified: Overcoming Continual Data Check Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/critical-system-failure-devices-at-end/"><u>Critical System Failure: Devices at End</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-full-screen-freezes-in-sonic-on-w11/"><u>Eliminating Full-Screen Freezes in Sonic on W11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-failed-connection-making-your-bluetooth-keyboard-work-with-your-computer-again/"><u>How to Repair a Failed Connection: Making Your Bluetooth Keyboard Work with Your Computer Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-responsive-backspace-key-on-your-device/"><u>How To Repair a Non-Responsive Backspace Key on Your Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-why-arent-my-keyboards-number-keys-functioning/"><u>Resolved Issue: Why Aren't My Keyboard's Number Keys Functioning?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-atheros-drivers-in-windows-10-easily/"><u>Revamping Atheros Drivers in Windows 10 Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210175884-solution-found-halting-error-in-32-bit-applications-print-driver-revived/"><u>Solution Found: Halting Error in 32-Bit Application's Print Driver Revived</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-the-0x800f081f-issue-during-net-framework-35-installation/"><u>Step-by-Step Guide to Fixing the '0X800F081F' Issue During .NET Framework 3.5 Installation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Phone Pattern Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-update-issue-0xc1900208-error-resolved/"><u>Troubleshooting Windows 11 Update Issue - 0xC1900208 Error Resolved</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-novice-to-pro-the-complete-creator-hub-guide-for-2024/"><u>[New] From Novice to Pro The Complete Creator Hub Guide for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-invisible-web-seo-secrets-for-podcasters/"><u>[New] The Invisible Web SEO Secrets for Podcasters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-list-of-8-youtube-mistakes-to-evade/"><u>[New] The Ultimate List of 8 Youtube Mistakes to Evade</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[Updated] 2024 Approved How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-mobile-sound-treat-asmr/"><u>[Updated] In 2024, The Ultimate Mobile Sound Treat ASMR</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweet-trailblazers-the-trending-threads-showdown/"><u>[Updated] Tweet Trailblazers The Trending Threads Showdown</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-sharex-dissected-professional-views-and-counterparts/"><u>2024 Approved ShareX Dissected Professional Views & Counterparts</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-methods-for-reinstating-msvcp140dll/"><u>Effective Methods for Reinstating MSVCP140.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204379242-effortless-fixes-when-your-laptop-wont-hold-a-charge-get-power-back-now/"><u>Effortless Fixes When Your Laptop Won't Hold a Charge – Get Power Back Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-microphone-functionality-on-your-windows-11-pc-a-step-by-step-solution/"><u>How to Restore Microphone Functionality on Your Windows 11 PC: A Step-by-Step Solution</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/magical-image-maker-turning-pictures-into-cartoons-on-devices-for-2024/"><u>Magical Image Maker Turning Pictures Into Cartoons on Devices for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-code-28-troubleshooting-headache-for-a-smooth-windows-experience/"><u>Solve Your Code 28 Troubleshooting Headache for a Smooth Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-the-user-profile-service-failure-when-logging-into-windows-1011-systems/"><u>Step-by-Step Solutions to Overcome the User Profile Service Failure When Logging Into Windows 10/11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-livekernel-event-code-144/"><u>Troubleshooting Steps for Fixing LiveKernel Event Code: 144</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-political-links-in-nyt-world/"><u>Understanding Political Links in NYT World</u></a></li>
 </ul></div>
 

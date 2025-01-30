@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Fixing Nonfunctional Ethernet on Windows 10/7 Devices
-date: 2025-01-15T19:00:55.120Z
-updated: 2025-01-22T16:03:29.671Z
+date: 2025-01-25T04:17:37.869Z
+updated: 2025-01-29T18:33:59.786Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 2: Check your power supply (laptop only)**
@@ -63,12 +63,16 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
@@ -78,25 +82,17 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -142,24 +142,22 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-call-of-duty-ww2-error-code-4220/"><u>[FIXED] Call of Duty WW2 Error Code 4220</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-best-fb-movie-grabs-8-edition-for-2024/"><u>[New] Unveiling the Best FB Movie Grabs #8 Edition for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-fixed-frames-to-fluid-films-an-introduction-to-pixizs-video-magic/"><u>[Updated] From Fixed Frames to Fluid Films An Introduction to Pixiz's Video Magic</u></a></li>
-<li><a href="https://common-error.techidaily.com/best-practices-to-handle-competing-demands-on-system-infrastructure/"><u>Best Practices to Handle Competing Demands on System Infrastructure</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-document-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a excel document electronically</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-steam-servers-not-reachable-error-and-enjoy-gaming-again/"><u>How to Fix 'Steam Servers Not Reachable' Error and Enjoy Gaming Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210744015-how-to-resolve-persistent-cursor-blink-a-detailed-tutorial/"><u>How To Resolve Persistent Cursor Blink - A Detailed Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y17s-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y17s to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-through-virtual-experiences/"><u>In 2024, Innovating Through Virtual Experiences</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimized-wdf-usage-reduced-cpu-load-solutions/"><u>Optimized WDF Usage: Reduced CPU Load Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-the-functionality-of-your-windows-11-start-menu-expert-advice/"><u>Restoring the Functionality of Your Windows 11 Start Menu: Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-winning-over-trustedinstaller-and-editing-files/"><u>Step-by-Step Strategies for Winning Over TrustedInstaller and Editing Files</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-swagtron-swagboard-t1-evaluating-affordability-against-performance-in-a-roller-skate-review/"><u>The Swagtron Swagboard T1: Evaluating Affordability Against Performance in a Roller Skate Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-se-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone SE</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-vr-360-video-players-for-pc-reviews/"><u>Top 10 VR (360 Video) Players for PC Reviews</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-speeding-up-your-computers-startup-process/"><u>Troubleshooting Tips for Speeding Up Your Computer's Startup Process</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-windows-features-for-audio-capture/"><u>Utilizing Windows Features for Audio Capture</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-and-acer-unite-keyboard-woes-solved/"><u>Windows and Acer Unite: Keyboard Woes Solved</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revitalize-your-photos-bringing-back-photo-viewer-in-win-11/"><u>[New] Revitalize Your Photos Bringing Back Photo Viewer in Win 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-endless-entertainment-the-science-behind-youtube-loops/"><u>[Updated] Endless Entertainment The Science Behind YouTube Loops</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-tracing-gaps-in-your-instagram-circle/"><u>[Updated] In 2024, Tracing Gaps in Your Instagram Circle</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-video-performance-with-key-seo-tools/"><u>Boost Video Performance with Key SEO Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-up-0x80070643-error-effective-fixes-for-windows-updateinstallation-issues/"><u>Clearing Up 0X80070643 Error: Effective Fixes for Windows Update/Installation Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-ai-interactions-potential-for-real-employment/"><u>Crafting AI Interactions: Potential for Real Employment?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-restoring-access-when-facing-disconnect-problems-from-a-remote-server/"><u>Effective Techniques for Restoring Access When Facing Disconnect Problems From a Remote Server</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-asus-pce-ac56-wifi-card-compatibility-with-windows-11-8-and-7-solutions-inside/"><u>Resolving ASUS PCE-AC56 WiFi Card Compatibility with Windows 11, 8 & 7: Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-persistent-delay-fixing-keyboard-lag-on-windows-10/"><u>Resolving Persistent Delay: Fixing Keyboard Lag on Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplified-guide-to-recording-pc-screens-for-hp-users/"><u>Simplified Guide to Recording PC Screens for HP Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-recovering-logildadll/"><u>Solved: Recovering LogiLDA.dll</u></a></li>
+<li><a href="https://win-community.techidaily.com/transferring-your-iphone-data-to-a-pc-5-simple-methods-cabled-and-wireless/"><u>Transferring Your iPhone Data to a PC: 5 Simple Methods - Cabled and Wireless</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-steam-server-connectivity-restored/"><u>Troubleshooting Guide: Steam Server Connectivity Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-missing-driver-issues-during-windows-7-installation-process/"><u>Troubleshooting Missing Driver Issues During Windows 7 Installation Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-rpc-communication-issue-diagnoses-on-a-windows-machine/"><u>Troubleshooting Steps for 'RPC Communication Issue' Diagnoses on a Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-computers-restart-spontaneously/"><u>Win11 Computers Restart Spontaneously</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027489005-windows-10-dvd/"><u>Windows 10 メディアのDVDコンバート・バックアップ方法</u></a></li>
 </ul></div>
 

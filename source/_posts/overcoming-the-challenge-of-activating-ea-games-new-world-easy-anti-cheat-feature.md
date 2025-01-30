@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Activating EA Games' New World Easy Anti-Cheat Feature
-date: 2025-01-15T19:44:20.192Z
-updated: 2025-01-22T19:17:48.383Z
+date: 2025-01-22T18:14:51.483Z
+updated: 2025-01-29T18:16:53.389Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ If you see an error message saying “**No Pen or Touch Input is available for t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -38,12 +38,16 @@ Here are some solutions that have helped people resolve the same error. You don�
 4. [Update touch screen driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Force a shut down and restart
 
 As many people have resolved the “**No Pen or Touch Input is available for this Display**” error on their computer by forcing a shutdown, it never hurts to perform a force shutdown and restart your computer to fix it. As the steps to force a shutdown vary from brand to brand, you can consult your computer manufacturer to do that. For example, if you’re using a Surface Pro 4, you can press and hold the**power button**for**10 seconds**, then your screen turns off and shuts down. Then press and release the power button to turn on your Surface Pro 4\. After restart, try again and see if touch screen works now. If this method doesn’t work for you, don’t worry. There are something else to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run troubleshooter in your computer
 
@@ -63,10 +67,6 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
 6. Restart your computer and see if it fixes the error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Re-enable touch screen
 
 You can also re-enable touch screen and its driver to fix the “No Pen or Touch Input is available for this Display” error.
@@ -75,7 +75,7 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
  and **R**  at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Type**devmgmt.msc** and click**OK** .  
@@ -88,12 +88,12 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
@@ -109,12 +109,13 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12d9418f6.jpg)
 3. Click the**Update** button next to the flagged touch screen to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1405c2875.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now check and see if the “**No Pen or Touch Input is available for this Display**” error disappears. That’s it. Hope this post comes in handy and fixes your “**No Pen or Touch Input is available for this Display**” error. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
 
 * [error](https://tools.techidaily.com/drivereasy/download/)
@@ -135,17 +136,24 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-tactics-to-triple-your-youtube-subscription-numbers/"><u>[New] In 2024, Tactics to Triple Your YouTube Subscription Numbers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-boost-your-youtube-output-rapid-video-rendering-and-transfer/"><u>[Updated] 2024 Approved Boost Your YouTube Output - Rapid Video Rendering and Transfer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-visual-experience-pondering-ultrawide-vs-uhd-4k-monitors/"><u>2024 Approved Optimal Visual Experience Pondering UltraWide vs UHD 4K Monitors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/content-climbing-from-zero-to-million-in-a-matter-of-seconds-for-2024/"><u>Content Climbing From Zero to Million in a Matter of Seconds for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/cut-and-paste-success-enhancing-videos-for-instagram-shares/"><u>Cut & Paste Success Enhancing Videos for Instagram Shares</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-network-connection-errors-due-to-unplugged-cables/"><u>Fixing Windows Network Connection Errors Due to Unplugged Cables</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-adobe-premiere-pro-cs6-mac-edition-free-download-link/"><u>Get Adobe Premiere Pro CS6 Mac Edition (Free Download Link)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-methods-to-light-up-dull-iphone-footage/"><u>In 2024, Quick Methods to Light Up Dull iPhone Footage</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-problem-solved-what-to-do-when-backspace-wont-work-anymore/"><u>Keyboard Problem Solved: What to Do When 'Backspace' Won't Work Anymore</u></a></li>
-<li><a href="https://common-error.techidaily.com/latest-guide-troubleshooting-miracast-connectivity/"><u>Latest Guide: Troubleshooting Miracast Connectivity</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reversing-the-impact-of-rare-video-formats/"><u>Reversing the Impact of Rare Video Formats</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-secure-trustwise-modification-rights-on-your-system-files/"><u>Steps to Secure TrustWise Modification Rights on Your System Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-is-a-brief-subscribe-beneficial-for-content-consumption/"><u>[New] Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfect-obs-settings-for-low-cost-hardware-for-2024/"><u>[New] Perfect OBS Settings for Low-Cost Hardware for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elite-listings-for-vintage-telephone-melodies/"><u>[Updated] In 2024, Elite Listings for Vintage Telephone Melodies</u></a></li>
+<li><a href="https://common-error.techidaily.com/2024-guide-how-to-overcome-the-device-unsupported-by-miracast-error/"><u>2024 Guide: How to Overcome the 'Device Unsupported by Miracast' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-techniques-to-address-persistent-freezing-in-computers/"><u>Comprehensive Troubleshooting Techniques to Address Persistent Freezing in Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/disconnected-from-blizzard-support/"><u>Disconnected From Blizzard Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-ways-to-prevent-your-pc-from-snoozing-unexpectedly/"><u>Effortless Ways to Prevent Your PC From Snoozing Unexpectedly.</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-hangs-and-crashes-in-windows-11-essential-strategies-for-a-functional-pc/"><u>Fixing Hangs and Crashes in Windows 11: Essential Strategies for a Functional PC</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-complet-supprimer-les-espaces-vides-sur-windows-10-top-techniques/"><u>Guide Complet : Supprimer Les Espaces Vides Sur Windows 10 - Top Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a78-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A78 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-optimizing-multichannel-video-series-via-strategic-chaptering-in-youtube-videos/"><u>In 2024, Optimizing Multichannel Video Series via Strategic Chaptering in YouTube Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunctions-in-win-1011-identifying-the-problem-and-solving-it-efficiently/"><u>Keyboard Malfunctions in Win 10/11: Identifying the Problem and Solving It Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-understanding-how-to-use-imessage-on-your-computer/"><u>Navigating and Understanding How to Use iMessage on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202820674-sd-unheard-of-find-the-way-out/"><u>SD Unheard Of? Find the Way Out!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-how-to-repair-your-unresponsive-mic-on-pcs-with-windows-10/"><u>Step-by-Step Solution: How to Repair Your Unresponsive Mic on PCs with Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-list-of-virtual-journeys-by-channel/"><u>The Ultimate List of Virtual Journeys, By Channel</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-easily-resolving-detected-no-power-source/"><u>Troubleshooting Tips: Easily Resolving 'Detected No Power Source'</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/what-is-periscope-in-2024-is-it-free-and-how-to-sign-up-it/"><u>What Is Periscope, In 2024 Is It Free and How to Sign up It?</u></a></li>
 </ul></div>
 

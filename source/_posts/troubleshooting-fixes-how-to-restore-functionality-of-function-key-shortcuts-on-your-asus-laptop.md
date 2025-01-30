@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How to Restore Functionality of Function Key Shortcuts on Your ASUS Laptop"
-date: 2024-12-19T19:23:07.266Z
-updated: 2024-12-25T18:32:51.727Z
+date: 2025-01-28T22:02:18.785Z
+updated: 2025-01-29T18:57:02.250Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for USB ports not working on HP laptop
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 **Before diving into the troubleshooting part** , make sure the USB devices you’re using are functioning.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
 
@@ -54,6 +58,10 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -62,26 +70,22 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -98,10 +102,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -136,18 +136,24 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamline-your-workflow-with-ez-grabber/"><u>[New] 2024 Approved Streamline Your Workflow with EZ Grabber</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-how-to-distribute-your-itunes-list-on-non-apple-platforms-a-comprehensive-guide/"><u>1. How To Distribute Your iTunes List on Non-Apple Platforms: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1724766172510-itunes/"><u>最強手段でイヤフォンとiTunesを完璧同期するコツ - 悲鳴無しのパーフェクトマッチ</u></a></li>
-<li><a href="https://win-unique.techidaily.com/beheben-der-befehlseingabefehler-in-windows-11-umfassende-schritt-fur-schritt-anleitung/"><u>Beheben Der Befehlseingabefehler in Windows 11 - Umfassende Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-overcoming-hamachi-service-disruptions/"><u>Comprehensive Troubleshooting: Overcoming Hamachi Service Disruptions</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-handling-platform-not-supported-during-intel-serial-io-driver-implementation/"><u>Expert Advice on Handling 'Platform Not Supported' During Intel Serial IO Driver Implementation</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-correcting-the-non-responsive-right-click-on-windows-11-mice/"><u>Expert Tips: Correcting the Non-Responsive Right-Click on Windows 11 Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/handheld-gaming-evolution-discover-the-pdw4/"><u>Handheld Gaming Evolution: Discover the PDW4</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-barriers-to-installing-games-from-the-microsoft-hub/"><u>Overcoming Barriers to Installing Games From the Microsoft Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-dilemma-effective-solutions-for-steam-update-wont-download-problem/"><u>Resolving the Dilemma: Effective Solutions for 'Steam Update Won't Download' Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/setting-savorability-secured-post-update/"><u>Setting Savorability Secured Post-Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212536776-usb-mouse-not-responding-discover-how-to-get-it-working-again/"><u>USB Mouse Not Responding? Discover How to Get It Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/wolfenstein-2-fixing-the-could-not-write-crash-dump-error/"><u>Wolfenstein 2 - Fixing the 'Could Not Write Crash Dump' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001129587-fixed-outriders-unreal-process-has-crashed-ue4-madness-error/"><u>[Fixed] Outriders 'Unreal Process Has Crashed: UE4-Madness' Error</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capturing-the-moment-leading-tools-to-record-webinars-and-more/"><u>[New] 2024 Approved Capturing the Moment - Leading Tools to Record Webinars & More</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-the-cash-generated-by-every-viewed-stream/"><u>[New] 2024 Approved Unveiling the Cash Generated by Every Viewed Stream</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/inding-inner-voice-how-to-confidently-share-stories-online/"><u>[New] Finding Inner Voice How to Confidently Share Stories Online</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-fast-video-filming-on-tiktok/"><u>[New] Mastering Fast Video Filming on TikTok</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stepwise-approach-to-implementing-youtube-cards-and-annotations/"><u>[New] Stepwise Approach to Implementing YouTube Cards & Annotations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>[Updated] In 2024, Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-ideal-codecs-maximizing-your-stream-with-the-right-plex-compatible-videos/"><u>Discover Ideal Codecs: Maximizing Your Stream with the Right Plex-Compatible Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/examining-the-lenovo-tab-4-a-wallet-friendly-option-with-trade-offs/"><u>Examining the Lenovo Tab 4: A Wallet-Friendly Option With Trade-Offs</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-making-your-hp-laptops-malfunctioning-usb-port-functional-once-more/"><u>Expert Solutions: Making Your HP Laptop's Malfunctioning USB Port Functional Once More</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-windows-11-restoration-techniques-sfc-and-dism-insights/"><u>Exploring WINDOWS 11 Restoration Techniques: SFC & DISM Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-wi-fi-screen-mirroring-issues-with-windows-10/"><u>How to Fix Microsoft Wi-Fi Screen Mirroring Issues with Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ibuprofen-as-needed-no-other-drugs/"><u>Ibuprofen as Needed; No Other Drugs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-the-maze-of-msvcp140dll-deficiency/"><u>Navigating the Maze of MSVCP140.dll Deficiency</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-errcachemiss-issue-on-google-chrome-a-comprehensive-guide/"><u>Resolving the ERR_CACHE_MISS Issue on Google Chrome: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-enable-and-correct-dx11-feature-level-100-in-wwe-2k-battlegrounds/"><u>Step-by-Step Guide to Enable and Correct DX11 Feature Level 10.0 in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-mastering-windows-10s-file-explorer-with-ease/"><u>Troubleshooting and Mastering Windows 10'S File Explorer with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-error-windows-internet-explorer/"><u>Troubleshooting Tips: Resolving 'Error Windows Internet Explorer'</u></a></li>
 </ul></div>
 

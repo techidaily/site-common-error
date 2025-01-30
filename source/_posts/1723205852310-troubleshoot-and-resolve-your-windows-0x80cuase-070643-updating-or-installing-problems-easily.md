@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot & Resolve Your Windows 0X80cuase 070643 Updating or Installing Problems Easily
-date: 2024-09-14T02:19:43.216Z
-updated: 2024-09-14T19:20:58.956Z
+date: 2025-01-26T07:52:43.012Z
+updated: 2025-01-29T22:29:24.267Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d75d07929.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click on**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
@@ -64,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 **i.** Click on the**Start** menu at the bottom left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8db550cab4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **ii.** Type “_**cmd**_ “. When you see**Command Prompt** appear in the menu above, right click on it and select**Run as administrator** .
 
@@ -86,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 **i.** Right click on**This PC** or**Computer**  on the background and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8f897c7bf5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **ii.** In the System window, check the System type entry to see if your operating system is**32-bit (x86-based)** or**64-bit (x64-based)** .
 
@@ -116,6 +128,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 **ii.** Download the update file for Windows Defender Antivirus that matches your operating system (the right one for your system type).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37871a5b248.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.** Open the file you have downloaded and install the update on your computer.
 
@@ -155,6 +171,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a918b2d4c1e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iv.** If this method works for you, you will be able to install your program without the error troubling you.
 
 #### **3\. Repair and install .NET Framework**
@@ -175,9 +195,17 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **v.** Open the downloaded file and follow the on-screen instructions to install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d990c1845.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **vi.** Try installing the program again and see if the error is gone.
 
@@ -197,12 +225,22 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-jokeframe-creations-punpicture-studio/"><u>[New] JokeFrame Creations PunPicture Studio</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-m14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy M14 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/easy-guide-to-firefoxs-popup-window-excellence/"><u>Easy Guide to Firefox's Popup Window Excellence</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-windows-camera-error-code-0xa00f4292-step-by-step-guide/"><u>Fixing the 'Windows Camera Error: Code 0xA00F4292' - Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-8-plus-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 8 Plus without losing data?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-adapter-missing-system-drive-incompatibility/"><u>Intel Adapter Missing: System Drive Incompatibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-showdown-pros-and-cons-of-iphone-15-vs-iphone-n-a-comprehensive-guide-for-tech-enthusiasts-zdnet/"><u>IPhone Showdown: Pros and Cons of iPhone 15 Vs. IPhone N: A Comprehensive Guide for Tech Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-pubg-server-latency-problems-tips-and-tricks-for-optimal-performance/"><u>Overcoming PUBG Server Latency Problems - Tips & Tricks for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-failed-to-connect-with-the-system-event-notification-service/"><u>Resolved: Fixing 'Windows Failed to Connect with the System Event Notification Service'</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-unregistered-classes-in-windows-10/"><u>Resolved: How to Fix Unregistered Classes in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-a-malfunctioning-laptop-keyboard-expert-advice/"><u>Resolving Issues with a Malfunctioning Laptop Keyboard - Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207772235-solving-server-accessibility-problems-in-destiny-2-a-step-by-step-guide/"><u>Solving Server Accessibility Problems in Destiny 2 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/text-duplicate-fails-in-windows-11/"><u>Text Duplicate Fails in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-most-effective-virtual-coding-schools-offering-the-latest-tech-skills/"><u>The Most Effective Virtual Coding Schools Offering the Latest Tech Skills</u></a></li>
+</ul></div>
 

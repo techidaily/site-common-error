@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Fake: A Step-by-Step Guide to Eliminating the 'Google Chrome Critical Error' Scam"
-date: 2024-12-18T20:30:29.454Z
-updated: 2024-12-25T16:39:23.696Z
+date: 2025-01-23T16:57:27.936Z
+updated: 2025-01-29T16:58:19.147Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ the picture was taken by: Article\_86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## End the process
 
  Yes, clicking the “**X** ” button to close the page is the first reaction for most people. But the page like this scam uses our reaction to get permission to infect our devices. So they could let the page pop up again.  
@@ -43,10 +39,6 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -57,15 +49,15 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -73,6 +65,10 @@ the picture was taken by: Article\_86
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -86,7 +82,7 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
@@ -94,7 +90,7 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
@@ -114,6 +110,10 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Reset Google Chrome to default settings
 
  If you don’t remember which extension or change you’ve made before you met the scam, you can simply reset Google Chrome to default settings. This function won’t affect your saved bookmarks or passwords. It will make Chrome back to default configurations and remove all the settings that might cause this unresponsive error.
@@ -130,11 +130,11 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -171,21 +171,21 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-apex-alchemy-choosing-the-best-laptops-for-video-wizards/"><u>[New] 2024 Approved Apex Alchemy Choosing the Best Laptops for Video Wizards</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-razers-kiyo-webcam-complete-overview/"><u>[New] 2024 Approved Razer's Kiyo Webcam - Complete Overview</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-asus-mg28uq-screen-a-4k-odyssey-of-immersion-and-fidelity/"><u>2024 Approved ASUS MG28UQ Screen - A 4K Odyssey of Immersion and Fidelity</u></a></li>
-<li><a href="https://facebook.techidaily.com/converting-followers-to-professional-clients-facebooks-role-unveiled/"><u>Converting Followers to Professional Clients: Facebook's Role Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-gif-to-webm-image-editor-with-movavis-easy-conversion-solution/"><u>Free Online GIF-to-WebM Image Editor with Movavi's Easy Conversion Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-silence-a-noisy-ps4-system-for-quiet-gaming-sessions/"><u>How to Silence a Noisy PS4 System for Quiet Gaming Sessions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-mastery-of-live-sharing-youtube-edition/"><u>In 2024, Mastery of Live Sharing YouTube Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-stream-selection-simplified-top-10-actionable-tips/"><u>In 2024, Stream Selection Simplified Top 10 Actionable Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/oncogenes-activation-and-tumor-suppressors-inactivation/"><u>Oncogenes Activation and Tumor Suppressors Inactivation</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-miracast-connectivity-challenges-caused-by-outdated-or-incompatible-drivers/"><u>Overcoming Miracast Connectivity Challenges Caused by Outdated or Incompatible Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/renderer-setup-difficulties-resolved-by-2021-patch-implementations/"><u>Renderer Setup Difficulties Resolved by 2021 Patch Implementations</u></a></li>
-<li><a href="https://common-error.techidaily.com/revealing-the-hidden-making-bluetooth-appear-on-device-manager-guide/"><u>Revealing the Hidden: Making Bluetooth Appear on Device Manager [Guide]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-secret-sauce-for-clearer-more-informative-youtube-videos-for-2024/"><u>The Secret Sauce for Clearer, More Informative YouTube Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/uncovered-missing-core-library-loader-dll/"><u>Uncovered Missing Core Library Loader Dll</u></a></li>
-<li><a href="https://common-error.techidaily.com/warframe-no-longer-receiving-updates-diagnosing-and-fixing-the-error/"><u>Warframe No Longer Receiving Updates: Diagnosing and Fixing the Error</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twittrek-toolkit-a-comprehensive-approach-to-saving-tweets-visuals/"><u>[Updated] 2024 Approved TwitTrek Toolkit A Comprehensive Approach to Saving Tweets' Visuals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-climbing-the-feed-ladder-the-most-effective-hashtags-for-likes-and-followers-on-insta/"><u>[Updated] Climbing the Feed Ladder The Most Effective Hashtags for Likes and Followers on Insta</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-share-your-stories-with-lush-soundtracks-for-2024/"><u>[Updated] Share Your Stories with Lush Soundtracks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-upgrade-or-install-the-macos-sierra/"><u>2024 Approved How to Upgrade or Install the macOs Sierra</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-shine-up-your-android-videos-with-these-tips/"><u>2024 Approved Shine Up Your Android Videos with These Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-strategies-for-legally-duplicating-data-on-dvds-and-cds-without-damage/"><u>Complete Strategies for Legally Duplicating Data on DVDs & CDs Without Damage</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-no-compatible-graphics-device-found-error-in-civilization-vi/"><u>Easy Fixes for 'No Compatible Graphics Device Found' Error in Civilization VI</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-persistent-boot-loops-in-windows-11-expert-solutions-provided/"><u>Effective Fixes for Persistent Boot Loops in Windows 11 - Expert Solutions Provided</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205981424-error-8007000e-on-windows-updates-ace-the-solution-in-no-time-with-this-guide/"><u>Error 8007000E on Windows Updates? Ace The Solution in No Time With This Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-endless-load-on-skyrims-startup-a-step-by-step-guide/"><u>Fixing Endless Load on Skyrim's Startup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-a05-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy A05 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/kb4056892-fix-steps-to-ensure-seamless-windows-10-update-installation-solved/"><u>KB4056892 Fix: Steps to Ensure Seamless Windows 10 Update Installation [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-no-more-blackouts-troubleshooting-steps-for-perfect-picture-quality/"><u>Netflix No More Blackouts: Troubleshooting Steps for Perfect Picture Quality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premier-gopro-movie-maker-suites/"><u>Premier GoPro Movie Maker Suites</u></a></li>
+<li><a href="https://win11.techidaily.com/running-chatgpt-as-a-desktop-application-on-pcs/"><u>Running ChatGPT as a Desktop Application on PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-fight-against-airpods-connectivity-glitches-on-windows-new-strategies/"><u>Winning the Fight Against AirPods Connectivity Glitches on Windows - New Strategies</u></a></li>
 </ul></div>
 

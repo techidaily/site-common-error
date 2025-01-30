@@ -1,7 +1,7 @@
 ---
 title: "Heard The Fix: Laptop Not Recognizing Headsets"
-date: 2024-12-21T18:10:34.038Z
-updated: 2024-12-25T16:17:56.916Z
+date: 2025-01-27T00:24:35.719Z
+updated: 2025-01-30T03:32:35.335Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Show hidden devices in Device Manager](#fix-1)**
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 4. **[Configure the BIOS settings](#fix-3)**
 5. **[Repair corrupt files](#fix-4)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Show hidden devices in Device Manager
 
  Some certain devices installed might not be displayed in the Device Manager by default or because the Windows system fails to detect the devices’ drivers. In this case, you should try the trick “**Show hidden devices** ” in Device Manager to see if your touchpad can be enabled by following the steps below:
@@ -43,18 +43,19 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 1. Press**Windows + X** keys to open the quick access menu and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
-3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
+3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. After rebooting your computer, press**Windows + I** keys to open Windows Settings and select**Devices** .  
@@ -75,31 +76,31 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click **Next**  to move on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select **Show All Devices** , and click **Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
@@ -121,10 +122,6 @@ OR
  To get the driver of your touchpad, you need to go to the official website of your device’s brand, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update touchpad drivers
 
@@ -178,6 +175,10 @@ Assigned BIOS hotkey
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Repair corrupt files
 
  If none of the above fixes work for you, you might want to consider**a holistic scan for a file check** on your PC. Because if your computer has corrupted system files or critical system files missing, your touchpad also won’t function properly.
@@ -229,22 +230,19 @@ Hot Accessories
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-does-youtube-manage-post-upload-operations/"><u>[New] How Does YouTube Manage Post-Upload Operations?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-revolutionary-recording-aids-for-a-healthy-earth/"><u>[Updated] Revolutionary Recording Aids for a Healthy Earth</u></a></li>
-<li><a href="https://extra-information.techidaily.com/7-proven-techniques-to-skyrocket-your-instagram-profile/"><u>7 Proven Techniques to Skyrocket Your Instagram Profile</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-tecno-spark-10-4g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Tecno Spark 10 4G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dells-price-breakdown-for-scholars-navigating-the-path-to-secure-educational-savings/"><u>Dell's Price Breakdown for Scholars: Navigating the Path to Secure Educational Savings</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-reviving-the-keyboard-of-your-malfunctioning-dell-device/"><u>DIY Fixes: Reviving the Keyboard of Your Malfunctioning Dell Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-experience-with-quicker-origin-downloads-ultimate-guide/"><u>Enhance Your Gaming Experience with Quicker Origin Downloads: Ultimate Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lava-yuva-3-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lava Yuva 3 FRP Locks</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-the-remote-procedure-call-service-not-responding-error-in-windows-systems/"><u>How to Repair the Remote Procedure Call Service Not Responding Error in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-remedies-restore-functionality-to-faulty-logitech-keyboards/"><u>Immediate Remedies: Restore Functionality to Faulty Logitech Keyboards</u></a></li>
-<li><a href="https://common-error.techidaily.com/initiating-windows-11-successfully-remedies-for-persistent-freezing-at-startup/"><u>Initiating Windows 11 Successfully: Remedies for Persistent Freezing at Startup</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-malfunction-learn-how-to-stop-incorrect-letter-inputs/"><u>Keyboard Malfunction? Learn How to Stop Incorrect Letter Inputs</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-tips-to-speed-up-boot-time-for-windows-7-users/"><u>Quick Tips to Speed Up Boot Time for Windows 7 Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-serenity-top-pick-winter-backgrounds-for-videos/"><u>Snowy Serenity Top Pick Winter Backgrounds for Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-the-windows-update-failure-error-0x8024401c-in-windows-1111-systems/"><u>Step-by-Step Solution to Overcome the Windows Update Failure 'Error 0X8024401C' In Windows 11/11 Systems</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-checklist-for-growing-youtube-subscribers-for-2024/"><u>The Ultimate Checklist for Growing YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-wacom-graphics-tablet/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Wacom Graphics Tablet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems/"><u>[New] 2024 Approved Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerated-adventures-fastest-flash-games-on-devices/"><u>[New] Accelerated Adventures Fastest Flash Games on Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-from-flat-to-fantastic-3d-text-creation-tips-for-2024/"><u>[New] From Flat to Fantastic 3D Text Creation Tips for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-catastrophe-hardware-deadlock/"><u>Error Catastrophe: Hardware Deadlock</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-when-you-cant-connect-to-destiny-2-servers/"><u>Guide to Fixing When You Can’t Connect to Destiny 2 Servers</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-usb-issues-heres-how-you-can-get-them-fixed/"><u>HP Laptop USB Issues? Here's How You Can Get Them Fixed!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-cutting-edge-mp4-utilities-choosing-the-right-one-for-mac/"><u>In 2024, Cutting Edge MP4 Utilities Choosing the Right One for Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-dual-panel-oled-laptop-concept-by-gpd-emerges-posing-a-threat-to-leading-asus-zenbook-duos-dominance/"><u>Innovative Dual-Panel OLED Laptop Concept by GPD Emerges, Posing a Threat to Leading Asus ZenBook Duo's Dominance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-the-future-the-pivotal-role-of-enterprise-architects-in-todays-tech-evolution-zdnet/"><u>Mastering the Future: The Pivotal Role of Enterprise Architects in Today's Tech Evolution | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-boots-and-startups-issues-in-windows-10-solutions-to-unfreezing-your-pc/"><u>Troubleshooting Boots and Startups Issues in Windows 10: Solutions to Unfreezing Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-repair-a-nonfunctioning-usb-mouse-on-your-laptop/"><u>Troubleshooting: How to Repair a Nonfunctioning USB Mouse on Your Laptop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-ds4-isnt-working-with-windows-and-what-to-do-next/"><u>Troubleshooting: Why Your DS4 Isn't Working With Windows and What To Do Next</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-blurry-text-heres-how-to-fix-it/"><u>Windows 10 Blurry Text? Here’s How to Fix It</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/x-recorder-for-pc-user-friendly-audio-logger-for-2024/"><u>X-Recorder for PC User-Friendly Audio Logger for 2024</u></a></li>
 </ul></div>
 
