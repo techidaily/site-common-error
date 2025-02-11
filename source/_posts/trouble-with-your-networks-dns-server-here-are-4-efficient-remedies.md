@@ -1,7 +1,7 @@
 ---
 title: Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies!
-date: 2024-09-17T17:32:24.144Z
-updated: 2024-09-20T17:59:22.705Z
+date: 2025-02-08T22:26:58.792Z
+updated: 2025-02-10T19:32:09.275Z
 tags:
   - win11
   - win10
@@ -42,17 +42,36 @@ It’s possible that too many people connect to the Destiny servers during the t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable DHCP for your connection
 
 If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
 
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click**Change adapter** **settings** on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
@@ -60,6 +79,10 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -69,28 +92,8 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
@@ -106,21 +109,13 @@ A missing or outdated network card driver will cause connection issues in your c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Destiny 2 and see the servers not available error has been removed.
 
 ---
@@ -143,5 +138,24 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-immediate-removal-policy-for-videos-user-concerns/"><u>[New] 2024 Approved Immediate Removal Policy for Videos - User Concerns</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-brilliant-setups-top-17-gear-for-online-videographers-for-2024/"><u>[Updated] Brilliant Setups Top 17 Gear for Online Videographers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-selection-top-voice-recorders-for-macos/"><u>[Updated] In 2024, The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-virtual-horizon-8-best-metaverse-glasses-and-headsets-for-2024/"><u>[Updated] Virtual Horizon 8 Best Metaverse Glasses & Headsets for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-when-your-steam-content-servers-cant-be-reached/"><u>Expert Tips for When Your Steam Content Servers Can't Be Reached</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-the-phenomenon-of-automatic-boot-in-windows-10-systems/"><u>Exploring the Phenomenon of Automatic Boot in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-laptop-from-turning-off-without-warning-tips-for-a-smooth-run/"><u>How to Stop Your Laptop From Turning Off Without Warning – Tips for a Smooth Run</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/how-to-verify-and-update-scanner-driver-versions-for-optimal-performance/"><u>How To Verify And Update Scanner Driver Versions for Optimal Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gratuitous-gems-of-humor-your-guide-to-free-memes/"><u>In 2024, Gratuitous Gems of Humor – Your Guide to FREE Memes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-secrets-why-using-chatgpt-for-sensitive-data-is-risky/"><u>Protecting Your Secrets: Why Using ChatGPT for Sensitive Data Is Risky</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-missing-bluetooth-error-in-windows-11-with-simple-solutions/"><u>Resolve the 'Missing Bluetooth' Error in Windows 11 with Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-resolving-silent-streams-on-netflix/"><u>Simple Solutions: Resolving Silent Streams on Netflix</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/singapore-airlines-launches-free-all-cabin-wi-fi-service-travelers-can-enjoy-continuous-connectivity-onboard-across-economy-to-first-class/"><u>Singapore Airlines Launches Free All-Cabin Wi-Fi Service - Travelers Can Enjoy Continuous Connectivity Onboard Across Economy to First Class.</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-non-responsive-audio-levels-on-windows-10-devices/"><u>Solution Steps for Non-Responsive Audio Levels on Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-poor-sync-between-epson-printer-and-scanner/"><u>Solving Poor Sync Between Epson Printer and Scanner</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-icue-system-cant-detect-devices/"><u>Troubleshooting Tips for When Your ICUE System Can’t Detect Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winx-media-converter-seamless-transformation-from-dvd-to-mp4-on-windows-10-and-ios/"><u>WinX Media Converter: Seamless Transformation From DVD to MP4 on Windows 10 and iOS</u></a></li>
+</ul></div>
 

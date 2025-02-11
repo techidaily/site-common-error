@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair a Nonfunctioning USB Mouse on Your Laptop"
-date: 2025-01-28T04:51:33.445Z
-updated: 2025-01-30T07:33:26.907Z
+date: 2025-02-07T01:14:19.044Z
+updated: 2025-02-11T00:03:56.714Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; just walk your way down until you find the one that works.
@@ -34,6 +30,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. **[Update the Corsair Keyboard driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your keyboard
 
  Most Corsair keyboards have a reset function to fix unexpected issues, including the lighting failure. Depending on the type of Corsair keyboard you’re using, here’s how to reset it:
@@ -41,10 +41,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 #### Wired keyboard
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Unplug your keyboard from your computer.
 2. Press and hold the**ESC** key (or the**FN + F4** keys).
@@ -55,10 +51,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
@@ -66,7 +58,7 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update the Corsair keyboard driver
@@ -79,11 +71,11 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
-**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ## Fix 3: Update and configure the iCUE software
 
@@ -95,12 +87,20 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,24 +124,22 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-insiders-look-at-effective-in-game-video-documentation/"><u>[New] In 2024, Insider's Look at Effective In-Game Video Documentation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-masterful-capture-of-discord-conversations/"><u>[New] Masterful Capture of Discord Conversations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unparalleled-top-5-lightweight-cinematography-devices/"><u>2024 Approved Unparalleled Top 5 Lightweight Cinematography Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-xiaomi-mi-11-a-guide-to-screen-recording-pro/"><u>2024 Approved Xiaomi Mi 11 A Guide to Screen Recording Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-connectivity-issues-on-wacom-graphic-tables/"><u>Diagnosing & Fixing Connectivity Issues on Wacom Graphic Tables</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-reactivating-your-devices-deactivated-wireless-network-functions/"><u>Expert Advice on Reactivating Your Device's Deactivated Wireless Network Functions</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-correcting-corrupted-system-image-failures-on-win11-and-win10/"><u>Expert Tips for Correcting Corrupted System Image Failures on Win11 and Win10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-update-error-code-0xc1900208-step-by-step-guide/"><u>How to Fix Windows 11 Update Error Code 0xC1900208 - Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-a-closer-look-at-the-m1-pro-versus-m1-max-in-apple-devices/"><u>In 2024, A Closer Look at the M1 Pro Versus M1 Max in Apple Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-zte-axon-40-lite-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights/"><u>In 2024, The Secret to YouTube Dominance Unveiled by Creative Studio Insights</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-final-cut-pro-hack-flipping-clips-in-4-easy-steps/"><u>New 2024 Approved The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-zte-nubia-flip-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from ZTE Nubia Flip 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-windows-doesnt-recognize-your-wd-my-passport-ultra/"><u>Troubleshooting Guide: Why Windows Doesn't Recognize Your WD My Passport Ultra</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-ce-34878-0-issue-on-your-playstation-4-comprehensive-guide/"><u>Troubleshooting the CE-34878-0 Issue on Your PlayStation 4 - Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tip-successfully-handling-error-set-user-settings-to-driver-failed/"><u>Troubleshooting Tip: Successfully Handling 'Error: Set User Settings to Driver Failed'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-documents-cannot-save-as-pdfs-on-latest-windows-os/"><u>Troubleshooting: Microsoft Documents Cannot Save as PDFs on Latest Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-isnt-my-lenovo-camera-working-uncover-the-solutions-here/"><u>Why Isn't My Lenovo Camera Working? Uncover the Solutions Here</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/44oe44kk44kt44oj44k55psplus6ycb5b6m44gr6kaw6ig044gx44ke44gz44ge44ki44gg44gq6yyy55s744ov44kh44kk44or5yyw77ya5oml6acg44ks44kk44oj/"><u>ツイキャス放送後に視聴しやすいような録画ファイル化：手順ガイド</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-swap-periscope-leading-video-apps-for-iphoneandroid-devices-for-2024/"><u>[New] Swap Periscope Leading Video Apps for iPhone/Android Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>[Updated] Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/bitgo-the-american-digital-asset-safekeeper-gains-licensing-green-light-by-bafin-in-germany-detailed-analysis-by-yl-computing-and-yl-software/"><u>BitGo, the American Digital Asset Safekeeper, Gains Licensing Green Light by BaFin in Germany - Detailed Analysis by YL Computing & YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-communication-restored-tackling-the-crc-error-effectively/"><u>Error-Free Communication Restored: Tackling the CRC Error Effectively</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-motorola-moto-g04-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Motorola Moto G04</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-battleye-installation-errors-a-comprehensive-tutorial/"><u>Fixes for BattlEye Installation Errors: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-12-proplus-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme 12 Pro+ 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-enhancing-macs-live-performance-with-mixer/"><u>In 2024, Enhancing Mac's Live Performance with Mixer</u></a></li>
+<li><a href="https://common-error.techidaily.com/nba-2k21-eco-friendly-bug-fixes-and-updates/"><u>NBA 2K21 Eco-Friendly Bug Fixes and Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/runtime-rejection-in-effect/"><u>Runtime Rejection in Effect</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-dns-server-not-responding-discover-4-easy-fixes-to-restore-connectivity/"><u>Solve 'DNS Server Not Responding': Discover 4 Easy Fixes to Restore Connectivity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-unknown-usb-device-error-with-port-reset-issues-in-windows-10/"><u>Solving the 'Unknown USB Device' Error with Port Reset Issues in Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamline-skype-calls-with-effective-recording-techniques-for-2024/"><u>Streamline Skype Calls with Effective Recording Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-unresponsive-touchpad-windows-10-solutions/"><u>Troubleshooting the Unresponsive Touchpad: Windows 10 Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-mystery-how-to-access-and-use-facebook-marketplace/"><u>Unlocking the Mystery: How to Access and Use Facebook Marketplace</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-troubleshooting-fixing-dx11-feature-level-100-error/"><u>WWE 2K Battlegrounds Troubleshooting - Fixing DX11 Feature Level 10.0 Error</u></a></li>
 </ul></div>
 

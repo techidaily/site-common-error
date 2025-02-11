@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Absent Media Device Driver Issue
-date: 2025-01-22T22:13:39.439Z
-updated: 2025-01-29T22:43:21.647Z
+date: 2025-02-06T00:36:13.125Z
+updated: 2025-02-10T22:49:55.801Z
 tags:
   - win11
   - win10
@@ -41,15 +41,15 @@ Here are some solutions that have helped people resolve the error “**Destiny 2
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Connect to the Destiny 2 server in another time
 
 It’s possible that too many people connect to the Destiny servers during the time period, so the servers are overloading and you will fail to connect. So you can wait for a while and try playing the game in another time. This issue can be automatically fixed. If you still have the error “**Destiny 2 servers are not available**”, don’t worry. There’s something else to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable DHCP for your connection
 
@@ -62,10 +62,6 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 
@@ -73,7 +69,7 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
@@ -91,12 +87,16 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
@@ -104,7 +104,7 @@ Still no luck? Ok, there’s one more thing to try.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
@@ -117,7 +117,7 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
@@ -147,19 +147,24 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-5-minute-timelapse-video-maker-top/"><u>[New] In 2024, Best 5-Minute Timelapse Video Maker #Top</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-fix-coffee-stain-distortions-on-iphones-in-a-flash-for-free/"><u>2024 Approved Fix Coffee Stain Distortions on iPhones in a Flash, for Free</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-seamless-transfer-of-social-media-videos-from-twitter-to-whatsapp/"><u>2024 Approved Seamless Transfer of Social Media Videos From Twitter to WhatsApp</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-6-value-proposition-affordable-4k-projectors-for-2024/"><u>Best 6 Value Proposition Affordable 4K Projectors for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-your-league-of-legends-download-with-these-simple-solutions/"><u>Fast-Track Your League of Legends Download with These Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-resolve-xbox-one-connection-problems-with-xbox-live/"><u>Fixing the Issue: How to Resolve Xbox One Connection Problems with Xbox Live</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-darkness-to-light-a-step-by-step-guide-to-fixing-your-windows-screen-issues/"><u>From Darkness to Light: A Step-by-Step Guide to Fixing Your Windows Screen Issues</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-the-beginners-guide-to-youtube-image-sharing/"><u>In 2024, The Beginner's Guide to YouTube Image Sharing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-treat-tracks-review-exhaustive-guide-on-frozen-food-filming/"><u>In 2024, Treat Tracks Review Exhaustive Guide on Frozen Food Filming</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-the-shift-key-failure-issue-on-your-pclaptop/"><u>Quick Solutions: Resolving the 'Shift Key Failure' Issue on Your PC/Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/stuck-on-a-non-printable-pdf-effortless-strategies-for-immediate-results/"><u>Stuck on a Non-Printable PDF? Effortless Strategies for Immediate Results</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/transforming-youtube-videos-into-cash-flows-for-2024/"><u>Transforming YouTube Videos Into Cash Flows for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-windows-update-issue-0x8024401c-in-windows-11-systems/"><u>Troubleshooting and Fixing Windows Update Issue 0X8024401c in Windows 11 Systems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/turn-your-videos-into-treasures-a-guide-to-creating-home-dvds/"><u>Turn Your Videos Into Treasures A Guide to Creating Home DVDs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-frame-perfect-our-top-10-photo-lenses-list/"><u>2024 Approved Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-achieve-slick-sound-segmentation-in-premiere/"><u>2024 Approved How to Achieve Slick Sound Segmentation in Premiere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-screen-tremors-and-glitches-in-surface-pro-models/"><u>Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s23-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy S23 has native MKV support?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-emotional-care-with-technology-explore-5-cutting-edge-chatgpt-therapists-and-applications/"><u>Enhancing Emotional Care with Technology: Explore 5 Cutting-Edge ChatGPT Therapists and Applications</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-intel-serial-io-driver-installation-error-for-non-supported-systems/"><u>How to Overcome the Intel Serial IO Driver Installation Error for Non-Supported Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/instant-access-your-personal-selection-of-videos-awaits-at-no-charge/"><u>Instant Access - Your Personal Selection of Videos Awaits at No Charge!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/overcome-oversaturated-tiktok-drafters-through-savvy-edits/"><u>Overcome Oversaturated TikTok Drafters Through Savvy Edits</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-when-the-steam-shop-wont-load-a-comprehensive-guide/"><u>Resolving Issues When The Steam Shop Won't Load: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212019000-solution-to-pubg-structures-failure-now-fixed/"><u>Solution to PUBG Structures Failure - Now Fixed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-audio-on-your-mozilla-firefox-browser/"><u>Solved: How to Restore Audio on Your Mozilla Firefox Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/speed-up-your-pc-by-reviving-corrupted-hardware-drivers-easily/"><u>Speed Up Your PC by Reviving Corrupted Hardware Drivers Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-minecraft-loading-on-your-windows-machine-heres-the-solution-fixed/"><u>Trouble with Minecraft Loading on Your Windows Machine? Here's the Solution! [FIXED]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-reactivating-your-roku-closed-captioning/"><u>Troubleshooting Steps: Reactivating Your Roku Closed Captioning</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-laptops-touchpad-not-responding-in-windows-systems-solutions-inside/"><u>Troubleshooting Your Laptop's Touchpad Not Responding in Windows Systems – Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/unblock-your-gaming-resolving-error-loading-player-on-pc/"><u>Unblock Your Gaming: Resolving Error Loading Player on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-error-0x80004005-unspecified-issue-explained/"><u>Understanding and Resolving Error 0X80004005: Unspecified Issue Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/your-network-settings-are-blocking-party-chat-solved/"><u>Your Network Settings Are Blocking Party Chat [SOLVED]</u></a></li>
 </ul></div>
 

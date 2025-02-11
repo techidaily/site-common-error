@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Lenovo's Unresponsive Keys: How to Fix a Non-Functioning Keyboard"
-date: 2025-01-25T09:22:54.873Z
-updated: 2025-01-29T20:33:55.903Z
+date: 2025-02-03T22:41:09.139Z
+updated: 2025-02-11T08:32:31.980Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Restart your computer
 
  Restarting computer could resolve many hardware issues instantly. So it’s recommended you try this simple fix first before moving on.
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
@@ -97,25 +97,25 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
@@ -126,7 +126,7 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Click**Yes** to confirm the restore.
@@ -155,17 +155,17 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-premiere-pros-full-scene-showcase-guide/"><u>[New] Premiere Pro's Full Scene Showcase Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unlock-your-creative-flow-sharing-hundreds-of-photos-and-vids-on-ig/"><u>[Updated] In 2024, Unlock Your Creative Flow Sharing Hundreds of Photos and Vids on IG</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/affordable-aerial-acrobats-best-bargain-drones-for-(500-for-2024/"><u>Affordable Aerial Acrobats Best Bargain Drones for <$500 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/common-fixes-for-when-your-internal-webcam-wont-work-on-a-windows-machine/"><u>Common Fixes for When Your Internal Webcam Won't Work on a Windows Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-it-solutions-when-your-torrent-wont-download/"><u>How to Fix It: Solutions when Your Torrent Won't Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-video-input-errors-on-monitors-easily-detailed-steps/"><u>How to Fix Video Input Errors on Monitors Easily (Detailed Steps)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/providing-exceptional-customer-service-across-all-channels-including-online-support-in-person-interactions-and-post-purchase-follow-ups/"><u>Providing Exceptional Customer Service Across All Channels, Including Online Support, In-Person Interactions, and Post-Purchase Follow-Ups.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-time-learning-via-chatgpt-worldwide/"><u>Real-Time Learning via ChatGPT Worldwide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/symphony-on-your-phone-best-tone-acquisition-websites/"><u>Symphony on Your Phone Best Tone Acquisition Websites</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-gadget-guide-your-go-to-source-for-hardware-reviews-and-comparisons/"><u>Tom's Gadget Guide: Your Go-To Source for Hardware Reviews and Comparisons</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-google-chrome-stops-responding-to-inputs/"><u>Troubleshooting Guide: When Google Chrome Stops Responding to Inputs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-gpt-4-within-chatgpt-a-real-time-tutorial/"><u>Unlocking the Potential of GPT-4 Within ChatGPT – A Real-Time Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-ready-set-resize-transformative-techniques-for-macs-instagram-content/"><u>2024 Approved Ready, Set, Resize Transformative Techniques for Mac's Instagram Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visual-voyages-free-thematic-tools-for-youtube/"><u>2024 Approved Visual Voyages Free Thematic Tools for YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-your-aoc-usb-display-not-recognizing-on-windows-11/"><u>How to Resolve Your AOC USB Display Not Recognizing on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208249116-how-to-troubleshoot-pc-game-crashes-in-nier-automata-solved/"><u>How to Troubleshoot PC Game Crashes in Nier: Automata - Solved</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-10-premium-luts-available-for-free/"><u>In 2024, Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learn-quick-image-text-alteration-online-resources-for-2024/"><u>Learn Quick Image Text Alteration Online Resources for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/msk-is-a-bandwidth-efficient-form-of-fm-used-in-digital-communications/"><u>MSK Is a Bandwidth-Efficient Form of FM Used in Digital Communications.</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-how-to-restore-missing-icons-on-your-desktop-in-windows-11/"><u>Solution Steps: How to Restore Missing Icons on Your Desktop in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-fixing-broadcom-netlink-gigabit-ethernet-issues-in-windows-10/"><u>Troubleshooting & Fixing Broadcom NetLink Gigabit Ethernet Issues in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-windows-hello-for-windows-10-hardware-not-supported-by-default/"><u>Unlocking the Potential of Windows Hello for Windows 10 Hardware Not Supported by Default</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-power-of-vivacut-for-2024/"><u>Unveiling the Power of VivaCut for 2024</u></a></li>
 </ul></div>
 

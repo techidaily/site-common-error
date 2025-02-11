@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Windows 10 Upgrade Issue When It Gets Stuck on 99%%
-date: 2025-01-26T01:08:53.380Z
-updated: 2025-01-30T03:26:35.850Z
+date: 2025-02-07T04:01:11.409Z
+updated: 2025-02-11T04:36:54.860Z
 tags:
   - win11
   - win10
@@ -51,7 +51,7 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to all flagged devices to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).
@@ -61,7 +61,7 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -76,6 +76,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
@@ -84,21 +88,25 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
@@ -107,10 +115,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
 
@@ -132,10 +136,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
@@ -143,6 +143,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 Now check to see your mic is back on track.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -153,7 +157,7 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
@@ -165,10 +169,6 @@ Now check to see your mic is back on track.
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -193,22 +193,18 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximizing-engagement-with-strategic-editing-on-instagram-videos/"><u>[New] 2024 Approved Maximizing Engagement with Strategic Editing on Instagram Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-revolutionary-software-evolving-the-way-we-record-games-for-2024/"><u>[New] Revolutionary Software Evolving the Way We Record Games for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-clear-screen-choices-the-ultrawide-and-uhd-4k-showdown-for-2024/"><u>[Updated] Clear Screen Choices The Ultrawide & UHD 4K Showdown for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>[Updated] In 2024, Dynamic and Simple Building a Subscriber Button for YouTube Using Filmora</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/battling-high-cpu-drain-by-wudhostexe-tips-to-enhance-system-efficiency-in-windows-11/"><u>Battling High CPU Drain by WUDHost.exe - Tips to Enhance System Efficiency in Windows 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/discover-best-4k-gimbals-for-mirrorless-cameras-for-2024/"><u>Discover Best 4K Gimbals for Mirrorless Cameras for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-intel-rst-support-issues-a-guide-for-non-functional-services-on-windows-11/"><u>Fixing Intel RST Support Issues: A Guide for Non-Functional Services on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211193541-how-i-resolved-the-prolonged-shutdown-problem-on-my-windows-10-pc/"><u>How I Resolved the Prolonged Shutdown Problem on My Windows 10 PC!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-prime-picks-of-youtubes-snackable-shorter-videos-free/"><u>In 2024, Prime Picks of YouTube's Snackable Shorter Videos (FREE)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/key-bios-configuration-adjustments-what-changes-make-a-difference/"><u>Key BIOS Configuration Adjustments: What Changes Make a Difference?</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-hack-a-step-by-nstep-solution-for-correcting-black-screen-on-google-chrome/"><u>Master the Hack: A Step-by-nStep Solution for Correcting Black Screen on Google Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-visibility-controls-on-the-windows-11-taskbar-tips-and-tricks-revealed/"><u>Mastering Visibility Controls on the Windows 11 Taskbar: Tips & Tricks Revealed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-pc-using-system-file-checker-sfc-and-deployment-image-servicing/"><u>Revive Your PC Using System File Checker (SFC) & Deployment Image Servicing</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essence-of-mobile-games-on-ios-my-love-for-apple-arcade/"><u>The Essence of Mobile Games on iOS: My Love for Apple Arcade</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-the-gears-ultimate-guide-to-fixing-ps4-controller-charging-woes/"><u>Unstick the Gears: Ultimate Guide to Fixing PS4 Controller Charging Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/wacom-tablet-not-responding-heres-what-you-need-to-know/"><u>Wacom Tablet Not Responding? Here's What You Need to Know!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-achieve-superior-mp4-output-from-instagram-videos-2-ways/"><u>[New] 2024 Approved Achieve Superior MP4 Output From Instagram Videos 2 Ways</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>[Updated] In 2024, Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-premier-list-of-smartphone-compatible-vr-headset/"><u>[Updated] In 2024, The Premier List of Smartphone-Compatible VR Headset</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-alteration-a-guide-to-video-color-correction-11-parts/"><u>2024 Approved The Art of Alteration A Guide to Video Color Correction (11 Parts)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/covert-observers-fb-flashbacks-reader-for-2024/"><u>Covert Observers FB Flashbacks Reader for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/daily-dough-pewdiepies-earnings-breakdown/"><u>Daily Dough PewDiePie's Earnings Breakdown</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-device-not-found-effortless-fixes-to-connect-your-usb-storage-device-again/"><u>Overcoming 'Device Not Found': Effortless Fixes to Connect Your USB Storage Device Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-detected-audio-enhancement-glitches-easily/"><u>Overcoming Windows Detected Audio Enhancement Glitches Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-non-responsive-keyboard-typing/"><u>Resolved Issue: Non-Responsive Keyboard Typing</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-mic-problems-on-windows-10-computers-quick-fixes-inside/"><u>Solution for Mic Problems on Windows 10 Computers - Quick Fixes Inside!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-methods-for-successfully-recording-google-hangouts-a-guide-for-pc-and-mac-users/"><u>Top Methods for Successfully Recording Google Hangouts: A Guide for PC and Mac Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ensuring-compatible-hardware-for-optimal-performance-in-world-of-warcraft/"><u>Troubleshooting: Ensuring Compatible Hardware for Optimal Performance in World of Warcraft</u></a></li>
 </ul></div>
 

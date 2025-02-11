@@ -1,7 +1,7 @@
 ---
 title: How to Tackle and Solve the Frustrating 0X80073712 Error Code in Windows 11
-date: 2025-01-28T09:29:59.255Z
-updated: 2025-01-29T17:53:02.218Z
+date: 2025-02-04T16:58:28.704Z
+updated: 2025-02-11T08:27:10.571Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
 **Windows Update Troubleshooter**   is a useful troubleshooting tool that helps us solve common Windows update issues. Here’s how to run Troubleshooter:
@@ -42,13 +46,13 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
  1) On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Windows Update**   \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions to troubleshoot.
 
@@ -70,10 +74,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?  
  3) Restart your computer and see if the error**0x80073712**   has been solved.
 
@@ -86,7 +86,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
@@ -98,7 +98,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Wait for a while for the whole process to finishes.
@@ -108,6 +108,10 @@ Wait for a while for the whole process to finishes.
  4) Check Windows Update and see if it works this time.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Delete Windows Update Cache
 
@@ -123,31 +127,27 @@ Wait for a while for the whole process to finishes.
 
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a98e3f0f6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) When asked to provide administrator permission, check**the box** before**Do this for all current items** and click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
 
@@ -160,7 +160,7 @@ Wait for a while for the whole process to finishes.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
@@ -188,24 +188,16 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-the-problem-hidden-thumbnails-in-youtube-shorts/"><u>[New] In 2024, Fixing the Problem Hidden Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-streamlining-social-media-multiplying-instagram-posts-via-photos-and-videos-for-2024/"><u>[New] Streamlining Social Media Multiplying Instagram Posts via Photos & Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-navigating-post-production-hues-with-expertise/"><u>[Updated] 2024 Approved Navigating Post-Production Hues with Expertise</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-social-storytelling-with-added-musicality/"><u>[Updated] Elevate Your Social Storytelling with Added Musicality</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-noteworthy-14-dynamic-text-artworks/"><u>[Updated] In 2024, Noteworthy 14 Dynamic Text Artworks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-by-step-initiating-instagram-live-shows/"><u>[Updated] In 2024, Step-by-Step Initiating Instagram Live Shows</u></a></li>
-<li><a href="https://common-error.techidaily.com/device-driver-troubles-heres-how-to-achieve-compatibility-with-windows-updates/"><u>Device Driver Troubles? Here’s How to Achieve Compatibility with Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-when-your-diagnostics-policy-service-wont-start/"><u>Fixing the Issue When Your Diagnostics Policy Service Won't Start</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-ideas-to-worlds-how-writers-can-utilize-chatgpt-for-imaginative-worldbuilding/"><u>From Ideas to Worlds: How Writers Can Utilize ChatGPT for Imaginative Worldbuilding</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-conflicting-dlls-and-dependencies-resolving-windows-cried-out-errors-with-correcting-side-by-side-configurations/"><u>How to Fix Conflicting DLLs and Dependencies: Resolving Windows Cried Out Errors with Correcting Side-By-Side Configurations</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-non-responsive-file-explorer-in-windows-11-solutions-and-tips/"><u>How to Fix Non-Responsive File Explorer in Windows 11 – Solutions & Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211216811-immediate-solutions-stop-counter-strike-go-from-crashing-now/"><u>Immediate Solutions: Stop Counter-Strike Go From Crashing Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-new-worlds-top-10-sci-fi-metaverse-movie-adventures/"><u>In 2024, Exploring New Worlds Top 10 Sci-Fi Metaverse Movie Adventures</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/masterclass-guide-batch-converting-audio-files-from-mka-to-wav-for-professionals/"><u>Masterclass Guide: Batch Converting Audio Files From MKA to WAV for Professionals</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-pc-effective-repair-strategies-with-sfc-and-dism-in-windows-nvironments/"><u>Reviving Your PC: Effective Repair Strategies with SFC and DISM in Windows Nvironments</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-content-accessibility-issue-resolved-what-you-need-to-know/"><u>Steam Content Accessibility Issue Resolved: What You Need to Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-netflix-sound-issues-in-minutes-with-these-fixes/"><u>Troubleshoot Your Netflix Sound Issues in Minutes with These Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-a-dvd-cant-be-played-in-microsoft-windows/"><u>Troubleshooting Steps When a DVD Can't Be Played in Microsoft Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-effective-lut-implementation-in-adobe-premiere/"><u>[New] 2024 Approved Effective LUT Implementation in Adobe Premiere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pigments-and-palettes-the-artists-guidebook/"><u>[New] Pigments & Palettes The Artist's Guidebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-zero-money-high-quality-ranks-of-best-recording-apps/"><u>2024 Approved Zero Money, High Quality Ranks of Best Recording Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-vcruntime140dll-not-located-problem-in-your-pc-expert-advice/"><u>Bypass the VCRUNTIME140.dll Not Located Problem in Your PC - Expert Advice</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 14 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-c50-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco C50</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-why-steam-game-servers-might-be-inaccessible/"><u>Resolving Issues: Why Steam Game Servers Might Be Inaccessible</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-bluetooth-missing-dilemma-on-your-windows-10-device-today/"><u>Solving the 'Bluetooth Missing' Dilemma on Your Windows 10 Device Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-a-non-responsive-mouse-on-your-pc/"><u>Ultimate Guide: Resolving a Non-Responsive Mouse on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-freezing-glitches-on-windows-11-during-boot-sequence/"><u>Understanding and Resolving Freezing Glitches on Windows 11 During Boot Sequence</u></a></li>
 </ul></div>
 

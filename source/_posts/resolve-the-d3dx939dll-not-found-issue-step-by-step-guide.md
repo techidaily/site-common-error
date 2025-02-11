@@ -1,7 +1,7 @@
 ---
 title: "Resolve the 'd3dx9_39.dll' Not Found Issue: Step-by-Step Guide"
-date: 2024-09-16T19:26:09.826Z
-updated: 2024-09-20T16:17:43.632Z
+date: 2025-02-04T02:03:53.544Z
+updated: 2025-02-10T20:43:24.293Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -42,6 +46,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -51,6 +59,10 @@ Follow these:
 #### on Windows 10
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
 
@@ -74,7 +86,15 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -115,18 +135,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-video-sharing-from-youtube-to-insta/"><u>[New] In 2024, Elevating Video Sharing From YouTube to Insta</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-list-for-sound-alteration-applications-in-vtubing/"><u>[New] The Ultimate List for Sound Alteration Applications in VTubing</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-destiny-2s-loading-hurdle-fixing-initialization-errors-effectively/"><u>Beating Destiny 2'S Loading Hurdle - Fixing Initialization Errors Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/call-of-duty-ww2-bug-code-easy-troubleshooting-steps-to-correct-errors/"><u>Call of Duty WW2 Bug Code 지표: Easy Troubleshooting Steps to Correct Errors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compiling-the-best-12-cost-free-video-apps-for-all-platforms-for-2024/"><u>Compiling the Best 12 Cost-Free Video Apps for All Platforms for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-realme-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Realme</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-system-critical-process-failed-error-on-your-pc-0xc00000e9-explained/"><u>Expert Advice: Correcting System Critical Process Failed Error on Your PC (0XC00000E9 Explained)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-free-and-open-top-7-laptop-dvd-player-software-options/"><u>In 2024, Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connectivity-problems-with-your-wacom-pen-in-windows-11-and-10-environments/"><u>Overcoming Connectivity Problems with Your Wacom Pen in Windows 11 & 10 Environments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-progress-in-ai-with-openais-newly-launched-gpt-4-model/"><u>Pioneering Progress in AI with OpenAI's Newly Launched GPT-4 Model</u></a></li>
+<li><a href="https://common-error.techidaily.com/shift-key-failure-solved-tips-for-restoring-functionality/"><u>Shift Key Failure Solved: Tips for Restoring Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-xbox-and-pc-warzone-memory-error-code-0-1766/"><u>Solving Xbox and PC Warzone Memory Error: Code 0-1766</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing GPU Consumption by the Desktop Window Manager on Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-tricks-for-resolving-issues-with-your-playstation-4-headset-audio/"><u>Top Tricks for Resolving Issues with Your PlayStation 4 Headset Audio</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-bluetooth-devices-that-appear-paired-but-remain-unconnected-in-windows-10/"><u>Troubleshooting Bluetooth Devices That Appear Paired But Remain Unconnected in Windows 10</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultimate-guide-how-to-successfully-copy-an-msata-ssd-with-secure-boot-feature/"><u>Ultimate Guide: How to Successfully Copy an mSATA SSD with Secure Boot Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-your-shift-key-wont-work-and-how-to-solve-it-effectively/"><u>Why Your Shift Key Won't Work and How to Solve It Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-setup-fails-overcome-error-code-80240020-for-successful-installation/"><u>Windows 10 Setup Fails: Overcome Error Code 80240020 for Successful Installation</u></a></li>
+</ul></div>
 

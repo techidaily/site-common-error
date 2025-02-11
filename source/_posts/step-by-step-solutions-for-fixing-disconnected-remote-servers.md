@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Fixing Disconnected Remote Servers
-date: 2024-09-16T18:13:45.048Z
-updated: 2024-09-20T18:00:34.040Z
+date: 2025-02-07T01:14:40.734Z
+updated: 2025-02-10T20:42:30.635Z
 tags:
   - win11
   - win10
@@ -36,9 +36,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -60,11 +68,20 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -78,13 +95,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
@@ -92,10 +102,7 @@ To do so:
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -133,5 +140,21 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-best-9-screen-free-adventures-in-mobile-gaming-android-edition/"><u>[New] 2024 Approved Best 9 Screen-Free Adventures in Mobile Gaming (Android Edition)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hear-got-music-top-sites-to-download-ringtones/"><u>[New] Hear GoT Music - Top Sites to Download Ringtones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monetizing-mastery-a-triple-step-approach-to-understanding-youtube-revenue/"><u>[Updated] Monetizing Mastery A Triple Step Approach to Understanding YouTube Revenue</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comprehensive-guide-simple-solutions-for-asus-laptop-maintenance-and-recovery/"><u>Comprehensive Guide: Simple Solutions for Asus Laptop Maintenance and Recovery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-secrets-behind-dts-virtual-sound-systems-and-their-impact-on-your-viewing-experience/"><u>Decoding the Secrets Behind DTS Virtual Sound Systems and Their Impact on Your Viewing Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211935910-fix-lidadll-gone-restore-now/"><u>Fix Lida.dll Gone, Restore Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-microsoft-store-malfunctions-expert-tips-and-fixes/"><u>Overcome Microsoft Store Malfunctions - Expert Tips and Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-when-apex-legends-refuses-to-start-up/"><u>Quick Fixes for When Apex Legends Refuses to Start Up</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quintessential-memes-the-creation-guide-for-2024/"><u>Quintessential Memes The Creation Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-troubleshooting-non-functioning-dell-sound-output/"><u>Solutions for Troubleshooting Non-Functioning Dell Sound Output</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-sound-speeds-in-spotify-without-compromise/"><u>Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-eliminating-recurring-usb-device-not-found-pop-ups-a-comprehensive-approach/"><u>Troubleshooting and Eliminating Recurring 'USB Device Not Found' Pop-Ups: A Comprehensive Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexplained-restarts-on-windows-10-pcs/"><u>Unexplained Restarts on Windows 10 PCs</u></a></li>
+</ul></div>
 

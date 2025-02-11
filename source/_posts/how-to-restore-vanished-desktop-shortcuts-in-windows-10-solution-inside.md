@@ -1,7 +1,7 @@
 ---
 title: How To Restore Vanished Desktop Shortcuts in Windows 10 (Solution Inside)
-date: 2024-09-15T18:50:14.972Z
-updated: 2024-09-20T17:42:14.466Z
+date: 2025-02-06T08:53:30.884Z
+updated: 2025-02-10T21:48:29.575Z
 tags:
   - win11
   - win10
@@ -45,12 +45,21 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -59,13 +68,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -86,14 +88,16 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -101,10 +105,7 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
@@ -117,14 +118,11 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -142,6 +140,10 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,5 +166,26 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-expert-tips-elevating-your-projects-with-movie-maker-in-win11/"><u>[New] Expert Tips Elevating Your Projects with Movie Maker in Win11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-virtual-realities-made-tangible-6-metaverse-examples-reviewed-for-2024/"><u>[New] Virtual Realities Made Tangible 6 Metaverse Examples Reviewed for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-revolutionizing-your-digital-presence-through-strategic-social-media-mastery/"><u>[Updated] 2024 Approved Revolutionizing Your Digital Presence Through Strategic Social Media Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-free-editing-powerhouses-top-9-simplified-video-tools/"><u>[Updated] Free Editing Powerhouses Top 9 Simplified Video Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-6s-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-power-surge-problems-at-hubport-junctions/"><u>Effective Solutions for Power Surge Problems at Hub/Port Junctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correcting-the-inaccessible-file-path-error-in-windows-computers/"><u>Guide to Correcting the 'Inaccessible File Path' Error in Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/hear-the-joy-headphones-now-recognized-by-laptops/"><u>Hear the Joy: Headphones Now Recognized by Laptops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-captivating-imagery-assemblies-your-lifelong-collection/"><u>In 2024, Captivating Imagery Assemblies Your Lifelong Collection</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-look-at-microsofts-fixes-how-to-utilize-system-file-check-and-deployment-image-service-for-windows-10-recovery/"><u>In-Depth Look at Microsoft's Fixes: How to Utilize System File Check and Deployment Image Service for Windows 10 Recovery</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209854570-9781912256471-kick-start-your-life/"><u>Kick Start your Life! | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-through-technology-with-toms-gear-insights/"><u>Navigating Through Technology with Tom's Gear Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-the-call-of-duty-vanguard-error-5573-dev-bugs-demystified/"><u>Navigating Through the Call of Duty Vanguard Error 5573: Dev Bugs Demystified</u></a></li>
+<li><a href="https://common-error.techidaily.com/repaired-malfunction-keyboard-not-registering-inputs/"><u>Repaired Malfunction: Keyboard Not Registering Inputs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-audio-problems-make-your-laptops-mic-work-properly-again/"><u>Resolving Audio Problems: Make Your Laptop's Mic Work Properly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-high-svchostexe-cpu-consumption-in-windows-10/"><u>Solving High svchost.exe CPU Consumption in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-an-in-depth-look-at-googles-advanced-pairm-2-llm/"><u>Unveiling the Latest: An In-Depth Look at Google's Advanced PAIRM 2 LLM</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-computer-spontaneously-boot-up-solutions-for-windows-11-devices/"><u>Why Is My Computer Spontaneously Boot Up? Solutions for Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211130896-xbox-one-wireless-controller-connection-problem-heres-how-to-fix-it/"><u>Xbox One Wireless Controller Connection Problem? Here's How to Fix It!</u></a></li>
+</ul></div>
 

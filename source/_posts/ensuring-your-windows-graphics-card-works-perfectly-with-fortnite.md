@@ -1,7 +1,7 @@
 ---
 title: Ensuring Your Windows Graphics Card Works Perfectly with Fortnite
-date: 2025-01-28T19:32:17.014Z
-updated: 2025-01-30T03:00:24.918Z
+date: 2025-02-08T18:52:17.404Z
+updated: 2025-02-10T22:59:09.431Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Windows 10 Bluetooth missing?
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
@@ -45,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -92,17 +96,9 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
@@ -111,6 +107,14 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -175,24 +175,16 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-enhance-obs-transcoding-troubleshooting-guide/"><u>[New] 2024 Approved Enhance OBS Transcoding Troubleshooting Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-twitchstars-engaging-on-snapchat/"><u>[New] In 2024, Twitchstars Engaging on Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-insiders-selection-prime-vr-device-picks/"><u>[New] Insider's Selection Prime VR Device Picks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-principled-steps-in-logging-live-youtube-videos-for-2024/"><u>[New] Principled Steps in Logging Live YouTube Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-mac-audio-with-audacitys-features/"><u>[Updated] 2024 Approved Unlocking the Full Potential of Mac Audio with Audacity's Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beating-the-charged-while-holding-glitch-discover-our-top-8-solutions/"><u>Beating the 'Charged While Holding' Glitch: Discover Our Top 8 Solutions</u></a></li>
-<li><a href="https://discover-help.techidaily.com/diagnosing-graphics-glitches-expert-tips-for-troubleshooting-video-card-failures-in-windows-environments-guided-by-yl-software/"><u>Diagnosing Graphics Glitches: Expert Tips for Troubleshooting Video Card Failures in Windows Environments | Guided by YL Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-movie-streaming-access-top-3gp-cellphone-films-online/"><u>Free Movie Streaming: Access Top 3GP Cellphone Films Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-windows-10-bluetooth-back-quickly-step-by-step-troubleshooting-guide/"><u>Get Your Windows 10 Bluetooth Back Quickly: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-14-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 14 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-ultimate-tips-and-tricks-to-correctly-address-windows-update-error-code-0x8024402c/"><u>Mastering the Fix: Ultimate Tips & Tricks to Correctly Address Window's Update Error Code 0X8024402c</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-tricks-for-solving-laggy-keyboards-an-easy-guide/"><u>Quick Tricks for Solving Laggy Keyboards - An Easy Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-dual-display-setup-for-windows-7-users-no-more-unseen-screens/"><u>Seamless Dual Display Setup for Windows 7 Users - No More Unseen Screens!</u></a></li>
-<li><a href="https://common-error.techidaily.com/silent-victory-over-the-raging-crimson-your-definitive-guide-to-fixing-system-faults/"><u>Silent Victory Over The Raging Crimson: Your Definitive Guide to Fixing System Faults</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-lenovo-laptop-webcam-problem-with-these-easy-fixes/"><u>Solve Your Lenovo Laptop Webcam Problem with These Easy Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-couldnt-load-plugin-chrome-error-on-windows-10/"><u>Solved: Couldn’t Load Plugin Chrome Error on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminating-the-dark-screen-during-obs-gaming-sessions/"><u>Step-by-Step Guide: Eliminating the Dark Screen During OBS Gaming Sessions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rice-tag-of-a-million-viewed-youtube-video-for-2024/"><u>The Price Tag of a Million-Viewed YouTube Video for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206580195-windows-11-wont-exit-airplane-mode-heres-how-you-can-fix-it/"><u>Windows 11 Won't Exit Airplane Mode? Here's How You Can Fix It</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dynamic-imagery-achieving-balanced-colors-in-gopro-footage-for-2024/"><u>[New] Dynamic Imagery Achieving Balanced Colors in GoPro Footage for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-synergy-of-sounds-crafting-seamless-integration-with-powerpoint-for-2024/"><u>[New] Synergy of Sounds Crafting Seamless Integration with PowerPoint for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-tutorial-for-applying-video-filters-on-devices-for-2024/"><u>[Updated] The Ultimate Tutorial for Applying Video Filters on Devices for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-corrupted-file-issues-in-latest-windows-operating-systems/"><u>Expert Advice: Correcting Corrupted File Issues in Latest Windows Operating Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-conversion-guide-transform-mp4-audio-into-top-quality-mp3-files-6-effective-techniques/"><u>Free Conversion Guide: Transform MP4 Audio Into Top-Quality MP3 Files - 6 Effective Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-zte-axon-40-lite-by-drfone-android/"><u>Full Guide to Unlock Your ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-errors-with-remote-procedure-call-servers-in-windows-environments/"><u>Guide to Fixing Errors with Remote Procedure Call Servers in Windows Environments</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-y27s-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y27s Safely | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connection-issues-with-audiovideo-hardware-in-windows-tips-and-tricks/"><u>Overcoming Connection Issues with Audio/Video Hardware in Windows - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-system-lags-high-usage-of-ntoskrnlexe/"><u>Solving System Lags: High Usage of Ntoskrnl.exe</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/start-now-best-online-learning-for-new-youtubers-for-2024/"><u>Start Now Best Online Learning for New YouTubers for 2024</u></a></li>
 </ul></div>
 

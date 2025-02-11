@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excessive MsMpEngine.exe CPU Drain on Windows 11 [GUIDE]
-date: 2025-01-28T09:00:48.895Z
-updated: 2025-01-30T02:25:43.672Z
+date: 2025-02-04T18:02:25.957Z
+updated: 2025-02-11T02:07:44.558Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **What is svchost.exe?**
@@ -48,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
 
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Disable certain svchost.exe services**
 
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  1) Right-click the taskbar at the bottom of your PC desktop and click **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
@@ -84,16 +88,12 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
@@ -110,13 +110,13 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
@@ -137,12 +137,20 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -160,19 +168,11 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,17 +189,19 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ow-do-i-use-adobe-premiere-to-upload-youtube-videos-for-2024/"><u>[New] How Do I Use Adobe Premiere To Upload YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pro-level-hdr-mastery-your-compre-point-of-entry/"><u>[New] Pro Level HDR Mastery Your Compre Point of Entry</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-the-secrets-to-successful-instant-sharing-online/"><u>[Updated] Unveiling the Secrets to Successful Instant Sharing Online</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-civi-3-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Civi 3 FRP</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-integration-woes-heres-how-to-ensure-a-successful-configuration/"><u>BattlEye Integration Woes? Here's How to Ensure a Successful Configuration</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-driverpowerstatefaulty-problems/"><u>Effective Fixes for DRIVER_POWER_STATE_FAULTY Problems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-building-a-brand-on-youtube-navigating-through-top-video-marketing-methods/"><u>In 2024, Building a Brand on YouTube Navigating Through Top Video Marketing Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leaders-play-a-vital-role-by-modeling-behaviors-that-support-innovation-such-as-rewarding-experimentation-and-learning-from-failures/"><u>Leaders Play a Vital Role by Modeling Behaviors that Support Innovation, Such as Rewarding Experimentation and Learning From Failures.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-screen-shots-a-comprehensive-tutorial-for-xbox-one-gamers/"><u>Mastering Screen Shots: A Comprehensive Tutorial for Xbox One Gamers</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-available-for-non-responsive-tailored-settings-option/"><u>Solution Available for Non-Responsive Tailored Settings Option</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-resolve-obs-game-captures-unwanted-black-display-problem/"><u>Troubleshooting: How to Resolve OBS Game Capture's Unwanted Black Display Problem</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-mc-shelter-design-tips/"><u>[New] In 2024, Innovative MC Shelter Design Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-your-monetary-gains-on-social-media-with-snapchat/"><u>[Updated] Maximizing Your Monetary Gains on Social Media with Snapchat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-take-your-snapchat-to-new-heights-with-cutting-edge-boomerangs-for-2024/"><u>[Updated] Take Your Snapchat to New Heights with Cutting-Edge Boomerangs for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tips-to-improve-your-gopros-power-sustainability-for-2024/"><u>[Updated] Tips to Improve Your GoPro's Power Sustainability for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-30-mobile-video-edits-using-dji-technology-for-2024/"><u>[Updated] Top 30 Mobile Video Edits Using DJi Technology for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-overcoming-cxfreeze-catastrophic-crashes/"><u>Effortless Solutions: Overcoming Cx_Freeze Catastrophic Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-troubleshooting-solving-the-wifi-not-working-dilemma/"><u>Effortless Troubleshooting: Solving the 'WiFi Not Working' Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-origins-games-setting-up-made-simple/"><u>Guide to Fixing Origins Games: Setting Up Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-sound-settings-when-the-volume-control-isnt-responding/"><u>How to Fix Windows 11 Sound Settings When the Volume Control Isn't Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-login-obstacles-a-comprehensive-fix-for-user-profile-service-failure-in-windows-10-and-11/"><u>Overcoming Login Obstacles: A Comprehensive Fix for User Profile Service Failure in Windows 10 & 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-troubleshooting-guide-resolving-deathloops-pc-crashes/"><u>Simple Troubleshooting Guide: Resolving Deathloop's PC Crashes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-s23-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy S23? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-insiders-pathway-to-effective-auditory-notes-for-2024/"><u>The Insider’s Pathway to Effective Auditory Notes for 2024</u></a></li>
 </ul></div>
 

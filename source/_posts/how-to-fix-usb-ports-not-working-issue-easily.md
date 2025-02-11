@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB Ports Not Working Issue. Easily
-date: 2025-01-26T20:52:39.317Z
-updated: 2025-01-29T23:45:30.950Z
+date: 2025-02-07T05:07:53.140Z
+updated: 2025-02-11T04:55:52.297Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 1: Hold down the power button
 
  The easiest way that may resolve the problem is**hold down the power button for 30 seconds or so** . This will discharge the capacitor. After that, reboot PC and check to see if the problem is resolved.  
@@ -54,7 +50,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
@@ -70,10 +66,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b3d657b3f.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
@@ -84,10 +76,14 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your device drivers**
 
@@ -103,6 +99,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 Here take Intel USB 3.0 driverf for example:
@@ -110,7 +110,7 @@ Here take Intel USB 3.0 driverf for example:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -128,17 +128,22 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-top-font-picks-to-elevate-your-youtube-thumbnail-impact/"><u>[New] 2024 Approved Top Font Picks to Elevate Your YouTube Thumbnail Impact</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nhancing-visual-appeal-youtube-images-in-presentations-for-2024/"><u>[New] Enhancing Visual Appeal YouTube Images in Presentations for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-seamless-android-screen-grabber-for-2024/"><u>[New] Seamless Android Screen Grabber for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-full-spectrum-slomo-recording-app-evaluation/"><u>[Updated] In 2024, The Full Spectrum SloMo Recording App Evaluation</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-strategies-for-minimizing-gpu-drain-due-to-desktop-window-manager-on-pcs-with-windows-11/"><u>Efficient Strategies for Minimizing GPU Drain Due to Desktop Window Manager on PCs with Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-disappeared-mouse-icon-for-windows-10-users/"><u>How to Restore Disappeared Mouse Icon for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/mastering-login-names-how-to-update-your-username-in-windows-1110-efficiently/"><u>Mastering Login Names: How to Update Your Username in Windows 11/10 Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-tips-for-resolving-common-problems-with-netflixs-performance-issues/"><u>Quick Tips for Resolving Common Problems with Netflix's Performance Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/reappearance-of-lost-desktop-icons-for-windows-10-users-easy-fixes/"><u>Reappearance of Lost Desktop Icons for Windows 10 Users: Easy Fixes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-x50-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor X50</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-overcoming-twitchs-error-43000/"><u>Step-by-Step Solution: Overcoming Twitch's Error 4^3000^</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-gps-smartwatch-an-in-depth-review-of-garmins-forerunner-945/"><u>The Ultimate GPS Smartwatch: An In-Depth Review of Garmin's Forerunner 945</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-step-by-step-guide-to-crafting-an-effective-youtube-watch-later-playlist-for-2024/"><u>[New] A Step-by-Step Guide to Crafting an Effective YouTube Watch Later Playlist for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-augmenting-film-vistas-with-apple-playlist/"><u>[New] Augmenting Film Vistas with Apple Playlist</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-simplestrecorder-user-friendly-screen-capture-for-2024/"><u>[New] SimplestRecorder User-Friendly Screen Capture for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-crafting-an-engaging-film-teaser/"><u>2024 Approved Crafting an Engaging Film Teaser</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-for-effective-voice-to-text-in-google-docs/"><u>Essential Tips for Effective Voice-to-Text in Google Docs</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-thaw-out-a-frozen-desktop-and-boost-performance/"><u>Expert Tips to Thaw Out a Frozen Desktop and Boost Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/hidden-in-plain-sight-your-sd-card-solution/"><u>Hidden in Plain Sight - Your SD Card Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-invisible-mouse-cursor-problem-in-windows-11-easily-and-quickly/"><u>How to Fix the Invisible Mouse Cursor Problem in Windows 11 Easily and Quickly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ideal-websites-for-extracting-text-visual-upgrades/"><u>Ideal Websites for Extracting Text Visual Upgrades</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/innovative-10-solutions-for-seamless-video-background-swapping-for-2024/"><u>Innovative 10 Solutions for Seamless Video Background Swapping for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-pcs-endless-loop-in-preparing-windows-for-a-fresh-start/"><u>Resolve Your PC's Endless Loop in Preparing Windows for a Fresh Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-stop-loading-issues-on-the-skyrim-screens-effective-strategies/"><u>Resolving Non-Stop Loading Issues on the Skyrim Screens - Effective Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-an-inactive-or-non-responsive-nvidia-sharing-platform/"><u>Step-by-Step Guide to Fix an Inactive or Non-Responsive NVIDIA Sharing Platform</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-accessing-live-coverage-of-rio-2016-olympics-with-apple-tv/"><u>Step-by-Step Tutorial: Accessing Live Coverage of Rio 2016 Olympics with Apple TV</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-volume-control-not-working-solved/"><u>Windows 10 Volume Control Not Working [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208592788-winupdate-trouble-learn-how-to-restart-and-resolve-issues-quickly/"><u>WinUpdate Trouble? Learn How to Restart and Resolve Issues Quickly</u></a></li>
 </ul></div>
 

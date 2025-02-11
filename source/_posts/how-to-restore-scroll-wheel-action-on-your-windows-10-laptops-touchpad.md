@@ -1,7 +1,7 @@
 ---
 title: How to Restore Scroll Wheel Action on Your Windows 10 Laptop's Touchpad
-date: 2024-09-18T17:11:26.976Z
-updated: 2024-09-20T18:46:58.180Z
+date: 2025-02-08T04:52:10.528Z
+updated: 2025-02-11T01:10:41.452Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your device drivers
 
 If you got the mic-not-working issue after having Windows Updates, it’s possible that the drivers (especially the sound card driver) you’re using currently are out-dated, missing, or incompatible with your system. In case you’re not sure whether all the drivers are working fine, you should check.
@@ -44,6 +48,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to all flagged devices to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).
 
@@ -77,6 +85,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
  5) Again, click to highlight your mic. This time, click**Properties** .
@@ -103,6 +115,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
@@ -110,6 +126,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
@@ -119,13 +139,6 @@ Now check to see your mic is back on track.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -134,6 +147,10 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
@@ -141,10 +158,7 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
@@ -172,5 +186,24 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-nba-live-action-your-guide-to-15-effective-livestream-tips/"><u>[New] 2024 Approved NBA Live Action Your Guide to 15 Effective Livestream Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-metaverses-versus-omniverse-unveiled/"><u>[Updated] In 2024, Metaverses Versus Omniverse Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-customizing-youtube-viewing-policies-for-your-content/"><u>2024 Approved Customizing YouTube Viewing Policies for Your Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-delete-youtube-comments-effortlessly/"><u>2024 Approved How to Delete YouTube Comments Effortlessly?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-launchpad-logistics-streamlining-your-way-into-the-realm-of-reviews-channels/"><u>2024 Approved Launchpad Logistics Streamlining Your Way Into the Realm of Reviews Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-in-flight-djis-mavic-pro-breakdown/"><u>2024 Approved The Future in Flight DJI's Mavic Pro Breakdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/detailed-strategies-to-overcome-and-repair-the-0x80072efd-error-in-windows-10/"><u>Detailed Strategies to Overcome and Repair the 0X80072EFD Error in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-fix-windows-update-error-code-0x80240017/"><u>Effective Solutions to Fix Windows Update Error Code 0X80240017</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723003591573-evil-genius-2-wont-open-discover-proven-methods-to-get-it-up-and-running-again/"><u>Evil Genius 2 Won't Open? Discover Proven Methods to Get It Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-for-diagnosing-and-fixing-the-livekernelevent-error-117-problem/"><u>Expert Strategies for Diagnosing and Fixing the LiveKernelEvent Error 117 Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-651-in-windows-easily/"><u>How to Fix Error 651 in Windows. Easily!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-logitech-extreme-3d-pro-driver-upgrade-a-step-by-step-guide/"><u>How to Install the Latest Logitech Extreme 3D Pro Driver Upgrade: A Step-by-Step Guide |</u></a></li>
+<li><a href="https://common-error.techidaily.com/icue-troubleshooting-guide-overcoming-the-device-not-found-problem/"><u>ICUE Troubleshooting Guide: Overcoming the 'Device Not Found' Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pubg-loading-woes-tips-for-full-building-rendering/"><u>Mastering PUBG Loading Woes: Tips for Full Building Rendering</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208720130-ps4-controller-not-charging-heres-how-to-get-it-working-again/"><u>PS4 Controller Not Charging? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-the-battery-not-found-issue-on-your-device/"><u>Quick Solutions for the 'Battery Not Found' Issue on Your Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/securing-amd-radeon-r9-performance-on-win11/"><u>Securing AMD Radeon R9 Performance on Win11</u></a></li>
+</ul></div>
 

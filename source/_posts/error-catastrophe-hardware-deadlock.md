@@ -1,7 +1,7 @@
 ---
 title: "Error Catastrophe: Hardware Deadlock"
-date: 2025-01-25T20:59:47.955Z
-updated: 2025-01-29T21:02:59.357Z
+date: 2025-02-08T18:09:10.414Z
+updated: 2025-02-11T08:41:30.151Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before you start
 
  Before you try any method listed below, make sure that your PC meets the minimum requirements for Volarant.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 | **Processor**        | Intel Core 2 DUO E8400    |
 | **Memory**           | 4 GB RAM                  |
 | **Graphics Card**    | Intel HD 4000             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust the display resolution and refresh rate
 
  If screen tearing keeps occurring, it’s possible that your display resolution is configured to a higher point than what your monitor can handle. Adjusting it might help you fix the issue.
@@ -62,19 +66,15 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/search-box-resolution.jpg)
 2. Scroll down to the end and select**Advanced display settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-dis-settings.jpg)
 4. On the Adapter tab, click**List All Modes** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/display-adapter.jpg)
 5. A list of different resolutions will show on the screen. Select one according to your hardware specifications.  
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
  Restart your PC after each time you change the settings and see if screen tearing still appears.
 
 If the problem persists, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Disable Game Mode and fullscreen optimizations**
 
@@ -114,19 +118,11 @@ if it is not helping, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/runcommand-power.jpg)
 2. In the Power Options menu, click the**Show additional plans** arrow and select**High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/power-high-perform.jpg)
 
 Restart your PC and check if anything changes.
 
 If nothing changes, you might need to check your graphic drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4:**Update graphic drivers**
 
@@ -143,10 +139,6 @@ If nothing changes, you might need to check your graphic drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  If you don’t want to pay for it, you can also download all the drivers with the[**free version**](https://tools.techidaily.com/drivereasy/download/) . You just have to download one at a time, and install them manually.
@@ -156,7 +148,7 @@ If nothing changes, you might need to check your graphic drivers.
 If it doesn’t do the trick, simply move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5:**Turn on VSync**
@@ -171,6 +163,10 @@ If it doesn’t do the trick, simply move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Setting Vertical sync to**Adaptive** might also be efficient, according to some players.
 
  **For AMD users, the feature is called Wait for Vertical Refresh:**
@@ -182,12 +178,24 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click**Always on** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
 
  To enable VSync in Valorant, go to**Settings** \>**VIDEO** \>**GRAPHICS QUALITY** , and set VSync to**ON** :  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-vsync-on.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When VSync is on, you should turn off**Limit FPS Always** in Valorant, or the two settings might conflict with each other.
 
@@ -220,11 +228,11 @@ If it doesn’t help, move on to the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/adv-display-settings.jpg)
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
 **Now you can set the maximum frame rate.**
 
@@ -243,15 +251,7 @@ For AMD users:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Radeon Chill** . Enable it and move the Max FPS slider to your PC’s frame rate.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s pretty much all we have to fix Valorant screen tearing. If you have any better suggestions, don’t hesitate to share them in the comments below.
 
@@ -272,17 +272,20 @@ For AMD users:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elite-gaming-spectacle-cut-to-best-7-shooters/"><u>[New] In 2024, Elite Gaming Spectacle Cut to Best 7 Shooters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expertise-on-crafting-premium-webcam-footage/"><u>[Updated] 2024 Approved Expertise on Crafting Premium Webcam Footage</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ace-the-hd-audiovideo-experience-in-android/"><u>[Updated] Ace the HD Audio/Video Experience in Android</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tech-horizons-in-contrast-vr-vs-augmented-reality-and-mr/"><u>[Updated] Tech Horizons in Contrast VR Vs. Augmented Reality and MR</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-to-resolve-the-semaphore-timeout-expiration-issue-error-code-0x80070079/"><u>Complete Guide to Resolve the Semaphore Timeout Expiration Issue - Error Code 0X80070079</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211576660-easy-solutions-for-when-your-device-says-theres-no-battery-fix-now/"><u>Easy Solutions for When Your Device Says There's No Battery – Fix Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-how-to-eliminate-persistent-keyboard-lag/"><u>Fixing Windows 11: How to Eliminate Persistent Keyboard Lag</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s18-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo S18?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-low-fps-when-gaming-2024-tips/"><u>How to Fix Low FPS When Gaming – 2024 Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-aoc-screen-display-problems-on-windows-11-pcs/"><u>How to Fix Your AOC Screen Display Problems on Windows 11 PCs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-audio-manipulation-in-canva-videos-for-2024/"><u>Mastering Audio Manipulation in Canva Videos for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-final-cut-pro-hacks-top-5-time-saving-editing-secrets-revealed/"><u>New In 2024, Final Cut Pro Hacks Top 5 Time-Saving Editing Secrets Revealed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-art-of-adding-emojis-to-youtube-comments/"><u>[New] 2024 Approved The Art of Adding Emojis to YouTube Comments</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-easy-technique-storing-tweet-videos-and-images-on-cellphone/"><u>[New] Easy Technique Storing Tweet Videos and Images on Cellphone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-insiders-blueprint-for-finding-hidden-youtube-files/"><u>[New] The Insider's Blueprint for Finding Hidden YouTube Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-duel-for-dominance-physical-vs-virtual-spectacle/"><u>2024 Approved Duel for Dominance Physical vs Virtual Spectacle</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/avoid-feed-overload-how-to-stop-followers/"><u>Avoid Feed Overload How to Stop Followers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conversational-couture-tailoring-pick-up-lines-in-spanish/"><u>Conversational Couture: Tailoring Pick-Up Lines in Spanish</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-the-freezing-problem-nier-rereplications-stable-gameplay-tips/"><u>End the Freezing Problem - NieR: ReReplication's Stable Gameplay Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-keyboard-malfunctions-5-easy-steps-to-restore-functionality/"><u>HP Keyboard Malfunctions? 5 Easy Steps to Restore Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024-updated-d-link-router-passwords-collection/"><u>July 2024 Updated D-Link Router Passwords Collection</u></a></li>
+<li><a href="https://common-error.techidaily.com/login-blues-overcoming-keyboard-errors-during-boot-process/"><u>Login Blues: Overcoming Keyboard Errors During Boot Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-solve-your-sims-4-launching-issues-today/"><u>Quick Guide: Solve Your Sims 4 Launching Issues Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-rpc-server-deserialization-error-on-your-windows-machine/"><u>Resolving the 'RPC Server Deserialization Error' On Your Windows Machine</u></a></li>
+<li><a href="https://article-tips.techidaily.com/sparks-last-stand-dji-mavic-air-emerges-as-gamers-choice-for-2024/"><u>Spark’s Last Stand? DJI Mavic Air Emerges as Gamer's Choice for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-user-privilege-issues-for-critical-operations-on-windows-versions/"><u>Troubleshooting User Privilege Issues for Critical Operations on Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/warframe-update-not-working-heres-how-you-can-successfully-retry-the-process/"><u>Warframe Update Not Working? Here's How You Can Successfully Retry the Process</u></a></li>
 </ul></div>
 

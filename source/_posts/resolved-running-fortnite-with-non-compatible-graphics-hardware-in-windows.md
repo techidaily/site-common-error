@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Running Fortnite with Non-Compatible Graphics Hardware in Windows"
-date: 2025-01-24T19:56:55.632Z
-updated: 2025-01-30T01:01:34.844Z
+date: 2025-02-05T04:09:11.565Z
+updated: 2025-02-10T16:13:34.870Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 4. **[Reset the camera app](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the System File Checker](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the Hardware and Devices Troubleshooter
 
  It’s always a wise choice to let Windows solve the problem automatically for you first. So be sure to run this in-built troubleshooter, and apply the fix if there are any. Here’s how:
@@ -50,9 +54,17 @@ msdt.exe -id DeviceDiagnostic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Apply this fix** when the troubleshooter finds a fix for you.
 
 ![apply a windows suggested fix](https://images.drivereasy.com/wp-content/uploads/2021/03/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5\. You may need to restart your PC for the changes to take full effect.
 
@@ -66,13 +78,13 @@ msdt.exe -id DeviceDiagnostic
 
 ![camera privacy settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Scroll down the settings page and make sure the toggle is set to**On** for Camera Access for this device and**Allow apps to access your camera** .
 
 ![allow camera access](https://images.drivereasy.com/wp-content/uploads/2021/03/image-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there’s nothing wrong with the privacy settings, but your camera error 0xa00f4292 still persists, you can try the next fix below.
 
@@ -96,10 +108,6 @@ msdt.exe -id DeviceDiagnostic
 
 ![update camera drivers](https://images.drivereasy.com/wp-content/uploads/2021/03/image-16.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the problem still persists, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -114,7 +122,7 @@ msdt.exe -id DeviceDiagnostic
 ![settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Select**Apps** .
@@ -130,14 +138,10 @@ msdt.exe -id DeviceDiagnostic
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may take about a few seconds to complete. Once the reset is done, check if the camera error 0xa00f4292 has been resolved by now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run the System File Checker
 
@@ -146,10 +150,6 @@ msdt.exe -id DeviceDiagnostic
  1\. Type**cmd** in the Windows Search bar, and select**Run as administrator** .
 
 ![command prompt](https://images.drivereasy.com/wp-content/uploads/2021/03/image-21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2\. Click**Yes** when prompted for consent.
 
@@ -184,20 +184,17 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-review-of-syma-x8c/"><u>[Updated] 2024 Approved Comprehensive Review of Syma X8C</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-your-mac-creating-captivating-style-videography/"><u>[Updated] 2024 Approved Mastering Your Mac Creating Captivating Style Videography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-guru-setup-opt-for-studio-or-beta-option/"><u>[Updated] 2024 Approved YouTube Guru Setup Opt for Studio or Beta Option</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-turn-your-tactical-talks-into-a-thriving-youtube-trade/"><u>[Updated] In 2024, Turn Your Tactical Talks Into a Thriving YouTube Trade</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastering-audio-recording-top-mics-for-4k-video/"><u>[Updated] Mastering Audio Recording - Top Mics for 4K Video</u></a></li>
-<li><a href="https://fox-search.techidaily.com/5lplusu5q2j44gv44km44gf44kk44oh44o844k444ov44kh44kk44or44gu44oh44oq44kk44k544g444gu44oe44km44oz44og44kj44oz44kw5pa55rov/"><u>修正されたイメージファイルのデバイスへのマウンティング方法</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-caching-fault-in-google-chrome-errcachemiss-explained/"><u>Comprehensive Fixes for the Caching Fault in Google Chrome - ERR_CACHE_MISS Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/downsize-provider-hosts-cpu-demand-on-win11-system/"><u>Downsize Provider Host's CPU Demand on Win11 System</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/efficiently-balancing-professional-commitments-and-creativity/"><u>Efficiently Balancing Professional Commitments & Creativity</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-netflix-blackout-solutions-to-get-your-streams-running-smoothly/"><u>Fixing the Netflix Blackout: Solutions to Get Your Streams Running Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-regaining-control-unlocking-your-windows-installation-drive/"><u>Guide to Regaining Control: Unlocking Your Windows Installation Drive</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fix-overcome-your-discord-setup-error-effortlessly/"><u>Quick Fix: Overcome Your Discord Setup Error Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-resolving-a-ce-34878-0-hangtag-error-on-ps4-systems/"><u>Successfully Resolving a CE-34878-0 Hangtag Error on PS4 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208642252-troubleshoot-your-unresponsive-logitech-keyboard-fast/"><u>Troubleshoot Your Unresponsive Logitech Keyboard Fast!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-corsair-hs50-headset-microphone/"><u>Troubleshooting Guide: How to Fix a Non-Functional Corsair HS50 Headset Microphone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-forum-film-replayer-for-2024/"><u>[New] Fb Forum Film Replayer for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/code-blocked-operation-on-hold/"><u>Code Blocked: Operation on Hold</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/come-trovare-e-ripristinare-la-partizione-nascosta-di-backup-su-windows-10-8-o-7/"><u>Come Trovare E Ripristinare La Partizione Nascosta Di Backup Su Windows 10, 8 O 7</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-downloader-essentials-the-best-tools-for-offline-viewing/"><u>In 2024, Downloader Essentials The Best Tools For Offline Viewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/nvidia-web-helper-no-disk-issue-comprehensive-solutions-and-fixes/"><u>Nvidia Web Helper 'No Disk' Issue: Comprehensive Solutions and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-graphic-glitches-in-valorant-a-step-by-step-fix-for-screen-anomalies/"><u>Overcome Graphic Glitches in VALORANT - A Step-by-Step Fix for Screen Anomalies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fix-for-mac-programs-that-refuse-to-launch-expert-tips-and-advice/"><u>Quick Fix for Mac Programs that Refuse to Launch: Expert Tips & Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-failed-creation-of-a-d3d-vertex-shader-context/"><u>Resolving Failed Creation of a D3D Vertex Shader Context</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10s-persistent-problem-unsuccessful-shutdown-followed-by-unexpected-reboot/"><u>Resolving Windows 10'S Persistent Problem: Unsuccessful Shutdown, Followed by Unexpected Reboot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sounds-in-battlefield-4-expert-tips-and-quick-fixes/"><u>Restore Sounds in Battlefield 4: Expert Tips & Quick Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/to-level-up-or-not-a-personal-dilemma-on-steam/"><u>To Level Up or Not: A Personal Dilemma on Steam</u></a></li>
+<li><a href="https://driver-download.techidaily.com/win-7-network-adapter-challenges-heres-how-you-can-resolve-them-easily/"><u>Win 7 Network Adapter Challenges? Here's How You Can Resolve Them Easily!</u></a></li>
 </ul></div>
 

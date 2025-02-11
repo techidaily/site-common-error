@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Solution: Repairing an Unresponsive Xbox Controller's Touchpad"
-date: 2024-09-13T19:19:03.297Z
-updated: 2024-09-20T16:38:47.289Z
+date: 2025-02-03T20:41:29.874Z
+updated: 2025-02-11T05:39:32.074Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 
  It’s a massive pain if your touchpad doesn’t respond when you scroll on it. Many people have experienced this issue. But don’t worry, it’s fixable. Here are some tips for you to fix your touchpad not working problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these tips
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 2. [**Enable two-finger scrolling**](#t2)
 3. [**Change your mouse pointer**](#t3)
 4. [**Update your touchpad driver**](#t4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 1: Enable your touchpad
 
@@ -46,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 2: Enable two-finger scrolling
 
@@ -88,20 +100,14 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -125,5 +131,23 @@ Hopefully, this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-investigating-prominently-displayed-youtube-comments/"><u>[New] 2024 Approved Investigating Prominently Displayed YouTube Comments</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-tools-seamless-extraction-of-vimeo-media-for-2024/"><u>[Updated] Efficient Tools Seamless Extraction of Vimeo Media for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-update-blues-fixing-error-code-0x8024002e-on-your-windows-system-solved/"><u>Beat the Update Blues: Fixing Error Code 0X8024002e on Your Windows System [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-overcoming-secure-socket-layer-ssl-issues-on-firefox-platforms/"><u>Expert Solutions for Overcoming Secure Socket Layer (SSL) Issues on Firefox Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-display-after-it-stops-responding-and-recovers/"><u>Expert Tips to Restore Display After It Stops Responding and Recovers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-zoom-microphone-working-again-tips-and-solutions-for-windows-1110-problem-solving/"><u>Get Your Zoom Microphone Working Again! Tips & Solutions for Windows 11/10 Problem-Solving</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-io-device-error/"><u>How to Fix an I/O Device Error</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-optimize-zoom-effectiveness-during-your-google-meet-for-2024/"><u>How to Optimize Zoom Effectiveness During Your Google Meet for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-p55t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel P55T Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-12-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus 12</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-g2-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo G2 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-speaking-gear-solutions-for-non-functional-mics-on-microsofts-latest-os/"><u>Revive Your Speaking Gear: Solutions for Non-Functional Mics on Microsoft's Latest OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-frozen-taskbar-on-windows-11/"><u>Top Solutions: Fixing the Frozen Taskbar on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-warframe-update-failed-error/"><u>Troubleshooting Steps for 'Warframe Update Failed' Error</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mobile-split-screen-mastery-top-video-apps/"><u>Updated Mobile Split Screen Mastery Top Video Apps</u></a></li>
+</ul></div>
 

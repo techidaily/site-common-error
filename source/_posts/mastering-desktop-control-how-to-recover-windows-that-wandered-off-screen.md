@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Control: How to Recover Windows That Wandered Off-Screen"
-date: 2025-01-24T16:44:48.594Z
-updated: 2025-01-29T20:16:29.842Z
+date: 2025-02-06T17:49:27.266Z
+updated: 2025-02-11T00:09:36.324Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these tips
@@ -49,27 +49,27 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -78,6 +78,10 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -88,10 +92,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -101,16 +101,8 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
@@ -120,7 +112,7 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
@@ -134,7 +126,15 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -177,19 +177,16 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-get-ahead-with-top-tier-premiere-pro-samples-free/"><u>[New] 2024 Approved Get Ahead with Top-Tier Premiere Pro Samples (Free)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid-for-2024/"><u>[New] Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android) for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unmatched-playwrights-arena/"><u>[New] In 2024, Unmatched Playwright's Arena</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-switching-picture-in-picture-on-macios-effortlessly-for-2024/"><u>[New] Switching Picture-in-Picture on Mac/iOS Effortlessly for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-to-pick-a-unique-name-for-youtube-channel-filmora/"><u>[Updated] How To Pick a Unique Name for YouTube Channel - Filmora</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-picks-of-the-year-premium-google-cardboard-vr-gaming/"><u>2024 Approved Picks of the Year Premium Google Cardboard VR Gaming</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/asus-data-recovery-recover-lost-data-from-asus-rog-phone-7-by-fonelab-android-recover-data/"><u>Asus Data Recovery – recover lost data from Asus ROG Phone 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-infinix-smart-8-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Smart 8 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211304830-mastering-airpod-connectivity-easy-steps-to-sync-with-windows-11-in-the-new-year/"><u>Mastering AirPod Connectivity: Easy Steps to Sync with Windows 11 in the New Year</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-microsofts-print-to-pdf-in-windows-10-and-11-environments/"><u>Overcoming Challenges with Microsoft's Print to PDF in Windows 10 and 11 Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-windows-11-system-restore-error-code-0x80070091-step-by-step-fix-guide/"><u>Resolve Windows 11 System Restore Error Code 0X80070091 – Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-port-reset-failure-of-an-unrecognized-usb-device-on-windows-11/"><u>Resolving the Port Reset Failure of an Unrecognized USB Device on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-correcting-device-not-found-or-invalid-file-path-on-pc/"><u>Step-by-Step Solution for Correcting 'Device Not Found or Invalid File Path' On PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-windows-11s-0x800705b4-update-issue-successfully/"><u>Troubleshooting and Solving Windows 11'S 0X800705b4 Update Issue Successfully</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-post-production-workflows-for-your-windows-10-setup/"><u>2024 Approved Streamlining Post-Production Workflows for Your Windows 10 Setup</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-12-mini-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 12 mini without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/best-practices-curbing-elevated-cpu-usage-with-windows-driver-foundation-fixes/"><u>Best Practices: Curbing Elevated CPU Usage with Windows Driver Foundation Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-both-webcam-and-monitor-live-feed-for-2024/"><u>Capturing Both Webcam & Monitor Live Feed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-writers-block-embrace-ai-innovations/"><u>Conquer Writer's Block: Embrace AI Innovations</u></a></li>
+<li><a href="https://common-error.techidaily.com/dota-2-change-rendering-api-error-2024-quick-fix/"><u>Dota 2 'Change Rendering API' Error 2024 [Quick Fix]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/getting-started-with-vlc-screen-recordings/"><u>Getting Started with VLC Screen Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capture-cinematic-motion-smear-in-adobe/"><u>In 2024, Capture Cinematic Motion Smear in Adobe</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-windows-update-failure-a-comprehensive-guide-to-correcting-error-0x8024402c/"><u>Tackling Windows Update Failure: A Comprehensive Guide to Correcting Error 0X8024402C</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-win10-users-rejoice-fixing-your-invisible-mouse-cursor-issue-today/"><u>Windows ([Win|10]) Users Rejoice! Fixing Your Invisible Mouse Cursor Issue Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-and-the-mystery-of-non-identified-usb-devices-fixing-port-reset-mishaps-easily/"><u>Windows 11 and the Mystery of Non-Identified USB Devices: Fixing Port Reset Mishaps Easily</u></a></li>
 </ul></div>
 

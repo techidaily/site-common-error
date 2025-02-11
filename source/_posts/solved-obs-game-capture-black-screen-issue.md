@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] OBS Game Capture Black Screen Issue"
-date: 2024-09-15T18:55:21.304Z
-updated: 2024-09-20T17:12:22.943Z
+date: 2025-02-07T02:35:34.286Z
+updated: 2025-02-11T06:13:42.026Z
 tags:
   - win11
   - win10
@@ -40,13 +40,25 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -62,16 +74,14 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -94,16 +104,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -137,5 +138,24 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhancing-profile-clips-for-impact/"><u>[New] 2024 Approved Enhancing Profile Clips for Impact</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-gaming-spaces-for-solo-play-in-apex-legends/"><u>[New] Top Gaming Spaces for Solo Play in Apex Legends</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-groundbreaking-14-animated-text-techniques/"><u>[Updated] Groundbreaking 14 Animated Text Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-selecting-androids-best-youtube-video-extractors-for-2024/"><u>[Updated] Selecting Android's Best YouTube Video Extractors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tips-for-effective-youtube-end-screen-usage/"><u>[Updated] Tips for Effective YouTube End Screen Usage</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-ways-to-repair-and-resolve-error-0xc0000098-on-your-pc-running-windows/"><u>Easy Ways to Repair and Resolve Error 0xC0000098 on Your PC Running Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/flix-fortune-hashtags-for-high-impact-low-length-video-content-for-2024/"><u>Flix Fortune Hashtags for High Impact, Low-Length Video Content for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-standard-to-spectacular-the-journey-with-vce-22/"><u>From Standard to Spectacular The Journey with VCE 2.2</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-keyboards-with-non-responsive-keys-expert-guide/"><u>How To Resolve Windows Keyboards With Non-Responsive Keys: Expert Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-comprehensive-fix-guide/"><u>Resolving the GeForce Experience Launch Problem: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-copy-and-paste-problems-for-smooth-operations/"><u>Resolving Windows 11 Copy and Paste Problems for Smooth Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-for-quickly-resolving-lagging-keyboard-responses/"><u>Simple Solutions for Quickly Resolving Lagging Keyboard Responses</u></a></li>
+<li><a href="https://common-error.techidaily.com/sync-your-xbox-one-controller-easily-with-this-simple-troubleshoot-tutorial/"><u>Sync Your Xbox One Controller Easily with This Simple Troubleshoot Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-handbrake-freezes-when-converting-multiple-files-on-desktop-systems/"><u>Troubleshooting Handbrake Freezes When Converting Multiple Files on Desktop Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/unblocking-a-restricted-boot-drive-solutions-for-windows-10-users/"><u>Unblocking a Restricted Boot Drive: Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-to-do-when-torrent-is-not-downloading/"><u>What to Do When Torrent Is Not Downloading</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Persistent 0X8024401C Windows Update Issue on Windows 10 & 11
-date: 2024-09-13T17:09:57.784Z
-updated: 2024-09-20T18:59:58.488Z
+date: 2025-02-09T23:10:09.362Z
+updated: 2025-02-10T17:40:07.123Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
  1) On your keyboard, press **the Windows logo key** and type **troubleshoot** . In the list of search results, select **Troubleshoot** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap828.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.
 
@@ -126,7 +130,15 @@ Dism /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try performing a Windows update to see if this fixes works. If this issue persists, try running the System File Checker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run System File Checker
 
@@ -141,6 +153,10 @@ sfc /scannow
 It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) When this command operation is completed, close **Command Prompt** .
 
@@ -172,13 +188,6 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -202,10 +211,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select   **Create installation media (USB flash drive, DVD, or ISO file) for another PC**  and click**Next** .
@@ -213,15 +219,16 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Select the language and architecture of your Windows 10 ISO file and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  If the installed memory of your PC is less than**4GB** , it’s recommended that you select the 32-bit architecture.
 
@@ -229,27 +236,17 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Select the location to save the Windows 10 ISO file. After that, the media creation tool will start to download **Windows 10 ISO file** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Click **Finish** to close the media creation tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-18.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Start updating
 
@@ -260,6 +257,10 @@ _You can do it for free if you like, but it’s partly manual._
  2) In the pop-up window, double-click the file**setup** .**exe** . You’ll be prompted for permission. Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) When you see the following window, select**Not right now** then click**Next** .
 
@@ -287,5 +288,26 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-discovering-the-power-of-fraps-in-video-capture/"><u>[New] 2024 Approved Discovering the Power of Fraps in Video Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-snapseed-101-easy-steps-to-photo-perfection/"><u>[New] 2024 Approved Snapseed 101 Easy Steps to Photo Perfection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>[New] Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-loop-video-magic-keep-your-followers-hooked-with-instagram-boomers/"><u>[Updated] In 2024, Loop Video Magic Keep Your Followers Hooked with Instagram Boomers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/a-step-by-step-guide-for-custom-discord-emoji-statuses/"><u>A Step-by-Step Guide for Custom Discord Emoji Statuses</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-samsung-tv-apps-features-functionality-and-tips-for-optimal-use/"><u>All About Samsung TV Apps: Features, Functionality, and Tips for Optimal Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-your-frame-rate-on-fallout-76-expert-fixes-to-combat-low-fps-issues/"><u>Boosting Your Frame Rate on Fallout 76: Expert Fixes to Combat Low FPS Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/hacked-out-the-launch-glitches-in-fortnite/"><u>Hacked Out the Launch Glitches in Fortnite</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-easily-troubleshoot-a-windows-update-that-wont-go-past-0/"><u>How to Easily Troubleshoot a Windows Update That Won't Go Past 0%</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-class-not-registered-errors-on-windows-10/"><u>How to Fix 'Class Not Registered' Errors on Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s24plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S24+ FRP Without Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-text-warping-techniques-in-photos-and-videos/"><u>Mastering Text Warping Techniques in Photos & Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210496398-simple-fixes-for-windows-11-users-struggling-with-the-disappearing-bluetooth-feature/"><u>Simple Fixes for Windows 11 Users Struggling with the Disappearing Bluetooth Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-disable-touchpad-sync-when-you-connect-an-external-mouse-in-windows-11/"><u>Step-by-Step: Disable Touchpad Sync when You Connect an External Mouse in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-destiny-2-solutions-when-the-game-server-wont-connect/"><u>Troubleshooting Destiny 2: Solutions When the Game Server Won't Connect</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-endless-stalling-during-valorant-startup-expert-advice/"><u>Troubleshooting Endless Stalling During Valorant Startup: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-lenovo-mouse-pad-solutions-for-windows-10-8-and-7-users/"><u>Troubleshooting Your Lenovo Mouse Pad: Solutions for Windows 10, 8, and 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/turn-up-the-volume-on-your-racing-experience-solutions-for-silent-playthroughs-in-forza-horizon-4/"><u>Turn Up the Volume on Your Racing Experience: Solutions for Silent Playthroughs in Forza Horizon 4</u></a></li>
+</ul></div>
 

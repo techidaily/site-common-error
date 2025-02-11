@@ -1,7 +1,7 @@
 ---
 title: Surface Pen Not Working [Solved]
-date: 2025-01-22T20:40:15.255Z
-updated: 2025-01-30T03:13:25.722Z
+date: 2025-02-06T00:26:22.173Z
+updated: 2025-02-10T17:11:29.105Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 3. **[Update your mouse and/or keyboard driver](#c)**
 4. **[Check for Windows Updates](#d)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the keyboard troubleshooter
 
  The keyboard troubleshooter is a built-in utility in Windows designed to identify and automatically rectify common keyboard or mouse errors. To use this troubleshooter, follow these steps:
@@ -49,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Wait for Windows to detect and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your pointer speed
 
@@ -69,24 +65,16 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-531.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Mouse** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-532-1024x753.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Check to see if your mouse can work properly now.
@@ -125,6 +113,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
@@ -133,6 +125,10 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for Windows Updates
 
  If none of the fixes above worked, updating your system is very likely the solution to your issue. In most cases, Windows updates can address bugs related to both hardware and software. Here is how to do it:
@@ -140,6 +136,10 @@ OR
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -171,16 +171,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/building-detailed-customer-archetypes-using-chatgpt-to-improve-interaction-quality/"><u>Building Detailed Customer Archetypes Using ChatGPT to Improve Interaction Quality</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-techniques-for-restoring-display-functionality-in-dell-laptops-affected-by-black-screens/"><u>DIY Repair Techniques for Restoring Display Functionality in Dell Laptops Affected by Black Screens</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/driver-not-found-windows-10-and-pixma-mp620-disconnect/"><u>Driver Not Found: Windows 10 and Pixma MP620 Disconnect</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-addressing-binkw32dll-file-absence-in-windows/"><u>Effective Solutions for Addressing binkw32.dll File Absence in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-11-installation-error-802-groove-guide-to-resolving-code-80240020/"><u>Fixing the Windows 11 Installation Error 802 Groove: Guide to Resolving Code 80240020</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-rapid-routines-transferring-iphone-content/"><u>In 2024, Rapid Routines Transferring iPhone Content</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-14-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 14</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ineteresourcenotfound-mistake-for-smoother-operations/"><u>Troubleshooting INET_E_RESOURCE_NOT_FOUND Mistake for Smoother Operations</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-issues-with-missing-pen-and-touch-support-on-your-screen/"><u>Troubleshooting: Fixing Issues with Missing Pen and Touch Support on Your Screen</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unleash-the-power-of-natural-and-artificentic-lights-on-iphone-for-2024/"><u>Unleash the Power of Natural and Artificentic Lights on iPhone for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-streamlined-web-application-creation-leveraging-chatgpt-technology/"><u>Unlocking Streamlined Web Application Creation: Leveraging ChatGPT Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>[New] Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-understanding-and-fixing-the-6ba-issue-in-windows-updates/"><u>1. Understanding and Fixing the 6BA Issue in Windows Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169904091-digital-discounts-on-xbox-series-xs-unlocked/"><u>Digital Discounts on Xbox Series X|S Unlocked</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-windows-store-cache-errors-expert-advice/"><u>How To Repair Your Windows Store Cache Errors – Expert Advice</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-unexpected-computer-shutdown-issues/"><u>Resolved: How to Fix Unexpected Computer Shutdown Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-dell-laptop-keyboard/"><u>Troubleshooting Guide: Fixing a Nonfunctional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/k-creative-potential-access-free-sfx/"><u>Unlock Creative Potential, Access Free SFX</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-10s-restart-riddle-expert-strategies-to-restore-stability/"><u>Winning Against Windows 10'S Restart Riddle: Expert Strategies to Restore Stability</u></a></li>
 </ul></div>
 

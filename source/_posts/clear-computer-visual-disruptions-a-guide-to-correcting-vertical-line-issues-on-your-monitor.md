@@ -1,7 +1,7 @@
 ---
 title: "Clear Computer Visual Disruptions: A Guide to Correcting Vertical Line Issues on Your Monitor"
-date: 2025-01-25T07:09:24.846Z
-updated: 2025-01-29T18:17:53.499Z
+date: 2025-02-08T02:08:04.199Z
+updated: 2025-02-10T21:31:05.285Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes For USB Keeps Disconnecting
 
  Here’re 4 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Do some basic troubleshooting
@@ -49,10 +45,6 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -78,6 +70,10 @@ To rule out this as a possibility:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Turn off USB selective suspend
 
  If your PC is configured to disable USB devices after a certain amount of time, you may have the USB keeps disconnecting problem.  
@@ -100,6 +96,10 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
@@ -112,25 +112,25 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -156,24 +156,24 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2023-facebook-short-videos-and-everything-about-them-for-2024/"><u>[New] 2023 | Facebook Short Videos and Everything About Them for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-harness-the-power-of-storytelling-making-captivating-reels-on-facebook/"><u>[New] In 2024, Harness the Power of Storytelling Making Captivating Reels on Facebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elevating-storytelling-voiceovers-as-a-central-element/"><u>[Updated] Elevating Storytelling Voiceovers as a Central Element</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-360-livestream-a-complete-comprehensive-guide-for-2024/"><u>[Updated] Facebook's 360 Livestream A Complete Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-stealthy-watcher-of-digital-tales/"><u>[Updated] Stealthy Watcher of Digital Tales</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-winter-wonderland-spins-and-jumps/"><u>2024 Approved Winter Wonderland Spins and Jumps</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-camera-malfunction-heres-how-to-solve-it-on-windows-computers/"><u>Dell Camera Malfunction? Here's How to Solve It on Windows Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/detecting-issues-why-cant-i-find-wd-my-passport-ultra-drive-in-windows/"><u>Detecting Issues: Why Can't I Find WD My Passport Ultra Drive in Windows?</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-fix-windows-cannot-find-playable-files-in-media-player-tips-and-tricks/"><u>Diagnose & Fix 'Windows Cannot Find Playable Files' In Media Player – Tips & Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-brother-hl-2280dw-printer-driver-for-windows-11-10-8-and-7-free/"><u>Download Brother HL-2280DW Printer Driver for Windows 11, 10, 8 & 7 - Free</u></a></li>
-<li><a href="https://discover-data.techidaily.com/effortless-methods-for-retrieving-lost-data-from-your-iphone/"><u>Effortless Methods for Retrieving Lost Data From Your iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-dealing-with-invalid-parameter-notifications/"><u>Expert Advice on Dealing with Invalid Parameter Notifications</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-vanishing-mouse-pointer-issue-in-windows-10-a-step-by-step-guide/"><u>Fixing the Vanishing Mouse Pointer Issue in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/scholarly-screening-top-10-educational-equipment-to-preserve-lectures/"><u>Scholarly Screening Top 10 Educational Equipment to Preserve Lectures</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-your-dvd-player-fails-in-windows/"><u>Step-by-Step Solutions When Your DVD Player Fails in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-tutorial-how-to-update-your-intel-chipset-drivers-for-windows-systems/"><u>Step-by-Step Tutorial: How To Update Your Intel Chipset Drivers For Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-volume-is-dirty-warning-error-0x80071ac3-in-windows-systems/"><u>The Ultimate Fix for the Volume Is Dirty Warning (Error 0X80071AC3) in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-your-chromecast-easy-tips-to-establish-a-stable-connection/"><u>Trouble With Your Chromecast? Easy Tips to Establish a Stable Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-required-how-to-match-your-monitors-capabilities-with-your-computers-output-settings/"><u>Update Required: How to Match Your Monitor's Capabilities with Your Computer's Output Settings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-chroma-control-made-simple-with-these-11-expert-tips/"><u>[New] 2024 Approved Chroma Control Made Simple with These 11 Expert Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/udience-appeal-the-ultimate-guide-to-youtube-video-formats/"><u>[New] Audience Appeal The Ultimate Guide to YouTube Video Formats</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-harmonious-hub-choosing-the-best-free-apps-for-your-youtube-music-streams/"><u>[New] In 2024, Harmonious Hub Choosing the Best Free Apps for Your YouTube Music Streams</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-your-pc-gameplay-mastering-windows-11-performance-enhancements/"><u>Boost Your PC Gameplay: Mastering Windows 11 Performance Enhancements</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-your-computer-struggles-with-memory-in-windows-11/"><u>Effective Solutions for When Your Computer Struggles with Memory in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-a-non-functional-shift-key-successful-strategies-inside/"><u>Expert Advice on Repairing a Non-Functional Shift Key: Successful Strategies Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-how-to-resolve-the-silent-gameplay-issue-in-forza-horizon-4/"><u>Fixed: How to Resolve the Silent Gameplay Issue in Forza Horizon 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-resolve-microsoft-windows-camera-error-0xa00f4292/"><u>Fixing the Issue: Resolve Microsoft Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-a-graphics-driver-upgrade-restored-your-devices-miracast-capabilities-successfully/"><u>How a Graphics Driver Upgrade Restored Your Device's Miracast Capabilities Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-frequent-usb-connection-drops-and-keep-your-device-hooked-up/"><u>How to Address Frequent USB Connection Drops and Keep Your Device Hooked Up</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nokia-c12-plus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nokia C12 Plus Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-teredo-cannot-establish-connection-error/"><u>How to Fix 'Teredo Cannot Establish Connection' Error</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-becoming-a-pro-in-lut-creation/"><u>In 2024, Becoming a Pro in LUT Creation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-x90smirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo X90SMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photoshop-path-to-painting-perfect-colors-for-2024/"><u>Photoshop Path to Painting-Perfect Colors for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/polar-pinnacles-beijing-2022-olympic-spotlight-for-2024/"><u>Polar Pinnacles Beijing 2022 Olympic Spotlight for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-overcoming-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Overcoming Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-solving-2022-issues-with-sluggish-spotify-web-player-performance/"><u>Troubleshooting: Solving 2022 Issues with Sluggish Spotify Web Player Performance</u></a></li>
 </ul></div>
 

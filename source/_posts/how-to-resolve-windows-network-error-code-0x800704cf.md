@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows Network Error Code 0X800704CF
-date: 2024-09-18T18:22:51.753Z
-updated: 2024-09-20T17:01:17.830Z
+date: 2025-02-09T03:35:38.783Z
+updated: 2025-02-11T04:49:04.203Z
 tags:
   - win11
   - win10
@@ -80,9 +80,18 @@ net start cryptsvc
 8. Double click**DisableWindowsUpdateAccess** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Perform a clean boot
 
@@ -93,8 +102,18 @@ To do so:
 1. Press the**Windows log key** and**R** on your keyboard to invoke the Run dialog.
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
 7. Click**Restart** .  
@@ -104,13 +123,33 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 11. Click**Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 16. Click**OK** and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
@@ -135,12 +174,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tricks-to-improve-mobile-streaming-quality-on-chrome-browser/"><u>[New] 2024 Approved Tricks to Improve Mobile Streaming Quality on Chrome Browser</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-use-picture-in-picture-mode-on-youtube-ios/"><u>[New] How to Use Picture-In-Picture Mode on YouTube (iOS)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-operational-status-achieved-cameras-ready/"><u>[Updated] Operational Status Achieved - Cameras Ready</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-premieres-role-in-your-youtube-creation-process/"><u>2024 Approved Premiere's Role in Your YouTube Creation Process</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spotlight-podcast-in-one-ig-swipe/"><u>2024 Approved Spotlight Podcast in One IG Swipe</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211671450-airpods-wont-pair-with-windows-11-master-the-fixes-you-need/"><u>AirPods Won't Pair with Windows 11? Master the Fixes You Need</u></a></li>
+<li><a href="https://common-error.techidaily.com/battleye-setup-successfully-resolved-ensure-smooth-integration-in-games/"><u>BattlEye Setup Successfully Resolved – Ensure Smooth Integration in Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-hurdle-detailed-instructions-to-fix-error-0x800f081f-on-net-framework-v35-installation/"><u>Bypassing the Hurdle: Detailed Instructions to Fix Error 0X800F081F on .NET Framework v3.5 Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-walkthrough-for-enabling-your-windows-update-service-when-it-stops-working/"><u>Complete Walkthrough for Enabling Your Windows Update Service When It Stops Working</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-steps-for-fixing-the-gtx-950-code-43-error-on-windows-11-a-users-manual/"><u>Comprehensive Steps for Fixing the GTX 950 Code 43 Error on Windows 11 - A User’s Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-cyclic-redundancy-check-failures-in-your-system/"><u>How to Resolve Cyclic Redundancy Check Failures in Your System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-the-cause-of-excessive-network-activity-in-svchostexe-services-host/"><u>Identifying the Cause of Excessive Network Activity in svchost.exe (Services Host)</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-technique-fixing-and-preventing-the-0x80072fed-error-in-windows-10-devices/"><u>Master the Technique: Fixing and Preventing the 0X80072FED Error in Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-system-errors-with-this-critical-media-driver-update/"><u>Resolve Your System Errors with This Critical Media Driver Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-overcome-the-configuring-windows-hangaroo-scenario-easily/"><u>Solution Found: Overcome the 'Configuring Windows' Hangaroo Scenario Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-tips-for-resolving-windows-11s-black-display-problem/"><u>Solving the Dilemma: Effective Tips for Resolving Windows 11'S Black Display Problem</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/arning-equation-on-youtube-daily-average-from-adsense-payouts-per-k-views/"><u>The Earning Equation on YouTube Daily Average From AdSense Payouts Per K Views</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-wacoms-power-free-secure-driver-for-windows-pc/"><u>Unlock Wacom's Power - Free, Secure Driver for Windows PC</u></a></li>
+</ul></div>
 

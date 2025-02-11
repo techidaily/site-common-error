@@ -1,7 +1,7 @@
 ---
 title: Resolved! Why Are My Desktop Icons Gone on Windows 10 & How to Fix Them Back
-date: 2024-09-14T17:25:17.614Z
-updated: 2024-09-20T16:51:58.703Z
+date: 2025-02-07T03:52:47.497Z
+updated: 2025-02-10T19:42:04.016Z
 tags:
   - win11
   - win10
@@ -49,14 +49,27 @@ After that, you can go ahead and try the methods below.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ef40fe26ba.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)**  Select**Windows 10** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ef7ae0f0f7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** Automatic Repair will begin immediately. Wait till the process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ef84e8e8d9.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2) Run system check command lines
 
  If Automatic Repair does not solve your problem, you may need to try**Command Prompt** . Some commands in Command Prompt can help you reset boot configurations and then repair your computer.
@@ -67,6 +80,10 @@ After that, you can go ahead and try the methods below.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595efba62ceea.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Type the following lines and press enter after each line.
 
 _**bootrec /fixmbr**_
@@ -76,6 +93,11 @@ _**bootrec /rebuildbcd**_
 
 **d) Exit** Command Prompt and**restart** your computer. Check and see if your computer can boot normally.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3) Reinstall your Windows
 
  If you still cannot resolve the restart loop, it is possible that something is going wrong with your system. A reinstallation of your Windows can help you get everything back to normal.
@@ -103,12 +125,23 @@ _**bootrec /rebuildbcd**_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-complete-guide-to-inverted-footage-in-instagram-for-2024/"><u>[Updated] The Complete Guide to Inverted Footage in Instagram for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-simple-cuts-deep-insights-into-vidas-editing-power/"><u>2024 Approved Beyond Simple Cuts Deep Insights Into Vida’s Editing Power</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts/"><u>2024 Approved The Blueprint for Successful Biographies Top Tips & Techniques From Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-the-endless-cycle-of-window-10-automatic-reinstalls-a-user-friendly-guide/"><u>Banish the Endless Cycle of Window 10 Automatic Reinstalls: A User-Friendly Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/bitlocker-entsperren-losungen-fur-die-windows-10-decrypting-problematik/"><u>BitLocker Entsperren - Lösungen Für Die Windows 10 Decrypting Problematik</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-correct-the-could-not-start-service-windows-resource-protection-problem/"><u>Effective Ways to Correct the 'Could Not Start Service: Windows Resource Protection' Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-undetectedmissing-os-essential-tech-tips/"><u>How to Fix an Undetected/Missing OS – Essential Tech Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-unsupported-os-message-avoid-setup-termination/"><u>How to Resolve 'Unsupported OS' Message - Avoid Setup Termination</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-auto-brightness-functionality-on-iphones-with-these-7-tips/"><u>How to Restore Auto-Brightness Functionality on iPhones with These 7 Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-honor-magic-6-pro-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/proven-fixes-to-restore-wi-fi-connectivity-on-your-iphone-quickly/"><u>Proven Fixes to Restore Wi-Fi Connectivity on Your iPhone Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-user-account-control-prompt-operation-requires-administrator-level-issue-on-your-windows-machine/"><u>Solve the 'User Account Control Prompt: Operation Requires Administrator Level' Issue on Your Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-compatible-gpus-with-fortnite-gameplay-on-windows/"><u>Troubleshooting Steps for Compatible GPUs with Fortnite Gameplay on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-non-responsive-spacebar-issue-on-windows-11/"><u>Troubleshooting Tips: Fixing the Non-Responsive Spacebar Issue on Windows 11</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/verlorene-sicherheitsmassnahmen-was-tun-wenn-sie-wiederherstellungspunkte-in-windows-10-unwiderruflich-entfernen/"><u>Verlorene Sicherheitsmaßnahmen: Was Tun, Wenn Sie Wiederherstellungspunkte in Windows 10 Unwiderruflich Entfernen</u></a></li>
+</ul></div>
 

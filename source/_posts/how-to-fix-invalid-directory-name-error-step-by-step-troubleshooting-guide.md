@@ -1,7 +1,7 @@
 ---
 title: "How to Fix 'Invalid Directory Name' Error: Step-by-Step Troubleshooting Guide"
-date: 2024-09-18T16:31:00.573Z
-updated: 2024-09-20T18:08:20.442Z
+date: 2025-02-06T16:14:02.698Z
+updated: 2025-02-11T03:19:49.905Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
@@ -47,6 +51,10 @@ Here’s how to do it:
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -76,28 +84,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
@@ -131,5 +139,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-2022-ice-dancing-showcase-review/"><u>2024 Approved 2022 Ice Dancing Showcase Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-join-an-existing-zoom-call-effortlessly-android-style/"><u>2024 Approved How to Join an Existing Zoom Call Effortlessly (Android Style)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-sleuths-alliance-navigate-through-4-interactive-virtual-games/"><u>AI Sleuths Alliance: Navigate Through 4 Interactive Virtual Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-werfaultexe-errors-a-comprehensive-guide-for-windows-users/"><u>Bypassing WerFault.exe Errors: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-electric-overload-in-connector-points/"><u>Fixed: Electric Overload in Connector Points</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-no-signal-or-missing-picture-display-on-your-screen-a-comprehensive-guide/"><u>How to Repair 'No Signal' Or Missing Picture Display on Your Screen - A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-extra-memory-for-sony-a7c-model/"><u>In 2024, Ideal Extra Memory for Sony A7C Model</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205367932-microsoft-store-problems-heres-the-guide-to-get-it-working-again/"><u>Microsoft Store Problems? Here’s the Guide to Get It Working Again</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-trasforma-immagini-pgm-in-formato-tiff-gratuito-direttamente-sul-tuo-browser/"><u>Movavi: Trasforma Immagini PGM in Formato TIFF Gratuito Direttamente Sul Tuo Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connection-problems-a-guide-to-solving-twitch-error-4000/"><u>Overcoming Connection Problems: A Guide to Solving Twitch Error 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-stop-your-pc-from-falling-asleep-unexpectedly/"><u>Quick Solutions: Stop Your PC From Falling Asleep Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-reappearing-desktop-icons-in-windows-11-a-comprehensive-tutorial/"><u>Solving the Puzzle: Reappearing Desktop Icons in Windows 11 – A Comprehensive Tutorial</u></a></li>
+</ul></div>
 

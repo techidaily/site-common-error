@@ -1,7 +1,7 @@
 ---
 title: "Getting Brightness Back: Overcoming Windows 10'S Screen Setting Glitches"
-date: 2024-09-08T20:19:22.532Z
-updated: 2024-09-15T02:42:40.104Z
+date: 2025-02-06T23:34:16.375Z
+updated: 2025-02-11T05:53:12.367Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
 
@@ -63,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
@@ -74,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
 
@@ -89,9 +105,17 @@ To resolve this error, you can try the methods below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
 
@@ -118,6 +142,10 @@ To resolve this error, you can try the methods below.
  And then in the dialog popping up, click the**System Restore** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
@@ -180,12 +208,26 @@ bootrec /rebuildbcd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-bridging-the-gap-between-facebook-videos-and-apple-tv-compatibility-for-2024/"><u>[Updated] Bridging the Gap Between Facebook Videos and Apple TV Compatibility for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hacking-htc-vive-for-a-nausea-free-session/"><u>[Updated] Hacking HTC Vive for a Nausea-Free Session</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-sound-reconstruction-with-ffmpeg-preserving-format-integrity/"><u>2024 Approved Sound Reconstruction with FFmpeg Preserving Format Integrity</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-crystal-clear-voice-on-your-console/"><u>Bring Back Crystal-Clear Voice on Your Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-fixing-the-missing-driver-error-on-windows-7-a-clear-easy-guide/"><u>Expert Tips: Fixing the Missing Driver Error on Windows 7 – A Clear, Easy Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-kernel32dll-glitches-in-win/"><u>Fix Kernel32.dll Glitches in Win</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-and-optimize-svchostexes-high-resource-consumption-in-windows-10/"><u>How to Fix and Optimize svchost.exe's High Resource Consumption in Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-v30-lite-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo V30 Lite 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-compact-cinematic-story-guide/"><u>In 2024, Compact Cinematic Story Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-c110mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia C110Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mastering-titles-in-fcpx-essential-skills-for-video-editors/"><u>In 2024, Mastering Titles in FCPX Essential Skills for Video Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-ai-for-enhanced-player-experiences-in-games/"><u>Leveraging AI for Enhanced Player Experiences in Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-multiplayer-woes-heres-how-to-get-your-lan-up-and-running/"><u>Minecraft Multiplayer Woes? Here's How to Get Your LAN Up and Running</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-tips-for-stable-win11-computing/"><u>Quick Tips for Stable Win11 Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/sacred-texts/"><u>Sacred Texts</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204241687-step-by-step-fixes-for-windows-error-651-no-hassle/"><u>Step-by-Step Fixes for Windows Error 651 - No Hassle</u></a></li>
+<li><a href="https://common-error.techidaily.com/swiftly-addressing-failure-to-respond-on-start-or-control-commands-system-service-error-1053/"><u>Swiftly Addressing Failure to Respond on Start or Control Commands (System Service Error 1053)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-module-issue-in-your-software/"><u>Troubleshooting the Missing Module Issue in Your Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-seamless-storytelling-top-10-premiere-pro-transition-effects-for-2024/"><u>Updated Seamless Storytelling Top 10 Premiere Pro Transition Effects for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Solutions: Making Your HP Laptop's Malfunctioning USB Port Functional Once More"
-date: 2025-01-24T21:51:29.449Z
-updated: 2025-01-30T06:55:23.499Z
+date: 2025-02-04T18:04:49.730Z
+updated: 2025-02-11T09:18:53.322Z
 tags:
   - win11
   - win10
@@ -41,17 +41,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -60,6 +52,10 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -74,11 +70,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -99,19 +99,19 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
@@ -150,24 +150,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-instagram-guide-to-uploading-podcast-episodes/"><u>[New] Instagram Guide to Uploading Podcast Episodes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>[New] The Ultimate List of Engaging History Content on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-systems-turning-images-into-dynamic-videos/"><u>[Updated] Expert Systems Turning Images Into Dynamic Videos</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/convert-your-pdfs-to-jpg-images-at-no-cost-free-online-tool-flipbuildercom/"><u>Convert Your PDFs to JPG Images at No Cost - Free Online Tool [FlipBuilder.com]</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-how-to-restore-and-repair-your-windows-10-bluetooth-connection/"><u>Effortless Solutions: How to Restore and Repair Your Windows 10 Bluetooth Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-screen-blink-issue-on-windows-10/"><u>Fixing the Screen Blink Issue on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-keyboards-that-wont-type-in-windows-1178/"><u>How to Repair Keyboards That Won't Type in Windows [11/7/8]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-connections-in-windows-media-player-a-comprehve-solution/"><u>How to Restore Connections in Windows Media Player: A Comprehve Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y200e-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y200e 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-90-lite-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor 90 Lite Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-guide-to-best-android-video-capture-software-5/"><u>In 2024, Ultimate Guide to Best Android Video Capture Software #5</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-unveiling-the-secrets-to-thriving-with-youtube-adsense/"><u>In 2024, Unveiling the Secrets to Thriving With YouTube AdSense</u></a></li>
-<li><a href="https://common-error.techidaily.com/microsoft-wireless-display-adapter-wont-connect-on-windows-10-solved/"><u>Microsoft Wireless Display Adapter Won't Connect on Windows 10 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-disruption-resolving-the-hamachi-service-error-once-and-for-all/"><u>Overcoming Disruption: Resolving the Hamachi Service Error Once and For All</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-picks-experts-choice-of-4k-dslr-rigs-for-2024/"><u>Prime Picks Expert's Choice of 4K DSLR Rigs for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/recover-lost-desktop-icons-in-windows-11-effective-troubleshooting-steps/"><u>Recover Lost Desktop Icons in Windows 11: Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-a-faulty-screen-touch-response-in-windows-11/"><u>Step-by-Step Guide: Repairing a Faulty Screen Touch Response in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-to-recognize-a-non-detected-flash-drive/"><u>Step-by-Step Tutorial to Recognize a Non-Detected Flash Drive</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-strategies-for-improving-your-interview-prowess/"><u>[New] Strategies for Improving Your Interview Prowess</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-auditory-explorers-manual-crafting-unique-sounds-and-ringtones-for-android-users/"><u>[Updated] 2024 Approved The Auditory Explorer's Manual Crafting Unique Sounds & Ringtones for Android Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-youtube-to-mp4-get-free-hd1080p-from-facebook-vids/"><u>[Updated] In 2024, YouTube-to-MP4 Get Free HD/1080P From Facebook Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimizing-video-sequences-blend-modes-application/"><u>[Updated] Optimizing Video Sequences Blend Modes Application</u></a></li>
+<li><a href="https://common-error.techidaily.com/6-proven-ways-to-address-and-repair-werfaultexe-application-failures-in-windows/"><u>6 Proven Ways to Address and Repair werFault.exe Application Failures in Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/guide-to-overcoming-blackout-in-obs-fullscreen-for-2024/"><u>Guide to Overcoming Blackout in OBS Fullscreen for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-overloading-your-cpu-on-windows-11-solved/"><u>How to Fix MsMpEng.exe Overloading Your CPU on Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-captivating-creations-utilizing-motion-blur-effects-in-ai/"><u>In 2024, Captivating Creations Utilizing Motion Blur Effects in AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212219523-lsa-safety-measures-fully-operational-again-secure-your-system-now/"><u>LSA Safety Measures Fully Operational Again - Secure Your System Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-diagnosing-and-resolving-fn-key-malfunctions-on-a-dell-device/"><u>Master the Art of Diagnosing and Resolving FN Key Malfunctions on a Dell Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/nba-2k21-green-error-patched-and-solutions-unveiled/"><u>NBA 2K21 Green Error Patched and Solutions Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/out-of-service-blizzard-unavailable/"><u>Out Of Service: Blizzard Unavailable</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-io-hardware-malfunctions-a-step-by-step-guide/"><u>Resolving I/O Hardware Malfunctions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-when-your-admin-profile-fails-to-run-an-application/"><u>Troubleshooting Steps for When Your Admin Profile Fails to Run an Application</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-installation-hurdles-with-error-code-0x800f081f-for-net-framework-35/"><u>Troubleshooting Tips: Overcoming Installation Hurdles with Error Code 0X800F081F for .NET Framework 3.5</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleash-youtube-potential-with-smart-tags-and-titles/"><u>Unleash YouTube Potential with Smart Tags and Titles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-is-my-atom-heart-application-failing-at-launch/"><u>Why Is My Atom Heart Application Failing at Launch?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-download-a-chatgpt-mobile-app/"><u>Why You Shouldn't Download a ChatGPT Mobile App</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows Updates Stalled on 99 or 100%% - Solved!
-date: 2024-09-12T01:52:44.179Z
-updated: 2024-09-15T11:20:04.392Z
+date: 2025-02-07T07:43:10.103Z
+updated: 2025-02-10T17:37:18.996Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
  If you still cannot access the desktop, you can try starting your PC in safe mode with the network. When you sign into your Windows system in safe mode with the network, try the next fix below to run the Windows Update troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Windows Update troubleshooter
 
  Windows Update troubleshooter is a built-in tool that can help you analyze and resolve issues related to Windows updates. Try running Windows Update troubleshooter to see if you can resolve this issue. Here is how to do it:
@@ -67,23 +60,15 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 1. On your keyboard, press **the Windows logo key** and type **troubleshoot** . In the list of search results, select **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap465-1.png)
 2. In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### If you’re using Windows 11
 
@@ -92,25 +77,20 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
-![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
+
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset Windows Update components
 
@@ -119,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -156,13 +140,14 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
@@ -175,6 +160,10 @@ Now, you can follow the steps below to download Windows updates manually:
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 
@@ -209,5 +198,26 @@ Now, you can follow the steps below to download Windows updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/he-comprehensive-guide-to-creating-movies-not-just-youtube-for-2024/"><u>[New] The Comprehensive Guide to Creating Movies, Not Just YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-spotifys-ad-landscape-a-comprehensive-guide/"><u>[Updated] 2024 Approved Mastering Spotify's Ad Landscape A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-skype-record-simplified-techniques-for-dual-os-recording-for-2024/"><u>[Updated] Skype Record Simplified Techniques for Dual OS Recording for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-of-single-stream-success-online-broadcast-tips-and-tricks/"><u>2024 Approved Secrets of Single-Stream Success Online Broadcast Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/crack-the-code-on-fixing-0x80705b4-issue-in-windows-11-updates-expert-tips-and-tricks/"><u>Crack the Code on Fixing 0X80#705b4 Issue in Windows 11 Updates: Expert Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-keyboards-missing-letters-back-on-track-for-windows-10-and-11-users/"><u>Expert Tips to Get Your Keyboard's Missing Letters Back on Track for WINDOWS 10 & 11 Users!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-stability-guide-eliminating-tribes-of-midgard-performance-problems-and-crashes/"><u>Game Stability Guide: Eliminating 'Tribes of Midgard' Performance Problems and Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restoring-your-computers-graphics-capabilities-after-d3derr-failure/"><u>Guide: Restoring Your Computer's Graphics Capabilities After D3DERR Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-frozen-computer/"><u>How to Fix a Frozen Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seo-secrets-unveiled-a-comprehensive-guide-to-boosting-podcast-rankings/"><u>In 2024, SEO Secrets Unveiled A Comprehensive Guide to Boosting Podcast Rankings</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-failures-in-windows-systems-quick-fixes-for-win-11-8-and-tbd/"><u>Lenovo Mouse Pad Failures in Windows Systems: Quick Fixes for Win 11, 8 & Tbd</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-glitches-with-two-finger-scroll-feature-expert-fixes-revealed/"><u>Overcoming Glitches with Two Finger Scroll Feature - Expert Fixes Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-wireless-display-adapter-connections-errors-on-windows-11-systems/"><u>Resolving Microsoft Wireless Display Adapter Connections Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722984262540-resolving-pc-issues-no-more-spellblock-stop-spellbreak-crashes-now/"><u>Resolving PC Issues: No More Spellblock - Stop Spellbreak Crashes Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-admin-account-access-issue-app-wont-launch-problem/"><u>Resolving the 'Admin Account Access Issue: App Won't Launch' Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/syncing-valorant-gameplay-post-restart/"><u>Syncing Valorant Gameplay Post-Restart</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-svchostexes-overuse-of-resources-on-windows-10-computers/"><u>Troubleshooting & Fixing svchost.exe's Overuse of Resources on Windows 10 Computers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-critical-system-error-0x0000009f-in-windows/"><u>Understanding and Repairing Critical System Error 0X0000009F in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-potential-7-pioneering-ai-approaches/"><u>Unlocking Potential: 7 Pioneering AI Approaches</u></a></li>
+</ul></div>
 

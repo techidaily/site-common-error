@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Diagnose and Repair 'LiveKernelEvent 117' Mishaps Efficiently
-date: 2024-09-13T11:05:59.056Z
-updated: 2024-09-14T21:19:55.111Z
+date: 2025-02-09T07:51:00.815Z
+updated: 2025-02-10T21:12:34.535Z
 tags:
   - win11
   - win10
@@ -48,15 +48,35 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click**Change adapter** **settings** on the left.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
@@ -69,29 +89,16 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
@@ -131,5 +138,22 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-zombification-extravaganza-8-epic-titles-ranked/"><u>[New] Zombification Extravaganza - 8 Epic Titles Ranked</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-compreeved-guide-youtube-to-mp3mpeg-transcoding/"><u>[Updated] In 2024, Compreeved Guide YouTube to MP3/MPEG Transcoding</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-integrating-linktree-a-step-by-step-approach-to-tiktok-bio-enhancement/"><u>[Updated] In 2024, Integrating Linktree A Step-by-Step Approach to TikTok Bio Enhancement</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2023s-guide-to-ios-iphoneipad-screen-capture-effortlessly-for-2024/"><u>2023'S Guide to iOS (iPhone/iPad) Screen Capture Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-sequential-appearance-start/"><u>2024 Approved Sequential Appearance Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/call-of-duty-how-to-correct-the-ww2-error-code/"><u>Call of Duty: How to Correct the WW2 Error Code 지루해요?</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-update-failed-problems-in-your-favorite-game-warframe/"><u>Expert Tips for Overcoming 'Update Failed' Problems in Your Favorite Game, Warframe</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-not-working-errors-for-a-smooth-phasmophobia-experience/"><u>Fixing Voice Chat Not Working Errors for a Smooth Phasmophobia Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-request-access-from-trustedinstaller-to-alter-protected-files-on-windows/"><u>How To Request Access From TrustedInstaller to Alter Protected Files on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-your-organization-can-regulate-windows-setup-and-fixes-applied/"><u>How Your Organization Can Regulate Windows Setup & Fixes Applied</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-three-key-strategies-to-frame-your-insta-films-better/"><u>In 2024, Three Key Strategies to Frame Your Insta Films Better</u></a></li>
+<li><a href="https://common-error.techidaily.com/maximizing-storage-solutions-for-insufficient-storage-available-messages/"><u>Maximizing Storage: Solutions for 'Insufficient Storage Available' Messages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secrets-to-a-professional-appearance-blur-out-distractions-during-skype-conference-call/"><u>Secrets to a Professional Appearance: Blur Out Distractions During Skype Conference Call</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-high-cpu-drain-caused-by-windows-audio-driver-a-step-by-step-guide/"><u>Solving the High CPU Drain Caused by Windows Audio Driver: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

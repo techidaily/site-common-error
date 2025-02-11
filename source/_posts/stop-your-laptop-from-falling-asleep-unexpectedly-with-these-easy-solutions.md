@@ -1,7 +1,7 @@
 ---
 title: Stop Your Laptop From Falling Asleep Unexpectedly with These Easy Solutions
-date: 2024-09-19T18:13:18.414Z
-updated: 2024-09-20T18:34:29.318Z
+date: 2025-02-05T18:17:11.441Z
+updated: 2025-02-11T01:39:36.612Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
  If your computer screen goes upside down and mouse travels up when you mean to direct it down, don’t panic. Rest assured – with only a few tweaks, you can**flip the screen the right side up** back again…
 
  For a more eye-friendly reading experience, you might want to read this article on other devices while trying the fixes below on the target laptop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,17 +55,19 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hopefully your screen displays normally again.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change the display settings
 
@@ -74,21 +80,23 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 1. Right-click on the empty area of your desktop and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbc64a4a09.jpg)
 2. In**Orientation** , select**Landscape** from the drop-down list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbce216c6e.jpg)
 3. Hopefully you have restored your screen back to normal this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   I’m using Windows 7
 
 1. Click **the Windows logo** , type**orientation** and click**Change screen orientation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0d68dca7.jpg)
 2. In**Orientation** , select**Landscape** from the drop-down list and click the **Tab** key >**Enter** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc13732354.jpg)
 3. Hopefully you have restored your screen back to normal this time.
@@ -112,5 +120,20 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs/"><u>[Updated] Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-conquer-snapchat-lens-design-two-easy-approaches/"><u>2024 Approved Conquer Snapchat Lens Design Two Easy Approaches</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-your-gaming-channel-on-youtube/"><u>2024 Approved Crafting Your Gaming Channel on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/beseitigung-des-problems-handbrake-ist-nun-64-bit-verfugbar-ersetzung-von-vlc-durch-eine-passende-version-fur-64-bit-systeme/"><u>Beseitigung Des Problems: HandBrake Ist Nun 64 Bit Verfügbar - Ersetzung Von VLC Durch Eine Passende Version Für 64 Bit Systeme</u></a></li>
+<li><a href="https://common-error.techidaily.com/failure-alert-irreparable-device-malfunction/"><u>Failure Alert: Irreparable Device Malfunction</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-a-keyboard-that-wont-respond-on-your-windows-machine-solutions-inside/"><u>How to Resolve a Keyboard That Won't Respond on Your Windows Machine - Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-system-performance-resolving-msmpengexes-abnormal-cpu-consumption-on-windows-11/"><u>Optimizing System Performance: Resolving MsMpEng.exe's Abnormal CPU Consumption on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-10-spacebar-malfunction-on-your-keyboard/"><u>Solution Steps for Windows 10 Spacebar Malfunction on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-windows-10-unresponsive-behavior-at-first-boot/"><u>Step-by-Step Solutions for Windows 10 Unresponsive Behavior at First Boot</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolving-windows-10-brightness-settings-problems/"><u>Step-by-Step: Resolving Windows 10 Brightness Settings Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risks-of-using-chatgpt-applications-from-your-macs-app-store-why-it-may-not-be-worth-it/"><u>The Risks of Using ChatGPT Applications From Your Mac's App Store – Why It May Not Be Worth It</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-fix-for-minecrafts-troublesome-black-screen-fault-in-the-year-2024/"><u>The Ultimate Fix for Minecraft's Troublesome Black Screen Fault in the Year 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-strategies-to-improve-and-accelerate-slow-broadband-speed/"><u>Top Strategies to Improve and Accelerate Slow Broadband Speed</u></a></li>
+</ul></div>
 

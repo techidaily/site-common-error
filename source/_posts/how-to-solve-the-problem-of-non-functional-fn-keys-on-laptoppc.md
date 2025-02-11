@@ -1,7 +1,7 @@
 ---
 title: How to Solve the Problem of Non-Functional FN Keys on Laptop/PC
-date: 2025-01-22T16:29:08.311Z
-updated: 2025-01-30T07:22:44.948Z
+date: 2025-02-04T03:29:10.938Z
+updated: 2025-02-11T01:13:57.592Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -32,7 +36,7 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -45,6 +49,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -53,16 +61,12 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -99,16 +103,12 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
@@ -150,18 +150,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-video-streamers-camera-picks-for-quality-content/"><u>[New] 2024 Approved Prime Video Streamers' Camera Picks for Quality Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-camera-not-working-on-windows-11/"><u>[SOLVED] Camera Not Working on Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-vlogs-the-finest-camera-selections-of-the-year/"><u>[Updated] 2024 Approved Mastering Vlogs The Finest Camera Selections of the Year</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-next-gen-vision-top-10-cameras-of-the-year-2024/"><u>[Updated] Next-Gen Vision – Top 10 Cameras of the Year 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphoneipad-masterclass-crafting-engaging-interview-and-exploration-podcasts/"><u>2024 Approved IPhone/iPad Masterclass Crafting Engaging Interview and Exploration Podcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-novice-path-to-prosperity-making-money-on-periscope/"><u>2024 Approved Novice Path to Prosperity Making Money on Periscope</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-ethernet-failures-in-windows-107-systems/"><u>Diagnosing and Repairing Ethernet Failures in Windows 10/7 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-resolving-the-issue-of-resident-evil-4-remake-game-crashes/"><u>Effective Solutions: Resolving the Issue of Resident Evil 4 Remake Game Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolved-overcoming-issues-when-your-backspace-keys-wont-work/"><u>Error Resolved: Overcoming Issues When Your Backspace Keys Won't Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-and-resolve-windows-installer-error-0x80070643/"><u>How to Repair and Resolve Windows Installer Error 0X80070643</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-tackle-the-runtime-broker-error-and-reduce-cpu-spikes-in-windows-10-operating-systems/"><u>How to Tackle the Runtime Broker Error and Reduce CPU Spikes in Windows 10 Operating Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203377239-league-of-legends-lag-no-more-speedy-download-fixes-unveiled/"><u>League of Legends Lag No More: Speedy Download Fixes Unveiled!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/osplusandroid-guide-to-invisible-youtube-viewing/"><u>[New] IOS+Android Guide to Invisible YouTube Viewing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-kickstart-your-webinar-skills-with-easy-to-follow-zoom-steps-for-2024/"><u>[New] Kickstart Your Webinar Skills with Easy-to-Follow Zoom Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-fundamentals-of-high-impact-asmr-filming-and-editing/"><u>[New] The Fundamentals of High-Impact ASMR Filming & Editing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-prime-binge-worthy-hits-highest-tweets-and-view-counts/"><u>[Updated] 2024 Approved Prime Binge-Worthy Hits Highest Tweets & View Counts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-soaring-visions-with-dji-mavic-pro-insight/"><u>[Updated] 2024 Approved Soaring Visions with DJI Mavic Pro Insight</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-restoring-your-lenovo-mousepad-functionality-in-windows-environments/"><u>Complete Guide to Restoring Your Lenovo Mousepad Functionality in Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-resolving-event-id-1000-in-windows-7810-systems/"><u>Comprehensive Guide: Resolving Event ID 1000 in Windows 7/8/10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-non-operational-copy-and-paste-in-windows-os/"><u>Fixing Non-Operational Copy and Paste in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-svchostexe-consuming-too-much-cpu-power-in-windows-10-solution-guide/"><u>How to Fix svchost.exe Consuming Too Much CPU Power in Windows 10 - Solution Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-11-pro-max-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Pro Max Device from iCloud</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-12-mini-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 12 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-camera-balance-for-drone-use-for-2024/"><u>Optimal Camera Balance for Drone Use for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208681245-resolve-win10-upgrade-stuck-on-99-proven-solutions-that-work/"><u>Resolve Win10 Upgrade Stuck on 99%: Proven Solutions That Work!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-brightness-control-malfunctions-on-windows-10-machines/"><u>Step-by-Step Guide to Repair Brightness Control Malfunctions on Windows 10 Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-the-complicated-web-of-windows-10s-0x80240034-a-step-by-step-guide-to-seamless-updates/"><u>Untangling the Complicated Web of Windows 10'S 0X80240034: A Step-by-Step Guide to Seamless Updates</u></a></li>
 </ul></div>
 

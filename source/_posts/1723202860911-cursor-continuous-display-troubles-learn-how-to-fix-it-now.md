@@ -1,7 +1,7 @@
 ---
 title: Cursor Continuous Display Troubles? Learn How to Fix It Now!
-date: 2025-01-23T00:16:26.041Z
-updated: 2025-01-30T05:28:02.268Z
+date: 2025-02-05T20:38:53.035Z
+updated: 2025-02-11T00:57:45.366Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
@@ -47,11 +51,11 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
@@ -59,16 +63,20 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -83,16 +91,8 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -120,18 +120,16 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-art-of-float-engaging-with-netflixs-picture-in-picture/"><u>[New] 2024 Approved The Art of Float Engaging with Netflix's Picture-in-Picture</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unlock-your-creative-potential-an-overview-of-final-cut-pro-for-2024/"><u>[New] Unlock Your Creative Potential An Overview of Final Cut Pro for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-does-imovie-set-dimensions-for-2024/"><u>[Updated] How Does iMovie Set Dimensions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-shielding-identity-video-blur-and-privacy-preservation-for-2024/"><u>[Updated] Shielding Identity Video Blur and Privacy Preservation for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-streamlined-approach-to-add-linktree-in-tiktok-about-section-for-2024/"><u>[Updated] Streamlined Approach to Add Linktree in TikTok About Section for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-from-tiktok-to-twitter-a-2023-blueprint/"><u>In 2024, From TikTok to Twitter A 2023 Blueprint</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-shockwave-flash-errors-within-google-chrome-a-comprehensive-guide/"><u>Overcoming Shockwave Flash Errors Within Google Chrome: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/ps4-connectivity-hurdles-solve-them-here-step-by-step-guide/"><u>PS4 Connectivity Hurdles? Solve Them Here: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolution-steps-for-the-unavailable-steam-service-error-message/"><u>Resolution Steps for the 'Unavailable Steam Service' Error Message</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1124175-9780892545520-rulers-of-the-horoscope/"><u>Rulers of the Horoscope | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/smooth-gaming-secrets-revealed-correcting-bad-video-card-drivers-to-enjoy-uninterrupted-minecraft-in-windows/"><u>Smooth Gaming Secrets Revealed: Correcting Bad Video Card Drivers to Enjoy Uninterrupted Minecraft in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-windows-11-freezing-issue-effective-solutions/"><u>Solving the Window's 11 Freezing Issue: Effective Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-truth-revealed-cooler-master-addresses-the-confusion-surrounding-cryofuze-5s-ai-feature/"><u>The Truth Revealed: Cooler Master Addresses the Confusion Surrounding CryoFuze 5'S 'AI' Feature</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-elevation-strategy-quickly-reach-your-10k-view-quota/"><u>[New] In 2024, Channel Elevation Strategy – Quickly Reach Your 10K View Quota</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-iphone-x-identity-verification-restoring-biometric-lock/"><u>[New] Mastering iPhone X Identity Verification Restoring Biometric Lock</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-secrets-to-improve-your-gopro-videos/"><u>[New] Top Secrets to Improve Your GoPro Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-beginners-blueprint-setting-up-on-youtube/"><u>[Updated] In 2024, A Beginner's Blueprint Setting Up on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>[Updated] In 2024, Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-prolong-your-pcs-durability-with-expert-advice-by-yl-computing-and-yl-software/"><u>How to Prolong Your PC’s Durability with Expert Advice by YL Computing and YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-windows-error-651/"><u>Quick Solutions for Resolving Windows Error 651</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-failed-to-login-through-user-profile-service/"><u>Step-by-Step Fix for 'Failed to Login Through User Profile Service'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-missing-bluetooth-devices-in-windows-11-without-hassle/"><u>Troubleshoot Missing Bluetooth Devices in Windows 11 Without Hassle</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-nonfunctional-usb-mouse-on-your-pc-top-solutions/"><u>Troubleshooting a Nonfunctional USB Mouse on Your PC: Top Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-word-potential-with-ai-powered-automated-drafting/"><u>Unlock Word Potential with AI-Powered Automated Drafting</u></a></li>
 </ul></div>
 

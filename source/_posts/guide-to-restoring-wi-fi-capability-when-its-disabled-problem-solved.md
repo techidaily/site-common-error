@@ -1,7 +1,7 @@
 ---
 title: Guide to Restoring Wi-Fi Capability When It’s Disabled [Problem Solved]
-date: 2025-01-24T02:58:42.340Z
-updated: 2025-01-30T01:52:43.577Z
+date: 2025-02-04T17:09:07.388Z
+updated: 2025-02-10T16:12:35.236Z
 tags:
   - win11
   - win10
@@ -45,15 +45,15 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -67,22 +67,18 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
@@ -91,7 +87,11 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
@@ -139,17 +139,18 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-incorporating-leadership-in-your-discord-network/"><u>[Updated] In 2024, Incorporating Leadership in Your Discord Network</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>[Updated] Step-by-Step Guide Enhancing YouTube Content with iOS Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-audacitys-full-potential-for-professional-audio/"><u>[Updated] Unlocking Audacity's Full Potential for Professional Audio</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-strategies-to-fix-delayed-start-up-response-addressing-error-1053/"><u>Efficient Strategies to Fix Delayed Start-Up Response - Addressing Error 1053</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-game-crashes-with-physxloader-dll-not-found-error/"><u>Fix Your Game Crashes with PhysXLoader DLL Not Found Error</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-the-power-of-fcpx-plugins-troubleshooting-and-fixing-common-issues/"><u>In 2024, Unleash the Power of FCPX Plugins Troubleshooting and Fixing Common Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/print-to-pdf-malfunctioning-in-windows-11-here-are-the-fixes/"><u>Print to PDF Malfunctioning in Windows 11? Here Are the Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-repairing-malfunctioning-usb-input-devices-in-windows-7-environments/"><u>Quick Guide: Repairing Malfunctioning USB Input Devices in Windows 7 Environments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-novices-guide-to-swift-success-on-what-was-once-called-x/"><u>The Novice's Guide to Swift Success on What Was Once Called X</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-15-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 15? 5 Tips You Must Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-diy-repair-guide-for-windows-10-touchscreen-failures-five-proven-techniques/"><u>Ultimate DIY Repair Guide for Windows 10 Touchscreen Failures: Five Proven Techniques</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/windows-11windowsapps/"><u>Windows 11用:「WindowsApps」ディレクトリのセキュリティ確保なしでの完全削除手順</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-detailed-procedure-for-sending-time-synchronized-srt-files-online/"><u>[New] Detailed Procedure for Sending Time-Synchronized SRT Files Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-into-the-future-mastering-instagram-filters-for-enhanced-imagery/"><u>[New] In 2024, Step Into the Future Mastering Instagram Filters for Enhanced Imagery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>[Updated] In 2024, Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-shorts-revenue-sharing-explained-how-much-will-i-make/"><u>[Updated] YouTube Shorts Revenue Sharing Explained How Much Will I Make?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-the-color-grading-revolution-with-lightrooms-best-10-luts/"><u>2024 Approved Leading the Color Grading Revolution with LightRoom’s Best 10 LUTs</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-frustration-solved-restoring-functionality-between-keyboard-and-computer/"><u>Bluetooth Frustration Solved: Restoring Functionality Between Keyboard and Computer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/camstudio-full-features-analysis-for-2024/"><u>CamStudio Full Features Analysis for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-the-aw-snap-mishap-in-chrome/"><u>Expert Advice on Repairing the 'Aw, Snap!' Mishap in Chrome</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-canon-imageclass-mf4800-printing-drivers-step-by-step-download-tutorial/"><u>Install Canon ImageCLASS MF4800 Printing Drivers: Step-by-Step Download Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-your-game-launch-tackling-common-origins-setup-problems/"><u>Mastering Your Game Launch: Tackling Common Origins Setup Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209966933-quick-fixes-for-when-your-device-reports-no-battery-easy-steps-inside/"><u>Quick Fixes for When Your Device Reports No Battery – Easy Steps Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-window-10-explore-bar-erratic-top-hook-scrolling-problem/"><u>Resolving the Window 10 Explore Bar Erratic Top-Hook Scrolling Problem</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-strategies-for-capturing-lol-matches-for-2024/"><u>Top Strategies for Capturing LOL Matches for 2024</u></a></li>
 </ul></div>
 

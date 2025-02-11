@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolution: Restoring Functionality of a Broken Fn Key on Lenovo Systems"
-date: 2025-01-23T08:35:20.695Z
-updated: 2025-01-30T05:31:59.117Z
+date: 2025-02-05T08:14:26.653Z
+updated: 2025-02-10T17:29:36.392Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Fixes for Personalized Settings (Not Responding)
 
  The screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** and**7** as well.
@@ -37,19 +41,23 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the Power button![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a02279b2c.png)**  
   and choose**Restart** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Hopefully your desktop comes up normally this time. If not, continue with**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Switch the network connection
 
@@ -60,7 +68,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the middle of your computer screen, click**Sign out** .
@@ -81,17 +89,13 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you should have your desktop back.
 5. Restart your computer and login again to see if this**Personalized Settings (Not Responding)** issue has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run SFC Command
 
@@ -107,16 +111,16 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Delete a file in regedit
 
  Please note: any modifications in regedit must be proceeded with caution to avoid further problems.
 
 1. On your keyboard, press the **Windows logo key**  and type**regedit** , then right-click on**regedit** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b3d238270.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted to confirm.
 2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
@@ -126,17 +130,13 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
  If this fix doesn’t help with the situation, you might want to import the file to restore the backup. Check out **[this link](https://tools.techidaily.com/drivereasy/download/)**  for further information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click on**the last file** and click**Delete** .
 5. Restart your computer and see if your desktop comes back.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
@@ -164,22 +164,21 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-techniques-for-screen-capturing-on-various-os-and-gadgets/"><u>[New] Essential Techniques for Screen Capturing on Various OS & Gadgets</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unveiling-first-episode-footage-examination/"><u>[Updated] In 2024, Unveiling First-Episode Footage Examination</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-10-cameras-for-smooth-cinematic-captures/"><u>[Updated] Leading 10 Cameras for Smooth Cinematic Captures</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-step-by-step-solution-for-dealing-with-apex-legends-easy-anti-cheat-bugs-no-more-unfair-gameplay/"><u>A Step-by-Step Solution for Dealing with Apex Legends Easy Anti-Cheat Bugs – No More Unfair Gameplay</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/captureconqueror-a-comprehensive-guide-to-screen-recording/"><u>CaptureConqueror A Comprehensive Guide to Screen Recording</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-wireless-keyboard-malfunction-heres-how-you-can-get-it-running-again/"><u>Dell Wireless Keyboard Malfunction? Here's How You Can Get It Running Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-the-complete-solution-to-prevent-game-crashing-in-total-war-rome-remastered/"><u>Fixed! The Complete Solution to Prevent Game Crashing in Total War: Rome Remastered</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-fixing-non-responsive-verticalhorizontal-scrolling-on-windows-10-touchpad/"><u>Guide: Fixing Non-Responsive Vertical/Horizontal Scrolling on Windows 10 Touchpad</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10s-0x80073712-error-a-comprehensive-guide/"><u>How to Fix Windows 10'S 0X80073712 Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-troubleshoot-when-windows-doesnt-detect-your-motherboard-tips-and-solutions-by-yl-software/"><u>How to Troubleshoot When Windows Doesn't Detect Your Motherboard: Tips & Solutions by YL Software</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 with a Broken Screen?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-hot-40i-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40i Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/investigating-truthgpts-tokens-validity/"><u>Investigating TruthGPT's Tokens Validity</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/locating-specific-files-on-windows-a-comprehensive-guide-by-yl-computing/"><u>Locating Specific Files on Windows: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-of-error-code-5-on-your-minecraft-game/"><u>Mastering the Fix of Error Code 5 on Your Minecraft Game</u></a></li>
-<li><a href="https://common-error.techidaily.com/sc2-graphics-device-is-not-available-fixed/"><u>SC2 Graphics Device Is Not Available [Fixed]</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-win10s-0x80070091-system-restore-malfunction-step-by-step-guide/"><u>Troubleshooting and Resolving Win10's 0X80070091 System Restore Malfunction - Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-5-best-live-stream-video-conference-recorders/"><u>[New] 2024 Approved 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-new-era-of-creativity-pinpointing-the-best-10-budget-friendly-video-art-communities-on-youtube/"><u>[New] A New Era of Creativity Pinpointing the Best 10 Budget-Friendly Video Art Communities on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>[Updated] In 2024, The Comedic Journey An Evaluation of 'Goofy Adventures'</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-navigating-netizens-youtubes-footprint-in-facebook-for-2024/"><u>[Updated] Navigating Netizens YouTube’s Footprint in Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unending-shutdown-method-how-to-kill-off-youtube-shorts/"><u>[Updated] Unending Shutdown Method How to Kill Off Youtube Shorts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y100a-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y100A without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-crucial-links-in-the-nyts-latest-piece-connect-and-comprehend-august-12-update-427/"><u>Discover Crucial Links in the NYT's Latest Piece - Connect and Comprehend August 12 Update (#427)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-d3dcompiler43dll-missing-or-not-found-error/"><u>Fix D3DCOMPILER_43.dll Missing or Not Found Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-desktop-icons-on-windows-10-a-comprehensive-guide/"><u>Fixing Missing Desktop Icons on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-webcam-functionality-on-your-lenovo-laptop/"><u>How to Restore Webcam Functionality on Your Lenovo Laptop</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twittify-your-snaps-seamless-tweeting-to-snapsharing/"><u>In 2024, Twittify Your Snaps Seamless Tweeting-to-Snapsharing</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-video-input-not-found-step-by-step-tutorial-for-a-working-display/"><u>Solving Video Input Not Found – Step-by-Step Tutorial for a Working Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-technical-issues-on-wacom-graphic-tables/"><u>Step-by-Step Guide: Overcoming Technical Issues on Wacom Graphic Tables</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-halting-unexpected-computer-resets-in-windows-10-environments/"><u>Troubleshooting Guide: Halting Unexpected Computer Resets in Windows 10 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-fixing-class-not-registered-errors-on-windows-11/"><u>Troubleshooting Step-by-Step: Fixing 'Class Not Registered' Errors on Windows 11</u></a></li>
 </ul></div>
 

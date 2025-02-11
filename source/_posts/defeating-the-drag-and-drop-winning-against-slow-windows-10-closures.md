@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Drag-and-Drop: Winning Against Slow Windows 10 Closures"
-date: 2025-01-23T08:58:59.690Z
-updated: 2025-01-29T19:28:34.023Z
+date: 2025-02-08T03:14:28.032Z
+updated: 2025-02-11T05:37:27.306Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Run a Startup Repair
 
  The Startup Repair can repair the files necessary for the startup of your computer. To run a Startup Repair to fix your issue:
@@ -48,9 +44,17 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -76,12 +80,16 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
@@ -91,10 +99,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 **5)**  Select**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Type the following lines in Command Prompt and press **Enter** on your computer after each.
 
@@ -108,7 +112,7 @@ _**bootrec /scanos**_
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
@@ -131,10 +135,6 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968970ab6012.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Follow the on-screen instructions to complete the reinstallation of your system.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -154,16 +154,24 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-unlocking-the-potential-of-virtual-collaboration-starting-zoom-calls-on-android-for-2024/"><u>[New] Unlocking the Potential of Virtual Collaboration Starting Zoom Calls on Android for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-the-0x80072efd-error-in-windows-11/"><u>[Solved] How to Fix the 0X80072EFD Error in Windows 11</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728479685485-ssd/"><u>「SSDにおけるデータバックアップ：基本的な理解と利点のガイド」</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras/"><u>2024 Approved From Beginner to Pro Essential Steps in Recording with Logitech Cameras</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-uncontrolled-energy-bursts-at-primary-connection-junction-a-resolved-case-study/"><u>Addressing Uncontrolled Energy Bursts at Primary Connection Junction: A Resolved Case Study</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-troubleshooting-how-to-resolve-battery-not-charging-prompt-fast/"><u>Easy Troubleshooting: How To Resolve 'Battery Not Charging' Prompt Fast</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-hacks-filming-and-modifying-lengthy-video-sequences-for-2024/"><u>IPhone Hacks Filming & Modifying Lengthy Video Sequences for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-and-resolving-server-outages-in-destiny-2-expert-advice/"><u>Navigating and Resolving Server Outages in Destiny 2: Expert Advice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-spark-10-4g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Spark 10 4G and Browser | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-rapid-response-fixes-error-code-1053-service-unresponsive-on-time/"><u>Resolved: Rapid Response Fixes Error Code 1053 - Service Unresponsive on Time</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-quality-screen-recording-for-windows-10-pro/"><u>Top Quality Screen Recording for Windows 10 Pro</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-dominating-desktops-secrets-to-viral-tiktok-videos/"><u>[New] 2024 Approved Dominating Desktops Secrets to Viral TikTok Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/30204431-new-in-2024-short-film-synopsis-must-know-points/"><u>[New] In 2024, Short Film Synopsis Must-Know Points</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-vimeo-media-with-well-defined-chapters-for-2024/"><u>[Updated] Elevate Your Vimeo Media with Well-Defined Chapters for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-gripping-gospels-intros-that-draw-ears/"><u>[Updated] In 2024, Gripping Gospels Intros That Draw Ears</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-influencer-secrets-making-your-vids-hits-hard/"><u>[Updated] Influencer Secrets Making Your Vids Hits Hard</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-old-vhs-with-new-online-techniques/"><u>[Updated] Transform Your Old VHS with New Online Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/clarified-response-handling-non-writable-memory-situations-in-location-x/"><u>Clarified Response: Handling Non-Writable Memory Situations in Location X</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unavailable-windows-hello-feature-on-windows-10-devices/"><u>Fixing Unavailable Windows Hello Feature on Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-device-not-present-errors-with-windows-operating-systems-code-24-fix/"><u>Guide to Overcoming 'Device Not Present' Errors with Windows Operating Systems (Code 24 Fix)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-7-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 7 Plus to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-your-zebra-zp450-printer-free-downloads-and-updates-with-easy-instructions/"><u>Master Your Zebra ZP450 Printer - Free Downloads and Updates with Easy Instructions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-repairing-the-red-screen-error/"><u>Resolved: Step-by-Step Guide to Repairing the Red Screen Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-disabling-wireless-capability-on-electronics/"><u>Solving the Problem of Disabling Wireless Capability on Electronics</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210166882-solving-the-ps4s-notorious-ce-34878-0-glitch-steps-and-tips-inside/"><u>Solving the PS4's Notorious CE-34878-0 Glitch – Steps & Tips Inside</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/telltale-signs-your-chat-is-hidden/"><u>Telltale Signs Your Chat Is Hidden</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-for-when-windows-update-fails-to-launch/"><u>The Ultimate Solution for When Windows Update Fails to Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-steam-store-connectivity/"><u>Troubleshooting Tips: Resolving Issues with Steam Store Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-lack-of-pen-and-touch-input-on-your-screen/"><u>Troubleshooting: Fixing the Lack of Pen and Touch Input on Your Screen</u></a></li>
 </ul></div>
 

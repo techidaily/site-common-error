@@ -1,7 +1,7 @@
 ---
 title: Overcoming CRC Faults in Your Data Transmission - Now Solved!
-date: 2024-09-15T19:30:47.020Z
-updated: 2024-09-20T18:44:58.706Z
+date: 2025-02-10T00:07:56.493Z
+updated: 2025-02-11T05:55:16.140Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 ## Overcoming Copy/Paste Problems on Your Windows 11 Machine - Solutions Inside
 
  Some users reported that after they updated to Windows 11, copy and paste (mostly the keyboard shortcut) would suddenly stop working on their computers from time to time. It’s quite a common glitch, but not a hard one to fix. If you have encountered similar issues, you’ve come to the right place. In this post, we’ll show you how to fix this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 [Bonus tip: Update your device drivers](#driver)
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Close unnecessary programs
 
@@ -58,9 +66,18 @@ If this fix didn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
 
@@ -73,10 +90,7 @@ If this fix didn’t help, try the next fix.
 If this fix didn’t help, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Restart the Windows Explorer process
@@ -89,6 +103,10 @@ If this fix didn’t help, try the next one.
 
 If your problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Restart RDP Clipboard Monitor
 
  RDP Clipboard Monitor allows the user to share the clipboard between the local and the remote desktop. If this process is not functioning as it’s supposed to, you may encounter a copy-paste problem when you’re using a remote desktop. To fix this, you may need to restart the RDP Clipboard Monitor process:
@@ -96,13 +114,6 @@ If your problem persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on your keyboard to open Task Manager.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
 
@@ -119,13 +130,6 @@ If your problem persists, try the next fix.
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -148,5 +152,23 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-when-amd-catalyst-control-cant-start/"><u>Fixing the Issue: When AMD Catalyst Control Can't Start</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/homing-in-on-the-best-value-in-depth-analysis-of-the-syma-helix-7x-rc-helicopter/"><u>Homing in on the Best Value: In-Depth Analysis of the Syma Helix 7X RC Helicopter</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-savvy-techniques-for-storing-and-streaming-animated-images/"><u>In 2024, IPhone-Savvy Techniques for Storing and Streaming Animated Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>In 2024, Recommendation Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-android-facetime-a-step-by-step-guide-for-2024/"><u>Mastering Android FaceTime A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/minimca-haven-unveiling-simple-homes-in-minecraft/"><u>MiniMCA Haven Unveiling Simple Homes in Minecraft</u></a></li>
+<li><a href="https://common-error.techidaily.com/next-level-playtime-tweaking-your-pc-settings-for-top-gaming-on-windows-11/"><u>Next-Level Playtime: Tweaking Your PC Settings for Top Gaming on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-error-5-has-happened-your-ultimate-guide-for-windows-users/"><u>Overcoming 'Error 5 Has Happened' – Your Ultimate Guide for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-typing-obstacles-a-guide-for-keyboard-problems-in-various-windows-systems/"><u>Overcoming Typing Obstacles: A Guide for Keyboard Problems in Various Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/scam-alert-how-to-eradicate-the-deceptive-google-chrome-critical-error-from-your-system/"><u>Scam Alert: How to Eradicate the Deceptive Google Chrome Critical Error From Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-for-an-independent-acting-computer-pointer/"><u>Simple Fixes for an Independent-Acting Computer Pointer</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-visual-voyage-for-more-engagement-on-social-platforms/"><u>The Visual Voyage for More Engagement on Social Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-your-hp-laptops-webcam-problem-under-windows-11/"><u>Troubleshooting and Repairing Your HP Laptop's Webcam Problem Under Windows 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-color-grading-in-final-cut-pro/"><u>Updated How to Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-a2plus-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi A2+? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

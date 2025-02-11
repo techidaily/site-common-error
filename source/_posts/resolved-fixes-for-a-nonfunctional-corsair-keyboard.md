@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for a Nonfunctional Corsair Keyboard"
-date: 2025-01-28T08:08:06.153Z
-updated: 2025-01-30T03:39:32.433Z
+date: 2025-02-03T18:49:53.833Z
+updated: 2025-02-11T03:39:45.937Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for my keyboard won’t type
 
@@ -67,18 +71,18 @@ If your computer is running Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665088706c.jpg)
 2. Click**Ease of Access** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
 3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your computer is running Windows 11:
 
@@ -89,25 +93,25 @@ If your computer is running Windows 11:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your computer is running Windows 7:
 
 1. On the taskbar of your desktop, click the **Start button** , then select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76673c8c257.jpg)
 2. Click **Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766794641a7.jpg)
 3. Click **Change how your keyboard works** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Try to type some words using your keyboard to see if it works.
 
@@ -126,16 +130,8 @@ See how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Keyboards** , then right-click on your keyboard driver software to select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7669dd744ff.jpg)
 4. Once you do, restart your computer. Windows should then reinstall the driver for your keyboard automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
 
@@ -162,7 +158,7 @@ See how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Try this fix if you’re using a USB keyboard
@@ -170,6 +166,10 @@ See how to do it:
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
@@ -208,20 +208,24 @@ Try to type some words using your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/park-sponsorships-a-guide-to-easy-fundraising-for-budget-channels-for-2024/"><u>[New] Spark Sponsorships A Guide to Easy Fundraising for Budget Channels for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-stepwise-guide-to-optimal-zoom-audio-recording-for-2024/"><u>[New] Stepwise Guide to Optimal Zoom Audio Recording for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-apple-podcast-platform/"><u>[Updated] Navigating the Apple Podcast Platform</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-spiritual-sounds-on-cellphones/"><u>2024 Approved Incorporating Spiritual Sounds on Cellphones</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-startup-keyboard-issues-and-regaining-control/"><u>Expert Advice: Overcoming Startup Keyboard Issues and Regaining Control</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-converter-van-mp4-naar-ogg-professioneel-online-tool-voor-professionele-resultaat-movavi/"><u>Gratis Converter Van MP4 Naar OGG: Professioneel Online-Tool Voor Professionele Resultaat - Movavi</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>In 2024, Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-bluetooth-pairings-effective-solutions-to-connect-your-devices-on-windows-11-tips/"><u>Mastering Bluetooth Pairings: Effective Solutions to Connect Your Devices on Windows 11 (Tips )</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-livekernelevent-mishap-strategies-to-fix-error-code-144-swiftly/"><u>Mastering the LiveKernelEvent Mishap: Strategies to Fix Error Code 144 Swiftly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-inactive-graphics-card-not-found/"><u>Screen Inactive: Graphics Card Not Found</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-poco-c65-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Poco C65 FRP</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successful-resolution-of-asus-webcam-on-windows-10/"><u>Successful Resolution of ASUS Webcam on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-is-runtime-broker-and-fix-its-high-cpu-error-on-windows-11-solved/"><u>What Is Runtime Broker and Fix Its High CPU Error on Windows 11 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-your-microsoft-surface-isnt-holding-a-charge-fixes-and-explanations/"><u>Why Your Microsoft Surface Isn't Holding a Charge: Fixes and Explanations</u></a></li>
-<li><a href="https://common-error.techidaily.com/yac519-yamahaaturbosound-ii-sound-module-based-on-the-ymf748ymu740-dsp-plus-midi-synthesizer-plus-codec-and-64-mb-of-sram-for-sample-storage-instead-of-rom-65/"><u>YAC519 - Yamaha'aturboSound II Sound Module Based on the YMF748/YMU740 (DSP + MIDI Synthesizer + Codec) and 64 MB of SRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace/"><u>[New] A Guide to Formulating Successful Product Sponsorships in YouTubespace</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-artistry-in-windows-11-photoshop/"><u>[New] Accelerate Artistry in Windows 11 Photoshop</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-engage-viewers-with-powerful-channel-building-stories/"><u>[New] Engage Viewers with Powerful Channel-Building Stories</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mastering-speed-eradicating-background-bgs-in-a-flash-for-2024/"><u>[Updated] Mastering Speed Eradicating Background Bgs in a Flash for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ranked-worlds-best-anime-opening-music-for-2024/"><u>[Updated] Ranked World's Best Anime Opening Music for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-students-guide-to-engaging-with-top-10-history-vids-for-2024/"><u>[Updated] Students' Guide to Engaging with Top 10 History Vids for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-crafting-engaging-haul-videos/"><u>2024 Approved The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creating-a-high-quality-fifa-2018-world-cup-footage-collection-for-web-sharing/"><u>Creating a High-Quality FIFA 2018 World Cup Footage Collection for Web Sharing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-overwatch-microphone-problems-quickly-simple-solutions/"><u>Fix Overwatch Microphone Problems Quickly: Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-screen-free-beginnings-on-your-monster-hunter-world-adventure/"><u>Fixing Persistent Screen-Free Beginnings on Your Monster Hunter: World Adventure</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-oddworld-soulstorm-game-running-flawlessly-on-windows-expert-troubleshooting-steps/"><u>Get Your Oddworld: Soulstorm Game Running Flawlessly on Windows - Expert Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-usb-ports-in-windows-10-and-11/"><u>How to Fix Unresponsive USB Ports in Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-to-your-broken-logitech-mouse-scroll-wheel/"><u>How to Restore Functionality to Your Broken Logitech Mouse Scroll Wheel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-boost-your-tiktok-presence-zoom-integration-guide/"><u>In 2024, Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/lte-advanced-category-9-with-up-to-450-mbits-download-speeds-using-band-38-2x20-mhz-channel-arrangement-and-up-to-75-mbits-upload-speeds-also-supports-dl-re70/"><u>LTE Advanced – Category 9 with up to 450 Mbit/S Download Speeds Using Band 38 (2X20 MHz) Channel Arrangement and up to 75 Mbit/S Upload Speeds. Also Supports DL-RevA Protocol Aggregation, but only with Other TANGO Radios on the Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/mystic-monitor-unsolved-darkness/"><u>Mystic Monitor: Unsolved Darkness</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectifying-non-responsive-copy-and-paste-on-windows-pcs/"><u>Rectifying Non-Responsive Copy & Paste on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/regain-your-batterypower-gauge-on-windows-11-effective-solutions-unveiled/"><u>Regain Your Battery/Power Gauge on Windows 11 - Effective Solutions Unveiled</u></a></li>
 </ul></div>
 

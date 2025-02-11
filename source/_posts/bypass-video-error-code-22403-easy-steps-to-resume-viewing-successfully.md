@@ -1,7 +1,7 @@
 ---
 title: "Bypass Video Error Code 22403: Easy Steps to Resume Viewing Successfully"
-date: 2024-09-16T16:49:19.915Z
-updated: 2024-09-20T16:34:11.068Z
+date: 2025-02-10T03:10:42.995Z
+updated: 2025-02-10T22:23:12.521Z
 tags:
   - win11
   - win10
@@ -101,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 2. Next to**Time range to clear** , select**Everything** . Under**History** , select all the entries. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-clear-recent-history.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For Safari:**
 
 1. On your Mac, open Safari and select**History > Clear History** .
@@ -108,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-clear-history.jpg)
 
  After clearing your browser’s cache and cookies, check if error code 224003 is resolved. If not, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable all extensions
 
@@ -121,10 +129,7 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-disable-extensions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Edge:**
@@ -140,18 +145,16 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 2. Select**Extensions** . Then turn off all your extensions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-disable-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Safari:**
 
 1. Open the**Safari** menu and select**Preferences…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-preferences.jpg)
 2. Click**Extensions** , then deselect the checkbox next to all extensions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-disable-extensions.jpg)
 
  After disabling all extensions, reopen your browser and play the video to check if the error code 224003 is fixed. If the problem has gone, try enabling extensions one by one to find the culprit.
@@ -167,6 +170,10 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 2. Select System. Then turn off**Use hardware acceleration when available** and click**Relaunch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-hardware-acceleration.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Edge:**
 
 1. Open Edge. Type or paste**edge://settings/system** into the address bar and press**Enter** .  
@@ -174,10 +181,7 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 2. Under System, turn off**Use hardware acceleration when available** and click**Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-hardware-acceeration.jpg)
@@ -187,14 +191,12 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 1. Open Firefox. Type or paste**about:preferences** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-preferences-1.jpg)
 2. In the General panel, under**Performance** , uncheck**Use recommended performance settings** , then uncheck**Use hardware acceleration when available** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-hardware-acceleration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-hardware-acceleration.jpg)
 
 **Safari:**
 
@@ -220,6 +222,11 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 1. Open Edge. Type or paste**edge://settings/reset** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-reset.jpg)
 2. Click**Restore settings to their default values** . In the pop-up window, click**Reset** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-reset-settings.jpg)
 
 **Firefox:**
@@ -227,6 +234,11 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 1. Open Firefox. Type**about:support** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-support.jpg)
 2. Select**Refresh Firefox…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-firefox.jpg)
 3. In the new window, click**Refresh Firefox** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-firefox-2.jpg)
@@ -250,10 +262,7 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 2. Click the**Repair** button to start the repair process.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-repair.jpg)
@@ -279,5 +288,19 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/accelerating-response-time-a-guide-to-fixing-slow-keyboards-instantly/"><u>Accelerating Response Time: A Guide to Fixing Slow Keyboards Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-blockade-8-steps-to-resolving-windows-10s-error-code-0x800f0922-during-updates/"><u>Bypassing the Blockade: 8 Steps to Resolving Windows 10'S Error Code 0X800F0922 During Updates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-enhanced-boost-your-websites-visibility-with-advanced-tracking-technology/"><u>Cookiebot-Enhanced: Boost Your Website's Visibility with Advanced Tracking Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-strategies-for-fixing-the-shell32dll-is-absent-error/"><u>Essential Strategies for Fixing the 'Shell32.dll Is Absent' Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-could-not-complete-action-on-file-due-to-rpc-server-unavailable-or-timeout-in-windows/"><u>How to Fix 'Could Not Complete Action on File Due To RPC Server Unavailable or Timeout' In Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/origin-back-online-after-fixes-enjoy-uninterrupted-access-again/"><u>Origin Back Online After Fixes - Enjoy Uninterrupted Access Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/reinstall-and-configure-your-pcs-audio-hardware-to-fix-no-output-device-installed-on-windows/"><u>Reinstall and Configure Your PC's Audio Hardware to Fix 'No Output Device Installed' On Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-non-charging-laptop-in-no-time/"><u>Solving the Problem of a Non-Charging Laptop in No Time</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/telegram-unveiled-an-insight-into-this-popular-communication-application/"><u>Telegram Unveiled: An Insight Into This Popular Communication Application</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-guide-to-iconic-fonts-boosting-video-engagement-for-2024/"><u>Your Guide to Iconic Fonts Boosting Video Engagement for 2024</u></a></li>
+</ul></div>
 

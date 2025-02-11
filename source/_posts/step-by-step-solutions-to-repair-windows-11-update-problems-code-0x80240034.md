@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions to Repair Windows 11 Update Problems: Code 0X80240034"
-date: 2024-09-14T18:34:37.641Z
-updated: 2024-09-20T17:30:50.870Z
+date: 2025-02-04T19:38:41.484Z
+updated: 2025-02-11T08:28:04.646Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap3-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** If there is a more recent version of Windows Update troubleshooter available, click to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap4-2.png)
@@ -58,6 +62,10 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap14-2.png)
@@ -74,6 +82,10 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap20-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When all the files are deleted, you shall see “This folder is empty”.
 
 **5)** On your keyboard, press**the Windows Logo Key** and**E** at the same time to open**File Explorer** . Copy the path below and paste it into the address bar, then press **Enter** on your keyboard to open the**Download** folder.
@@ -88,11 +100,19 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap22-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When all the files are deleted, you shall see “This folder is empty”.
 
 **7)** In the Services window, right-click **Windows Update**  and select**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap24-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next method.
 
@@ -103,6 +123,10 @@ Please paste it in the address bar.
 **1)**  On your keyboard, press**the Windows Logo Key** and then type**cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Ok** to run the **Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap37.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** On your keyboard, type the command below and press **Enter** . **If your current operating system is Windows 7, please skip this step.**
 
@@ -120,14 +144,11 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap12-1.png)
 
-**4)** When this command operation is completed, close the **Command Prompt** and run **Windows Update**  again to check whether this method works or not. If you still fail to install updates for your Windows system, please try the next method.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**4)** When this command operation is completed, close the **Command Prompt** and run **Windows Update**  again to check whether this method works or not. If you still fail to install updates for your Windows system, please try the next method.
 
 ## Method 4: Downloading updates from Microsoft Update Catalog manually
 
@@ -153,18 +174,15 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap42.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** In the list of search results, select the right update for your operating system and click **Download** .
 
  If your Windows OS is 64-bit, you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap26-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** In the pop-up window, click the link to start downloading the updates.
 
@@ -188,5 +206,24 @@ It may take some time for the command operation to be completed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-safe-mp3-extraction-three-methods-for-youtube-audio-conversion-for-2024/"><u>[Updated] Safe MP3 Extraction Three Methods for YouTube Audio Conversion for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-photo-editing-inserting-dates-in-images/"><u>2024 Approved Mastering Photo Editing Inserting Dates in Images</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-symphony-of-sights-picture-plus-sound-videography/"><u>2024 Approved Symphony of Sights Picture + Sound Videography</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206482260-geforce-experience-setup-glitch-solved-retrieve-your-custom-configurations-now/"><u>GeForce Experience Setup Glitch Solved - Retrieve Your Custom Configurations Now!</u></a></li>
+<li><a href="https://win-help.techidaily.com/guia-completa-para-crear-y-aplicar-un-efecto-de-pantalla-verde-en-tus-videos-metodos-faciles-e-innovadores-2024/"><u>Guía Completa Para Crear Y Aplicar Un Efecto De Pantalla Verde en Tus Videos: Métodos Fáciles E Innovadores - 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-nord-3-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Nord 3 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/optimal-steadicams-for-professional-grade-dslr-shoots/"><u>Optimal Steadicams for Professional-Grade DSLR Shoots</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-new-world-overcomes-previous-easy-anti-cheat-issues/"><u>Resolved: 'New World' Overcomes Previous Easy Anti-Cheat Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revive-your-sonos-speakers-a-guide-on-fixing-common-problems-with-an-outdated-third-party-application/"><u>Revive Your Sonos Speakers: A Guide on Fixing Common Problems with an Outdated Third-Party Application</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206650968-sd-invisible-no-more-find-the-answer-here/"><u>SD Invisible No More, Find the Answer Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-win32-app-crash-code-0x00000005/"><u>Step-by-Step Guide: Resolving the Win32 App Crash - Code 0X00000005</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-restoring-communication-with-a-non-responsive-dhcp-server/"><u>Success Story: Restoring Communication With a Non-Responsive DHCP Server</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-verdict-on-amazon-luna-an-unexpectedly-fluid-video-game-platform/"><u>The Verdict on Amazon Luna - An Unexpectedly Fluid Video Game Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-high-wudfhostexe-process-load-in-windows-10-systems/"><u>Troubleshooting High WUDFHost.exe Process Load in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-correcting-entry-point-misses-in-microsoft-windows/"><u>Understanding and Correcting Entry Point Misses in Microsoft Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-common-dll-errors-fix-and-prevention-tips/"><u>Winning Against Windows Common Dll Errors: Fix and Prevention Tips</u></a></li>
+</ul></div>
 

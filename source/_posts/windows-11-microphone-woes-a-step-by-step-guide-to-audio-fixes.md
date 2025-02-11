@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Microphone Woes? A Step-by-Step Guide to Audio Fixes
-date: 2025-01-27T22:02:12.792Z
-updated: 2025-01-29T16:52:03.237Z
+date: 2025-02-03T17:52:08.570Z
+updated: 2025-02-11T08:08:38.151Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -52,6 +56,10 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -66,15 +74,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -94,28 +98,24 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -150,24 +150,22 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-channel-changing-ideas-inspiring-videos-to-enhance-creativity/"><u>[New] In 2024, Channel-Changing Ideas Inspiring Videos to Enhance Creativity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-laughter-through-adobe-creation/"><u>2024 Approved Innovate Laughter, Through Adobe Creation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/doggie-diaries-live-capturing-puppy-playtime/"><u>Doggie Diaries Live: Capturing Puppy Playtime</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210359119-early-stage-lung-cancers-have-a-better-prognosis-than-late-stage-diseases/"><u>Early-Stage Lung Cancers Have a Better Prognosis than Late-Stage Diseases</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-slow-reaction-time-on-your-windows-10-keyboard/"><u>Expert Tips for Fixing Slow Reaction Time on Your Windows 10 Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-repairing-network-adapter-errors-on-windows-11-and-7-systems/"><u>Guide to Repairing Network Adapter Errors on Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-pc-reset-issues-fixing-there-was-a-problem-errors-effortlessly/"><u>How to Resolve Windows 11 PC Reset Issues - Fixing There Was a Problem Errors Effortlessly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-v29-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo V29 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-resolving-the-0x800f0831-error-with-simple-windows-updates/"><u>Quick Fix Guide: Resolving the 0X800f0831 Error with Simple Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212452068-solving-msmpengexe-high-cpu-usage-issue-on-windows-10-fixed/"><u>Solving MsMpEng.exe High CPU Usage Issue on Windows 10 - Fixed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamlining-your-viewing-experience-6-effective-mac-strategies-for-netflix-screenshots-for-2024/"><u>Streamlining Your Viewing Experience 6 Effective Mac Strategies for Netflix Screenshots for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-manual-for-http-error-403-issues/"><u>The Ultimate Troubleshooting Manual for HTTP Error 403 Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-libradora-de-dvd-sin-coste-para-macos-big-sur-ranking-2020/"><u>Top 5 Libradora De DVD Sin Coste Para MacOS Big Sur: Ranking 2020</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-complete-now-typing-on-keyboard-works-properly/"><u>Troubleshoot Complete: Now Typing on Keyboard Works Properly</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-solving-error-0x80004005-a-comprehensive-walkthrough-to-fix-the-unspecified-issue/"><u>Understanding and Solving Error 0X80004005 - A Comprehensive Walkthrough to Fix the 'Unspecified' Issue</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unravel-the-power-of-live-streaming-with-obs-on-youtube-and-twitch-for-2024/"><u>Unravel the Power of Live Streaming with OBS on YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide/"><u>Updated 2024 Approved Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-sourcebook-on-valheim-farming-techniques/"><u>[Updated] 2024 Approved The Ultimate Sourcebook on Valheim Farming Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-time-honored-vhs-hacks-a-curators-choice-of-visual-tricks/"><u>[Updated] In 2024, Time-Honored VHS Hacks A Curator’s Choice of Visual Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-of-effective-online-streaming/"><u>Behind the Scenes of Effective Online Streaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ructing-captivating-youtube-music-selections/"><u>Constructing Captivating YouTube Music Selections</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-geforce-experience-error-how-to-restore-missing-configuration/"><u>Fixing GeForce Experience Error: How to Restore Missing Configuration</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-microsoft-print-to-pdf-problem-on-windows-11-devices/"><u>How To Troubleshoot 'Microsoft Print to PDF' Problem on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/is-d3d-device-loss-causing-unreal-to-exit/"><u>Is D3D Device Loss Causing Unreal to Exit?</u></a></li>
+<li><a href="https://common-error.techidaily.com/noise-returns-fix-for-laptops-missing-headset-echoes/"><u>Noise Returns: Fix for Laptop's Missing Headset Echoes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722774837193-osteoblastic-lesions-are-characterized-by-new-bone-formation-as-a-response-to-metastatic-tumors/"><u>Osteoblastic Lesions Are Characterized by New Bone Formation as a Response to Metastatic Tumors</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-setting-synchronization-on-geforce-software/"><u>Overcoming Challenges with Setting Synchronization on GeForce Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-repair-guide-solving-your-astro-a20-microphone-issues/"><u>Simple Repair Guide: Solving Your Astro A20 Microphone Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-admin-duties-with-windows-powershell-for-just-16-discover-the-secrets-at-zdnet/"><u>Streamline Your Admin Duties with Windows PowerShell for Just $16 | Discover the Secrets at ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-update-alert-do-you-need-a-d3d11-compatible-graphics-card-for-optimal-performance/"><u>System Update Alert: Do You Need a D3D11 Compatible Graphics Card for Optimal Performance?</u></a></li>
+<li><a href="https://common-error.techidaily.com/technological-troubleshooting-pc-cant-cut-the-snooze/"><u>Technological Troubleshooting: PC Can't Cut the Snooze</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-restoring-windows-11s-corrupt-data-files/"><u>The Ultimate Guide to Restoring Windows 11'S Corrupt Data Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallet-options-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallet Options : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-power-of-iphones-high-dynamic-range/"><u>Unlocking the Power of iPhone's High Dynamic Range</u></a></li>
 </ul></div>
 

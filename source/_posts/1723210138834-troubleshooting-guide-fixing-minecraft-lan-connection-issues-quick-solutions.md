@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions!"
-date: 2024-09-10T14:36:53.656Z
-updated: 2024-09-15T03:52:10.488Z
+date: 2025-02-08T17:24:28.229Z
+updated: 2025-02-10T16:56:57.149Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26077d5f666.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then see if the “javaw.exe” is checked. If it’s not checked, click the**Change settings** button then check the box next to “javaw.exe”. If you see more than one “javaw.exe” entry, check all of them. Also, ensure the Private box and the Public box are checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260821a6772.png)
@@ -78,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it with the Free version, but it’s partly manual.
 
  After updating the network drivers, check to see if the LAN not working issue is resolved.
@@ -85,16 +93,7 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Ensure every computer is connected to the same network
@@ -106,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 If this method doesn’t work for you, try other solutions.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Ensure everyone is running the same version of Minecraft
 
@@ -142,6 +134,10 @@ If this method doesn’t work for you, try other methods.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Try a direct connect
 
  One way to fix the LAN not working issue is to try a direct connection on the host computer. It requires you to manually enter the IP address and the game port.
@@ -154,15 +150,16 @@ If this method doesn’t work for you, try other methods.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260a9e41a12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Type ipconfig and press the Enter key on your keyboard** . Then you’ll get a list of information about the network.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260ad5f1c53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4)**Find the IPv4 Address** which usually means the IP address for that computer.
@@ -171,6 +168,10 @@ If this method doesn’t work for you, try other methods.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b16d6474.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Secondly** , you need to get the game port. As soon as you launch Minecraft on the host computer, you can get the game port number at the bottom of the screen as follows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b667f112.jpg)
@@ -178,13 +179,6 @@ If this method doesn’t work for you, try other methods.
  If you see a screen like the one below, click the**Direct Connect** button then enter the IP address and the game port number.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b918466d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method doesn’t work for you, try other methods.
 
@@ -195,13 +189,6 @@ If this method doesn’t work for you, try other methods.
  Mods can make the player look different in the game, but they also can cause problems, such as LAN not working. If you’re using Mods, you can try to play the game without them. Then check to see if the problem is resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Disable AP Isolation (for WiFi only)
 
@@ -235,5 +222,26 @@ You also like…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-master-iphone-motion-blur-effects-in-images/"><u>[New] In 2024, Master iPhone Motion-Blur Effects in Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-through-the-premier-10-image-stock-websites/"><u>[New] Navigating Through the Premier 10 Image Stock Websites</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-best-ways-to-optimize-instagram-highlights-for-your-business/"><u>[New] Top 10 Best Ways to Optimize Instagram Highlights for Your Business</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-airwaves-to-archives-expert-tips-on-recording-live-streams/"><u>[Updated] From Airwaves to Archives Expert Tips on Recording Live Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better-in-2024/"><u>[Updated] GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unlocking-a-world-of-possibits-with-macbook-airs-screen-recording-feature/"><u>[Updated] In 2024, Unlocking a World of Possibits with MacBook Air's Screen Recording Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-solution-to-total-war-rome-remastered-game-crashing-issues/"><u>Complete Solution To Total War Rome Remastered Game Crashing Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-for-your-steelseries-x70-pen-clicker-problems-a-complete-fixing-manual/"><u>Comprehensive Solution for Your SteelSeries X70 Pen Clicker Problems: A Complete Fixing Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-bluetooth-woes-on-windows-11-top-strategies/"><u>Fix Your Bluetooth Woes on Windows 11 - Top Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-device-managers-troublesome-code-28-error-expert-tips-and-solutions/"><u>Fixing Windows Device Manager's Troublesome Code 28 Error: Expert Tips and Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-google-pixel-8-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Google Pixel 8? Try These Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-zte-axon-40-lite-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My ZTE Axon 40 Lite Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205734293-netflix-streaming-made-better-no-more-pauses-or-lag-fix-your-device-today/"><u>Netflix Streaming Made Better: No More Pauses or Lag – Fix Your Device Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-playback-errors-with-dvds-on-windows-systems/"><u>Overcoming Playback Errors with DVDs on Windows Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1687915-9781583947920-the-ayahuasca-test-pilots-handbook/"><u>The Ayahuasca Test Pilots Handbook | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-experts-picks-for-high-quality-vector-websites/"><u>The Expert's Picks for High-Quality Vector Websites</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-troubleshooting-and-repairing-error-occurred-during-setup-messages-when-reinstalling-windows-10/"><u>Tips for Troubleshooting and Repairing 'Error Occurred During Setup' Messages When Reinstalling Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-processor-use-in-windows-11-tackling-the-iastordatasvc-32-bit-overload-problem/"><u>Troubleshooting Excessive Processor Use in Windows 11: Tackling the IAStorDataSvc (32 Bit) Overload Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-your-windows-cant-connect-to-sensvc-services/"><u>Troubleshooting Guide: Why Your Windows Can't Connect to SENSVc Services</u></a></li>
+</ul></div>
 

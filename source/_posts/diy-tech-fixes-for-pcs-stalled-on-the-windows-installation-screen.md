@@ -1,7 +1,7 @@
 ---
 title: DIY Tech Fixes for PCs Stalled on the Windows Installation Screen
-date: 2024-09-18T17:04:58.182Z
-updated: 2024-09-20T16:48:36.802Z
+date: 2025-02-06T21:58:30.857Z
+updated: 2025-02-10T22:08:48.550Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Reset this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698a2bd825b.png)
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 **5)** Select**Keep my files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698ae3d7538.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click**Cancel** . (No, you don’t need to reset your computer. Just click**Cancel** .)
 
@@ -76,11 +84,19 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a699954165bf.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to each of your devices to download the latest and correct driver for this device. You can also click the Update All button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6999d636954.jpg)
 
 **4)** Restart your computer, then you have already had the latest drivers installed on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Run the Windows account creation wizard
 
@@ -91,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 **2)**  Type “_**cd %windir%/system32/oobe/**_ ” and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c48a959cce0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Type “_**msoobe**_ ” and press**Enter** on your keyboard.
 
@@ -103,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 ## Method 3: Reinstall your system without activating it
 
  Sometimes the error occurs when you are trying to install a specific version of Windows (such as Windows 10 Education). In this case, you can try reinstalling your system. But this time you should choose to install the Home version and don’t activate it during the installation. After the installation completes, use the product key to activate your system. It should run fine at this time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Find another source of installation media
 
@@ -130,5 +143,22 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-a-comprehensive-look-at-ffpm-your-pip-guide-for-2024/"><u>[Updated] A Comprehensive Look at FFPM Your PIP Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-ground-to-greatness-photos-on-a-stretch-for-2024/"><u>[Updated] From Ground to Greatness Photos on a Stretch for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-non-gamebar-recorders-best-tools-for-game-capture/"><u>2024 Approved Non-GameBar Recorders Best Tools for Game Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-between-vlc-and-mx-for-video-enjoyment-for-2024/"><u>Choosing Between VLC and MX for Video Enjoyment for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnostics-policy-service-is-not-running-solved/"><u>Diagnostics Policy Service Is Not Running [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-port-reset-failed-when-your-usb-isnt-working-on-windows-11/"><u>Fixing 'Port Reset Failed' When Your USB Isn’t Working on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-disparate-pixels-constructing-splendid-imagery-weaves/"><u>From Disparate Pixels Constructing Splendid Imagery Weaves</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-past-the-never-ending-startup-loop-in-valorant-tips-and-solutions/"><u>How to Get Past the Never-Ending Startup Loop in Valorant: Tips and Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-privacy-a-detailed-guide-to-facebook-settings/"><u>Maximizing Privacy: A Detailed Guide to Facebook Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-for-pc-overcoming-crash-errors-and-ensuring-smooth-gameplay/"><u>Oddworld: Soulstorm for PC – Overcoming Crash Errors & Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-gaming-experience-on-windows-11-steelseries-engine-software-now-available-for-download/"><u>Optimize Your Gaming Experience on Windows 11 - SteelSeries Engine Software Now Available for Download</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015963111-overcoming-speakers-not-connected-errors-on-your-pc-running-windows-11-8-or-7-expert-tips-included/"><u>Overcoming 'Speakers Not Connected' Errors on Your PC Running Windows 11, 8 or 7 - Expert Tips Included!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-loading-player-without-found-sources-for-windows-users/"><u>Troubleshooting Error Loading Player Without Found Sources for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-connecting-your-microsoft-dp-adapter-in-windows-10/"><u>Troubleshooting Guide: Connecting Your Microsoft DP Adapter in Windows 10</u></a></li>
+</ul></div>
 

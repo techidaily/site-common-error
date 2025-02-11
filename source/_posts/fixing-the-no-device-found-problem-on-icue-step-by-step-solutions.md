@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'No Device Found' Problem on ICUE: Step-by-Step Solutions"
-date: 2024-09-16T16:03:49.195Z
-updated: 2024-09-20T18:57:46.588Z
+date: 2025-02-04T07:24:22.864Z
+updated: 2025-02-10T18:03:22.162Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
@@ -43,6 +47,10 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
@@ -62,15 +70,17 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -88,15 +98,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
@@ -130,5 +138,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-transform-your-footage-a-complete-youtube-studio-editing-course/"><u>[New] In 2024, Transform Your Footage A Complete YouTube Studio Editing Course</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-which-ios-video-editor-excels-more-cameo-or-filmorago/"><u>[Updated] In 2024, Which iOS Video Editor Excels More Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://techidaily.com/advanced-integration-expanding-capabilities-with-third-party-tools-in-the-abbyy-cloud-ocr-ecosystem/"><u>Advanced Integration: Expanding Capabilities with Third-Party Tools in the ABBYY Cloud OCR Ecosystem</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-p55-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from P55 5G.</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-failed-steam-update-downloads-a-step-by-step-tutorial/"><u>Diagnosing & Fixing Failed Steam Update Downloads - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-encountering-error-800-with-your-vpn-setup-a-dual-side-approach/"><u>Effective Fixes for Encountering Error 800 with Your VPN Setup: A Dual-Side Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-configure-your-drivers-when-you-encounter-set-user-settings-to-driver-failed/"><u>How to Correctly Configure Your Drivers When You Encounter 'Set User Settings To Driver Failed'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-seamlessly-sync-your-iphone-pictures-with-a-mac-a-guide-with-10-tips/"><u>How to Seamlessly Sync Your iPhone Pictures with a Mac: A Guide with 10 Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>In 2024, Maximizing Memories The Ultimate Guide for Overwatch Players</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/low-cpu-strategies-for-streamlined-operation-of-windows-driver-foundation-components/"><u>Low-CPU Strategies for Streamlined Operation of Windows Driver Foundation Components</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202981193-operating-system-not-found-or-missing-operating-system-error-fixed/"><u>Operating System Not Found Or Missing Operating System Error Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-crc-faults-in-your-data-transmission-now-solved/"><u>Overcoming CRC Faults in Your Data Transmission - Now Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-eliminate-recurring-system-lockups-on-your-laptop-or-desktop/"><u>Troubleshoot and Eliminate Recurring System Lockups on Your Laptop or Desktop</u></a></li>
+</ul></div>
 

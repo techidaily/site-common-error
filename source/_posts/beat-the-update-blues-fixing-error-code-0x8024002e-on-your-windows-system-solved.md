@@ -1,7 +1,7 @@
 ---
 title: "Beat the Update Blues: Fixing Error Code 0X8024002e on Your Windows System [SOLVED]"
-date: 2024-09-19T17:43:20.834Z
-updated: 2024-09-20T17:52:09.532Z
+date: 2025-02-05T05:37:57.646Z
+updated: 2025-02-11T02:12:49.335Z
 tags:
   - win11
   - win10
@@ -41,6 +41,11 @@ Here’s what you can do:
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
@@ -84,14 +89,16 @@ If the Windows Update error persists, move on to the second method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually
@@ -101,15 +108,17 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
@@ -132,10 +141,7 @@ sfc /scannow
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
@@ -162,5 +168,21 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-video-segmentation-techniques/"><u>[New] In 2024, Effortless Video Segmentation Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-secrets-to-keeping-online-interactions-safe/"><u>[New] In 2024, Secrets to Keeping Online Interactions Safe</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-avoiding-common-pitfalls-in-rl-gameplay-recordings/"><u>[Updated] 2024 Approved Avoiding Common Pitfalls in RL Gameplay Recordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-leading-speed-change-audio-utilities-list/"><u>[Updated] Leading Speed-Change Audio Utilities List</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-lost-bluetooth-connectivity-in-windows-11-steps-for-swift-resolution/"><u>Guide to Fixing Lost Bluetooth Connectivity in Windows 11: Steps for Swift Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-update-issues-the-ultimate-solution-unveiled/"><u>Overcome Windows Update Issues - The Ultimate Solution Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-steam-store-access-hurdle-expert-advice-on-restoring-functionality/"><u>Overcoming the Steam Store Access Hurdle: Expert Advice on Restoring Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-address-windows-task-sequence-fails-0x8007000f/"><u>Quick Fixes to Address Windows Task Sequence Fails 0X8007000F</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211227468-solve-your-laptops-usb-mouse-problem-with-these-effective-tips/"><u>Solve Your Laptop's USB Mouse Problem with These Effective Tips!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/speed-masterclass-turning-images-into-attention-grabbing-youtube-thumbnails/"><u>Speed Masterclass Turning Images Into Attention-Grabbing YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-joining-an-icloud-shared-photo-library/"><u>Step-by-Step Guide: Joining an iCloud Shared Photo Library</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-repair-windows-11-update-problems-code-0x80240034/"><u>Step-by-Step Solutions to Repair Windows 11 Update Problems: Code 0X80240034</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-windows-1903-update-issues/"><u>Troubleshooting Tips: Resolving Windows 1903 Update Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722881111596-why-isnt-my-yahoo-mail-getting-new-messages-heres-how-to-fix-it/"><u>Why Isn't My Yahoo Mail Getting New Messages? Here's How to Fix It!</u></a></li>
+</ul></div>
 

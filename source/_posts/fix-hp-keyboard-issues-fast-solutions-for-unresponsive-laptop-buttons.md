@@ -1,7 +1,7 @@
 ---
 title: Fix HP Keyboard Issues Fast - Solutions for Unresponsive Laptop Buttons
-date: 2025-01-24T19:28:35.386Z
-updated: 2025-01-30T06:39:21.674Z
+date: 2025-02-06T00:57:38.576Z
+updated: 2025-02-11T00:39:50.851Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,10 +43,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -60,6 +52,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -75,13 +71,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -90,7 +86,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -126,13 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -149,6 +145,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,17 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-social-media-labyrinth-for-virality/"><u>[New] 2024 Approved Mastering the Social Media Labyrinth for Virality</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-harmonious-hits-where-to-find-rare-ringtone-files/"><u>[New] Harmonious Hits Where to Find Rare Ringtone Files</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-youtube-promotion-26-effective-techniques/"><u>[New] In 2024, Mastering YouTube Promotion 26 Effective Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-jocular-joke-crafting-a-step-by-step-guide-to-memelore/"><u>[Updated] Jocular Joke-Crafting A Step-by-Step Guide to Memelore</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-amplify-your-iphones-secrets-to-great-silhouettes/"><u>2024 Approved Amplify Your iPhones Secrets to Great Silhouettes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-wacom-pen-to-work-again-in-windows-11-and-10/"><u>How To Get Your Wacom Pen to Work Again in Windows 11 & 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>In 2024, Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/managing-and-fixing-peak-cpu-consumption-in-windows-speaker-setup/"><u>Managing and Fixing Peak CPU Consumption in Windows Speaker Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/swift-tips-and-techniques-to-correct-the-steam-disk-writing-problem/"><u>Swift Tips & Techniques to Correct the Steam Disk Writing Problem</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-comprehensive-guide-to-discord-spoiler-tags/"><u>The Comprehensive Guide to Discord Spoiler Tags</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-windows-11s-failed-pdf-printer-functionality/"><u>Troubleshoot and Solve Windows 11'S Failed PDF Printer Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-optimization-complete-how-to-fix-your-laggy-keyboard-experience/"><u>Windows 11 Optimization Complete – How to Fix Your Laggy Keyboard Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-learn-the-basics-of-digital-distortion/"><u>[New] 2024 Approved Learn the Basics of Digital Distortion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-cinematic-blackout-premiere-pro-guide/"><u>[New] Cinematic Blackout - Premiere Pro Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-evergreen-most-watched-video-catalog/"><u>[Updated] YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-seamless-conversations-with-chat-gpt-expert-insights-and-review-on-the-leading-ai-bot-in-chat-technology/"><u>Experience Seamless Conversations with Chat GPT: Expert Insights and Review on the Leading AI Bot in Chat Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-power-up-choosing-between-directx-11-and-12/"><u>Graphics Power Up: Choosing Between DirectX 11 & 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-15-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 15 Pro Max without Password?</u></a></li>
+<li><a href="https://common-error.techidaily.com/issue-with-windows-11-version-1607-upgrade-failed-update-and-possible-solutions/"><u>Issue with Windows 11 Version 1607 Upgrade: Failed Update and Possible Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/long-talks-short-wait-unveiling-jabra-talk-25-specs/"><u>Long Talks, Short Wait: Unveiling Jabra Talk 25 Specs</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-headphone-woes-dealing-with-logitech-g930-outages/"><u>Solve Your Headphone Woes: Dealing with Logitech G930 Outages</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-ranked-ringtones-to-enhance-your-call-experience/"><u>Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-corrective-steps-for-damaged-windows-marketplace-cache-files/"><u>Troubleshooting and Corrective Steps for Damaged Windows Marketplace Cache Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-a-frozen-overwatch-voice-chat-steps-for-instant-resolution/"><u>Unstick a Frozen Overwatch Voice Chat: Steps for Instant Resolution</u></a></li>
 </ul></div>
 

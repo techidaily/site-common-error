@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Unfreezing Your PC When Running Windows 11
-date: 2025-01-28T00:06:26.668Z
-updated: 2025-01-30T03:05:03.053Z
+date: 2025-02-09T20:12:47.138Z
+updated: 2025-02-10T22:36:52.254Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ Your**Windows Store** has been acting up recently.
 3. **[Reinstall Microsoft store](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reset the Windows Store cache
@@ -50,23 +50,19 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Windows Store cache may be damaged error have been fixed. If yes, then great! If it remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Create a new Windows Store cache folder
 
@@ -77,16 +73,12 @@ Your**Windows Store** has been acting up recently.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae96c7d1dc08.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Copy & paste **windowsstore** into the search box and double-click on **Microsoft.WindowsStore\_8wekyb3d8bbwe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
 
@@ -107,6 +99,10 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
@@ -118,6 +114,10 @@ Your**Windows Store** has been acting up recently.
  4) Restart your computer and check if the problem has been sorted out.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Want us to fix the problem for you?
 
@@ -142,22 +142,18 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-audiences-choice-prime-action-recorder/"><u>[Updated] 2024 Approved Audience's Choice Prime Action Recorder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-strategic-plan-for-top-tier-advertising-results/"><u>[Updated] A Strategic Plan for Top-Tier Advertising Results</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-android-enthusiasts-winning-list-updated-top-10-fb-video-downloaders-for-2024/"><u>[Updated] Android Enthusiasts Winning List Updated Top 10 FB Video Downloaders for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-novices-pathway-to-writing-youtube-video-plans/"><u>2024 Approved A Novice's Pathway to Writing YouTube Video Plans</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-resource-limits-exceeded-error-messages/"><u>Comprehensive Fixes for 'Resource Limits Exceeded' Error Messages</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/correctorpro-save-your-mp4s-and-movs/"><u>CorrectorPro: Save Your MP4s & MOVs</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-how-to-troubleshoot-and-fix-werfaultexe-issues-on-windows-pcs/"><u>Effective Strategies: How To Troubleshoot and Fix werfault.exe Issues On Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-repairing-broken-ethernet-connections-for-windows-117-users/"><u>Expert Tips: Repairing Broken Ethernet Connections for Windows 11/7 Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/harvest-heartbeats-top-farm-games-for-friendly-fun/"><u>Harvest Heartbeats Top Farm Games for Friendly Fun</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-how-to-use-picture-in-picture-mode-on-youtube-ios/"><u>In 2024, How to Use Picture-In-Picture Mode on YouTube (iOS)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-idevice-videography-tools/"><u>In 2024, Leading iDevice Videography Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-error-5-has-occurred-in-windows-1078-a-comprehensive-guide/"><u>Resolving 'Error 5 Has Occurred' In Windows 10/7/8 - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-step-by-step-guide-to-fixing-windows-update-error-code-0x8024402c/"><u>Resolving the Issue: Step-by-Step Guide to Fixing Windows Update Error Code 0X8024402C</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-usb-ports-fail-issues-for-windows-10-and-11-users/"><u>Solving 'USB Ports Fail' Issues for Windows 10 & 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-in-windows-10-how-to-restore-volume-controls/"><u>Troubleshooting Audio Issues in Windows 10 - How to Restore Volume Controls</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-mystery-of-the-windows-error-code-0xc00000e9/"><u>Ultimate Guide: Solving the Mystery of the Windows Error Code 0xC00000E9</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-steps-for-effective-screen-capture-in-adobe-captivity-for-2024/"><u>[New] Essential Steps for Effective Screen Capture in Adobe Captivity for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-3ip-apps-to-record-clear-speech-on-ipads/"><u>[New] In 2024, Best 3iP Apps to Record Clear Speech on iPads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-masterfb-mp4-hacking-facebook-videos-with-ease/"><u>[Updated] MasterFB-MP4 Hacking Facebook Videos with Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-360-degree-panoramic-shot-systems/"><u>2024 Approved 360 Degree Panoramic Shot Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-typing-experience-effective-fixes-for-lagging-keys-in-the-latest-windows-operating-system/"><u>Accelerate Your Typing Experience: Effective Fixes for Lagging Keys in the Latest Windows Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-analysis-techniques-unlocking-the-potential-of-gpt-3/"><u>Cutting-Edge Analysis Techniques: Unlocking the Potential of GPT-3</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-svchostexe-overusing-system-resources-on-windows-11/"><u>Effective Fixes for svchost.exe Overusing System Resources on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-0x8024402c-a-step-by-step-guide/"><u>Fixing Windows Update Error 0X8024402C: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-av1-your-initial-journey-for-2024/"><u>Navigating AV1 Your Initial Journey for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-process-for-reverting-your-pc-from-windows-881-back-to-windows-7-pro-version/"><u>Step-by-Step Process for Reverting Your PC From Windows 8/8.1 Back to Windows 7 Pro Version</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-repairing-itbm-driver-accessibility-problems/"><u>Troubleshooting and Repairing ITBM Driver Accessibility Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-for-pc-to-prevent-system-freezes/"><u>Troubleshooting Nier: Automata for PC to Prevent System Freezes</u></a></li>
 </ul></div>
 

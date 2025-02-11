@@ -1,7 +1,7 @@
 ---
 title: Easy Fix for Explorer Crash
-date: 2025-01-25T04:02:34.803Z
-updated: 2025-01-29T19:55:48.609Z
+date: 2025-02-07T08:41:50.701Z
+updated: 2025-02-11T05:27:40.209Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -66,15 +58,15 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
 
  If you see a**down arrow** next to your battery, that means your battery is disabled. You need to right-click your battery and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
 
@@ -94,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-28.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
@@ -106,12 +94,16 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-53.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process to be complete. If your computer fails to fix your problem, check **[fix 4](https://tools.techidaily.com/drivereasy/download/)**  to see if it can help.  
@@ -123,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**Power,** and then click**Run the troubleshooter** .
@@ -147,12 +139,16 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Update button** next to the battery driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
@@ -204,21 +204,19 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-draft-distinctive-visual-identities-from-templates-for-free/"><u>[New] 2024 Approved Draft Distinctive Visual Identities From Templates for Free</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tech-top-10-webcam-recorders-in-win-11/"><u>[New] Essential Tech Top 10 Webcam Recorders in Win 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-sync-your-mac-visuals-with-acoustic-backup-for-2024/"><u>[New] Sync Your Mac Visuals with Acoustic Backup for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quality-microphone-recorders-for-mac-devices-our-five-choices-revealed/"><u>[Updated] Quality Microphone Recorders for Mac Devices Our Five Choices Revealed</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/winx-hd-video-converter-for-mac/"><u>詳細解析: WinX HD Video Converter for Macの最新バージョンアップ履歴分析</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-nonfunctioning-microphone-on-your-laptop-a-comprehensive-guide/"><u>How to Fix a Nonfunctioning Microphone on Your Laptop: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix ?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-f04-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy F04 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-sound-hiccups-in-windows-7-a-guide-to-restarting-the-audio-service/"><u>Overcoming Sound Hiccups in Windows 7: A Guide to Restarting the Audio Service</u></a></li>
-<li><a href="https://win-great.techidaily.com/quick-and-easy-methods-for-backing-up-an-external-drive-onto-a-secondary-external-device/"><u>Quick and Easy Methods for Backing Up an External Drive Onto a Secondary External Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-why-your-western-digital-my-passport-ultra-shows-as-undetectable-on-windows/"><u>Resolving the Issue: Why Your Western Digital My Passport Ultra Shows as Undetectable on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-for-non-writable-status-of-0x-location-in-computers-memory/"><u>Solution Found for Non-Writable Status of 0X Location in Computer's Memory</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-why-are-my-desktop-icons-not-showing-up-in-windows-11/"><u>Solved: Why Are My Desktop Icons Not Showing Up in Windows 11?</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-crashing-oddworld-soulstorm-on-your-windows-machine/"><u>Ultimate Fixes for Crashing Oddworld: Soulstorm on Your Windows Machine</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-amplify-your-anonymity-on-skype-with-essential-voice-alteration-utilities/"><u>Updated In 2024, Amplify Your Anonymity on Skype with Essential Voice Alteration Utilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/win11-stability-issues-constant-restarts/"><u>Win11 Stability Issues: Constant Restarts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlocking-creativity-top-20-vlogger-themes/"><u>[New] 2024 Approved Unlocking Creativity Top 20 Vlogger Themes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-silliest-stories-on-twitter/"><u>[New] In 2024, Silliest Stories on Twitter</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-usb-to-hdmi-adapter-not-working/"><u>[SOLVED] USB to HDMI Adapter Not Working</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>[Updated] 2024 Approved Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-pcs-shutdown-time-with-these-tips-for-windows-11-users/"><u>Accelerate Your PC's Shutdown Time with These Tips for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmark-breakdown-intel-core-i7-258v-vs-ryzen-phoenix-processors-bapco-performance-rankings-unveiled/"><u>Benchmark Breakdown: Intel Core I7-258V vs Ryzen Phoenix Processors – BAPCO Performance Rankings Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-silent-microphone-problem-in-your-corsair-hs50-setup/"><u>Diagnosing and Fixing the Silent Microphone Problem in Your Corsair HS50 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-malfunctioning-usb-hubs-on-windows-11-systems/"><u>Diagnosing and Repairing Malfunctioning USB Hubs on Windows 11 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-90-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor 90 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unraveling-youtubes-platform-for-content-crafting/"><u>In 2024, Unraveling YouTube’s Platform for Content Crafting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/number-1-in-the-elite-8-virtual-composite-maker/"><u>Number 1 in the Elite 8 Virtual Composite Maker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/weighing-up-the-advantages-of-applecare-plus-warranty-extension/"><u>Weighing Up the Advantages of AppleCare Plus Warranty Extension</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-mic-not-working-heres-how-to-solve-the-problem/"><u>Windows 10 Mic Not Working? Here's How to Solve the Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11s-troublesome-touchscreen-try-these-five-fixes/"><u>Windows 11'S Troublesome Touchscreen? Try These Five Fixes!</u></a></li>
 </ul></div>
 

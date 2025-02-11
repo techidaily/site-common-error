@@ -1,7 +1,7 @@
 ---
 title: Expert Strategies for Diagnosing and Fixing the LiveKernelEvent Error 117 Problem
-date: 2024-09-14T17:53:36.135Z
-updated: 2024-09-20T16:04:23.748Z
+date: 2025-02-06T20:48:05.754Z
+updated: 2025-02-11T04:09:23.671Z
 tags:
   - win11
   - win10
@@ -47,9 +47,18 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 2. Right-click on the programs you don’t need to run at the moment and click **End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7311c0152.jpg)
 3. After that, we can also prioritize PUBG. Click the**Details** tab, right-click on your**PUBG** and click**Set priority** \>**High** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Lower your game resolution
 
@@ -62,10 +71,7 @@ Running PUBG in a lower resolution can also help in fixing lag:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics drivers
@@ -86,13 +92,6 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -100,6 +99,10 @@ Running PUBG in a lower resolution can also help in fixing lag:
 5) Start a new game in PUBG to see if the PUBG lap problem has been resolved. If yes, then congrats! But if the issue persists, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change the power option and adjust for best performance
 
@@ -118,10 +121,7 @@ So to tweak the settings:
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
@@ -146,5 +146,20 @@ So to tweak the settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>[New] Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-risk-free-providers-of-popularity-boosts-on-tiktok/"><u>[Updated] Risk-Free Providers of Popularity Boosts on TikTok</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210426814-9781510769304-already-whole/"><u>Already Whole | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-headset-mic-errors-learn-how-to-fix-it-and-restore-sound/"><u>Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/easy-guide-on-archiving-your-wechat-messages-and-bringing-them-back/"><u>Easy Guide on Archiving Your WeChat Messages & Bringing Them Back</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-13-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 13 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hearthstone-slowness-bypass-lag-issues-using-simple-fixes/"><u>Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-nokia-130-music-by-fonelab-android-recover-music/"><u>How to restore wiped music on Nokia 130 Music</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212007420-troubleshoot-persistent-computer-hibernation-issues-with-easy-solutions/"><u>Troubleshoot Persistent Computer Hibernation Issues with Easy Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-auto-start-issues-in-windows-tenth-a-step-by-step-guide/"><u>Troubleshooting Auto-Start Issues in Windows Tenth: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-best.techidaily.com/tutoriel-convertissez-vos-fichiers-swf-en-formats-video-m4v-facilement-et-sans-frais-via-movavi/"><u>Tutoriel : Convertissez Vos Fichiers SWF en Formats Vidéo M4V Facilement Et Sans Frais via Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-error-0x800704cf-unraveled-tips-and-tricks-for-a-smooth-fix/"><u>WINDOWS Error 0X800704CF Unraveled – Tips & Tricks for a Smooth Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-startup-glitches-on-your-windows-10-device/"><u>Winning the Battle Against Startup Glitches on Your Windows 10 Device</u></a></li>
+</ul></div>
 

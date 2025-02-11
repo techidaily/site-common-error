@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Lenovo Keyboard Issues for Smooth Typing Experience
-date: 2024-09-16T16:26:39.470Z
-updated: 2024-09-20T19:21:41.569Z
+date: 2025-02-05T02:04:10.781Z
+updated: 2025-02-11T03:12:59.913Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 If you’re getting so frustrated that you have to type and then wait awfully long for your keyboard to slowly spit words out, don’t worry. Here’re 4 fixes that have helped other users resolve this**keyboard lag** problem, check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for Keyboard Lag
 
  All the fixes below work in**Windows 10** . You may not have to try all of them; just work your way down the list until the**keyboard lag** issue has been resolved.
@@ -25,6 +29,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. **[Run Hardware and Devices troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -47,9 +55,17 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -64,13 +80,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -89,15 +98,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
-**DISM.exe /Online /Cleanup-image /Restorehealth**  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**DISM.exe /Online /Cleanup-image /Restorehealth**  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -125,5 +132,26 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-zoom-innovation-3-game-changing-approaches-to-video-reformatting/"><u>[Updated] Zoom Innovation 3 Game-Changing Approaches to Video Reformatting</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-decoding-facebooks-video-mutes-your-2023-remedy-guide/"><u>2024 Approved Decoding Facebook's Video Mutes – Your 2023 Remedy Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204559833-arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/"><u>Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/detecting-unregistered-friends-list-for-2024/"><u>Detecting Unregistered Friends List for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-troubleshooting-windows-10-bluetooth-connection-issues-tip-guide/"><u>Effective Strategies: Troubleshooting Windows 10 Bluetooth Connection Issues (Tip Guide )</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-overcome-bluetooth-driver-glitches-on-windows-11-easily/"><u>How to Overcome Bluetooth Driver Glitches on Windows 11 Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-install-battleye-troubleshooting-guide/"><u>How to Seamlessly Install BattlEye - Troubleshooting Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reducing-volume-stealthily-on-computers-os-x-and-windows/"><u>In 2024, Reducing Volume Stealthily on Computers (OS X & Windows)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y28-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y28 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316672-9781401955243-mind-to-matter/"><u>Mind to Matter | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-hdmi-connectivity-issues-windows-10-wont-recognize-your-tv/"><u>Resolving HDMI Connectivity Issues: Windows 10 Won't Recognize Your TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-viewing-and-sharing-2024-summer-olympics-online/"><u>Step-by-Step Instructions on Viewing and Sharing 2024 Summer Olympics Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209040509-total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/"><u>Total War: Rome Remastered Crashes? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-restore-functionality-to-your-windows-11-start-menu/"><u>Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-livekernelevent-error-number-1e/"><u>Troubleshooting Techniques for LiveKernelEvent Error Number 1E</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-limited-system-capacity-error-a-comprehensive-guide/"><u>Understanding and Fixing the 'Limited System Capacity' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-c-runtime-framework-missing/"><u>Windows C Runtime Framework Missing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Reducing Microsoft Compatibility Telemetry's Impact on Disk Usage in Windows 10 Systems"
-date: 2024-09-19T17:57:29.438Z
-updated: 2024-09-20T16:10:50.576Z
+date: 2025-02-08T06:20:31.777Z
+updated: 2025-02-11T00:28:40.850Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Does this look familiar?
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Type **gpedit.msc**  and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279bde5ee8d.png)
@@ -49,6 +53,10 @@ Does this look familiar?
  3) Go to **Computer Configuration** \> **Administrative** **Templates** \>**Windows Components** \> **Data Collection and Preview Builds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279c6c18122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `
 ` `
@@ -99,6 +107,10 @@ Does this look familiar?
 ` `
 `
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Using Registry Editor
 
  1)On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
@@ -113,6 +125,10 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a4ede532e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Double-click**Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a53baa7f6.png)
@@ -125,14 +141,11 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a576ca320.jpg)
 
- 7) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 7) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.
 
 ### Method 3: Update your device drivers
 
@@ -151,18 +164,15 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae696a52856.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next toany flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6a0c3f690.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 PC.
 
@@ -194,5 +204,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rom-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free-for-2024/"><u>[New] From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-expert-advice-on-optimal-live-cricket-broadcast-watching/"><u>[New] In 2024, Expert Advice on Optimal Live Cricket Broadcast Watching</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unusual-message-content-finding-myself-online-for-2024/"><u>[New] Unusual Message Content Finding Myself Online for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-and-beyond-top-monitors-reviewed-editors-picks/"><u>2024 Approved Photoshop & Beyond Top Monitors Reviewed [Editors' Picks]</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0xc000007b-strikes-again-heres-how-to-successfully-launch-your-app/"><u>Error 0Xc000007b Strikes Again? Here's How to Successfully Launch Your App!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-error-0x887a0006-instantly-effortless-fix-techniques-unveiled/"><u>Fix Error 0X887A0006 Instantly: Effortless Fix Techniques Unveiled!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fun-flair-for-text-memes-with-easy-genrator/"><u>Fun Flair for Text Memes with Easy Gen'rator</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y100t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y100t Phone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unveiling-leading-10-free-subtitle-editors-for-srt-files/"><u>In 2024, Unveiling Leading 10 FREE Subtitle Editors for SRT Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pc-settings-disable-your-laptops-touchpad-when-a-mouse-is-plugged-into-win11-systems/"><u>Mastering PC Settings: Disable Your Laptop's Touchpad when a Mouse Is Plugged Into Win11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203366895-solve-your-bluetooth-woes-windows-11-wireless-fixes-and-tips-for-pairing-success/"><u>Solve Your Bluetooth Woes: Windows ˈ11 Wireless Fixes and Tips for Pairing Success!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-spectrum-of-virtuality-from-meta-to-omniverse-explored-for-2024/"><u>The Spectrum of Virtuality From Meta to Omniverse Explored for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-perpetually-halted-100-in-windows-update/"><u>Troubleshooting Guide: Resolving Perpetually Halted 100% in Windows Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-code-0x80070643-your-ultimate-fix-guide-for-windows-updates-and-installation-hiccups/"><u>Unraveling Code 0X80070643: Your Ultimate Fix Guide for Windows Updates and Installation Hiccups</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-free-whiteboard-animation-tools-for-windows-and-mac-for-2024/"><u>Updated Top 10 Free Whiteboard Animation Tools for Windows and Mac for 2024</u></a></li>
+</ul></div>
 

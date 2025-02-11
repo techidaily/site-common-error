@@ -1,7 +1,7 @@
 ---
 title: "Windows 11/10 Users' Guide: Diagnose and Cure Wireless Mouse Issues Quickly & Effectively"
-date: 2024-09-14T19:00:20.133Z
-updated: 2024-09-20T16:33:01.050Z
+date: 2025-02-09T00:16:27.245Z
+updated: 2025-02-10T23:11:03.878Z
 tags:
   - win11
   - win10
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
 
  If your account type is not**administrator** , sign out of this account and log into an administrator account, or ask the administrator of this computer to log on for you.
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6d83cc0b80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Change** to change the owner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8535558e4e.jpg)
@@ -73,9 +81,17 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6f33e53abc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** If you want to take the ownership of all the files and subfolders in this folder, select the check box of **Replace all child object permission entries with inheritable permission entries from this object.** Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e852da485ce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click**OK** to save the changes and close the Properties dialog.
 
@@ -101,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fe2f135c8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Type the account name you are using into the box under**Enter the object name to select** . Then click the**Check Names** button (to let the computer to enter the complete object name for you). After that, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6ff37346ff.png)
@@ -112,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 **7)** Click**OK** to apply the changes and close the settings window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e81a3f86626.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Click**OK** to apply the changes and close the Properties dialog.
 
@@ -129,7 +153,15 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e37bce76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
@@ -145,6 +177,10 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6d7b9e5fd1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Security** tab, and then the**Edit** button. This will open the Permissions dialog for this file or folder, which allows you to change the permissions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e822552e434.png)
@@ -156,6 +192,10 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 **4)** Click**OK** to apply all the changes and close the Properties dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8249a9c44d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  If this method works for you, you won’t get the access denied error when you try to open or modify the file or folder.  
   
@@ -178,12 +218,26 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>[New] Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-next-step-in-virtual-reality-jaunt-vr-review-for-2024/"><u>[New] The Next Step in Virtual Reality Jaunt VR Review for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-4k-monitors-showdown-top-10-picks/"><u>[Updated] 4K Monitors Showdown Top 10 Picks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-achieve-aesthetic-11-best-instagram-enhancers/"><u>[Updated] In 2024, Achieve Aesthetic 11 Best Instagram Enhancers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-master-the-switch-linking-instagram-with-facebook/"><u>[Updated] In 2024, Master the Switch Linking Instagram with Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-laughter-lab-virtually/"><u>[Updated] Laughter Lab Virtually</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-saving-gifs-from-twitter-ios-and-android-guide-for-2024/"><u>[Updated] Saving GIFs From Twitter IOS & Android Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-mistyped-letters-on-your-keyboard-a-comprehensive-guide/"><u>Fixing Mistyped Letters on Your Keyboard - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-broken-windows-11-start-menu-easy-solutions-steps/"><u>Fixing the Broken Windows 11 Start Menu - Easy Solutions Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-the-absence-of-an-audio-hardware-device-on-your-windows-pc/"><u>How to Address the Absence of an Audio Hardware Device on Your Windows PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-highest-hits-facebooks-favorite-videos/"><u>In 2024, Highest Hits Facebook's Favorite Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/instantly-boost-youtube-performance-master-render-and-upload/"><u>Instantly Boost YouTube Performance - Master Render and Upload</u></a></li>
+<li><a href="https://win-blog.techidaily.com/itunes-error-resolved-pandora-points-out-potential-trouble-with-your-audio-settings/"><u>ITunes Error Resolved: Pandora Points Out Potential Trouble with Your Audio Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-mouse-troubleshooting-steps-to-fix-a-defective-scroll-feature/"><u>Logitech Mouse Troubleshooting: Steps to Fix a Defective Scroll Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-solution-for-windows-10-restart-problems-during-shutdown-process/"><u>Mastering the Solution for Windows 10 Restart Problems During Shutdown Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-wi-fi-troubleshooting-for-undetectable-options-on-windows-11-devices/"><u>Mastering Wi-Fi Troubleshooting for Undetectable Options on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-unstick-preparing-to-configure-in-windows-setup/"><u>Resolved: Step-by-Step Guide to Unstick 'Preparing to Configure' In Windows Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Excessive CPU Consumption Caused by wudfhost.exe on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208059729-step-by-step-troubleshooting-keep-your-mouse-connected-finally/"><u>Step-by-Step Troubleshooting: Keep Your Mouse Connected, Finally</u></a></li>
+</ul></div>
 

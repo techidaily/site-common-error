@@ -1,7 +1,7 @@
 ---
 title: "Fix: Windows 11 Display Dimming Issues Resolved"
-date: 2025-01-27T19:52:47.473Z
-updated: 2025-01-29T21:26:52.743Z
+date: 2025-02-04T21:21:53.134Z
+updated: 2025-02-11T05:59:15.916Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Change your monitor settings
 
  As suggested in the error message, you can change your input timing to the specific resolution and refresh rate (in my case it’s**1920×1080@60Hz** ) or any other monitor listed timing as per monitor specifications. So you should change these monitor settings to match.
@@ -59,21 +55,25 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
@@ -95,11 +95,15 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3de95308b.png)
 2. Change**Resolution** to the specific resolution (in my case I choose**1080×1920** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
 3. Click**Apply** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
@@ -120,14 +120,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restart your computer in normal mode and see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update graphics card driver
@@ -156,7 +152,7 @@ Restart your computer in normal mode and see if it works.
  This should fix your problem. Still no luck? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Boot your computer in low-resolution mode
@@ -183,17 +179,21 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
 
@@ -228,22 +228,24 @@ Restart your computer in normal mode and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-hidden-narrators-of-fb-nuggets/"><u>[New] 2024 Approved Hidden Narrators of FB Nuggets</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-deleting-facebook-stories-laptop-and-mobile-guide-for-2024/"><u>[New] Deleting Facebook Stories Laptop & Mobile Guide for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-exploring-all-facets-of-adobes-digital-data-vaulting-with-best-alternates-at-hand/"><u>[New] Exploring All Facets of Adobe's Digital Data Vaulting, With Best Alternates at Hand</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-smartphone-filmmakers-handbook-for-youtube-thumbnails/"><u>[New] The Ultimate Smartphone Filmmaker's Handbook for YouTube Thumbnails</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-input-not-supported-on-monitor/"><u>[SOLVED] Input Not Supported on Monitor</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-how-to-add-timestamps-youtube-video-in-2024/"><u>[Updated] How to Add Timestamps YouTube Video, In 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-non-youtube-video-editing-discover-the-top-5-newcomers/"><u>[Updated] Non-YouTube Video Editing Discover the Top 5 Newcomers</u></a></li>
-<li><a href="https://common-error.techidaily.com/arctis-5-gaming-headset-mic-not-working-heres-how-to-fix-it/"><u>Arctis 5 Gaming Headset Mic Not Working? Here's How to Fix It</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-challenge-of-accidental-keystrokes-and-typos/"><u>Overcome the Challenge of Accidental Keystrokes and Typos</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-fixing-the-overwhelming-network-consumption-of-svchostexe-netsvcs/"><u>Solution Guide: Fixing the Overwhelming Network Consumption of svchost.exe (Netsvcs)</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-unsupported-miracast-reception-on-your-device-issue-top-5-tips-for-2e4/"><u>Solving the 'Unsupported Miracast Reception on Your Device' Issue: Top 5 Tips for 2E4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-crafting-chatgpt-prompts-for-the-gym-enthusiasts/"><u>The Ultimate Guide to Crafting ChatGPT Prompts for the Gym Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-90-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor 90 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-cant-i-open-stardew-valley/"><u>Troubleshooting Guide - Why Can't I Open Stardew Valley?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-dealing-with-printer-driver-not-installed/"><u>Troubleshooting Step-by-Step: Dealing with 'Printer Driver Not Installed'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-a-non-responsive-usb-mouse-with-your-laptop/"><u>Troubleshooting: How to Fix a Non-Responsive USB Mouse with Your Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstuck-your-destiny-ngame-solutions-for-the-persistent-initialization-problem/"><u>Unstuck Your Destiny nGame: Solutions for the Persistent Initialization Problem</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-enhancing-visual-effects-with-movie-maker-for-animation-projects-for-2024/"><u>[New] Enhancing Visual Effects with Movie Maker for Animation Projects for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unveiling-the-most-effective-web-subtitle-editors/"><u>[New] In 2024, Unveiling the Most Effective Web Subtitle Editors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-modern-content-curators-guide-to-branding-10-tools/"><u>[New] The Modern Content Curator's Guide to Branding - 10 Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-iphone-7-screen-save-made-simple-for-2024/"><u>[Updated] IPhone 7 Screen Save Made Simple for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-reimagine-your-youtube-approach-with-tubebuddy/"><u>[Updated] Reimagine Your YouTube Approach with TubeBuddy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-guide-to-scripting-engaging-youtube-videos/"><u>[Updated] Step-by-Step Guide to Scripting Engaging YouTube Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-streamlined-processes-how-to-make-and-modify-multi-snap-chats-for-2024/"><u>[Updated] Streamlined Processes How To Make & Modify Multi-Snap Chats for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-excessive-cpudisk-usage-ntoskrnlexe-fixes/"><u>Addressing Excessive CPU/Disk Usage: Ntoskrnl.exe Fixes</u></a></li>
+<li><a href="https://win-data.techidaily.com/como-clonar-tu-sistema-en-un-disco-externo-sin-costo-con-programas-de-windows-versiones-11-10-8-y-7-explicadas/"><u>Cómo Clonar Tu Sistema en Un Disco Externo Sin Costo Con Programas De Windows: Versiones 11, 10, 8 Y 7 Explicadas</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-incorrect-side-by-side-configuration-issue-on-your-windows-10-pc-expert-tips-and-tricks/"><u>Fix 'Incorrect Side by Side' Configuration Issue on Your Windows 10 PC - Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-dell-webcam-issues-a-comprehensive-guide-for-windows-users/"><u>Fixing Dell Webcam Issues: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-minecraft-lan-parties-up-and-running-again/"><u>How to Get Minecraft LAN Parties Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-failed-windows-10-update-issues-a-step-by-step-fix/"><u>How to Overcome Failed Windows 10 Update Issues - A Step-by-Step Fix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-cost-free-multi-os-video-player-releases/"><u>In 2024, 10 Cost-Free, Multi-OS Video Player Releases</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-incorrect-parameter-issue-for-loadlibrary-failures-error-code-87/"><u>Solving the 'Incorrect Parameter' Issue for LoadLibrary Failures (Error Code 87)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-asus-webcam-black-display-problem-on-windows-10/"><u>Solving the ASUS Webcam Black Display Problem on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stay-ahead-of-the-heat-top-cooling-accessory-must-have-identified-by-power-users-according-to-zdnet/"><u>Stay Ahead of the Heat: Top Cooling Accessory Must-Have Identified by Power Users, According to ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-error-code-0x800f081f-on-net-framework-35-installation/"><u>Step-by-Step Fix for Error Code 0X800F081F on .NET Framework 3.5 Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-your-broken-sound-control-in-windows-10-now-resolved/"><u>The Ultimate Fix for Your Broken Sound Control in Windows 10 - Now Resolved</u></a></li>
 </ul></div>
 

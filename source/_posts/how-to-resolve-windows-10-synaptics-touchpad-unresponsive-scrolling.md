@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows 10 Synaptics Touchpad Unresponsive Scrolling
-date: 2025-01-23T19:54:43.409Z
-updated: 2025-01-30T02:12:54.885Z
+date: 2025-02-10T08:58:29.696Z
+updated: 2025-02-11T04:22:09.750Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your device drivers
 
 If you got the mic-not-working issue after having Windows Updates, it’s possible that the drivers (especially the sound card driver) you’re using currently are out-dated, missing, or incompatible with your system. In case you’re not sure whether all the drivers are working fine, you should check.
@@ -51,7 +55,7 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to all flagged devices to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).
@@ -60,13 +64,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Set microphone as default device
 
@@ -84,6 +88,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
@@ -96,24 +104,16 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
@@ -136,10 +136,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
@@ -147,6 +143,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 Now check to see your mic is back on track.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -167,7 +167,7 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
@@ -193,20 +193,24 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-add-fun-to-youtube-comments-a-quick-guide-to-emojis/"><u>[New] In 2024, Add Fun to YouTube Comments A Quick Guide to Emojis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-shopping-lists-to-viral-hauls-video-making-insights-for-2024/"><u>[Updated] From Shopping Lists to Viral Hauls Video Making Insights for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-video-size-mastery-on-mac-the-instagram-automation-way/"><u>2024 Approved Video Size Mastery on Mac The Instagram Automation Way</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-hidden-game-savings-in-promos/"><u>Discover Hidden Game Savings in Promos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-audacity-tricks-for-premium-audio/"><u>Expert Audacity Tricks for Premium Audio</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/exploring-the-ultimate-presentation-toolkit-mastering-microsoft-flip-with-flippowerpoint-flipbuildercom/"><u>Exploring the Ultimate Presentation Toolkit: Mastering Microsoft Flip with FlipPowerPoint | flipbuilder.com</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unable-to-communicate-with-dhcp-problems/"><u>How to Fix 'Unable to Communicate with DHCP' Problems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-getting-started-with-vn-video-editor-on-pc-a-review/"><u>In 2024, Getting Started with VN Video Editor on PC A Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-meme-craftsmanship-for-2024/"><u>Mastering the Art of Meme Craftsmanship for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-stability-restored-correcting-video-card-driver-errors-on-your-windows-pc/"><u>Minecraft Stability Restored: Correcting Video Card Driver Errors On Your Windows PC.</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208902049-overcome-the-failed-to-download-updates-issue-resolving-windows-error-0x800002/"><u>Overcome the 'Failed to Download Updates' Issue: Resolving Windows Error 0X80#0002!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212001237-troubleshooting-a-nonfunctional-lenovo-keyboard-solutions-inside/"><u>Troubleshooting a Nonfunctional Lenovo Keyboard – Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-connection-problems-how-to-solve-overwatch-server-error/"><u>Troubleshooting Connection Problems: How to Solve Overwatch Server Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-status-quo-of-fifth-generation-connectivity-through-a-verizon-perspective/"><u>Understanding the Status Quo of Fifth-Generation Connectivity Through a Verizon Perspective</u></a></li>
-<li><a href="https://common-error.techidaily.com/valorant-wont-load-tips-and-tricks-to-fix-stuck-loading-scenarios/"><u>Valorant Won’t Load? Tips and Tricks to Fix Stuck Loading Scenarios!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-yields-mastering-the-art-of-viral-hashtag-use/"><u>[New] YouTube Yields Mastering the Art of Viral Hashtag Use</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ules-magic-unfolds-access-nine-premium-whole-film-holiday-movies-for-free/"><u>[New] Yule's Magic Unfolds Access Nine Premium, Whole-Film Holiday Movies for Free</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-beyond-the-basics-embedding-platforms-reviewed/"><u>[Updated] 2024 Approved Beyond the Basics Embedding Platforms Reviewed</u></a></li>
+<li><a href="https://win-guides.techidaily.com/benutzerfreundliche-anleitung-zum-automatischen-datenaustausch-auf-windows-systemen/"><u>Benutzerfreundliche Anleitung Zum Automatischen Datenaustausch Auf Windows-Systemen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-to-overcome-ietmodextdll-malfunctions/"><u>Comprehensive Strategies to Overcome ietmodext.dll Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-address-unregistered-class-errors-on-windows-11-systems/"><u>Effective Techniques to Address Unregistered Class Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-keyboard-solutions-when-left-right-and-up-arrow-keys-fail/"><u>Fixing Your Keyboard: Solutions When Left, Right, and Up Arrow Keys Fail</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nubiawithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nubiawith/without a PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/howling-heights-a-deep-dive-into-monster-hunter-worlds-deadly-beasts/"><u>Howling Heights: A Deep-Dive Into Monster Hunter: World's Deadly Beasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-note-30-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Note 30 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peeling-back-layers-of-the-apple-m1-chip/"><u>In 2024, Peeling Back Layers of the Apple M1 Chip</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-woes-fix-your-device-on-windows-10-8-and-7-here/"><u>Lenovo Mouse Pad Woes? Fix Your Device on Windows 10, 8 & 7 Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/managing-antivirus-impact-reducing-msmppingexes-cpu-drain-on-windows-11-fixed/"><u>Managing Antivirus Impact: Reducing msmpping.exe's CPU Drain on Windows 11 [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-system-performance-curbing-wudfhostexes-high-cpu-usage-on-windows-11/"><u>Optimizing System Performance: Curbing wudfhost.exe's High CPU Usage on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/reappearing-desktop-icons-fix-and-prevention-strategies-for-windows-11-users/"><u>Reappearing Desktop Icons: Fix and Prevention Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-driver-framework-for-reduced-processor-load/"><u>Resolving Window's Driver Framework for Reduced Processor Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-fixing-windows-setup-interruption-issues-easily/"><u>Solution Found! Fixing Windows Setup Interruption Issues Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilizing-windows-display-issues-expert-tips/"><u>Stabilizing Windows Display Issues: Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-enabling-bluetooth-on-windows-1110-expert-tips/"><u>Troubleshooting and Enabling Bluetooth on Windows 11/10 - Expert Tips</u></a></li>
 </ul></div>
 

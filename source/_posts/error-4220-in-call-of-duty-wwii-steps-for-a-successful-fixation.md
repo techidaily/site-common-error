@@ -1,7 +1,7 @@
 ---
 title: "Error 4220 in Call of Duty WWII: Steps for a Successful Fixation"
-date: 2024-09-14T19:28:50.957Z
-updated: 2024-09-20T18:17:59.473Z
+date: 2025-02-05T04:36:54.855Z
+updated: 2025-02-11T02:17:01.154Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b5892d15fb0cdebf3fe54704e2a326cc057eaac75
 
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -42,6 +46,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -55,6 +63,10 @@ Follow these:
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -74,7 +86,15 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -115,12 +135,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-cheerful-footage-extractor-analysis/"><u>[New] Cheerful Footage Extractor Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-hour-high-viewers-the-best-of-youtube-now-for-2024/"><u>[Updated] Hour-High Viewers The Best of YouTube Now for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/effortlessly-faster-fb-videos-a-comprehensive-tools-repository-for-2024/"><u>Effortlessly Faster FB Videos A Comprehensive Tools Repository for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/energy-efficiency-windows-rest-states-analysis/"><u>Energy Efficiency: Windows' Rest States Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/halo-4-ue4-addressing-the-widespread-crash-bug-release/"><u>Halo 4 UE4: Addressing the Widespread Crash Bug Release</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-11f-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 11F 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-asus-mg28uq-elevating-your-visual-experience-to-new-heights/"><u>In 2024, ASUS MG28UQ Elevating Your Visual Experience to New Heights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-12-miniipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 12 mini/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-to-get-your-lenovo-touch-id-back-on-track/"><u>Quick Fixes to Get Your Lenovo Touch ID Back on Track</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-stalling-problems-tips-and-techniques/"><u>Resolving Windows 11 Stalling Problems: Tips and Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-speakers-for-an-unresponsive-acer-laptop/"><u>Step-by-Step Guide: Reactivating Speakers for an Unresponsive Acer Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-windows-no-startup-code-mistake-with-ease/"><u>Troubleshoot and Fix Windows 'No Startup Code' Mistake with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-high-resource-demand-of-wudfhostexe-for-enhanced-pc-speed-windows-t-11/"><u>Troubleshooting High Resource Demand of wudfhost.exe for Enhanced PC Speed (Windows T 11)</u></a></li>
+</ul></div>
 

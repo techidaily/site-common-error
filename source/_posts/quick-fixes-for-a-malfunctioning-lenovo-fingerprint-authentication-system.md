@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for a Malfunctioning Lenovo Fingerprint Authentication System
-date: 2025-01-23T01:26:13.441Z
-updated: 2025-01-30T04:44:54.808Z
+date: 2025-02-09T21:50:25.253Z
+updated: 2025-02-11T04:55:19.872Z
 tags:
   - win11
   - win10
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 #### on Windows 11
@@ -96,12 +100,16 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -113,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
@@ -126,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
@@ -162,7 +166,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -181,15 +185,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The folder name can be different based on your tablet model.
 
@@ -205,10 +209,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -218,7 +218,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When Notepad is opened, type in**UseSystemStylus 0** .
@@ -260,18 +260,22 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-the-use-of-telegram-in-a-step-by-step-approach/"><u>[New] In 2024, Mastering the Use of Telegram in a Step-by-Step Approach</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-professional-insights-into-recording-quality-conversations-on-facetime-for-2024/"><u>[New] Professional Insights Into Recording Quality Conversations on FaceTime for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-androids-premier-choice-top-10-free-fb-video-extractor/"><u>2024 Approved Android's Premier Choice Top 10 Free FB Video Extractor</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-device-casting-issues-on-windows-11-a-step-by-step-guide/"><u>Fix Your Device Casting Issues on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-problem-when-your-windows-11-hosted-network-wont-begin/"><u>Fixing the Problem When Your Windows 11 Hosted Network Won't Begin</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-update-error-code-0xc1900208-successfully/"><u>How to Fix Windows 11 Update Error Code 0xC1900208 Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-guide-to-digital-audio-streaming-and-recording/"><u>In 2024, The Ultimate Guide to Digital Audio Streaming & Recording</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-hosted-network-setup-on-windows-11-from-difficulties-to-seamless-connectivity/"><u>Mastering Hosted Network Setup on Windows 11: From Difficulties to Seamless Connectivity</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-apply-video-filters/"><u>New In 2024, How to Apply Video Filters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-pcs-blue-screen-of-death-effective-repair-strategies-revealed/"><u>Overcoming PC's Blue Screen of Death: Effective Repair Strategies Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-challenges-fixing-device-descriptor-request-failure-easily/"><u>Overcoming USB Connection Challenges: Fixing 'Device Descriptor Request Failure' Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-to-eliminate-fallout-4-game-lag/"><u>Top Strategies to Eliminate Fallout 4 Game Lag</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ultra-wealthy-digital-creators/"><u>[New] 2024 Approved Ultra-Wealthy Digital Creators</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-ensuring-tiktok-authenticity-pre-upload-rights-confirmation/"><u>[Updated] In 2024, Ensuring TikTok Authenticity Pre-Upload Rights Confirmation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-standout-20-anime-melodies-at-the-start/"><u>2024 Approved Standout 20 Anime Melodies at the Start</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capture-attention-with-perfectly-cropped-instagram-ready-videos-for-2024/"><u>Capture Attention with Perfectly Cropped, Instagram-Ready Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-collage-companions-android-and-iphones-best/"><u>Cutting-Edge Collage Companions Android & iPhone's Best</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-why-isnt-your-airdrop-working/"><u>Effortless Solutions: Why Isn't Your AirDrop Working?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-amv-mp4/"><u>Movavi를 사용한 AMV MP4 파일의 무료 온라인 변환 방법 – 비용 부여</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cket-your-channels-with-these-essential-freegame-tags-for-youtube/"><u>Skyrocket Your Channels with These Essential FreeGame Tags for YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-the-crimson-display-malfunction/"><u>Step-by-Step Guide: Overcoming The Crimson Display Malfunction</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-enabling-a-disabled-bluetooth-connection/"><u>Step-by-Step Solution for Enabling a Disabled Bluetooth Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-and-ipad-vpns-comprehensive-reviews-by-tech-experts-choose-the-right-one/"><u>Top-Rated iPhone & iPad VPNs: Comprehensive Reviews by Tech Experts - Choose the Right One</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-increased-disk-space-consumption-of-telemetry-feature-in-windows-press)windows-11/"><u>Troubleshooting the Increased Disk Space Consumption of Telemetry Feature in Windows Press>Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fix-for-windows-camera-issue-error-code-0xa00f4292/"><u>Ultimate Fix for Windows Camera Issue (Error Code 0Xa00f4292)</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-correcting-the-recurring-windows-update-issue-error-0x80240017/"><u>Ultimate Guide to Correcting the Recurring Windows Update Issue (Error 0X80240017)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-your-laptop-screen-when-its-accidentally-rotated/"><u>Ultimate Guide: Fixing Your Laptop Screen When It's Accidentally Rotated</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-from-microsoft-store-problems-heres-how-to-open-it-successfully/"><u>Unstuck From Microsoft Store Problems? Here's How to Open It Successfully!</u></a></li>
 </ul></div>
 

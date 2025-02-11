@@ -1,7 +1,7 @@
 ---
 title: Snoozing Systems, No Wake Triggered by Windows 10/11
-date: 2024-09-14T18:33:36.389Z
-updated: 2024-09-20T16:02:22.019Z
+date: 2025-02-06T07:16:58.815Z
+updated: 2025-02-11T01:34:04.477Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
  If you’re seeing many svchost.exe items hogging your CPU usage, you’re not alone. Many Windows 10 users are reporting this problem. No worries, it’s possible to fix. Here are[4 fixes](#how) for you to sort it out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **What is svchost.exe?**
 
  According to Microsoft,**svchost.exe** is:
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 > “a generic host process name for services that run from dynamic-link libraries”.
 
  In simpler words, it’ s a legitimate Windows process when running certain Windows operations. But in certain cases, you may see the **svchost.exe**  process hogging the CPU or memory resources in **Task Manager**  without apparent reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -53,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
@@ -61,9 +73,17 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
@@ -75,16 +95,13 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9) See if the problem is resolved.
 
@@ -104,14 +121,11 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
- 4) Restart your computer after this.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Restart your computer after this.
 
 ## **4: Troubleshoot Windows Updates issues**
 
@@ -125,23 +139,9 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -160,10 +160,7 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
@@ -185,5 +182,26 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography/"><u>[Updated] Master the Art of Moving Shots A Handbook for Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-brand-potential-with-essential-phrases/"><u>2024 Approved Unleashing Brand Potential with Essential Phrases</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unraveling-vrs-impact-on-digital-cinema/"><u>2024 Approved Unraveling VR's Impact on Digital Cinema</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-defeating-win11-webcam-malfunction-error-a00f4289/"><u>Decoding and Defeating Win11 Webcam Malfunction - Error A00F4289</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-to-address-windows-11-microphone-malfunctions-expert-advice/"><u>Effective Fixes to Address Windows 11 Microphone Malfunctions: Expert Advice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/googles-platform-unveiled-for-professional-podcasters-for-2024/"><u>Google's Platform Unveiled for Professional Podcasters for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-the-there-was-an-issue-error-when-restoring-windows-10/"><u>How to Successfully Resolve the 'There Was an Issue' Error When Restoring Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-efficiently-using-background-footage-in-projects/"><u>In 2024, Efficiently Using Background Footage in Projects</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/issue-resolved-how-to-repair-broken-numeric-keys-on-a-computer-keyboard/"><u>Issue Resolved: How to Repair Broken Numeric Keys on a Computer Keyboard</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/les-meilleures-outils-dextraction-de-dvd-pour-windows-10-et-11-guide-complet-gratuit-2023-decouvrez-vos-options/"><u>Les Meilleures Outils D'Extraction De DVD Pour Windows 10 Et 11 : Guide Complet Gratuit 2023 - Découvrez Vos Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/masterful-scrolling-techniques/"><u>Masterful Scrolling Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-device-hung-error-dxgi-with-simple-techniques/"><u>Overcoming the Device Hung Error (DXGI) with Simple Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-revive-your-huion-pen-top-5-faulty-pen-fixes/"><u>Quick Solutions: Revive Your Huion Pen - Top 5 Faulty Pen Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplifying-your-connection-ultimate-usb-tethering-tips-for-windows-10/"><u>Simplifying Your Connection: Ultimate USB Tethering Tips for Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-for-inaccessible-0x-memory-write-error-at-specific-reference-point-0x/"><u>Solution Found for Inaccessible 0X Memory Write Error at Specific Reference Point (0X)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-atandt-mobile-offers-in-may-2024-exclusive-selection-curated-by-zdnet/"><u>Top AT&T Mobile Offers in May 2024: Exclusive Selection Curated by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-fix-the-non-functional-touchpad-scroll-problem/"><u>Troubleshooting Windows 10: Fix the Non-Functional Touchpad Scroll Problem</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unleashing-creativity-in-drone-video-post-production/"><u>Unleashing Creativity in Drone Video Post-Production</u></a></li>
+</ul></div>
 

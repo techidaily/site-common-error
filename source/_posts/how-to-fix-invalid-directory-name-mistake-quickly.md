@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Invalid Directory Name' Mistake Quickly!
-date: 2024-09-10T13:59:35.460Z
-updated: 2024-09-15T06:51:08.846Z
+date: 2025-02-08T22:19:55.767Z
+updated: 2025-02-11T05:06:41.299Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Repair your game
 
  Missing or corrupt game files can cause a wide variety of issues. So you need to make sure they are intact. The feature, repairing games allows you to achieve that goal. It checks your game’s installation and then automatically downloads any replacement or missing files:
@@ -36,6 +40,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 2) Select**My Game Library** . Right-click on your game title and select**Repair** .  
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
@@ -70,15 +78,27 @@ If that didn’t help, try the next fix below.
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  6) Type or paste**%AppData%** and press Enter.  
   
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) In the address bar, click on**AppData** .  
   
@@ -87,6 +107,10 @@ If that didn’t help, try the next fix below.
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
@@ -118,10 +142,7 @@ Here’s how to update drivers with Driver Easy:
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
@@ -152,18 +173,15 @@ If you want to make Origin always run as administrator, take these steps:
 
 If that didn’t help, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Download Media Feature Pack for Windows 10 N
 
  For users who are running Windows N versions, you need to download the Media Feature Pack from Microsoft, which helped many players get rid of the error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
@@ -174,13 +192,6 @@ If that didn’t help, move on to the next fix.
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -199,5 +210,23 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-8-recommended-free-srt-translation-websites-expert-selections/"><u>[Updated] In 2024, Top 8 Recommended Free SRT Translation Websites Expert Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-free-online-conversion-transforming-ogm-files-to-avi-format-with-ease/"><u>1. Free Online Conversion: Transforming OGM Files to AVI Format with Ease</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-maximizing-impact-with-reddit-essential-tips-revealed/"><u>2024 Approved Maximizing Impact with Reddit - Essential Tips Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-step-by-step-guide-troubleshooting-your-broken-xbox-one-pen/"><u>Complete Step-by-Step Guide: Troubleshooting Your Broken Xbox One Pen</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-fixing-the-persistent-error-0x800f081f-in-net-framework-version-35-deployment/"><u>Comprehensive Guide to Fixing the Persistent Error 0X800F081F in .NET Framework Version 3.5 Deployment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-a-scintillating-trailer-tale-for-2024/"><u>Crafting A Scintillating Trailer Tale for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-unreachable-steam-content-hosts/"><u>Expert Tips for Overcoming Unreachable Steam Content Hosts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/free-srt-translator-showdown-the-best-eight-in-ranking-for-2024/"><u>Free SRT Translator Showdown The Best Eight in Ranking for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-the-frustrating-usb-not-detected-error-on-your-pc-solved/"><u>How to Address the Frustrating 'USB Not Detected' Error on Your PC – [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-repair-mouse-freeze-problems-on-computers/"><u>How to Troubleshoot and Repair Mouse Freeze Problems on Computers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>In 2024, Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211653770-increase-efficiency-solving-windows-11-prolonged-shutdown-time-issue/"><u>Increase Efficiency: Solving Windows 11 Prolonged Shutdown Time Issue.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/initiate-xp-project-masterpiece-creation-package/"><u>Initiate XP Project Masterpiece Creation Package</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-typing-problems-windows-11-spacebar-malfunction-solutions/"><u>Resolving Typing Problems: Windows 11 Spacebar Malfunction Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-virtualbox-to-70-in-win11-a-comprehensive-tutorial/"><u>Upgrading VirtualBox to 7.0 in Win11: A Comprehensive Tutorial</u></a></li>
+</ul></div>
 

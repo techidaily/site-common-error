@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Light Dimmer Malfunction? Here's the Solution!
-date: 2024-09-17T16:00:49.144Z
-updated: 2024-09-20T16:40:10.533Z
+date: 2025-02-05T22:13:06.915Z
+updated: 2025-02-10T17:06:40.748Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 ## Laptop Microphone Malfunction? Here's the Solution
 
 Is your**microphone not working on laptop** ? You’re certainly not alone. But don’t worry – it can be quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
@@ -36,6 +40,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -44,9 +52,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -76,13 +92,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
@@ -92,10 +101,7 @@ To do so:
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -133,5 +139,18 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-upload-media-to-twitter-without-copying-another-users-tweet/"><u>[New] How To Upload Media to Twitter without Copying Another User's Tweet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-1-global-musical-views/"><u>2024 Approved Top 1 Global Musical Views</u></a></li>
+<li><a href="https://ai-video.techidaily.com/dive-into-in-depth-hardware-guides-by-toms-tech-experts/"><u>Dive Into In-Depth Hardware Guides by Tom's Tech Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-and-overcome-insufficient-resources-system-issue-effectively/"><u>How to Address and Overcome 'Insufficient Resources' System Issue Effectively</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-the-pc-version-of-monster-hunter-worlds-disconnect-woes/"><u>How to Solve the PC Version of Monster Hunter World's Disconnect Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-resolution-overcoming-temporary-unavailability-of-windows-smartscreen/"><u>Immediate Resolution: Overcoming Temporary Unavailability of Windows SmartScreen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>In 2024, Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
+<li><a href="https://common-error.techidaily.com/is-unreals-demise-linked-to-d3d-device-failure/"><u>Is Unreal's Demise Linked to D3D Device Failure?</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-facebook-refunds-a-step-by-step-guide/"><u>Navigating Facebook Refunds: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-intellectual-property-laws-for-ai-produced-artwork-who-gains-the-recognition/"><u>Navigating Through Intellectual Property Laws for AI-Produced Artwork: Who Gains the Recognition?</u></a></li>
+</ul></div>
 

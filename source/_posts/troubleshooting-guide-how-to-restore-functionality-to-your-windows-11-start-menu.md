@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu"
-date: 2024-09-18T19:24:09.549Z
-updated: 2024-09-20T18:16:59.402Z
+date: 2025-02-03T23:18:39.688Z
+updated: 2025-02-11T05:25:06.248Z
 tags:
   - win11
   - win10
@@ -61,6 +61,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
  2) Select**System Sounds** .
@@ -77,15 +81,27 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**OK** to save all the changes you’ve made.
 
@@ -102,6 +118,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
@@ -128,10 +148,7 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
@@ -140,16 +157,13 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -172,5 +186,26 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>[New] 2024 Approved Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-moments-reel-slomo-app-analysis-2024/"><u>[New] Mastering the Moment's Reel SloMo App Analysis, 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-does-reduced-shakiness-improve-creative-editing-in-adobe-photos-for-2024/"><u>[Updated] Does Reduced Shakiness Improve Creative Editing in Adobe Photos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-initializing-phase-in-destiny-2-proven-tips-and-tricks/"><u>Bypassing the 'Initializing' Phase in Destiny 2 - Proven Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sleep-issues-on-windows-11-keys-and-mice/"><u>Fixing Sleep Issues on Windows 11: Keys & Mice</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-dimmed-or-broken-keyboard-backlit-feature-on-windowsmac-machines/"><u>How to Restore Functionality of Dimmed or Broken Keyboard Backlit Feature on Windows/Mac Machines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-applications-to-elevate-your-vtubers-sound-identity/"><u>Ideal Applications to Elevate Your Vtuber's Sound Identity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-effective-sales-methods/"><u>In 2024, Unveiling Effective Sales Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-when-your-hamachi-connection-drops-unexpectedly/"><u>Quick Solutions for When Your Hamachi Connection Drops Unexpectedly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/seamless-subtitle-conversion-at-your-fingertips-top-8-software-for-windowsmacos-srt-transition-for-2024/"><u>Seamless Subtitle Conversion at Your Fingertips - Top 8 Software for Windows/MacOS SRT Transition for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-correcting-parameter-is-incorrect-error-message/"><u>Solutions for Correcting 'Parameter Is Incorrect' Error Message</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/speech-to-text-efficient-conversion-techniques-for-microsoft-word-users-for-2024/"><u>Speech to Text Efficient Conversion Techniques for Microsoft Word Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-error-code-0x80-in-microsoft-windows-store-troubleshooting-strategies-that-work/"><u>Tackling 'Error Code 0X80# in Microsoft Windows Store: Troubleshooting Strategies That Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-to-your-impossible-to-change-monitor-dilemableresolution-success-story/"><u>The Ultimate Fix to Your Impossible-to-Change Monitor Dilemableresolution Success Story</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-loadlibrary-failed-with-error-code-87-parameters-setup/"><u>Troubleshooting Guide: Fixing 'LoadLibrary Failed' With Error Code 87 – Parameters Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-pc-connection-issues-with-your-bluetooth-keyboard/"><u>Troubleshooting Guide: Resolving PC Connection Issues with Your Bluetooth Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-unresponsive-laptop-touchpads-what-you-need-to-know/"><u>Troubleshooting Techniques for Unresponsive Laptop Touchpads: What You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue
-date: 2025-01-28T06:48:40.008Z
-updated: 2025-01-29T19:09:43.461Z
+date: 2025-02-07T01:19:19.170Z
+updated: 2025-02-10T22:35:56.288Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ A lot Windows 10 users reported that system restore did not complete successfull
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
@@ -43,6 +43,10 @@ Then type **msconfig** in the box and hit **Enter**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 On the pop-up window, view on **Boot** pane.  
 Then tick on **Safe boot**and click **OK**.  
@@ -50,10 +54,6 @@ Click **Restart**, if prompted by system configuration
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then your Windows 10 would get into safe mode.  
   
@@ -84,7 +84,7 @@ This time uncheck **Safe boot** to reboot your Windows 10.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5)  
@@ -93,7 +93,7 @@ When it finish rebooting, run System Restore again.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -109,6 +109,10 @@ Then click **Update & security**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
@@ -121,10 +125,6 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2)  
 
@@ -156,17 +156,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-beat-stress-away-the-ultimate-gaming-list/"><u>[New] 2024 Approved Beat Stress Away The Ultimate Gaming List</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-motion-mastery-top-free-afx-template-collection-for-2024/"><u>[New] Motion Mastery Top Free AFX Template Collection for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-with-youtube-list-mix-ups/"><u>[New] Unleash Creativity with YouTube List Mix-Ups</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/best-virtual-camera-tools-unlocking-features-of-live-video-software-like-manycam/"><u>Best Virtual Camera Tools: Unlocking Features of Live Video Software Like ManyCam</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-dell-bluetooth-mouse-troubleshooting-steps-when-it-fails/"><u>Fixing Your Dell Bluetooth Mouse: Troubleshooting Steps When It Fails</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-steam-update-not-downloading-issue/"><u>How to Fix Steam Update Not Downloading Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-audio-techniques-for-media-professionals/"><u>In 2024, Transformative Audio Techniques for Media Professionals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-the-best-ways-to-watch-360-videos-on-android/"><u>In 2024, Unveiling the Best Ways to Watch 360 Videos on Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/livekernelevent-117-problem-diagnosis-and-repair-methods/"><u>LiveKernelEvent 117 Problem: Diagnosis and Repair Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-touch-interactivity-on-your-pc-top-5-techniques-for-windows-11-users/"><u>Reviving Touch Interactivity on Your PC: Top 5 Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-reviving-your-unresponsive-pc/"><u>Step-by-Step Guide: Reviving Your Unresponsive PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-combo-keys-stuck-solving-win-shift-and-s-button-issues-on-pcs-with-w10w11/"><u>Windows Combo Keys Stuck? Solving Win, Shift, and S Button Issues on PCs with W10/W11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-bio-engineered-healing-spaces-via-arvr/"><u>[New] Bio-Engineered Healing Spaces via AR/VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-power-supplies-for-gopro-hero5-genuine-and-3rd-party/"><u>[New] Premium Power Supplies for GoPro Hero5 Genuine and 3Rd-Party</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-power-of-listening-understanding-your-youtube-audience-for-2024/"><u>[New] The Power of Listening Understanding Your YouTube Audience for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-top-gopro-models-max-vs-hero-11/"><u>[Updated] Unveiling the Top GoPro Models Max Vs. Hero 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/5-youtube-video-editor-alternatives-for-2024/"><u>Best 5 YouTube Video Editor Alternatives for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-windows-update-features-now-fixed-and-operational/"><u>Critical Windows Update Features Now Fixed and Operational</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-storage-after-resolving-the-cyclic-redundancy-check-glitches/"><u>Error-Free Storage After Resolving the Cyclic Redundancy Check Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-0xc000012f-error-in-windows-easily/"><u>How to Fix 0Xc000012f Error in Windows Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-6-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hands-on-crafting-unique-movie-closures-for-pennies/"><u>In 2024, Hands-On Crafting Unique Movie Closures for Pennies</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-battery-wont-charge-master-quick-repairs-to-power-up-again/"><u>Laptop Battery Won't Charge? Master Quick Repairs to Power Up Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-function-to-broken-keys-on-microsofts-latest-operating-systems-win-10-win-11/"><u>Restore Function to Broken Keys on Microsoft's Latest Operating Systems (Win 10 / Win 11)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro-for-2024/"><u>Smoothly Softening Endings Audio Fades Made Simple with Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-connecting-your-microsoft-wireless-display-adapter-with-windows-aturate-as-well-as-to-improve-the-efficiency-of-the-model-itself-during-t47/"><u>Step-by-Step Guide: Connecting Your Microsoft Wireless Display Adapter with Windows Aturate, as Well as to Improve the Efficiency of the Model Itself During Training and Inference</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-excessive-svchostexe-cpu-load-in-windows-11/"><u>Step-by-Step Solutions for Excessive Svchost.exe CPU Load in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-windows-10-bluetooth-connectivity-problems-fast/"><u>Troubleshoot and Fix Windows 10 Bluetooth Connectivity Problems Fast</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/unveiling-the-intricacies-of-a-zero-day-exploit-a-comprehensive-guide-by-malwarefox/"><u>Unveiling the Intricacies of a Zero-Day Exploit: A Comprehensive Guide by MalwareFox</u></a></li>
 </ul></div>
 

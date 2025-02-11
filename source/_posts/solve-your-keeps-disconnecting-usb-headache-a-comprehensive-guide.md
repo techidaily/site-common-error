@@ -1,7 +1,7 @@
 ---
 title: "Solve Your Keeps Disconnecting USB Headache: A Comprehensive Guide"
-date: 2024-09-18T19:10:07.227Z
-updated: 2024-09-20T16:06:14.862Z
+date: 2025-02-07T02:25:36.855Z
+updated: 2025-02-11T01:26:01.588Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -36,6 +40,10 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -72,22 +80,12 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -101,13 +99,6 @@ To make sure you’ve this setting disabled:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Change power management settings for USB Root Hubs
 
  Your PC system may automatically turn off the various devices on your computer in order to save power. And sometimes it can turn off your external hard drive, or USB devices specifically and cause the**USB keeps disconnecting** issue.
@@ -120,20 +111,21 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -157,5 +149,20 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-stay-focused-with-smart-youtube-channel-management-for-pc-and-phones/"><u>[New] 2024 Approved Stay Focused with Smart Youtube Channel Management for PC and Phones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-ff-video-grab-extensions-and-tools/"><u>[New] 2024 Approved Top FF Video Grab - Extensions & Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-critical-approaches-to-documenting-youtube-live-video/"><u>[New] Critical Approaches to Documenting Youtube LIVE Video</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-reducing-noise-sensitivity-in-logic-pro-mixes/"><u>[New] In 2024, Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>[Updated] Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208036351-fix-your-broken-keyboard-arrows-easy-troubleshooting-steps-inside/"><u>Fix Your Broken Keyboard Arrows - Easy Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-smart-8-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Smart 8 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-fix-valorants-visual-distortions-and-tearing-problems/"><u>How to Correctly Fix Valorant's Visual Distortions and Tearing Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-securely-eliminate-critical-error-scams-in-google-chrome-expert-tips-inside/"><u>How to Securely Eliminate Critical Error SCAMs in Google Chrome – Expert Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-twitch-troubles-expert-advice-to-overcome-error-code-19683/"><u>Mastering Twitch Troubles: Expert Advice to Overcome Error Code √19683</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/meet-markus-pichler-taking-on-the-role-of-abbyys-vice-president-of-sales-across-europe/"><u>Meet Markus Pichler: Taking on the Role of ABBYY's Vice-President of Sales Across Europe</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminate-the-notorious-google-chrome-critical-error-scam/"><u>Step-by-Step Guide: Eliminate the Notorious 'Google Chrome Critical Error' Scam</u></a></li>
+<li><a href="https://common-error.techidaily.com/thwart-high-cpu-engagement-in-win10/"><u>Thwart High CPU Engagement in Win10</u></a></li>
+</ul></div>
 

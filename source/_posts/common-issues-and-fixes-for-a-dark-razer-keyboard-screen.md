@@ -1,7 +1,7 @@
 ---
 title: Common Issues and Fixes for a Dark Razer Keyboard Screen
-date: 2025-01-25T07:36:40.713Z
-updated: 2025-01-30T03:26:53.820Z
+date: 2025-02-09T08:16:46.128Z
+updated: 2025-02-11T04:16:16.738Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -43,13 +47,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -71,13 +75,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -86,7 +90,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -107,15 +111,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -141,10 +145,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,20 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-adjusting-google-meet-display-mobile-and-laptop-focus/"><u>[New] 2024 Approved Adjusting Google Meet Display Mobile and Laptop Focus</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-top-ranked-pixel-perfection-appweb-software/"><u>[New] In 2024, Top-Ranked Pixel Perfection App/Web Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-apple-vision-pro-unveiling-the-costs-capabilities-and-user-experience-a-comprehensive-guide-for-potential-buyers/"><u>All About Apple Vision Pro: Unveiling the Costs, Capabilities, and User Experience - A Comprehensive Guide for Potential Buyers</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-issues-with-windows-10-not-identifying-hdmi-tv-step-by-step-solution/"><u>Fixing Issues with Windows 10 Not Identifying HDMI TV - Step by Step Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-image-display-errors-on-your-pc-running-windows-11-or-10/"><u>How to Correctly Address Image Display Errors on Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-g24-power-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola G24 Power Phone without PIN</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-exclusive-catalogue-free-to-use-stock-media-sites/"><u>In 2024, Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/panne-de-restauration-dimages-systeme-echec-a-cause-du-bios-et-de-lefi/"><u>Panne De Restauration D’images Système : Échec À Cause Du BIOS Et De L'EFI</u></a></li>
-<li><a href="https://article-files.techidaily.com/step-up-your-photo-game-basic-snapseed-skills-guide-for-2024/"><u>Step Up Your Photo Game Basic Snapseed Skills Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correct-bad-image-errors-on-windows-1011-systems/"><u>Step-by-Step Guide to Correct Bad Image Errors on Windows 10/11 Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-complete-guide-to-livestreaming-on-mobile-devices/"><u>The Complete Guide to Livestreaming on Mobile Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-non-functional-numeric-keys-on-your-keyboard/"><u>Troubleshooting Guide: Resolving Non-Functional Numeric Keys on Your Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-the-notorious-code-28-glitch-on-windows-systems/"><u>Troubleshooting Tips for the Notorious 'Code 28' Glitch on Windows Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-a38-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo A38 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/untangle-specified-component-missing-problems-tips-and-solutions-for-quick-fixes/"><u>Untangle 'Specified Component Missing' Problems: Tips and Solutions for Quick Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-leveraging-creator-funding-in-youtube-shorts/"><u>[Updated] Leveraging Creator Funding in YouTube Shorts</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-ways-to-turn-on-and-use-bluetooth-with-windows-11-and-10-a-complete-fix/"><u>Easy Ways to Turn On & Use Bluetooth with Windows 11 and 10 – A Complete Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-ways-to-troubleshoot-and-fix-werfaultexe-issues/"><u>Effortless Ways to Troubleshoot and Fix werFault.exe Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cing-video-soundtracks-on-digital-platforms-for-2024/"><u>Enhancing Video Soundtracks on Digital Platforms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-and-save-screens-like-a-pro-with-your-dell/"><u>How to Record and Save Screens Like a Pro with Your Dell</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-motorola-edge-40-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Motorola Edge 40?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-valorants-perpetual-loading-problem-for-smooth-gameplay/"><u>How to Resolve Valorant's Perpetual Loading Problem for Smooth Gameplay</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 13 Pro Max</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leveraging-phone-capabilities-for-efficient-video-recording/"><u>In 2024, Leveraging Phone Capabilities for Efficient Video Recording</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-graphics-card-not-supported-hurdles-in-fortnite-for-windows-users/"><u>Overcoming 'Graphics Card Not Supported' Hurdles in Fortnite for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-driver-conflicts-in-ftdi-bus-for-restoring-memory-data-accuracy/"><u>Overcoming Driver Conflicts in FTDI Bus for Restoring Memory Data Accuracy</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-vcruntime140dll-missing-file-message/"><u>Resolved: Fixing the VCRUNTIME140.dll Missing File Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-installation-failure-fixing-error-code-80240020/"><u>Resolving Windows 11 Installation Failure: Fixing Error Code 80240020</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-rust-microphone-issue-a-comprehensive-2024-how-to/"><u>Solving Your Rust Microphone Issue: A Comprehensive 2024 How-To</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steer-clear-of-these-6-missteps-when-creating-chatgpt-requests/"><u>Steer Clear of These 6 Missteps When Creating ChatGPT Requests</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-recommended-netgear-router-models/"><u>Top Recommended Netgear Router Models</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-binkw32dll-not-found-issue-on-your-pc/"><u>Troubleshooting the binkw32.dll Not Found Issue on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-build-1607-installation-errors-and-how-to-fix-them/"><u>Windows 11 Build 1607 Installation Errors and How to Fix Them</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Rectify Non-Functional Mic on Corsair HS50 Gaming Headset
-date: 2024-09-13T19:18:13.152Z
-updated: 2024-09-20T17:21:26.509Z
+date: 2025-02-07T17:57:24.388Z
+updated: 2025-02-10T20:22:39.398Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d5157fd08cb0485ba961e5e9e263be5ee6676590c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -52,6 +56,10 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
@@ -68,30 +76,29 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -106,13 +113,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -148,5 +148,26 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-editprox-in-detail-ultimate-video-editor-review/"><u>[Updated] EditProX in Detail – Ultimate Video Editor Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-viral-vestments-the-15-most-informative-financial-videos/"><u>[Updated] Viral Vestments The 15 Most Informative Financial Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cultivating-your-persona-in-the-world-of-gamers-for-2024/"><u>Cultivating Your Persona in the World of Gamers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/cursor-blues-discover-simple-solutions-to-end-the-annoying-blinking/"><u>Cursor Blues? Discover Simple Solutions to End the Annoying Blinking.</u></a></li>
+<li><a href="https://common-error.techidaily.com/eclipse-of-vision-screen-phenomenon/"><u>Eclipse of Vision: Screen Phenomenon</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-underscrutinized-to-unforgettable-bio-hacks-for-love-success-for-2024/"><u>From Underscrutinized to Unforgettable Bio Hacks for Love Success for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211280401-how-to-fix-hosted-network-cant-be-started-error-in-windows-11-solved/"><u>How to Fix 'Hosted Network Can't Be Started' Error in Windows 11 - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207914319-how-to-fix-windows-updates-stalled-on-99-or-100-solved/"><u>How to Fix Windows Updates Stalled on 99 or 100% - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g935-mic-up-and-running-on-windows-1011/"><u>How To Get Your Logitech G935 Mic Up and Running on Windows 10/11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-best-practices-for-online-vhs-image-retouching-and-editing/"><u>In 2024, Best Practices for Online VHS Image Retouching and Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-securing-sharp-visibility-a-guide-to-efficient-zooming-in-google-meets/"><u>In 2024, Securing Sharp Visibility A Guide to Efficient Zooming in Google Meets</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-microsoft-outlooks-mysterious-error-your-step-by-step-guide-for-solving-unspecified-error-0x8004005/"><u>Overcoming Microsoft Outlook's Mysterious Error: Your Step-by-Step Guide for Solving Unspecified Error 0X800#4005</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-tips-overcoming-startup-keyboard-issues-on-your-pc/"><u>Quick Fix Tips: Overcoming Startup Keyboard Issues on Your PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-m6-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco M6 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-for-turned-off-wireless-networks-now-solved/"><u>Simple Fixes for Turned-Off Wireless Networks - Now Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/sticky-keyboard-issues-in-windows-heres-how-you-can-get-them-working-smoothly-again/"><u>Sticky Keyboard Issues in Windows? Here's How You Can Get Them Working Smoothly Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-platforms-for-connecting-with-tech-experts-a-guide-by-zdnet/"><u>Top 10 Platforms for Connecting with Tech Experts: A Guide by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-common-opengl-issues-in-minecraft/"><u>Ultimate Guide: Solving Common OpenGL Issues in Minecraft</u></a></li>
+</ul></div>
 

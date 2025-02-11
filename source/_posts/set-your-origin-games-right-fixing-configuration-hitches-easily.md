@@ -1,7 +1,7 @@
 ---
 title: "Set Your Origin Games Right: Fixing Configuration Hitches Easily"
-date: 2024-09-14T18:33:54.748Z
-updated: 2024-09-20T17:28:25.033Z
+date: 2025-02-03T19:24:31.880Z
+updated: 2025-02-10T20:45:36.731Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 ## Step-by-Step Guide: Fixing Broken or Uncooperative Keys on Your HP Laptop Easily
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -42,6 +46,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -66,11 +74,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -96,6 +112,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -104,19 +124,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -130,13 +137,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -144,13 +144,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,5 +177,24 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-dive-into-freeware-for-precise-music-tempo-tracking/"><u>[New] In 2024, Dive Into Freeware for Precise Music Tempo Tracking</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-cursor-blinking/"><u>[Solved] How to Fix Cursor Blinking</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-discovering-the-newest-tiktok-songs-that-excite-us-for-2024/"><u>[Updated] Discovering the Newest TikTok Songs that Excite Us for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/fy-your-content-navigating-the-world-of-youtube-backlinks/"><u>Amplify Your Content Navigating the World of YouTube Backlinks</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-kernel32dll-malfunctions/"><u>Bypassing Kernel32.dll Malfunctions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/decoding-the-workings-of-whatsapp-call-features-for-2024/"><u>Decoding the Workings of WhatsApp Call Features for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/easy-steps-record-audio-on-mac-using-audacity/"><u>Easy Steps Record Audio on Mac Using Audacity</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stuck-mouse-issues-on-your-windows-or-mac-device/"><u>Fixing Stuck Mouse Issues on Your Windows or Mac Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-complete-critical-audiovideo-driver-found-and-installed/"><u>Installation Complete: Critical Audio/Video Driver Found & Installed</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-airpod-pc-sync-overcoming-connection-issues-in-windows-for-beginners/"><u>Mastering AirPod-PC Sync: Overcoming Connection Issues in Windows for Beginners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-the-smm-landscape-key-steps-to-success-for-2024/"><u>Navigating the SMM Landscape Key Steps to Success for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-stability-problems-in-total-war-rome-remastered-tips-and-tricks/"><u>Resolving Stability Problems in Total War: Rome Remastered - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-why-doesnt-my-computer-turn-off-on-win-1/"><u>Solving the Issue: Why Doesn't My Computer Turn Off on Win 1#?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-unfiltered-truth-insights-into-instagram-reels-for-2024/"><u>The Unfiltered Truth Insights Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-tips-for-repairing-your-overwatch-voice-chat-issues-effortlessly/"><u>Ultimate Tips for Repairing Your Overwatch Voice Chat Issues Effortlessly</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-chromecast-local-media-a-comprehensive-guide-for-windows-mac-android-and-ios-users/"><u>Updated Chromecast Local Media A Comprehensive Guide for Windows, Mac, Android, and iOS Users</u></a></li>
+</ul></div>
 

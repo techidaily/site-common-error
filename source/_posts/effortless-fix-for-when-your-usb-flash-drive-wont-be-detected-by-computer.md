@@ -1,7 +1,7 @@
 ---
 title: Effortless Fix for When Your USB Flash Drive Won’t Be Detected by Computer
-date: 2024-09-19T16:05:11.621Z
-updated: 2024-09-20T17:05:06.025Z
+date: 2025-02-10T07:33:08.568Z
+updated: 2025-02-10T23:02:08.764Z
 tags:
   - win11
   - win10
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5932c4650.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)** Click on **Clear browsing data** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a02deb5a.png)
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 **c)**  Click **Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a4277ce0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And on **Mozilla Firefox** :
 
@@ -91,7 +99,15 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f6496cf6c6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can **disable all the extensions** to see if this fix the problem. If it does, you can enable**one extension at a time** to identify the one that causes the trouble.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4) Correct your system date and time
 
@@ -102,10 +118,7 @@ Here are the examples of checking extensions in Chrome and Firefox.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f827608c6c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)** In Control Panel, select**Date and Time** .
@@ -116,6 +129,10 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f83de02494.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **d)** In Internet Time Settings, tick **Synchronize with an Internet time server** and select a**time server** . Then click on**Update now** , and hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f84b23c29a.png)
@@ -123,10 +140,7 @@ Here are the examples of checking extensions in Chrome and Firefox.
 The date and time on your system is now updated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You may also want to read…
@@ -149,5 +163,19 @@ The date and time on your system is now updated.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/destiny-2-launch-glitch-on-pc-squashed-get-into-the-game-now/"><u>Destiny 2 Launch Glitch on PC Squashed - Get Into The Game Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-top-10-online-free-transformer-applications/"><u>Discover the Top 10 Online, FREE Transformer Applications</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-will-reevaluate-trumps-suspension-in-january-2023/"><u>Facebook Will Reevaluate Trump's Suspension in January 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-directory-not-recognized-message-a-step-by-step-guide/"><u>Fixing the 'Directory Not Recognized' Message: A Step-by-Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/painless-driver-management-for-windows-users-a-smooth-experience/"><u>Painless Driver Management for Windows Users - A Smooth Experience</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-v30t-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme V30T)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connectivity-problems-with-external-media-in-windows-environments/"><u>Resolving Connectivity Problems with External Media in Windows Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-windows-11-photo-customization-audio-plus-visuals-for-2024/"><u>The Ultimate Guide to Windows 11 Photo Customization Audio + Visuals for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-livekernelevent-error-144/"><u>Troubleshooting Steps for Correcting LiveKernelEvent Error 144</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-the-causes-of-windows-11-update-failure-error-0xc1900208-a-complete-solution-guide/"><u>Untangling the Causes of Windows 11 Update Failure (Error 0Xc1900208) - A Complete Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-hdmi-working-through-usb-common-issues-and-fixes/"><u>Why Isn't My HDMI Working Through USB? Common Issues and Fixes</u></a></li>
+</ul></div>
 

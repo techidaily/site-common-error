@@ -1,7 +1,7 @@
 ---
 title: Keyboard Enthusiasts Unite! Restoring the Radiant Features of Your Corsair Board
-date: 2025-01-24T03:47:01.954Z
-updated: 2025-01-29T16:48:31.119Z
+date: 2025-02-09T02:58:19.272Z
+updated: 2025-02-10T16:57:33.885Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## For Windows Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -46,10 +50,6 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/search-6.jpg)
 6. Select the same keyboard device again. Click the Update device driver button.  
 
@@ -67,19 +67,27 @@ Your keyboard should back to the default setting after reboot.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device-1.jpg)
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you’ve reset your keyboard language.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## For Mac Users
@@ -98,10 +106,6 @@ Now you’ve reset your keyboard language.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
 
@@ -115,10 +119,6 @@ Your keyboard should be back in the default settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Wait for the computer to reboot.
 
@@ -155,20 +155,24 @@ Your keyboard should be reset successfully.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-leading-software-lineup-8-linux-editing-sleuths/"><u>[New] 2024 Approved Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rom-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>[New] From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-saving-every-word-a-guide-to-fb-messenger-call-logs/"><u>[Updated] Saving Every Word A Guide to FB Messenger Call Logs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-transforms-commutes-mercedes-integrates-voice-tech/"><u>ChatGPT Transforms Commutes: Mercedes Integrates Voice Tech</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-t2-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Vivo T2 Pro 5G Lock Screen Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-set-up-directx-and-overcome-startup-issues/"><u>How to Successfully Set Up DirectX and Overcome Startup Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastered-the-art-of-launching-fortnite/"><u>Mastered the Art of Launching Fortnite</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-explore-the-best-free-soundtrack-libraries-for-your-videos-and-films-for-2024/"><u>New Explore the Best-Free Soundtrack Libraries for Your Videos and Films for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-network-troubles-overcoming-issues-connecting-to-a-dhcp-server/"><u>Resolving Network Troubles: Overcoming Issues Connecting to a DHCP Server</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202375904-resolving-the-critical-installer-crash-how-to-fix-error-code-1603/"><u>Resolving the Critical Installer Crash - How to Fix Error Code 1603</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-steps-for-rapid-recovery-from-no-detected-battery-error/"><u>Simple Steps for Rapid Recovery From 'No Detected Battery' Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-function-key-issues-on-your-dell-device/"><u>Step-by-Step Guide to Resolve Function Key Issues on Your Dell Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-evolution-of-theme-through-chatgpts-novel-writing-insights/"><u>The Evolution of Theme Through ChatGPT’s Novel-Writing Insights</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782641-9781594779343-the-sexual-practices-of-quodoushka/"><u>The Sexual Practices of Quodoushka | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-dell-webcam-fails-on-a-windows-pc/"><u>Troubleshooting Steps When Your Dell Webcam Fails on a Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-unresponsive-logitech-mouse-mystery/"><u>[Resolved] Unresponsive Logitech Mouse Mystery</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-decoding-macbook-airs-screen-capture-a-detailed-walkthrough-guide/"><u>[Updated] Decoding MacBook Air's Screen Capture A Detailed Walkthrough Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-excellent-ios-tools-the-hottest-choices-for-simulating-psp-games-for-2024/"><u>[Updated] Excellent iOS Tools The Hottest Choices for Simulating PSP Games for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-novel-approach-to-combining-data-units-on-windows-11/"><u>A Novel Approach to Combining Data Units on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126901-9781612831787-beyond-the-secret/"><u>Beyond the Secret | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-fixes-for-windows-10-red-display-problem-no-more-panic/"><u>Expert Fixes for Windows 10 Red Display Problem – No More Panic!</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-the-event-id-1000-hurdle-in-windows-os-vista-through-10/"><u>Guide to Overcome the 'Event ID 1000' Hurdle in Windows OS – Vista Through 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-unresponsive-valorant-display-issue/"><u>How to Fix an Unresponsive Valorant Display Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-livekernelevent-117-error/"><u>How to Fix LiveKernelEvent 117 Error</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-honor-magic5-ultimate-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic5 Ultimate Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-clear-the-clutter-a-comprehensive-guide-to-freeing-up-space-on-your-fcpx-mac/"><u>In 2024, Clear the Clutter A Comprehensive Guide to Freeing Up Space on Your FCPX Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-13-pro-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 13 Pro Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-dialogue-masters-whos-the-future-top-chatbot/"><u>Next-Gen Dialogue Masters: Who's the Future Top Chatbot?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-enhance-your-skype-experience-in-windows-11/"><u>Troubleshoot and Enhance Your Skype Experience in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-windows-11-audio-settings-when-volume-keys-dont-work/"><u>Troubleshoot Your Windows 11 Audio Settings When Volume Keys Don't Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-backspace-key-functionality-issues/"><u>Troubleshooting Guide: Fixing 'Backspace Key' Functionality Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-restoring-two-finger-scrolling-functionality/"><u>Troubleshooting Guide: Restoring Two-Finger Scrolling Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

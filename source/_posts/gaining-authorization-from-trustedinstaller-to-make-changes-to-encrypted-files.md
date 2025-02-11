@@ -1,7 +1,7 @@
 ---
 title: Gaining Authorization From TrustedInstaller to Make Changes to Encrypted Files
-date: 2024-09-13T18:31:03.071Z
-updated: 2024-09-20T19:08:58.440Z
+date: 2025-02-10T07:41:37.061Z
+updated: 2025-02-11T02:03:18.776Z
 tags:
   - win11
   - win10
@@ -37,7 +37,16 @@ When you pay the money and look forward to enjoying the game but find that the g
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After downloading the program successfully, it is recommended to[update your driver](https://tools.techidaily.com/drivereasy/download/) to improve your gaming performances.
 
@@ -54,10 +63,7 @@ Reinstall the Battle.net can may help you solve the issue.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Change Blizzard Settings
@@ -72,13 +78,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Run your Blizzard client as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Blizzard can make full use of its features, so run Blizzard as an administrator to see if this fixes your issue.
@@ -87,15 +86,12 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Right-click on the Blizzard icon and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/b1.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
 
@@ -107,13 +103,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 6: Set the Windows Secondary Logon is set to automatic
 
  Windows Secondary Logon allows administrators to log on with a non-administrator account to perform administrative tasks without logging off. The Secondary Logon service must be enabled for Blizzard games to install and run.
@@ -121,6 +110,11 @@ Reinstall the Battle.net can may help you solve the issue.
 1. Press the**Windows logo key** +**R** to open the Run box.
 2. Type “services.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/services.jpg)
 3. Locate and right-click**Secondary Logon** in the right pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
@@ -128,6 +122,10 @@ Reinstall the Battle.net can may help you solve the issue.
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -158,10 +156,11 @@ OR
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -183,5 +182,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-pubg-cannot-find-dxgidll-error/"><u>[Solved] PUBG Cannot Find dxgi.dll Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-10-wont-boot-after-update/"><u>[Solved] Windows 10 Won't Boot After Update</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-from-game-to-gigabyte-an-essential-guide/"><u>[Updated] 2024 Approved From Game to Gigabyte An Essential Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-send-gif-on-snapchat-step-by-step-guide/"><u>[Updated] 2024 Approved How to Send Gif on Snapchat [Step-by-Step Guide]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-anonymous-to-iconic-solo-podcast-blueprint-for-fame/"><u>[Updated] From Anonymous to Iconic Solo Podcast Blueprint for Fame</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-through-modern-cameras-complex-shooting-modes-for-2024/"><u>[Updated] Navigating Through Modern Camera's Complex Shooting Modes for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-v30t-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme V30T without App | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mts-files-to-mp4-for-free-top-8-methods-compatible-with-pc-and-mac/"><u>Convert MTS Files to MP4 for Free: Top 8 Methods Compatible with PC & Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/create-a-portable-digital-version-of-your-dvd-ripping-venom-for-on-demand-enjoyment-everywhere/"><u>Create a Portable Digital Version of Your DVD: Ripping 'Venom' For On-Demand Enjoyment Everywhere</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-broken-volume-controls-in-windows-10-solved/"><u>Effective Fixes for Broken Volume Controls in Windows 10 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-critical-imaging-errors-in-your-windows-11-or-10-pc/"><u>How to Overcome Critical Imaging Errors in Your Windows 11 or 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-a-stuck-windows-10-update-process-expert-tips-and-tricks/"><u>How to Resolve a Stuck Windows 10 Update Process – Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-keyboard-malfunction-heres-how-to-fix-it-quickly/"><u>HP Laptop Keyboard Malfunction? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-for-kids-five-child-friendly-practices/"><u>Navigating ChatGPT for Kids: Five Child-Friendly Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/printer-driver-was-not-installed-access-is-denied/"><u>Printer Driver Was Not Installed: Access Is Denied</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-music-production-with-ai-apple-upgrades-logic-pro-to-include-virtual-band-members-on-ipads-and-macs-zdnet-analysis/"><u>Revolutionizing Music Production with AI: Apple Upgrades Logic Pro to Include Virtual 'Band Members' On iPads and Macs | ZDNet Analysis</u></a></li>
+</ul></div>
 

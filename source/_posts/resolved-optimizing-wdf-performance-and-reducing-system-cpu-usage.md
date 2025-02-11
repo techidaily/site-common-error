@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Optimizing WDF Performance & Reducing System CPU Usage"
-date: 2024-09-17T16:22:04.667Z
-updated: 2024-09-20T18:19:23.082Z
+date: 2025-02-04T19:00:06.176Z
+updated: 2025-02-10T18:02:07.683Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc350
 **\*** Right-click the**System** item and click**Properties** , you’ll see a new item called**ntoskrnl.exe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0f9d613fd6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is ntoskrnl.exe?
 
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc350
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ## Method 1: Disable Windows Search service
@@ -60,17 +68,35 @@ thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc350
 1. On your keyboard, press the **Windows key** and**X** at the same time, then click **Computer management** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/computer-management.png)
 2. Expand**Services and Applications** and click**Services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
 3. Double-click**Windows Search** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/windwos-search-6101.jpg)
 4. In the**General** tab, click **Stop** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/stop-button.jpg)
 5. Wait for the service to stop, then press**OK** to save the change and exit.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Check incompatible programs
 
  Some users say that this only happens when they use certain programs. Especially when they have antivirus software running in the background. The antivirus software might have some conflicts with certain programs. The next time you encounter this situation, try to pay extra attention to see if you can find the program that is messing with your system. If such a program can be located, try reinstallingit or uninstalling it completely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Run SFC and DISM
 
@@ -93,17 +119,7 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.2\. Run dism.exe
@@ -132,19 +148,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  When these tests are done, see if the ntoskrnl.exe high CPU or disk usage problem remains. If the problem still persists, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4: Disable Runtime Broker
 
  Normally, the runtime broker process should only use a very low CPU resource, but if things go wrong, it could take up to 100% CPU and disk usage, making your Windows run slowly and buggy. In this case, you can try to disable it to see if it helps. To do so:
@@ -155,13 +158,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. On your keyboard, press the **Windows** key and the **R** key together. Type **regedit** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
 4. On the right side, double-click**Start** , and change its value to**4** .  
@@ -183,5 +179,26 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/hort-film-producer-yt-for-2024/"><u>[New] Short Film Producer YT for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-into-the-world-of-manga-and-anime-with-a-tap-on-snapchat/"><u>[Updated] 2024 Approved Step Into the World of Manga & Anime with a Tap on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-recommended-asmrists-for-nighttime-calmness/"><u>[Updated] Top Recommended ASMRists for Nighttime Calmness</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/automating-youtube-playback-in-social-networks-a-focus-on-facebook-for-2024/"><u>Automating Youtube Playback in Social Networks A Focus on Facebook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-network-troubles-fix-a-stalled-dns-server-in-4-steps/"><u>Combat Network Troubles: Fix a Stalled DNS Server in 4 Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-windows-update-tips-for-solving-error-0x80n001f-successfully/"><u>Error-Free Windows Update! Tips for Solving Error 0X80n001f Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-complete-the-windows-10-update-process-for-version-1803-issues-resolved/"><u>How to Successfully Complete the Windows 10 Update Process for Version 1803 (Issues Resolved)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-htc-u23-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track HTC U23 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-15-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 15 Pro Max without App | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-microphone-problems-in-the-steelseries-arctis-series-a-step-by-step-guide/"><u>Resolving Microphone Problems in the SteelSeries Arctis Series: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-sound-on-your-toshiba-laptop-computer/"><u>Step-by-Step Guide to Repairing Sound on Your Toshiba Laptop Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-the-windows-11-update-error-code-0x800705b4-tutorial/"><u>Step-by-Step Solution to Overcome the Windows 11 Update Error: Code 0X800705B4 [Tutorial]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-speaker-distortions-in-windows-operating-systems-w11w7/"><u>Troubleshooting and Solving Speaker Distortions in Windows Operating Systems [W11/W7]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-missing-files-in-systems-tips-and-techniques/"><u>Troubleshooting Missing Files in Systems - Tips and Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-youtube-sound-problems-on-windows-10-a-step-by-step-guide/"><u>Troubleshooting YouTube Sound Problems on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/1723808313778-troubleshooting-pc-starts-without-screen-output-solved/"><u>Troubleshooting: PC Starts without Screen Output – Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/wired-into-solutions-pc-and-headphones-reconcile-issues/"><u>Wired Into Solutions: PC & Headphones Reconcile Issues</u></a></li>
+</ul></div>
 

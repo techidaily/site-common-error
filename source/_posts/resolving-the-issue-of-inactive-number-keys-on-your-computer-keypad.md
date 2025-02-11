@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Inactive Number Keys on Your Computer Keypad
-date: 2024-09-13T20:47:57.073Z
-updated: 2024-09-15T07:03:49.324Z
+date: 2025-02-05T23:19:30.146Z
+updated: 2025-02-10T19:36:54.125Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 2. **[Reset WoW User Interface](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Make sure your PC meets the minimum specifications](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  It is very likely that the drivers you’ve installed on your computer are corrupt, outdated or in other ways incompatible. So you should update your drivers to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -43,6 +47,11 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Remember to restart your computer for the changes to take effect.
 5. Launch WoW to see if the error is fixed. If yes, then congrats! If it still pops up, please try**Fix 2** , below.
 
@@ -59,18 +68,25 @@ Here’s how to do it:
 4. Exit **Blizzard.net** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4.png)
 5. In the pop-up windows, double-click on the **World of Warcraft** folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.png)
 6. Double-click on **the game version that is having the connection issue** ( **\_retail\_**  or **\_classic\_** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-2.png)
 7. Rename these three folders: **Cache** , **Interface** , and **WTF folders** to **CacheOld** , **InterfaceOld** , and **WTFOld** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/7.png)
 8. Relaunch World of Warcraft and see if you can play it properly. If yes, then great – you’ve resolved the error! If the issue still remains, you should try **Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the minimum specifications
@@ -92,13 +108,6 @@ Here’s how to do it:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-12.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-11.png)
 3. Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -125,5 +134,20 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-brainless-beats-continue-selecting-top-8-zombie-masterpieces-for-2024/"><u>[New] Brainless Beats Continue Selecting Top 8 Zombie Masterpieces for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-outsmarting-video-based-home-schooling-effortlessly/"><u>[New] In 2024, Outsmarting Video-Based Home Schooling Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-your-bluetooth-keyboard-wont-sync-with-your-laptop/"><u>Easy Fixes for When Your Bluetooth Keyboard Won't Sync With Your Laptop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortlessly-load-pro-6-drivers/"><u>Effortlessly Load Pro 6 Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-groove-why-your-usb-mousekeyboard-stops-functioning-and-how-to-fix-it/"><u>Fixing Windows Groove - Why Your USB Mouse/Keyboard Stops Functioning and How to Fix It</u></a></li>
+<li><a href="https://article-posts.techidaily.com/how-to-make-a-video-from-photo-with-music/"><u>How to Make a Video From Photo with Music</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-7-hd-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 7 HD Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-how-to-edit-videos-in-windows-live-movie-maker/"><u>In 2024, How to Edit Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-drone-flight-optimal-lipo-battery-selection/"><u>Mastering Drone Flight Optimal LiPo Battery Selection</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/professionelle-losungen-fur-die-iphone-datensicherung-auf-windows-und-mac-os/"><u>Professionelle Lösungen Für Die iPhone-Datensicherung Auf Windows Und Mac OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-disappearance-of-bluetooth-devices-from-computer-settings/"><u>Resolving the Disappearance of Bluetooth Devices From Computer Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/verdict-no-opengl-advocacy-in-drivers/"><u>Verdict: No OpenGL Advocacy in Drivers</u></a></li>
+</ul></div>
 

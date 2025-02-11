@@ -1,7 +1,7 @@
 ---
 title: How to Address and Fix 'Module Not Found' Errors on Windows or Mac
-date: 2025-01-28T05:19:31.211Z
-updated: 2025-01-30T08:31:58.146Z
+date: 2025-02-10T04:20:31.400Z
+updated: 2025-02-10T23:16:53.390Z
 tags:
   - win11
   - win10
@@ -27,12 +27,16 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f339adae6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Both fixes below work in Windows 10, 8 and 7.
 
@@ -42,7 +46,7 @@ Both fixes below work in Windows 10, 8 and 7.
 2. [**Update your touchpad driver**](#F2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable touchpad in settings
@@ -52,20 +56,16 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -88,7 +88,7 @@ Both fixes below work in Windows 10, 8 and 7.
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Check and see if your Lenovo touchpad is back to life again. ?
@@ -118,20 +118,20 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb/"><u>[New] 2024 Approved Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-guide-to-premium-cost-free-chat-apps-on-web/"><u>[Updated] 2024 Approved Essential Guide to Premium, Cost-Free Chat Apps on Web</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-starter-gopro-gear-essentials/"><u>2024 Approved Top Starter GoPro Gear Essentials</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-installation-guide-for-steelseries-gaming-controllers-on-windows-systems/"><u>Comprehensive Installation Guide for SteelSeries Gaming Controllers on Windows Systems</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-enhanced-performance-with-karaoke-softwares-latest-update-beta-version-097676-rollout/"><u>Discover Enhanced Performance with Karaoke Software's Latest Update | Beta Version 0.9.7676 Rollout</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/evaluating-the-capabilities-of-windows-defender-in-cybersecurity-expert-analysis-from-yl-software/"><u>Evaluating the Capabilities of Windows Defender in Cybersecurity - Expert Analysis From YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-correcting-hardware-driver-conflicts-to-enhance-performance-in-world-of-warcraft/"><u>Expert Advice: Correcting Hardware Driver Conflicts to Enhance Performance in World of Warcraft</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Pattern Lock Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-restoring-functionality-of-usb-ports-for-windows-11-users/"><u>Guide: Restoring Functionality of USB Ports for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-response-from-your-external-mouse-heres-what-you-can-do/"><u>No Response From Your External Mouse? Here's What You Can Do</u></a></li>
-<li><a href="https://common-error.techidaily.com/repaired-malfunctioning-keyboard-typing-issue-resolved/"><u>Repaired: Malfunctioning Keyboard Typing Issue Resolved</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-recover-vanishing-desktop-icons-on-your-windows-10-pc/"><u>Solved: How to Recover Vanishing Desktop Icons on Your Windows 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-broken-windows-store-cache-fixes-and-tips-included/"><u>Solving the Problem of a Broken Windows Store Cache - Fixes and Tips Included</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-blurry-display-text-in-windows-11-easily/"><u>Troubleshooting and Correcting Blurry Display Text in Windows 11 Easily</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-of-both-worlds-video-makers-with-music-for-android-and-iphone/"><u>Updated In 2024, The Best of Both Worlds Video Makers with Music for Android and iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-fists-fighting-fames-flame/"><u>[New] 2024 Approved Fists Fighting Fame's Flame</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-android-flips-video-frames-for-the-ages/"><u>[New] How Android Flips Video Frames for the Ages</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-comedy-in-catchy-notes-best-parody-songs-list/"><u>[Updated] 2024 Approved Comedy in Catchy Notes Best Parody Songs List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-10-in-ultra-hd-top-4k-mirrorless-photo-journals/"><u>[Updated] Leading 10 in Ultra-HD Top 4K Mirrorless Photo Journals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-into-tomorrow-latest-apps-and-gaming-on-windows-10/"><u>2024 Approved Step Into Tomorrow Latest Apps & Gaming on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/asus-laptop-issue-resolved-enabling-and-repairing-function-keys-that-wont-work-anymore/"><u>ASUS Laptop Issue Resolved: Enabling and Repairing Function Keys That Won't Work Anymore</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-undetected-bluetooth-gadgets-on-your-windows-11-pc/"><u>Easy Fixes for Undetected Bluetooth Gadgets on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208830902-fix-windows-update-error-code-0x80070002-step-by-step-guide/"><u>Fix Windows Update Error Code 0X80070002 - Step-by-Step Guide!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-screen-to-stage-best-anime-inspired-tiktok-plays/"><u>From Screen to Stage Best Anime-Inspired TikTok Plays</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-smart-7-hd-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Smart 7 HD Is Unlocked</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-leading-websites-for-free-game-of-thrones-ringtones/"><u>In 2024, Leading Websites for Free Game of Thrones Ringtones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-production-value-choosing-top-tier-youtube-tools/"><u>Maximizing Production Value Choosing Top-Tier YouTube Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-error-0xc000007b-for-successful-program-launches/"><u>Step-by-Step Guide: Correcting Error 0xC000007B for Successful Program Launches</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-0x800f020b-successful-updates-for-your-xerox-printer-on-windows/"><u>Troubleshooting Error 0X800F020B: Successful Updates for Your Xerox Printer on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-mastered-achieving-restful-sleep/"><u>Windows 11 Mastered: Achieving Restful Sleep</u></a></li>
 </ul></div>
 

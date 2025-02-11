@@ -1,7 +1,7 @@
 ---
 title: "Fixing Endless Load on Skyrim's Startup: A Step-by-Step Guide"
-date: 2025-01-23T21:53:25.641Z
-updated: 2025-01-30T01:16:14.262Z
+date: 2025-02-08T08:23:38.360Z
+updated: 2025-02-11T09:50:49.707Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix A media driver your computer needs is missing
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 4. [**Change the ISO file format**](#Fix4)
 5. _[**Things you should do after trying these methods**](#Fix5)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does the error occur?
 
  This error generally occurs when you are installing Windows on your PC/laptop. the possible causes can be:
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -69,11 +69,19 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756ddcbe2a8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Re-plug the USB drive** into the computer again.
 
 4) Try to install Windows again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Try another USB port
 
@@ -83,19 +91,11 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
 
 4) Try to install Windows again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change the settings in BIOS
 
@@ -127,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Things you should do after trying these methods
 
  As the error message indicated, the media driver is missing in your computer, so you can try to**install the missing drivers** , and**update the outdated drivers** in your computer, in order to improve the computer performance and reduce the chances of the similar issues.
@@ -148,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
@@ -175,19 +175,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-best-top-xbox-hdds-your-ultimate-list/"><u>[New] Best Top Xbox HDDs Your Ultimate List</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-elite-ai-visual-editing-software-for-2024/"><u>[New] Elite AI Visual Editing Software for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-laughs-lab-innovator/"><u>[Updated] Laughs Lab Innovator</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-frontline-contenders-top-7-action-fps-games/"><u>2024 Approved Frontline Contenders Top 7 Action FPS Games</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-13t-frp-bypass-by-drfone-android/"><u>About Xiaomi 13T FRP Bypass</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>Achieve Marketing Excellence The Top 10 Steps to Mastering SMM</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-reflective-window-issue-in-windows-11/"><u>Addressing Reflective Window Issue in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-chrome-extension-loading-failure-in-windows-11/"><u>Fixing the Chrome Extension Loading Failure in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-stop-the-disappearing-cursor-problem-on-your-windows-10-system/"><u>Guide: Stop the Disappearing Cursor Problem on Your Windows 10 System</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210289115-9781493046911-haunted-new-mexico/"><u>Haunted New Mexico | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-effective-chatgpt-extensions-use/"><u>Strategies for Effective ChatGPT Extensions Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-restore-brightness-controls-on-windows-11/"><u>Troubleshooting Guide: Restore Brightness Controls on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-unresponsive-dns-4-effective-solutions/"><u>Troubleshooting Your Unresponsive DNS: 4 Effective Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-startup-understanding-auto-boot-in-your-windows-10-pc/"><u>Unexpected Startup: Understanding Auto-Boot in Your Windows 10 PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[New] 2024 Approved Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capture-screens-free-cross-platform-for-windowsmac-users-for-2024/"><u>[New] Capture Screens, Free! - Cross-Platform for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eo-essentials-for-climbing-the-youtube-popularity-ladder/"><u>[New] SEO Essentials for Climbing the YouTube Popularity Ladder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-the-dynamics-behind-youtube-video-rankings/"><u>[Updated] Understanding the Dynamics Behind YouTube Video Rankings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/alternatives-to-idm-for-youtube-content-extraction-a-comprehensive-guide-on-video-downloading-techniques-and-tools/"><u>Alternatives to IDM for YouTube Content Extraction - A Comprehensive Guide on Video Downloading Techniques and Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-text-excels-prowess-vs-ai-dialogues/"><u>Beyond Text: Excel's Prowess Vs. AI Dialogues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208987911-dell-laptop-usb-woes-heres-how-you-can-get-your-ports-working-again/"><u>Dell Laptop USB Woes? Here's How You Can Get Your Ports Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-cannot-perform-a-dual-role-issues-due-to-limited-system-capacity/"><u>Fixing 'Cannot Perform a Dual Role' Issues Due to Limited System Capacity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210580391-9781647553128-ghostly-tales-of-wisconsin-2nd-ed/"><u>Ghostly Tales of Wisconsin (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-swiftly-resolve-a-broken-logiteche-keyboard-problem/"><u>How to Swiftly Resolve a Broken Logiteche Keyboard Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-and-fix-common-issues-in-windows-11-file-explorer-quickly/"><u>Navigate and Fix Common Issues in Windows 11 File Explorer Quickly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/scripting-journalisms-closing-statements-for-2024/"><u>Scripting Journalism's Closing Statements for 2024</u></a></li>
 </ul></div>
 

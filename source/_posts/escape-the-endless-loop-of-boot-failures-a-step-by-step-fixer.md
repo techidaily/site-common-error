@@ -1,7 +1,7 @@
 ---
 title: "Escape the Endless Loop of Boot Failures: A Step-by-Step Fixer"
-date: 2025-01-28T22:58:39.525Z
-updated: 2025-01-30T04:55:53.284Z
+date: 2025-02-06T07:31:55.528Z
+updated: 2025-02-10T22:36:29.859Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
  If others can’t hear you in the party chat, but you can hear them clearly, please check these possibilities below to troubleshoot your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Check your headset**
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
  First of all, you need to check your headset’s cables and ports to see if they are working properly.
 
  Make sure that you**correctly plug the cables into the appropriate ports** . Make sure there are **no dust or obstacles** inside the ports that may prevent your device from working properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Check your mic boom**
 
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 2) Unplug your microphone halfway out from your controller, and plug it back in. Repeat this more than twice until you hear a sound like a buzz.
 
 3) Try your PS4 mic again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2: Update your sound card driver**
 
@@ -106,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a84d947cce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Input Device** and select**Headset Connected to Controller.**
@@ -114,12 +106,16 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Output Device** and select **Headset Connected to Controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ee7a8cb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click  **Volume Control (Headphones)** , and set the  level to**maximum** .
 
@@ -133,17 +129,21 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
 
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
 
-### in Windows 10
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### in Windows 10
 
 ### **Step 1**
 
@@ -152,6 +152,10 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 2) On your desktop, right-click the   **Speaker Icon**  at the bottom right corner, then Click **Recording devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2de909d7185.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the**Sound** pane, click the **Recording**   tab, and check if your microphone is set as default (there will be a green check mark next to it and the Set Default button is grayed out).
 
@@ -165,10 +169,6 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
  4) Click **OK** to save your settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step 2**
 
  1) Still on the**Sound** pane, click the **Recording**  tab. Click your default microphone then click the **Properties**  button.
@@ -179,13 +179,13 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -199,11 +199,11 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 
- 4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 ## Method 5: Replace with a PS4 microphone
 
@@ -231,24 +231,16 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-record-audio-with-audacity-on-mac/"><u>[New] 2024 Approved How to Record Audio with Audacity on Mac?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-top-5-featherweight-camcorders-for-adventures/"><u>[New] In 2024, Best Top 5 Featherweight Camcorders for Adventures</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-free-tool-your-android-unhindered/"><u>[Updated] In 2024, Best Free Tool Your Android, Unhindered</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>[Updated] In 2024, How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-of-ft232r-driver-for-usb-uart-communication-devices/"><u>Effortless Installation of FT232R Driver for USB-UART Communication Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-keyboard-and-mouse-connectivity-issues-in-windows-7-environments/"><u>Fix Keyboard & Mouse Connectivity Issues in Windows 7 Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-missing-vcruntime140dll-file-issue-complete-guide/"><u>Fixing the Missing VCRUNTIME140.dll File Issue - Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fps-foiled-games-crash-in-windows-1011-environment/"><u>FPS Foiled: Games Crash in Windows 10/11 Environment</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-out-of-a-boot-loop-effective-solutions-for-constant-boot-failures/"><u>Getting Out of a Boot Loop: Effective Solutions for Constant Boot Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-keep-your-files-intact-after-rebooting-windows-10/"><u>How to Keep Your Files Intact After Rebooting Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-y02t-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y02T to Protect Your Individual Information</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-set-up-a-chromecast-connection-for-displaying-windows-on-tv/"><u>How to Set Up a ChromeCast Connection for Displaying Windows on TV</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-behind-the-lens-wisdom-the-best-cinemagraph-tips/"><u>In 2024, Behind-the-Lens Wisdom The Best Cinemagraph Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-black-screen-problem-on-windows-11-a-step-by-step-guide/"><u>Resolving the Black Screen Problem on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-solutions-for-fixing-a-disconnected-media-device-on-your-windows-pc/"><u>Solving the Dilemma: Effective Solutions for Fixing a Disconnected Media Device on Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/tab-troubles-tamed-keys-now-talking/"><u>Tab Troubles Tamed - Keys Now Talking</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-resolving-twitch-error-4000/"><u>Troubleshooting Guide for Resolving Twitch Error 4000</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-hamachi-errors-why-is-my-service-discontinued/"><u>Troubleshooting Hamachi Errors: Why Is My Service Discontinued?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/why-is-the-bing-copilot-experience-deteriorating-on-windows-11-systems/"><u>Why Is the Bing Copilot Experience Deteriorating on Windows 11 Systems?</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-stuck-on-welcome-screen-quickly-and-easily/"><u>[Solved] | Windows 11 Stuck on Welcome Screen | Quickly & Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-recording-skills-for-every-lenovo-user/"><u>[Updated] In 2024, Essential Recording Skills for Every Lenovo User</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-playlist-rearrangement-made-simple-for-2024/"><u>[Updated] YouTube Playlist Rearrangement Made Simple for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-complete-walkthrough-to-resolve-the-cache-miss-error-errcachemiss-in-chrome/"><u>A Complete Walkthrough to Resolve the Cache Miss Error (ERR_CACHE_MISS) in Chrome</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-narzo-n53-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme Narzo N53 Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-v30-lite-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo V30 Lite 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-n3-flip-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo Find N3 Flip to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-your-mouses-right-click-functionality-in-windows-asterisk-10-a-step-by-step-tutorial/"><u>Restore Your Mouse's Right-Click Functionality in Windows Asterisk 10: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/teredos-challenge-why-the-team-struggles-to-meet-qualification-standards/"><u>Teredo's Challenge: Why the Team Struggles to Meet Qualification Standards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-resolving-windows-error-code-31-a-comprehensive-guide/"><u>Troubleshooting and Resolving Windows Error Code 31: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-frame-rate-fluctuations-for-a-smoother-play-through-of-resident-evil-village-on-pc/"><u>Troubleshooting Frame Rate Fluctuations for a Smoother Play Through of Resident Evil Village on PC</u></a></li>
 </ul></div>
 

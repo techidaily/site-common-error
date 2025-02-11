@@ -1,7 +1,7 @@
 ---
 title: Astro A40 Microphone Failure? Here's How to Get It Working Again with Simple Hacks
-date: 2024-09-16T18:57:47.045Z
-updated: 2024-09-20T18:52:46.880Z
+date: 2025-02-08T19:00:37.717Z
+updated: 2025-02-10T21:54:27.821Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -48,6 +52,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -66,13 +74,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -85,21 +86,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -132,5 +140,24 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-viral-covers-for-your-facebook-profile/"><u>[Updated] Crafting Viral Covers for Your Facebook Profile</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dark-screenwork-in-premiere-pro/"><u>[Updated] Dark Screenwork in Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-free-mac-screen-logger/"><u>[Updated] Pro-Free Mac Screen Logger</u></a></li>
+<li><a href="https://discover-best.techidaily.com/artificial-intelligence-in-multimedia-elevate-your-images-and-videos-through-resizing-stabilization-conversion-and-editing-processes/"><u>Artificial Intelligence in Multimedia: Elevate Your Images & Videos Through Resizing, Stabilization, Conversion, and Editing Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210984997-discords-silent-mic-no-more/"><u>Discord's Silent Mic: No More!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-updates-for-hp-officejet-pro-8720-printer-on-windows-pcs/"><u>Download & Install Updates for HP OfficeJet Pro 8720 Printer on Windows PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/farewell-frameworks-free-to-subscription-options-here-for-2024/"><u>Farewell Frameworks Free to Subscription Options Here for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-forcefully-close-windows-11-when-your-computer-fails-to-turn-off/"><u>How to Forcefully Close Windows 11 When Your Computer Fails to Turn Off</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-1053-non-responsive-service-launch-failure/"><u>Resolving Error 1053: Non-Responsive Service Launch Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-microphone-problems-on-steelseries-arctis-5-for-optimal-performance/"><u>Solving Microphone Problems on SteelSeries Arctis 5 for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-xerox-printing-update-error-0x800f020b-on-pcs-with-windows/"><u>Step-by-Step Fix for Xerox Printing Update Error 0X800f020b on PCs with Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-missing-letters-on-your-win-11-keyboard-step-by-step-solutions/"><u>Troubleshooting Missing Letters on Your Win 11 Keyboard – Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-xcopy-unrecognized-error-on-windows-fix-and-solutions/"><u>Troubleshooting: 'XCopy' Unrecognized Error on Windows - Fix and Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-and-tricks-enhancing-image-quality-on-your-apple-device/"><u>Ultimate Tips & Tricks: Enhancing Image Quality on Your Apple Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-auto-start-understanding-your-windows-10-pcs-self-booting-issue/"><u>Unexpected Auto-Start: Understanding Your Windows 10 PC's Self-Booting Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-t-kt-battlegrounds-fixing-the-dx11-v100-compatibility-issue/"><u>WWE ˈtʊ Kɪtʃ 🥊Battlegrounds: Fixing the DX11 v10.0 Compatibility Issue</u></a></li>
+</ul></div>
 

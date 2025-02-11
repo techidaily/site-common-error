@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Print Screen Issue on Your PC: A Guide for Windows 10 & 11 Users"
-date: 2025-01-29T02:46:05.757Z
-updated: 2025-01-29T19:55:03.616Z
+date: 2025-02-05T05:20:42.296Z
+updated: 2025-02-11T09:48:53.247Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -47,13 +51,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -67,28 +71,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -98,8 +98,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -120,16 +128,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -154,18 +154,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-elevating-your-desktop-mastering-screenshot-and-recording-for-2024/"><u>[New] Elevating Your Desktop Mastering Screenshot and Recording for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>[New] Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-overcome-windows-aturbidity-and-pair-your-devices-tips-and-tricks/"><u>Expert Solutions: Overcome Windows Aturbidity and Pair Your Devices (Tips & Tricks)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/finding-frame-frames-the-art-of-isolating-images-on-windows-10-for-2024/"><u>Finding Frame Frames The Art of Isolating Images on Windows 10 for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-dell-wd19-printer-drivers-installed-today/"><u>Get the Latest Dell WD19 Printer Drivers Installed Today</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 6</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-mastery-in-minutes-full-vsco-app-guide/"><u>In 2024, Mastery in Minutes Full VSCO App Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone XR iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-usb-flash-drive-unrecognized-issues/"><u>Quick Solutions: Resolving 'USB Flash Drive Unrecognized' Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-audio-problems-repair-guide-for-astro-a40-microphone/"><u>Solve Your Audio Problems: Repair Guide for Astro A40 Microphone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-game-changer-for-workflow-efficiency-an-insightful-test-drive-of-lenovos-dual-display-laptop/"><u>The Ultimate Game Changer for Workflow Efficiency: An Insightful Test Drive of Lenovo's Dual-Display Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-your-lenovo-laptops-camera-issues/"><u>Troubleshooting Steps: Resolving Your Lenovo Laptop's Camera Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-wwe-2k-battlegrounds-with-directx-11-feature-level-100-compatibility-problems/"><u>Troubleshooting WWE 2K Battlegrounds with DirectX 11 Feature Level 10.0 Compatibility Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-realme-12-proplus-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Realme 12 Pro+ 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-unplanned-desktop-shuts-offs-with-these-proven-solutions/"><u>End Unplanned Desktop Shuts Offs with These Proven Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-backspace-capability-on-your-device/"><u>How to Restore Backspace Capability on Your Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bypass-spotifys-predicted-podcast-selections/"><u>In 2024, Bypass Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition/"><u>In 2024, Extreme Capture Duo GoPro Hero5 Black Versus Hero4 Silver Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-smart-8-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Smart 8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-prime-nintendo-switch-fighting-game-guide-max-156/"><u>In 2024, Prime Nintendo Switch Fighting Game Guide (Max 156)</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-icues-missed-device-detection-a-step-by-step-guide/"><u>Overcoming ICUE's Missed Device Detection - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-dx11-feature-level-100-issue-in-wwe-2k-battlegrounds/"><u>Resolving DX11 Feature Level 10.0 Issue in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-to-overcome-typing-latency-in-windows-10-systems/"><u>Solutions to Overcome Typing Latency in Windows 10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-technique-for-deleting-diagnostic-information-logs-in-windows-11/"><u>Ultimate Technique for Deleting Diagnostic Information Logs in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultra-quick-vid-saver-seamlessly-score-clips-from-hundreds-of-web-portals-at-once/"><u>Ultra-Quick Vid Saver: Seamlessly Score Clips From Hundreds of Web Portals at Once</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue When Your Lenovo Keyboard Fails to Respond
-date: 2025-01-25T02:46:41.959Z
-updated: 2025-01-30T08:34:08.904Z
+date: 2025-02-10T03:49:32.712Z
+updated: 2025-02-11T04:45:13.647Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,13 +33,17 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
@@ -53,10 +57,6 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
 7. Reboot your computer.
 8. Go to the[Razer official website](https://www.razer.com/synapse-3) to download the latest version of Synapse.
@@ -65,7 +65,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -84,12 +84,12 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
 
@@ -110,17 +110,22 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unleashing-comedy-in-the-virtual-realm-making-hits-with-metaverse-memes/"><u>[New] Unleashing Comedy in the Virtual Realm - Making Hits with Metaverse Memes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-all-encompassing-clarification-the-basics-of-googles-podcast-platform-for-2024/"><u>[Updated] All-Encompassing Clarification The Basics of Google's Podcast Platform for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boost-your-instagram-influence-5-key-tactics-for-enhanced-followers/"><u>2024 Approved Boost Your Instagram Influence 5 Key Tactics for Enhanced Followers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207296104-error-0x80072ee7-in-the-windows-store-easy-fixes-unveiled/"><u>Error 0X80072EE7 in the Windows Store: Easy Fixes Unveiled!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-c210-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nokia C210</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-youtubes-content-creation-hub-essential-guide-for-2024/"><u>Locating YouTube's Content Creation Hub Essential Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-a-comprehensive-fix-for-a-non-functional-igfx-em-component/"><u>Overcoming the Hurdle: A Comprehensive Fix for a Non-Functional iGFX EM Component</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-incompatible-peripheral-connections-to-monitors-expert-tips/"><u>Resolving Incompatible Peripheral Connections to Monitors: Expert Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ladies-who-code-yts-10-gamers-for-2024/"><u>The Ladies Who Code YT's #10 Gamers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-with-the-steam-store-failing-to-load/"><u>Troubleshooting Guide: Resolving Issues with the Steam Store Failing to Load</u></a></li>
-<li><a href="https://facebook.techidaily.com/uncovering-whats-hot-on-social-media-hub/"><u>Uncovering What's Hot on Social Media Hub</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-list-zoom-recording-must-haves/"><u>[New] Comprehensive List Zoom Recording Must-Haves</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-huawei-p10s-network-performance-and-coverage-for-2024/"><u>[Updated] Exploring Huawei P10's Network Performance & Coverage for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harness-the-power-of-animoji-on-your-iphone-x/"><u>[Updated] Harness the Power of Animoji on Your iPhone X</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-guide-to-action-screening-saving/"><u>[Updated] In 2024, Essential Guide to Action Screening Saving</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-skype-call-recording-tips-ensuring-clarity-across-platforms/"><u>[Updated] Skype Call Recording Tips - Ensuring Clarity Across Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/dota-2-solve-error-2024-with-quick-api-adjustment-tips/"><u>Dota 2: Solve Error 2024 with Quick 'API Adjustment' Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/eclipse-effect-screen-issue/"><u>Eclipse Effect: Screen Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/execution-path-blocked/"><u>Execution Path Blocked</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-fixing-a-stuck-or-failed-windows-feature-update-to-version-1903/"><u>Expert Advice on Fixing a Stuck or Failed Windows Feature Update to Version 1903</u></a></li>
+<li><a href="https://common-error.techidaily.com/fallout-4-performance-optimized-how-to-overcome-lag-issues-tips-players/"><u>Fallout 4 Performance Optimized: How to Overcome Lag Issues (Tips Players)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-outlooks-failed-search-with-copernic-the-ultimate-alternative/"><u>Fix Outlook's Failed Search with Copernic: The Ultimate Alternative</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-frozen-google-chrome-do-you-need-to-restart/"><u>Fixing a Frozen Google Chrome: Do You Need to Restart?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-output-when-device-is-recognized-by-windows-os/"><u>How to Resolve No Audio Output When Device Is Recognized by Windows OS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-20-proplusfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 20 Pro+FRP Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-era-of-individual-ai-openais-personalized-gpt-shops/"><u>The Era of Individual AI: OpenAI's Personalized GPT Shops</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-high-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing High GPU Consumption by the Desktop Window Manager on Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-dell-bluetooth-keyboard/"><u>Troubleshooting Guide: Fixes for Non-Responsive Dell Bluetooth Keyboard</u></a></li>
 </ul></div>
 

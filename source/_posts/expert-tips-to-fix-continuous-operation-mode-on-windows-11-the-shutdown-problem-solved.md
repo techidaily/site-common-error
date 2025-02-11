@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Fix Continuous Operation Mode on Windows 11 - The Shutdown Problem SOLVED!
-date: 2024-09-11T08:28:42.708Z
-updated: 2024-09-15T03:40:03.281Z
+date: 2025-02-09T22:41:38.830Z
+updated: 2025-02-10T22:50:28.182Z
 tags:
   - win11
   - win10
@@ -29,15 +29,27 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 4. [ Set Windows Photo Viewer as a default image viewer ](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 4. Set Windows Photo Viewer as a default image viewer)
 5. [ Disable iCloud](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 5. Disable iCloud) ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -82,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -99,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 `` 3) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
@@ -138,10 +158,7 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -154,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -168,6 +178,10 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -204,5 +218,24 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-techs-time-capsule-a-screen-review-for-2024/"><u>[New] Tech's Time Capsule A Screen Review for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ranked-guide-to-premium-iosdesktop-video-change-tools-for-2024/"><u>[Updated] Ranked Guide to Premium iOS/Desktop Video Change Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-virality-vortex-mastering-content-circulation-on-social-media/"><u>2024 Approved The Virality Vortex Mastering Content Circulation on Social Media</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/adonit-nest-usb-hub-discount-alert-unbeatable-price-drop-for-your-remote-office-essential-at-just-65-exclusive/"><u>Adonit Nest USB Hub Discount Alert: Unbeatable Price Drop for Your Remote Office Essential at Just $65 - Exclusive</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-sudden-stops-on-win10-system/"><u>Computer Sudden Stops on Win10 System</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/curating-personalized-instagram-stories-overlays-for-2024/"><u>Curating Personalized Instagram Stories Overlays for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/enhancing-virtual-meeting-clarity-with-zoom-focus-for-2024/"><u>Enhancing Virtual Meeting Clarity with Zoom Focus for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x887a0006-troubleshooting-fast-and-effective-solutions/"><u>Error 0X887A0006 Troubleshooting: Fast and Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-microphone-challenges-in-the-latest-microsoft-os-windows-11-edition/"><u>Expert Tips: Overcoming Microphone Challenges in the Latest Microsoft OS - Windows 11 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-memory-corruption-in-ftdisk-systems-due-to-incompatible-drives/"><u>Fixing Memory Corruption in FTDisk Systems Due to Incompatible Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-app-induced-power-control-failures-in-windows/"><u>How To Overcome App-Induced Power Control Failures in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-connection-problems-on-your-minecraft-lan-setup/"><u>How to Resolve Connection Problems on Your Minecraft LAN Setup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-designs-in-syma-x8c/"><u>In 2024, Innovative Designs in Syma X8C</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtube-shorts-a-beginners-guide/"><u>In 2024, YouTube Shorts A Beginner's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unstable-visual-glitches-in-your-windows-10-device/"><u>Overcoming Unstable Visual Glitches in Your Windows 10 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-why-cant-my-geforce-experience-load-preferences/"><u>Solution Steps: Why Can't My GeForce Experience Load Preferences?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-oddworld-soulstorm-crashes-on-personal-computers/"><u>Troubleshooting Guide for Oddworld: Soulstorm Crashes on Personal Computers</u></a></li>
+</ul></div>
 

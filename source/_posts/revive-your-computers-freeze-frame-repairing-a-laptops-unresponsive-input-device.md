@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Computer’s Freeze-Frame: Repairing a Laptop's Unresponsive Input Device"
-date: 2024-09-08T21:36:13.276Z
-updated: 2024-09-15T11:42:58.307Z
+date: 2025-02-07T07:50:29.228Z
+updated: 2025-02-11T08:26:50.363Z
 tags:
   - win11
   - win10
@@ -38,9 +38,17 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -66,18 +74,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -97,19 +102,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -124,19 +116,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -154,9 +133,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -190,5 +177,26 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-audio-to-video-makers-online/"><u>[New] Audio to Video Makers Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-top-5-non-twitter-social-sites/"><u>[New] In 2024, Top 5 Non-Twitter Social Sites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-method-to-seamless-integration-of-linktree-into-tiktok-profiles/"><u>[Updated] The Ultimate Method to Seamless Integration of Linktree Into TikTok Profiles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-to-refined-the-essential-guide-to-podcast-editing-with-garageband/"><u>2024 Approved From Raw to Refined The Essential Guide to Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-seamless-video-playback-a-facebook-feature-explanation/"><u>2024 Approved Seamless Video Playback A Facebook Feature Explanation</u></a></li>
+<li><a href="https://common-error.techidaily.com/battle-tested-solutions-to-overcome-wwe-2ks-feature-level-10-error-in-dx11-environments/"><u>Battle-Tested Solutions to Overcome WWE 2K's Feature Level 10 Error in DX11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-glitch-successfully-turn-off-your-computer-running-windows-11-now-solved/"><u>Beat the Glitch: Successfully Turn Off Your Computer Running Windows 11 – Now Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-error-0x80072f8f-and-restore-your-system-with-these-fixes-for-windows-11-and-10/"><u>Decode Error 0X80072F8F and Restore Your System with These Fixes for Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-effortless-solutions-to-stop-your-laptop-from-freezing-up/"><u>Expert Advice: Effortless Solutions to Stop Your Laptop From Freezing Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205128970-how-to-fix-lenovo-mouse-pad-issues-on-windows-11-8-and-7-solutions-included/"><u>How to Fix Lenovo Mouse Pad Issues on Windows 11, 8 & 7 - Solutions Included</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211027005-how-to-prevent-auto-sleep-on-pc-or-laptop-easy-steps-inside/"><u>How to Prevent Auto-Sleep on PC or Laptop - Easy Steps Inside!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>In 2024, Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-magic-5-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor Magic 5 Pro FRP</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-viral-video-explosion-twitters-hot-tiktoks-listed/"><u>In 2024, Viral Video Explosion Twitter’s Hot TikToks Listed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-14-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 14</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-with-creating-directx-devices-on-your-system/"><u>Resolved: Issue with Creating DirectX Devices on Your System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-explained-maximizing-presence-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants Explained: Maximizing Presence on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-windows-update-error-code-0x802e401c-on-windows-11-a-comprehensive-guide/"><u>Solving the Windows Update Error Code 0X802e401C on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-device-drivers-warnings-in-windows-7-setup-guide/"><u>Troubleshooting the Missing Device Drivers Warnings in Windows 7 Setup [Guide]</u></a></li>
+</ul></div>
 

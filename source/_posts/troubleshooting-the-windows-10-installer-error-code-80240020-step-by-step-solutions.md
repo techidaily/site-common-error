@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the Windows 10 Installer Error Code 80240020: Step-by-Step Solutions"
-date: 2025-01-25T18:05:24.744Z
-updated: 2025-01-30T01:12:44.342Z
+date: 2025-02-07T23:34:56.364Z
+updated: 2025-02-10T23:20:10.987Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 **[Bonus tip: How to repair corrupted or damaged video files?](#bonus)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your browser
 
  An outdated browser can cause many issues, like error code 224003\. So before you take any drastic steps, make sure that your browser is up to date.
@@ -66,10 +70,14 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 3. Edge will automatically check for updates. If an update is available, it will download and install the update.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **To update Mozilla Firefox:**
 
@@ -77,16 +85,8 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-help.jpg)
 2. Select**About Firefox** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-firefox.jpg)
 3. Firefox will check for updates and download them automatically. When the download is complete, click**Restart to Update Firefox** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/restart-to-update-firefox-1.jpg)
 
@@ -124,15 +124,15 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 2. Next to**Time range to clear** , select**Everything** . Under**History** , select all the entries. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-clear-recent-history.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For Safari:**
 
 1. On your Mac, open Safari and select**History > Clear History** .
 2. In the**Clear** field, choose**all history** . Then click**Clear History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-clear-history.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After clearing your browser’s cache and cookies, check if error code 224003 is resolved. If not, check out the next fix.
 
@@ -148,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-disable-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Edge:**
 
 1. In the toolbar, click the**Extensions** icon and select**Manage Extensions** .  
@@ -165,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 1. In Firefox, press**Ctrl + Shift + A** to open the**Add-ons Manager** window.
 2. Select**Extensions** . Then turn off all your extensions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-disable-extensions.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Safari:**
 
@@ -196,17 +188,21 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-settings-system.jpg)
 2. Under System, turn off**Use hardware acceleration when available** and click**Restart** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-hardware-acceeration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Firefox:**
 
 1. Open Firefox. Type or paste**about:preferences** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-preferences-1.jpg)
 2. In the General panel, under**Performance** , uncheck**Use recommended performance settings** , then uncheck**Use hardware acceleration when available** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-hardware-acceleration.jpg)
 
@@ -229,14 +225,10 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-reset-clean-up.jpg)
 3. Click**Reset settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-reset-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Edge:**
@@ -253,6 +245,10 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-support.jpg)
 2. Select**Refresh Firefox…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-firefox.jpg)
 3. In the new window, click**Refresh Firefox** .  
 
@@ -260,6 +256,10 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 4. Click**Finish** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-finish.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Safari:**
 
@@ -277,12 +277,12 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Stellar-video-repair-add-files.jpg)
 2. Click the**Repair** button to start the repair process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-repair.jpg)
 3. Once the process is completed, you can preview the repaired videos and save them to the desired location.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-video-repair-select-save-repaired-files.jpg)
 
@@ -307,15 +307,18 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-from-camera-roll-to-youtube-the-ultimate-uploading-guide/"><u>[New] 2024 Approved From Camera Roll to YouTube The Ultimate Uploading Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-arctic-accolades-top-athletes-and-events/"><u>[New] Arctic Accolades Top Athletes & Events</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-catching-life-in-motion-iphones-burst-capability/"><u>[Updated] 2024 Approved Catching Life in Motion IPhone's Burst Capability</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-broken-huion-pen-in-minutes-with-these-5-effective-solutions/"><u>Fix Your Broken Huion Pen in Minutes with These 5 Effective Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-non-responsive-file-explorer-issues-on-windows-11/"><u>Fixes for Non-Responsive File Explorer Issues on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-find-x7-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find X7 Fingerprint Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-launched-renderers-tips-for-addressing-initialization-issues-post-update/"><u>Successfully Launched Renderers? Tips for Addressing Initialization Issues Post-Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-svchostexe-netsvcs-for-better-internet-performance-and-stability/"><u>Troubleshooting Svchost.exe (NETSVCS) for Better Internet Performance and Stability</u></a></li>
-<li><a href="https://media-tips.techidaily.com/wav-file-transformation-easy-mp3wav-format-conversion-with-top-rated-audio-tool/"><u>WAV File Transformation: Easy MP3/WAV Format Conversion with Top-Rated Audio Tool</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-bring-back-vanished-watch-icon-to-facebook/"><u>[New] In 2024, Bring Back Vanished Watch Icon to Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-top-igtv-gurus-you-cant-miss/"><u>[New] In 2024, Top IGTV Gurus You Can't Miss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-metaverse-and-multimetase-core-disparities-explored/"><u>[Updated] Unveiling the Metaverse & MultiMetase Core Disparities Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/code-cannot-activate/"><u>Code Cannot Activate</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-sony-playstation-4-mic-issues-quickly/"><u>Expert Tips: Resolving Sony PlayStation 4 Mic Issues Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-a-smooth-gaming-experience-fix-oxygen-anarchy-plus2-crashes-and-bugs/"><u>Get a Smooth Gaming Experience: Fix Oxygen - Anarchy +2 Crashes & Bugs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-combat-excessive-cpu-load-caused-by-wudfhostexe-on-your-windows-11-pc/"><u>How to Combat Excessive CPU Load Caused by WUDFHost.exe on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-faulty-game-modules-errors-and-stop-sudden-game-shutdowns/"><u>How to Correct 'Faulty Game Modules' Errors and Stop Sudden Game Shutdowns</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-excessive-graphics-card-use-by-dwm-on-windows-11-5-proven-strategies/"><u>Resolve Excessive Graphics Card Use by DWM on Windows 11 – 5 Proven Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477101911-troubleshoot-the-iphone-contacts-app-top-3-fixes-to-try-now/"><u>Troubleshoot the iPhone Contacts App - Top 3 Fixes to Try Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-dota-2-change-rendering-api-issue-with-error-2024-fast-solutions/"><u>Troubleshooting Dota 2 'Change Rendering API' Issue with Error 2024 - Fast Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-snag-the-asus-laptop-at-just-99-during-best-buys-flash-sale-insider-tips/"><u>Unmissable Deal Alert: Snag the ASUS Laptop at Just $99 During Best Buy's Flash Sale - Insider Tips !</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/bian-beginnings-unveiled-building-a-business-and-bringing-big-bucks-for-2024/"><u>Youtubian Beginnings Unveiled Building a Business and Bringing Big Bucks for 2024</u></a></li>
 </ul></div>
 

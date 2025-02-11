@@ -1,7 +1,7 @@
 ---
 title: "Successfully Remedied: Stuck and Unresponsive Toshiba Keyboard Keys"
-date: 2025-01-24T03:54:07.123Z
-updated: 2025-01-30T07:11:12.749Z
+date: 2025-02-09T19:48:24.402Z
+updated: 2025-02-10T18:56:37.612Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -47,11 +51,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -67,23 +79,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,10 +117,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -122,13 +126,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -141,10 +145,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,24 +184,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ultimate-overview-of-camstudios-video-tools/"><u>[New] In 2024, Ultimate Overview of CamStudio's Video Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-story-audiences-the-untold-details/"><u>[Updated] In 2024, Instagram Story Audiences The Untold Details</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/amazon-kindle-vs-fire-tablet-distinguishing-key-features-and-uses/"><u>Amazon Kindle Vs. Fire Tablet - Distinguishing Key Features and Uses</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211414648-decoding-the-mystery-behind-failed-windows-update-downloads-restore-your-pcs-update-functionality/"><u>Decoding the Mystery Behind Failed Windows ^Update Downloads - Restore Your PC's Update Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-resolving-the-windows-0xc000012f-stop-error/"><u>Effortless Solutions: Resolving the Windows 0xC000012F Stop Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-your-pc-fails-to-start-properly/"><u>Expert Solutions for When Your PC Fails to Start Properly</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/fixing-damaged-registry-entries-and-system-components-on-windows-10-expert-solutions-by-yl/"><u>Fixing Damaged Registry Entries and System Components on Windows 10 - Expert Solutions by YL</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-error-code-0x80072ee7-on-windows-store-a-comprehensive-guide/"><u>Fixing the Error Code 0X80072EE7 on Windows Store: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-computer-startup-slow-issue/"><u>How to Fix Computer Startup Slow Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-your-mouse-goes-offline-sporadically-on-windows-11-or-windows-10/"><u>How to Resolve Your Mouse Goes Offline Sporadically on Windows 11 or Windows 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-12-proplus-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme 12 Pro+ 5G online without jailbreak</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-other-powerful-video-players-beyond-vlc/"><u>In 2024, Uncovering Other Powerful Video Players Beyond VLC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-making-reaction-videos-on-your-phone-for-2024/"><u>New The Ultimate Guide to Making Reaction Videos on Your Phone for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-addressing-the-write-failure-in-0x-referenced-memory-location/"><u>Resolved Issue: Addressing the Write Failure in 0X Referenced Memory Location</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-unbeatable-benefits-of-acquiring-pc-titles-directly-through-microsoft/"><u>The Unbeatable Benefits of Acquiring PC Titles Directly Through Microsoft</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-pc-game-freezing-issues-solved/"><u>Troubleshooting Nier: Automata PC Game Freezing Issues - Solved</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-pc-connection-issues-with-a-bluetooth-keyboard/"><u>Troubleshooting Steps: Resolving PC Connection Issues with a Bluetooth Keyboard</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmissable-deal-alert-snag-a-discounted-lg-wireless-speaker-for-up-to-40-less-find-out-more-with-zdnet/"><u>Unmissable Deal Alert: Snag a Discounted LG Wireless Speaker for Up to 40% Less - Find Out More with ZDNet!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-swiftrecord-the-quick-windows-11-recorder/"><u>[New] 2024 Approved SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-offline-access-top-quality-fb-videos-at-home/"><u>[New] In 2024, Offline Access Top Quality FB Videos at Home</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/asterclass-in-conversions-top-software-for-youtube-to-avi-for-2024/"><u>[New] Masterclass in Conversions Top Software for YouTube to AVI for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-podcasting-perfection-premium-recording-mics-for-2024/"><u>[New] Podcasting Perfection Premium Recording Mics for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigate-the-1080p-landscape-for-better-fb-broadcasts/"><u>[Updated] 2024 Approved Navigate the 1080P Landscape for Better FB Broadcasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-addressing-and-correcting-update-unsuccessful-in-warframe/"><u>Expert Guide: Addressing and Correcting 'Update Unsuccessful in Warframe'</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-astro-a40-microphone-issues-effective-solutions-and-tips/"><u>Fixing Your Astro A40 Microphone Issues: Effective Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-web-development-fixes-for-failed-renderer-initialization-as-of-2021/"><u>Mastering the Art of Web Development: Fixes for Failed Renderer Initialization as of 2021</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-out-of-memory-in-red-dead-redemption-2-by-expanding-your-pagefile/"><u>Resolve 'Out of Memory' In Red Dead Redemption 2 by Expanding Your Pagefile</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/writing-vlogs-a-guide-to-persuasive-scripts/"><u>Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Successfully Overcoming the 'Windows 10 Couldn't Be Installed (Error Code Eb80240020)' Challenge – A Comprehensive Guide
-date: 2024-09-11T18:42:45.703Z
-updated: 2024-09-15T04:33:27.887Z
+date: 2025-02-09T04:33:21.991Z
+updated: 2025-02-11T03:47:33.129Z
 tags:
   - win11
   - win10
@@ -33,29 +33,19 @@ Here are the solutions for you to try. You don’t need to try them all; just wo
 
 The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS settings**. If you are seeing this error, generally it’s because your computer can’t communicate with the hard drive. Another cause is the**SSD (Solid-state drive) issue**when installing Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check your hardware compatibility**
 
 If you have some**external devices**connected to your PC, such as the**external hard drive**or a**USB flash drive**,**disconnect**them all (leave your mouse and keyboard connected), then**restart**your computer. **If the error stops, plug your external devices back, only one at a time, then restart your PC**. If you get the error again after connecting certain device, you can identify the issue now. You can either replace this device completely from your PC, or update its driver as instructed in[solution 3](https://tools.techidaily.com/drivereasy/download/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 2: Change your BIOS settings**
 
 You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow the steps below: 1) Shut down your computer, then press the**Power button**to boot your computer. 2) Press and hold the button to enter the**BIOS setting**, generally the**ESC**,**F2**,**F12**or**Delete**key (please consult your PC manufacturer or go through your user manual).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ed990cd9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Once you’re in the**BIOS Setup Utility**screen, go to**Boot options**.
 
@@ -65,14 +55,11 @@ You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab23153b0892.png)
 
-5)**Save**your changes, and reboot your computer. This should fix your problem.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5)**Save**your changes, and reboot your computer. This should fix your problem.
 
 ## **Solution 3: Update your drivers**
 
@@ -82,15 +69,16 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 
 **Manual driver update**– You can update your drivers manually by going to the**manufacturer’s website**and searching for the**most recent correct driver**. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Automatic driver update**– Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the**FREE**or the**Pro**version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee**): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aaf6cdfc84d7.png)3) Click the**Update**button next to all flagged devices to automatically download and install the correct version of their driver (you can do this with the**FREE**version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All**).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab232d7385cf.jpg)
 
 4) Restart your computer and see if the error 0xc00000e9 disappears.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 4: Run a disk check**
@@ -98,6 +86,10 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 The error 0xc00000e9 can be caused by the disk problem. You should make sure that your disk works properly. 1) Boot your computer into**Safe Mode**. (You can check this article for more information about **[how to enter Safe Mode](https://tools.techidaily.com/drivereasy/download/)** .) 2) In the search box on your desktop, type**cmd**. Then right click**Command Prompt** (right click cmd if you’re using Windows 7) and click**Run as administrator**. Then click**Yes**to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab234158a472.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
@@ -127,5 +119,21 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist/"><u>[Updated] In 2024, Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-next-generation-of-video-communities-post-youtube/"><u>[Updated] The Next Generation of Video Communities Post-YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>2024 Approved Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-vlogging-vs-micro-video-which-outperforms-youtubes-shorts-or-tiktoks/"><u>2024 Approved Vlogging Vs. Micro-Video Which Outperforms? YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-11-keyboard-delay-issues-resolved-techniques/"><u>Fix Windows 11 Keyboard Delay Issues - Resolved Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/hardware-monitor-driver-installation-issue-how-to-fix-unsuccessful-loading/"><u>Hardware Monitor Driver Installation Issue: How to Fix Unsuccessful Loading</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-on-systems-with-incompatible-drivers-solutions-and-fixes/"><u>How to Enable Miracast on Systems with Incompatible Drivers – Solutions & Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-arcade-affordability-bar-reviews/"><u>In 2024, ARCADE AFFORDABILITY BAR Reviews</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chinas-low-cost-vr-solutions/"><u>In 2024, China's Low-Cost VR Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/miracast-troubleshooting-solutions-for-devices-with-limited-support/"><u>Miracast Troubleshooting : Solutions for Devices With Limited Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/msdia80dll-explained-do-you-need-to-keep-it-running/"><u>mSdIA80.DLL Explained: Do You Need to Keep It Running?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-ftdi-bus-malfunction-from-non-compatible-device-drivers/"><u>Resolving FTDI Bus Malfunction From Non-Compatible Device Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+</ul></div>
 

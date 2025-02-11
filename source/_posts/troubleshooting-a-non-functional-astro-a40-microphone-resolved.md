@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Non-Functional Astro A40 Microphone - Resolved
-date: 2025-01-23T04:06:15.652Z
-updated: 2025-01-30T00:34:57.773Z
+date: 2025-02-07T02:12:43.852Z
+updated: 2025-02-10T17:21:51.264Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
  Check if the microphone is still not working. If yes, then great. But if it’s not working, move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
 
@@ -80,12 +84,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
@@ -94,13 +98,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -119,10 +123,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -156,24 +156,17 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/warranty-and-lifespan-higher-quality-led-systems-may-come-with-a-higher-upfront-price-but-can-offer-longer-lifespans-and-better-performance-which-should-be-/"><u>__Warranty and Lifespan Higher Quality LED Systems May Come with a Higher Upfront Price but Can Offer Longer Lifespans and Better Performance, Which Should Be Considered in the Overall Cost Evaluation for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208435044-fixed-this-device-is-not-present-code-24-windows-10-8-or-7/"><u>[Fixed] This Device Is Not Present (Code 24) – Windows 10, 8 or 7</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>[Updated] 2024 Approved Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/brookstones-frames-photography-at-its-peak/"><u>Brookstone's Frames - Photography at Its Peak</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/come-ripristinare-le-email-eliminate-per-sempre-da-icloud-guida-passo-passo/"><u>Come Ripristinare Le Email Eliminate per Sempre Da iCloud: Guida Passo-Passo</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206749006-critical-fix-semaphore-exceeds-allotted-time-limit-problem-solved/"><u>Critical Fix: Semaphore Exceeds Allotted Time Limit, Problem Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-and-rectifying-an-intractable-directx-error/"><u>Deciphering and Rectifying an Intractable DirectX Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-random-failures-of-your-wireless-mouse-for-enhanced-pc-usability-on-windows-1110/"><u>Diagnosing and Fixing Random Failures of Your Wireless Mouse for Enhanced PC Usability on Windows 11/10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-tailoring-your-desktops-finder-display-settings-on-macos/"><u>Easy Steps: Tailoring Your Desktop's Finder Display Settings on MacOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hero5-black-versus-hero4-silver-comparison-for-2024/"><u>Hero5 Black Versus Hero4 Silver Comparison for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-audio-service-requiring-a-restart-on-boot/"><u>How to Fix the Windows Audio Service Requiring a Restart on Boot</u></a></li>
-<li><a href="https://common-error.techidaily.com/improving-interaction-speed-between-printer-and-scan-devices-epson/"><u>Improving Interaction Speed Between Printer & Scan Devices (Epson)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-stagnation-of-ideas-in-contemporary-vr/"><u>In 2024, The Stagnation of Ideas in Contemporary VR</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/stellars-top-tips-for-safe-and-efficient-data-removal-techniques/"><u>Stellar's Top Tips for Safe and Efficient Data Removal Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-restore-volume-control-functionality-on-windows-nx/"><u>Step-by-Step Solution: Restore Volume Control Functionality on Windows nX</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unresponsive-web-browsers/"><u>Troubleshooting Guide: Dealing with Unresponsive Web Browsers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-print-to-pdf-functionality-in-windows-11-by-microsoft/"><u>Troubleshooting Print to PDF Functionality in Windows 11 by Microsoft</u></a></li>
-<li><a href="https://common-error.techidaily.com/wow-reimagined-revolutionizing-gaming-experience-with-advanced-3d-graphics/"><u>WoW Reimagined: Revolutionizing Gaming Experience with Advanced 3D Graphics</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-essential-guide-to-affordable-cross-platform-streamers-for-2024/"><u>[New] Essential Guide to Affordable, Cross-Platform Streamers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-advanced-color-grading-strategies-using-luts-for-professional-videos-in-obs/"><u>[Updated] Advanced Color Grading Strategies Using LUTs for Professional Videos in OBS</u></a></li>
+<li><a href="https://common-error.techidaily.com/application-crash-due-to-dll-shortage/"><u>Application Crash Due to DLL Shortage</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-the-value-of-monitoring-my-slumber-a-personal-journey-beyond-initial-doubts/"><u>Discovering the Value of Monitoring My Slumber: A Personal Journey Beyond Initial Doubts</u></a></li>
+<li><a href="https://common-error.techidaily.com/enabling-bluetooth-connectivity-in-windows-11-a-step-by-step-guide/"><u>Enabling Bluetooth Connectivity in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-crash-problems-on-pc-while-running-no-rest-for-the-wicked/"><u>Fixing Game-Crash Problems on PC While Running 'No Rest for the Wicked'</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207035793-how-to-fix-crackling-sound-on-speakers-for-windows-11-and-7-users-resolved/"><u>How to Fix Crackling Sound on Speakers for Windows 11 & 7 Users – Resolved</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-techniques-for-enhancing-comics-experience-on-win11/"><u>Innovative Techniques for Enhancing Comics Experience on Win11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/managing-security-preferences-via-the-control-panel-tips-from-yl-computing/"><u>Managing Security Preferences via the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-hdr-camera-selection-made-easy-for-2024/"><u>Top-Tier HDR Camera Selection Made Easy for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexplained-darkness-monitor-hurdle/"><u>Unexplained Darkness: Monitor Hurdle</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-runtime-broker-causing-high-cpu-errors-heres-how-you-can-fix-it-quickly/"><u>Windows 11 Runtime Broker Causing High CPU Errors? Here's How You Can Fix It Quickly</u></a></li>
 </ul></div>
 

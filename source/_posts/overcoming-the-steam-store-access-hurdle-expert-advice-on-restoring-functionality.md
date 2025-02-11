@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Steam Store Access Hurdle: Expert Advice on Restoring Functionality"
-date: 2024-09-16T19:25:50.531Z
-updated: 2024-09-20T18:54:08.780Z
+date: 2025-02-04T22:01:57.395Z
+updated: 2025-02-10T16:27:05.740Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
 
 **Note:** the screenshots below are from Windows 10, but the solutions also apply to other Windows versions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these tips
 
 1. **[Try on-screen keyboard](#s1)**
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
 5. **[Run hardware and devices troubleshooter](#s5)**
 6. **[Boot your PC into Safe Mode](#s6)**
 7. **[Use a different keyboard](#s7)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1 – Try on-screen keyboard
 
@@ -71,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cf7e7c521d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Solution 3 – Uninstall and reinstall your keyboard driver
@@ -79,11 +91,21 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
 
 1. Press the **Windows![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
  key  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  and  
 **R**  to invoke the Run box.
 2. Type**devmgmt.msc** and click**OK**  to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d013077561.png)
 3. Expand the**Keyboards** category.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d02c6cb5ba.jpg)
 5. When prompted for confirmation, click**Uninstall** .  
@@ -102,15 +124,13 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdaae8ea64.jpg)
 2. Under**Country or Region** , make sure an English-speaking country or region is selected. If you cannot find any, then you can click the**Add a Language** button to add one.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdd1e9fccd.jpg)
 3. Under**Languages** , click**Windows display language** and select**Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdfb50cdf8.jpg)
 4. Under**Keyboards** , check what keyboard is selected and verify the input language is English.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8ce010368bc.jpg)
@@ -118,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
  Can you type**@** now? If not, try the next solution.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 5 – Run hardware and devices troubleshooter (Windows 10)
 
@@ -135,17 +148,23 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
 2. In the right pane, under**Find and fix other problems** , select**Hardware and Devices** and click the**Run the troubleshooter** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cfc1e997d4.jpg)
 3. If you see something like the screenshot below, you can then continue with the next solution.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cfb0f5ec3d.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6 – Boot your PC into Safe Mode
 
@@ -156,21 +175,11 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0bd09c388.png)
 3. At the top of the **System Configuration**  window, click on the **Boot**  tab, **check**  the box next to **Safe boot** , select **Network**  and click   **OK.**  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c0263d34.jpg)  
 **Note:** If you want to start Windows in**Normal Mode** , ensure the**Safe boot** box is**unchecked** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Make sure all the currently open files are saved and click   **Restart.**  
@@ -200,5 +209,19 @@ thumbnail: https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c06
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unveiling-the-art-of-podcast-storytelling-expert-tips-plus-10plus-sample-scripts/"><u>[Updated] 2024 Approved Unveiling the Art of Podcast Storytelling Expert Tips + 10+ Sample Scripts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-analyzing-freecampros-webcam-capture-quality-for-2024/"><u>[Updated] Analyzing FreeCamPro's Webcam Capture Quality for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/disregarded-sd-card-dont-despair-solutions-await/"><u>Disregarded SD Card, Don't Despair! Solutions Await</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-overcome-and-fix-code-28-device-manager-issues-on-your-pc/"><u>Effective Techniques to Overcome and Fix Code 28 Device Manager Issues on Your PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-100-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 100 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-high-dynamic-range-with-image-curving/"><u>In 2024, Mastering High Dynamic Range with Image Curving</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maplestory-now-running-smoothly-solving-previous-startup-problems/"><u>MapleStory Now Running Smoothly - Solving Previous Startup Problems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/most-viewed-vids-worldwide-roundup-for-2024/"><u>Most Viewed Vids Worldwide Roundup for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-fix-getting-snapchat-installed-on-mac/"><u>Quick Fix Getting Snapchat Installed on Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-slow-booting-in-windows-7-users/"><u>Quick Fixes for Slow Booting in Windows 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-desktop-mouse-stops-working/"><u>Quick Fixes for When Your Desktop Mouse Stops Working</u></a></li>
+<li><a href="https://win-updates.techidaily.com/retrieve-past-buys-quickly-view-archived-orders-on-the-yl-software-platform/"><u>Retrieve Past Buys Quickly - View Archived Orders on the YL Software Platform!</u></a></li>
+</ul></div>
 

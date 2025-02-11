@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Failed DirectX Graphics Driver Installations
-date: 2024-09-17T17:54:44.152Z
-updated: 2024-09-20T16:30:26.597Z
+date: 2025-02-05T20:05:37.404Z
+updated: 2025-02-11T00:23:33.627Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b122329db8c6b3d63423f9307655a76116968c0c0
 3. **[Scan for malware on your computer](#c)**
 4. **[Perform a clean boot](#d)**
 5. **[Run the Command Prompt](#e)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -59,6 +63,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-104.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-105.png)
@@ -84,10 +92,7 @@ OR
  If your problem still exists after you update your computer, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan for malware on your computer
@@ -105,10 +110,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-98-1024x641.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Wait for the process to be complete. If there is any malware on your computer, follow the on-screen instructions to remove it.
@@ -132,6 +134,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-119.png)
@@ -140,6 +146,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-110.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
@@ -147,6 +157,10 @@ OR
 **6)** Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Click the**Startup tab.**
 
@@ -196,6 +210,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Right-click the program you want to prevent it from auto-launching and select **Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
@@ -214,6 +232,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-132.png)
@@ -221,13 +243,6 @@ OR
 **3)** Click the button next to**Normal startup,** and then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-148.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the**Services tab** .
 
@@ -251,13 +266,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run the Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
@@ -269,10 +277,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
@@ -305,5 +310,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expert-review-top-5-webcams-for-ultimate-visual-and-auditory-experience/"><u>[New] 2024 Approved Expert Review Top 5 Webcams for Ultimate Visual & Auditory Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-potential-your-ultimate-youtube-facebook-transition-guide-for-2024/"><u>[Updated] Unlocking Potential Your Ultimate YouTube-Facebook Transition Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722865882392-discover-the-hottest-max-series-offering-right-this-second/"><u>Discover the Hottest MAX Series Offering Right This Second!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-resolve-no-bootable-device-found-on-your-laptop-or-pc/"><u>Expert Tips to Resolve 'No Bootable Device Found' On Your Laptop or PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-audio-issues-a-guide-to-resolving-sound-cuts-in-your-logitech-g930-headset/"><u>Fixing Audio Issues: A Guide to Resolving Sound Cuts in Your Logitech G930 Headset</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-crash-alert-aw-snap-when-using-google-chrome/"><u>Fixing Crash Alert 'Aw, Snap!' When Using Google Chrome</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-iphones-journal-app-makes-your-device-findable-and-why-you-should-disable-it/"><u>How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-issue-of-svchostexe-causing-high-cpu-usage-on-your-windows-10-pc-guide/"><u>How to Resolve the Issue of svchost.exe Causing High CPU Usage on Your Windows 10 PC [Guide]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-network-error-code-0x800704cf/"><u>How to Resolve Windows Network Error Code 0X800704CF</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-reveals-apples-development-of-affordable-ar-spectacles-and-visual-aid-devices-latest-news-from-zdnet/"><u>Insider Reveals: Apple's Development of Affordable AR Spectacles and Visual Aid Devices - Latest News From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-msvcp140dll-shortage/"><u>Overcoming MSVCP140.dll Shortage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-the-latest-lenovo-ideapad-groths-for-windows-10-users/"><u>Step-by-Step Guide: Downloading the Latest Lenovo IdeaPad Groths for Windows 10 Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-the-power-of-reverse-how-to-edit-tiktok-videos-like-a-pro/"><u>Updated In 2024, Unleash the Power of Reverse How to Edit TikTok Videos Like a Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-editing-software-virtualdub-review-and-top-competitors/"><u>Updated The Best Free Video Editing Software Virtualdub Review and Top Competitors</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-farewell-optimizing-your-computers-shutdown-performance/"><u>Windows 11 Farewell: Optimizing Your Computer's Shutdown Performance</u></a></li>
+</ul></div>
 

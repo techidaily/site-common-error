@@ -1,7 +1,7 @@
 ---
 title: Optimize Mouse Wheel for PC Gains
-date: 2025-01-26T23:09:19.683Z
-updated: 2025-01-30T00:28:33.961Z
+date: 2025-02-08T01:18:30.023Z
+updated: 2025-02-10T23:47:56.561Z
 tags:
   - win11
   - win10
@@ -26,15 +26,15 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is ntoskrnl.exe?
 
  Ntoskrnl.exe, short for**Windows NT operating system kernel** , is a fundamental part of the system. Usually, when you see the uncommon usage of high CPU or memory, you should shut down the possible programs that are causing the problem.
 
  If this happens a lot, you should see if there is something wrong with certain application settings or files in your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I fix it?
 
@@ -60,11 +60,11 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Disable Windows Search service
 
@@ -74,8 +74,16 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/computer-management.png)
 2. Expand**Services and Applications** and click**Services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
 3. Double-click**Windows Search** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/windwos-search-6101.jpg)
 4. In the**General** tab, click **Stop** .  
@@ -83,11 +91,11 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/stop-button.jpg)
 5. Wait for the service to stop, then press**OK** to save the change and exit.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
 
 ## Method 2: Check incompatible programs
 
@@ -103,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt window, copy and paste the following command and hit**Enter** .
@@ -116,6 +120,14 @@ sfc /scannow
  3) System File Checker will then scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.2\. Run dism.exe
 
@@ -143,10 +155,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  When these tests are done, see if the ntoskrnl.exe high CPU or disk usage problem remains. If the problem still persists, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 4: Disable Runtime Broker
 
  Normally, the runtime broker process should only use a very low CPU resource, but if things go wrong, it could take up to 100% CPU and disk usage, making your Windows run slowly and buggy. In this case, you can try to disable it to see if it helps. To do so:
@@ -158,19 +166,11 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
 4. On the right side, double-click**Start** , and change its value to**4** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
@@ -189,20 +189,24 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-precisionsync-analyst-perspectives/"><u>[New] In 2024, PrecisionSync Analyst Perspectives</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-humor-hierarchy-the-20-most-popular-memes-for-2024/"><u>[Updated] Humor Hierarchy The 20 Most Popular Memes for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-propel-innovative-expression-ultimate-guide-to-best-android-drawing-tools/"><u>[Updated] Propel Innovative Expression Ultimate Guide to Best Android Drawing Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-recovery-addressing-audio-file-dll-issues/"><u>Fast Recovery: Addressing Audio File Dll Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/final-answer-navigating-past-a-preparing-to-configure-impasse-in-windows-os-setup/"><u>Final Answer: Navigating Past a 'Preparing to Configure' Impasse in Windows OS Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-media-transcoding-change-your-audiovideo-formats-using-winx-pro-converter/"><u>Free Media Transcoding: Change Your Audio/Video Formats Using WinX Pro Converter</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-frozen-individual-configuration-options-easily/"><u>How to Reactivate Frozen Individual Configuration Options Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-windows-11-or-10-from-perpetually-restarting-solutions-inside/"><u>How to Stop Windows 11 or 10 From Perpetually Restarting - Solutions Inside!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-11-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 11 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommendations-the-highest-rated-18-video-recorders-now/"><u>In 2024, Expert Recommendations The Highest-Rated 18 Video Recorders Now</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-full-breakdown-samsungs-immersive-camera-technology/"><u>In 2024, Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-issue-of-a-non-functional-internet-explorer-browser/"><u>Overcoming the Issue of a Non-Functional Internet Explorer Browser</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-server-glitch-ms-store-issue-on-win-11-and-11/"><u>Resolving Server Glitch: MS Store Issue on Win 11 & 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-dilemma-of-xbox-one-controller-pc-use/"><u>Solve the Dilemma of Xbox One Controller PC Use</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-discussion-treasures-for-listener-retention/"><u>Updated Discussion Treasures for Listener Retention</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/utting-edge-techniques-youtube-trailers-through-filmoras-lens/"><u>[New] Cutting Edge Techniques YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-camera-to-feed-instagram-video-upload-on-desktop/"><u>[Updated] From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-airdrop-issues-quick-solutions-for-iphoneipadmac-users/"><u>2024 Approved Mastering AirDrop Issues Quick Solutions for iPhone/iPad/Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-standout-80s-aesthetics-for-video-editing-pros/"><u>2024 Approved Standout '80S Aesthetics for Video Editing Pros</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-lag-in-downloading-league-of-legends-expert-tips-for-faster-setup/"><u>Bypass Lag in Downloading League of Legends - Expert Tips for Faster Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-restoring-ethernet-network-functionality-in-windows-operating-systems-windows-107/"><u>Expert Advice: Restoring Ethernet Network Functionality in Windows Operating Systems (Windows 10/7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-werfaultexe-app-crash-issues/"><u>How to Resolve Windows WerFault.exe App Crash Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y36-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y36 Face Lock?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-sound-speed-with-these-essential-apps-for-2024/"><u>Optimize Sound Speed with These Essential Apps for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-connection-problems-dealing-with-a-missing-dhcp-server-response/"><u>Overcome Connection Problems - Dealing with a Missing DHCP Server Response</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-non-functioning-print-to-pdf-feature-in-windows-11/"><u>Overcoming the Challenge of Non-Functioning Print to PDF Feature in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-code-19-fixing-dvd-and-cd-rom-drive-issues-in-windows-10-due-to-corrupted-settings/"><u>Resolve Code 19: Fixing DVD and CD-Rom Drive Issues in Windows 10 Due to Corrupted Settings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-crashing-problems-in-rainbow-six-siege-for-windows-users/"><u>Resolving Crashing Problems in Rainbow Six Siege for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-restore-sound-functionality-of-your-sony-ps4-headset-or-controller/"><u>Step-by-Step Solution to Restore Sound Functionality of Your Sony PS4 Headset or Controller</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-to-windows-cannot-access-specified-device-path-problem/"><u>The Ultimate Solution to 'Windows Cannot Access Specified Device Path' Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-cache-miss-errors-in-chrome-browser/"><u>Troubleshooting Cache Miss Errors in Chrome Browser</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-uninstalling-applications-from-your-iphone-or-android-device/"><u>Ultimate Guide: Uninstalling Applications From Your iPhone or Android Device</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/understanding-intellectual-property-rights-on-video-screen-captures/"><u>Understanding Intellectual Property Rights on Video Screen Captures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verizons-hottest-savings-opportunities-monthly-best-deals-on-phone-upgrades/"><u>Verizon's Hottest Savings Opportunities: Monthly Best Deals on Phone Upgrades</u></a></li>
 </ul></div>
 

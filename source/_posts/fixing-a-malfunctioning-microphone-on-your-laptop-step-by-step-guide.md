@@ -1,7 +1,7 @@
 ---
 title: Fixing a Malfunctioning Microphone on Your Laptop - Step-by-Step Guide
-date: 2024-09-18T17:29:16.686Z
-updated: 2024-09-20T17:33:22.221Z
+date: 2025-02-09T22:36:25.544Z
+updated: 2025-02-10T19:20:45.805Z
 tags:
   - win11
   - win10
@@ -19,17 +19,33 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
 This morning, you open Google Hangouts to start a phone call or video call with your family, friends or workmates. But unfortunately, the one your are calling can’t hear you. So wired. That’s because your Google Hangouts microphone stops working. Don’t be frustrated. You can fix it and enjoy the call on Google Hangouts again. In this post, we’re going to tell you how to troubleshoot microphone not working problem on your Google Hangouts in Windows system step by step. Please read on and solve the problem on your computer.[**Several things to check before trying the methods**](https://tools.techidaily.com/drivereasy/download/)   **Method 1:[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**   **Method 2:[Update your microphone and other related driver](https://tools.techidaily.com/drivereasy/download/)**   **Method 3:[Close other programs those might use your microphone](https://tools.techidaily.com/drivereasy/download/)** [**How if you can’t hear other people speaking?**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Several things to check before trying the methods
 
 Before you try the solutions below, please check these several things as it can easily make your microphone stop working by mistake. First, make sure your microphone is connected with your computer properly, if it’s a USB microphone, is it plugged into the right cable? Second, is your microphone muted? Last, do you turn on the microphone on your Hangouts call window? If you see your microphone icon is like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b93b12398.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Restart your computer
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your microphone and other related driver
 
@@ -37,25 +53,15 @@ Your microphone not working issue can be probably caused by an old, corrupted or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
 
-4) Restart your computer and call the person on Hangouts again to see if he can hear you.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
 ## Method 3: Close other programs those might use your microphone
 
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
 
@@ -76,5 +82,21 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-future-in-your-hands-screenflows-role-in-macos-innovation/"><u>[New] 2024 Approved The Future in Your Hands ScreenFlow's Role in MacOS Innovation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-crafting-softer-beats-with-ableton-for-2024/"><u>[New] Crafting Softer Beats with Ableton for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ephemeral-movie-blueprint/"><u>[New] Ephemeral Movie Blueprint</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/etting-started-with-pro-level-youtube-tech/"><u>[New] Getting Started with Pro-Level YouTube Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-0x80073712-easy-tricks-to-correctly-address-the-code-issue-in-windows-11/"><u>Beat the '0X80073712': Easy Tricks to Correctly Address the Code Issue in Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/excellent-unrestricted-pubg-visual-sequences/"><u>Excellent Unrestricted PUBG Visual Sequences</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-pc-freezing-during-boot-complete-guide/"><u>How to Fix a PC Freezing During Boot: Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-top-rated-ecoflow-river-tin-the-ultimate-beginners-guide-to-premium-portable-power-packs/"><u>Introducing the Top-Rated EcoFlow River Tin: The Ultimate Beginner's Guide to Premium Portable Power Packs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs/"><u>Livestream Launchpad Duel Go with XSplit or Opt for OBS?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-install-get-your-official-samsung-m2070fw-printer-drivers-now/"><u>Quick Install: Get Your Official Samsung M2070FW Printer Drivers Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-microphone-not-working-error-in-windows-11-step-by-step-guide/"><u>Resolving 'Microphone Not Working' Error in Windows 11 - Step by Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204734289-step-by-step-solution-for-stable-usb-connections-no-more-drops/"><u>Step-by-Step Solution for Stable USB Connections - No More Drops!</u></a></li>
+<li><a href="https://facebook.techidaily.com/surviving-the-invisible-ban-a-shadowban-evasion-manual/"><u>Surviving the Invisible Ban: A Shadowban Evasion Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-the-secret-retrieving-disappeared-windows-in-os/"><u>Uncover the Secret: Retrieving Disappeared Windows in OS</u></a></li>
+</ul></div>
 

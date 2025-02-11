@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Handling 'Service Request Unable to Execute Due to Limited Resources'"
-date: 2024-09-15T18:23:19.173Z
-updated: 2024-09-20T18:20:48.618Z
+date: 2025-02-04T07:28:58.726Z
+updated: 2025-02-10T23:28:46.167Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 
  Recently, many laptop users have reported that they have an issue with their battery. **When they view their battery information, they notice that their battery is not charging.** If you also run into this issue, don’t worry! we’ve put together some useful fixes to help you resolve this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fixes to try:**
 
  You don’t have to try them all; just try each one in turn until your battery is charging again.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 5. **[Update the driver for your battery management device](#f5)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -45,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
  3) If possible,**use a new AC adapter to charge your battery** . See if this issue persists. If this issue persists, maybe this issue is caused by a bad battery. If the battery is charging, it suggests that there is something wrong in your AC adapter.
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Turn off the battery charge threshold
 
@@ -64,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
 
 ### Fix 3: Perform a power reset on your laptop
@@ -76,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 4. Turn on your laptop.
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
@@ -113,28 +122,12 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
@@ -159,10 +152,7 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -197,5 +187,23 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/aximize-engagement-discover-the-right-youtube-thumbnail-size-for-2024/"><u>[New] Maximize Engagement Discover the Right YouTube Thumbnail Size for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-hd-screen-recorders-the-finest-titles/"><u>[Updated] Cutting-Edge HD Screen Recorders - The Finest Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-secret-guide-undetected-screen-capturing-on-snapchat/"><u>1. Secret Guide: Undetected Screen Capturing on Snapchat</u></a></li>
+<li><a href="https://common-error.techidaily.com/bringing-back-your-windows-7-audio-services-quick-and-effective-solutions/"><u>Bringing Back Your Windows 7 Audio Services: Quick and Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-resolving-no-picture-signal-detected-on-your-display/"><u>Easy Fixes for Resolving 'No Picture Signal Detected' On Your Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-getting-your-touchpad-scroll-back-in-action-a-step-by-step-fix/"><u>Guide to Getting Your Touchpad Scroll Back in Action: A Step-by-Step Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-the-dreaded-minecraft-error-code-amoeba/"><u>How to Troubleshoot and Fix the Dreaded Minecraft Error Code Amoeba</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-decoding-the-secrets-behind-iconic-mukbang-videos/"><u>In 2024, Decoding the Secrets Behind Iconic Mukbang Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Smart 8 HD</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-non-hdcp-enabled-video-outputs-on-screens/"><u>Overcoming the Challenge of Non-HDCP Enabled Video Outputs on Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-dead-razer-blackshark-v2-mic-solutions-that-work/"><u>Quick Fixes for a Dead Razer BlackShark V2 Mic – Solutions That Work!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208785516-reclaim-missing-touchpad-from-device-manager/"><u>Reclaim Missing Touchpad From Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-troubleshooting-guide-resolving-issues-with-your-lenovos-fingerprint-scanner/"><u>Simple Troubleshooting Guide: Resolving Issues with Your Lenovo's Fingerprint Scanner</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-13-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 13 5G Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-where-to-find-the-safest-and-most-legal-free-music-libraries-online/"><u>Ultimate Guide: Where to Find the Safest and Most Legal Free Music Libraries Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-cut-to-perfection-the-top-10-final-cut-pro-movies/"><u>Updated 2024 Approved Cut to Perfection The Top 10 Final Cut Pro Movies</u></a></li>
+</ul></div>
 

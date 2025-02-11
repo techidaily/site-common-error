@@ -1,7 +1,7 @@
 ---
 title: Reviving Your Corsair Keyboard's Lights - Fix and Illuminate
-date: 2024-09-17T18:21:17.955Z
-updated: 2024-09-20T18:20:40.202Z
+date: 2025-02-05T08:19:28.711Z
+updated: 2025-02-11T02:12:15.261Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
 If you’re getting so frustrated that you have to type and then wait awfully long for your keyboard to slowly spit words out, don’t worry. Here’re 4 fixes that have helped other users resolve this**keyboard lag** problem, check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for Keyboard Lag
 
  All the fixes below work in**Windows 10** . You may not have to try all of them; just work your way down the list until the**keyboard lag** issue has been resolved.
@@ -25,6 +29,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. **[Run Hardware and Devices troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -46,6 +54,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
@@ -76,16 +88,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -99,10 +102,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
@@ -131,5 +131,21 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-exploring-sky-vistas-yuneec-breezes-high-def-adventure/"><u>[Updated] Exploring Sky Vistas Yuneec Breeze's High-Def Adventure</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlocking-screen-capture-shortcut-driven-mac-techniques/"><u>[Updated] Unlocking Screen Capture Shortcut-Driven Mac Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chroma-chronicles-expertise-in-color-crafting/"><u>2024 Approved Chroma Chronicles Expertise in Color Crafting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immediate-color-correction-with-canons-paired-luts/"><u>2024 Approved Immediate Color Correction with Canon's Paired LUTs</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/dvd-dvd-flickdvd/"><u>DVDオプニンカツド: DVD Flickで効果的なDVD制作ガイドと一般的な問題に対する回避方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-microphone-functionality-on-sony-playstation-4/"><u>How to Restore Microphone Functionality on Sony PlayStation 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207176799-incompatibility-with-hdcp-enabled-content-heres-how-to-fix-it/"><u>Incompatibility with HDCP-Enabled Content? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-reconnecting-an-unpaired-xbox-one-controller/"><u>Mastering the Art of Reconnecting an Unpaired Xbox One Controller</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-bugs-in-your-matrix-solve-pc-crashes-for-cyberpunk-2027-now/"><u>No More Bugs in Your Matrix: Solve PC Crashes for Cyberpunk 2027 Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-unresponsive-touch-pad-issues-in-windows-a-step-by-step-fix-for-windows-10-8-and-7-users/"><u>Resolve Unresponsive Touch Pad Issues in Windows: A Step-by-Step Fix for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-minecraft-game-freezing-on-windows-systems-due-to-problematic-video-card-drivers/"><u>Solving the Issue of Minecraft Game Freezing on Windows Systems Due to Problematic Video Card Drivers</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transformez-votre-fichier-flac-en-format-wma-sans-frais-tutorial-avec-movavi/"><u>Transformez Votre Fichier FLAC en Format WMA Sans Frais - Tutorial Avec Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/winupdate-mishap-bypass-error-code-0x80240017-efficiently/"><u>WinUpdate Mishap? Bypass Error Code 0X80240017 Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/zero-down-time-fixes-for-tackling-error-code-0xc0000098-on-your-windows-computer/"><u>Zero Down-Time Fixes for Tackling Error Code 0xC0000098 on Your Windows Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Microphone Back on Track: Expert Tips for Windows 11 Users"
-date: 2025-01-25T08:53:48.226Z
-updated: 2025-01-29T18:18:44.866Z
+date: 2025-02-09T20:11:34.145Z
+updated: 2025-02-11T07:33:58.581Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Roll back your touchpad driver to an earlier version
@@ -40,10 +40,6 @@ On your keyboard, press **Windows**  key + **X**  key together to open quick-acc
 Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2)  
 
@@ -60,18 +56,22 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -85,6 +85,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -92,10 +96,6 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -119,24 +119,19 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-up-the-essential-guide-to-computer-and-mobile-video-upload/"><u>[New] In 2024, Channel Up The Essential Guide to Computer & Mobile Video Upload</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-premier-selection-of-11-costless-yt-moniker-makers/"><u>[Updated] 2024 Approved The Premier Selection of 11 Costless YT Moniker Makers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-firecapture-plugins-for-firefox-for-2024/"><u>[Updated] FireCapture Plugins for Firefox for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-playcapture-pro-your-own-screen-recorder-free/"><u>[Updated] In 2024, PlayCapture Pro Your Own Screen Recorder, Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-maximize-your-apple-watchs-endurance-top-8-configurations-that-prolong-battery-life-insights-from-zdnet/"><u>1. Maximize Your Apple Watch's Endurance: Top 8 Configurations That Prolong Battery Life - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-rankings-revealed-gpt-vs-microsofts-innovations-and-bard/"><u>AI Rankings Revealed: GPT Vs. Microsoft's Innovations and Bard</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-keyboard-lighting-problems-diagnosis-and-repairs/"><u>Corsair Keyboard Lighting Problems: Diagnosis and Repairs</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-methods-to-correct-disk-writing-faults-on-your-steam-platform/"><u>Efficient Methods to Correct Disk Writing Faults on Your Steam Platform</u></a></li>
-<li><a href="https://win-online.techidaily.com/evaluating-the-safety-of-non-original-graphics-drivers-insights-by-yl-software/"><u>Evaluating the Safety of Non-Original Graphics Drivers: Insights by YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/experience-smooth-gaming-with-these-proven-methods-to-resolve-minecraft-lag-issues/"><u>Experience Smooth Gaming with These Proven Methods to Resolve Minecraft Lag Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-a-malfunctioning-usb-hdmi-adapter/"><u>Expert Tips for Repairing a Malfunctioning USB-HDMI Adapter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-troubleshooting-and-resolving-windows-error-code-0xc0000098/"><u>Expert Tips for Troubleshooting and Resolving Windows Error Code 0xC0000098</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-and-interpreting-event-id-1-in-your-windows-system-vista-to-windows-10/"><u>Fixing and Interpreting Event ID 1# in Your Windows System (Vista to Windows 10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-rdr2-out-of-memory-adjusting-your-games-virtual-memory/"><u>How to Resolve 'RDR2: Out of Memory' - Adjusting Your Game's Virtual Memory</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-use-system-file-checker-sfc-and-dism-for-windows-11-troubleshooting/"><u>How To Use System File Checker (SFC) & DISM for Windows 11 Troubleshooting</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-frozen-windows-installation-solutions-for-update-at-100-problem/"><u>Overcome Frozen Windows Installation: Solutions for 'Update at 100%' Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211896758-race/"><u>Race:</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-unifying-multiple-fortnite-accounts/"><u>Step-by-Step Tutorial on Unifying Multiple Fortnite Accounts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-practical-techniques-for-downloading-youtube-srt/"><u>[Updated] 2024 Approved Practical Techniques for Downloading YouTube SRT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-5-star-channel-cutting-long-urls-down-for-youtube-videos/"><u>[Updated] In 2024, 5-Star Channel Cutting Long URLs Down for YouTube Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-iphone-x-handbook-for-users/"><u>2024 Approved The Ultimate iPhone X Handbook for Users</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/adjust-your-language-and-regional-preferences-easily-a-step-by-step-guide-with-yl-software/"><u>Adjust Your Language & Regional Preferences Easily: A Step-by-Step Guide with YL Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/blu-ray-e-dvd-una-comparazione-dettagliata-per-fare-la-scelta-giusta/"><u>Blu-Ray E DVD: Una Comparazione Dettagliata per Fare La Scelta Giusta</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-seamless-pubg-gameplay-a-must-read-launch-optimization-guide/"><u>How to Ensure Seamless PUBG Gameplay: A Must-Read Launch Optimization Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-persistent-keyboard-delay-on-windows-10/"><u>How to Fix Persistent Keyboard Delay on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-hanging-on-100-completion/"><u>How to Fix Windows Update Hanging on 100% Completion</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-persistent-0x800705b4-error-in-your-windows-10-update-process/"><u>How to Successfully Overcome the Persistent 0X800705b4 Error in Your Windows 10 Update Process</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-find-x7-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo Find X7</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-network-modification-alerts-with-simple-repair-steps/"><u>Overcome Network Modification Alerts with Simple Repair Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-must-watch-tv-shows-on-discovery-plus-this-july-2024/"><u>The Must-Watch TV Shows on Discovery Plus This July 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-v1607-troubleshooting-feature-update-installation-failures/"><u>Windows 11 v1607: Troubleshooting Feature Update Installation Failures</u></a></li>
 </ul></div>
 

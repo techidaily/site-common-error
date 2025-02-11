@@ -1,7 +1,7 @@
 ---
 title: "Breaking Through Blockades: Secrets to Getting Permission Granted"
-date: 2024-09-13T18:32:36.986Z
-updated: 2024-09-20T16:17:00.054Z
+date: 2025-02-07T18:05:10.022Z
+updated: 2025-02-10T20:55:17.236Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Run the Windows Update Troubleshooter**
 
 **Running the built-in Windows Update troubleshoote** r is the easiest fix you can try. Follow the steps below to run the Windows Update Troubleshooter:
@@ -38,12 +42,27 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 1. On your keyboard, press**the Windows logo key** and type**troubleshooting**  in the search box. Then select **Troubleshooting**  in the list of search results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-9.jpg)
 2. In the **System and Security**  section, click**Fix problems with** **Windows Update**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-9.jpg)
 3. In the pop-up window, click **Advanced**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap5-8.jpg)
 4. **Check** the box next to**Apply repairs automatically** and then click **Run as administrator**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap6-5.jpg)
 5. Click**Next** .  Windows will detect and fix the problems automatically. The process may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-6.jpg)
 
  When the process is done, see if the Windows 7 update stuck issue is resolved. If not, try the next fix.
@@ -65,9 +84,18 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 6. Delete all the files in the folder   **Download**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-6.jpg)
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-6.jpg)
 
  Go and check Windows Update again to see whether the issue persists or not. If the issue reappears, don’t worry, there are more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Change the DNS server settings**
 
@@ -76,29 +104,24 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control** and press **Enter** to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-3.jpg)
 2. **View**  the Control Panel **by Category** . Click **View network status and tasks**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap22-4.jpg)
 3. In the pop-up window, click **Change adapter settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap23-6.jpg)
 4. **Right-click**  your current network and then select **Properties**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap24-4.jpg)
 5. Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-6.jpg)
 6. Select **Obtain an IP address automatically**  and   **Use the following DNS server addresses** .  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * **For the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ;  
    * **For the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4**  . Then click **OK** to save the changes.  
@@ -114,9 +137,19 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 1. On your keyboard, press **the Windows Logo Key**  and t ype **cmd.**  In the list of search results, right-click **cmd**  and select**Run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run the **Command Prompt**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap28-2.jpg)
 2. On your keyboard, type the command lines below and press **Enter**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap29-1.jpg)  
  It may take several minutes for this command operation to be completed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Close the Command Prompt when this command operation completed.
 
  See if you can perform a Windows update or not. If not, you may need to download updates from **Microsoft Update Catalog**  manually to resolve this annoying problem.
@@ -138,34 +171,13 @@ sfc /scannow
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap34-4.jpg)
 3. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Type the update number (KBxxxxxxx) that you failed to install before and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap40-1.jpg)
 5. In the list of search results, select right update for your operating system and click **Download**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your Windows OS is **64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37-1.jpg)
 6. In the pop-up window, click the link to start downloading the updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap38-1.jpg)
 7. Double-click the downloaded file and follow the on-screen instructions to install the updates.  
@@ -192,5 +204,20 @@ After installing these updates, this issue should be resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-close-up-clarity-mastering-the-art-of-intense-focus/"><u>[New] Close-Up Clarity Mastering the Art of Intense Focus</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-exclusive-top-8-gear-in-the-vr-sphere/"><u>[New] In 2024, Exclusive Top 8 Gear in the VR Sphere</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-rapid-rhythmic-revision-software-roundup-mobiledesktop/"><u>[New] In 2024, Rapid Rhythmic Revision Software Roundup (Mobile/Desktop)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unpacking-the-impact-of-youtubes-shorts-programme/"><u>[New] Unpacking the Impact of YouTube's Shorts Programme</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchatting-humor-15-must-have-funny-gifs/"><u>[Updated] 2024 Approved Snapchatting Humor 15 Must-Have Funny GIFs</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-complete-walkthrough-to-fix-monitors-showing-no-image-error-easily-and-quickly/"><u>A Complete Walkthrough to Fix Monitors Showing No Image Error Easily and Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-stumbling-blocks-cleared-for-win-1011-users/"><u>Audio Stumbling Blocks Cleared for WIN 10/11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-solved-correcting-the-root-cause-of-driver-settings-configuration-error/"><u>Error Solved: Correcting the Root Cause of 'Driver Settings Configuration Error'</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-system-interruption-a-detailed-approach-to-deal-with-blue-screen-error-0xc00000e9/"><u>Fixing System Interruption: A Detailed Approach to Deal with Blue Screen Error 0xC00000E9</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-smart-8-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Smart 8 Screen | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-non-functional-scrolling-on-a-logitech-mouse/"><u>Step-by-Step Solutions for Non-Functional Scrolling on a Logitech Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-resolving-broken-touchscreen-gesture-controls/"><u>Step-by-Step Tutorial for Resolving Broken Touchscreen Gesture Controls</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-18-must-watch-3d-films-of-2016-enjoy-and-stream-for-free/"><u>Top 18 Must-Watch 3D Films of 2016 - Enjoy & Stream for Free!</u></a></li>
+</ul></div>
 

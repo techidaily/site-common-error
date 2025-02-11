@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem of Non-Detectable Bluetooth Peripherals on Windows 11 Systems
-date: 2025-01-28T00:36:36.706Z
-updated: 2025-01-30T07:01:06.649Z
+date: 2025-02-06T22:39:52.568Z
+updated: 2025-02-10T20:09:33.693Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
@@ -75,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -88,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
@@ -101,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -115,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
@@ -123,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
@@ -139,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -147,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -175,17 +175,18 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-flashcapture-quick-image-hold-manual-for-2024/"><u>[Updated] FlashCapture Quick Image Hold Manual for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210416028-9781902405995-an-introduction-to-medical-astrology/"><u>An Introduction to Medical Astrology | Free Book</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-secrets-of-sound-logging-ios-and-android-stealthy-tools-list/"><u>In 2024, Secrets of Sound Logging IOS & Android Stealthy Tools List</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-unlock-iphonepcs-full-potential-with-these-top-8-converters/"><u>In 2024, Unlock iPhone/PC's Full Potential With These Top 8 Converters</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-unresponsive-google-chrome-issues/"><u>Resolved: Fixing Unresponsive Google Chrome Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-escaping-the-endless-loop-of-windows-configuration/"><u>Solving the Puzzle: Escaping the Endless Loop of Windows Configuration</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-status-update-on-diablo-immortals-arrival-to-personal-computers/"><u>The Status Update on Diablo Immortal's Arrival to Personal Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207886488-troubleshoot-windows-11s-disappearing-bluetooth-fast-fixes-for-seamless-connectivity/"><u>Troubleshoot Windows 11'S Disappearing Bluetooth: Fast Fixes for Seamless Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-dolby-atmos-problem-on-your-pc-running-windows-10/"><u>Troubleshooting the Dolby Atmos Problem on Your PC Running Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-setup-made-easy-enable-hyper-v-now/"><u>Win11 Setup Made Easy: Enable Hyper-V Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-audio-problems-solved-mastering-system-volume-controls/"><u>Windows 11 Audio Problems Solved: Mastering System Volume Controls</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-detailed-study-of-frozen-delights-playback-gadgets-for-2024/"><u>[New] Detailed Study of Frozen Delights Playback Gadgets for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-crystal-clear-viewing-evaluating-the-best-8k-monitors-for-2024/"><u>[Updated] Crystal Clear Viewing Evaluating the Best 8K Monitors for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-to-navigating-windows-10s-file-explorer/"><u>Effortless Guide to Navigating Windows 10'S File Explorer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-audio-visual-sync-with-subtitles-on-windows-media-player-for-2024/"><u>Enhancing Audio-Visual Sync with Subtitles on Windows Media Player for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-xerox-printing-essentials-free-window-compatible-printer-drivers-here/"><u>Get Your Xerox Printing Essentials: Free Window-Compatible Printer Drivers Here!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-eliminated-skyrims-eternal-load-screens-forever-guide/"><u>How I Eliminated Skyrim's Eternal Load Screens Forever (Guide)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-esports-news-and-analysis-from-top-vloggers/"><u>In 2024, Esports News and Analysis From Top Vloggers</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-to-recovering-data-on-a-kingston-ssd-device/"><u>Step-by-Step Guide to Recovering Data on a Kingston SSD Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-broken-keys-on-a-laptop-under-windows-operating-systems/"><u>Step-by-Step Guide to Restoring Broken Keys on a Laptop Under Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-on-solving-constant-system-lockups/"><u>Step-by-Step Tutorial on Solving Constant System Lockups</u></a></li>
+<li><a href="https://fox-http.techidaily.com/tomtom-bandits-new-era-in-action-capture-for-2024/"><u>TomTom Bandit's New Era in Action Capture for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-file-explorer-scroll-bar-jumps-to-top-when-scrolling-solved/"><u>Windows 11 File Explorer - Scroll Bar Jumps to Top when Scrolling [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategies-to-fix-the-notorious-0x80072efd-problem-in-windows-11-systems/"><u>Winning Strategies to Fix the Notorious 0X80072EFD Problem in Windows 11 Systems</u></a></li>
 </ul></div>
 

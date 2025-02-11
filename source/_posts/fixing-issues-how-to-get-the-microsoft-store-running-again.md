@@ -1,7 +1,7 @@
 ---
 title: Fixing Issues - How To Get The Microsoft Store Running Again
-date: 2025-01-26T20:53:03.167Z
-updated: 2025-01-29T16:12:41.224Z
+date: 2025-02-04T23:08:38.388Z
+updated: 2025-02-11T07:05:10.554Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/d0ad1a80b811183ca46ae79924e7000317315a162
 4. [**Tweak your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reinstall Skype**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow Skype to access your microphone
 
  The first step to approaching the**microphone not working on Skype** problem would be to check if you’ve granted Skype access to your microphone.
@@ -48,21 +44,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21c099eec3.jpg)
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust audio settings in Skype
 
@@ -72,10 +64,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -91,7 +91,7 @@ Here’s how:
 3. Click the   **Update** button next to a flagged audio  driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
@@ -99,7 +99,7 @@ Here’s how:
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -114,16 +114,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
@@ -157,22 +157,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-detailed-analysis-of-youtubes-versus-dailymentions-for-2024/"><u>[Updated] Detailed Analysis of YouTubes Versus DailyMentions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-methods-for-recording-youtube-live-streaming-for-2024/"><u>[Updated] Essential Methods for Recording YouTube LIVE Streaming for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-must-have-essentials-for-a-starry-drive-with-your-sj4000-for-2024/"><u>[Updated] Must-Have Essentials for a Starry Drive with Your SJ4000 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-youtube-revenue-pathways-and-payments/"><u>2024 Approved YouTube Revenue Pathways and Payments</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-value-oneplus-specials-available-only-on-prime-day-extravaganza/"><u>Best Value OnePlus Specials Available Only on Prime Day Extravaganza</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-and-solve-the-reset-your-pc-problem-on-windows-11-expert-advice-and-strategies/"><u>Decode and Solve the 'Reset Your PC' Problem on Windows 11: Expert Advice & Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-connection-failures-with-distant-networked-servers/"><u>Expert Tips for Resolving Connection Failures with Distant Networked Servers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-minecraft-local-network-play-problems-successfully/"><u>How to Resolve 'Minecraft Local Network Play' Problems Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-quick-fix-for-skyrims-constant-loading-bug-now/"><u>Master the Quick Fix for Skyrim's Constant Loading Bug Now</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/maximizing-your-software-access-a-step-by-step-guide-on-legally-obtaining-anydvd-full-version-and-understanding-piracy-risks/"><u>Maximizing Your Software Access: A Step-by-Step Guide on Legally Obtaining AnyDVD Full Version and Understanding Piracy Risks</u></a></li>
-<li><a href="https://common-error.techidaily.com/operating-oversights-sudden-system-stops-while-playing/"><u>Operating Oversights: Sudden System Stops While Playing</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-lenovo-laptop-webcam-issues-a-step-by-step-guide/"><u>Solving Your Lenovo Laptop Webcam Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-instagram-antithesis-video-reversal-explained-for-2024/"><u>The Instagram Antithesis Video Reversal Explained for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-graphics-driver-unavailable-issue-in-detail/"><u>Troubleshooting the 'Graphics Driver Unavailable' Issue in Detail</u></a></li>
-<li><a href="https://common-error.techidaily.com/unauthorized-access-denied-solutions-inside/"><u>Unauthorized Access Denied: Solutions Inside</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/visual-ventures-partnership-playbook/"><u>Visual Ventures Partnership Playbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meditative-playlist-top-10-free-tracks-for-serenity/"><u>[Updated] Meditative Playlist Top 10 Free Tracks for Serenity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pros-and-cons-ios-screen-recorder-apps-for-2024/"><u>[Updated] Pros and Cons IOS Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonize-with-inshots-music-load-functionality/"><u>2024 Approved Harmonize with InShot's Music Load Functionality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-voice-overhaul-two-efficient-ways-revealed/"><u>2024 Approved Snapchat Voice Overhaul Two Efficient Ways Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/app-trackings-waning-influence-among-iphone-users/"><u>App Tracking's Waning Influence Among iPhone Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-cast-errors-and-enable-smooth-streaming-from-pc-to-tv-on-windows-11/"><u>Bypass Cast Errors and Enable Smooth Streaming From PC to TV on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-continuous-halt-issues-in-computers-a-users-handbook/"><u>Diagnosing & Repairing Continuous Halt Issues in Computers – A User's Handbook</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207376954-diagnosing-the-disconnected-systems-event-notification-service-in-windows-fixed/"><u>Diagnosing the Disconnected Systems Event Notification Service in Windows - Fixed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-achieving-gentle-volume-alteration-using-fl-studio/"><u>In 2024, Achieving Gentle Volume Alteration Using FL Studio</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-investing-in-portable-monitors-justified-discover-the-top-reasons/"><u>Is Investing in Portable Monitors Justified? Discover the Top Reasons</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-might-in-god-of-war/"><u>Mastering the Might in 'God of War'</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-launch-darkness-errors-in-monster-hunter-world-gameplay/"><u>Overcoming Launch Darkness Errors in Monster Hunter World Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-winsvr-server-role-failed-smb-signing-requirements-error-x0x800706b7/"><u>Quick Solutions for Resolving WinSvr Server Role Failed: SMB Signing Requirements Error - X0x800706B7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-inbox-access-gmail-on-the-windows-taskbar/"><u>Simplifying Inbox Access: Gmail on the Windows Taskbar</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-connection-problems-solved-restored-game-server-access/"><u>Steam Connection Problems Solved – Restored Game Server Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-activating-dx11-and-feature-level-ebitron-in-wwe-2k-battlegrounds/"><u>Troubleshooting Tips for Activating DX11 and Feature Level Ebitron in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-tutorial-deactivate-touchpad-when-connected-to-a-mouse/"><u>Windows 11 Tutorial: Deactivate Touchpad When Connected to a Mouse</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reactivating a Failing Diagnostics Engine on Your Device"
-date: 2025-01-24T20:15:54.976Z
-updated: 2025-01-29T23:41:48.977Z
+date: 2025-02-05T03:14:57.725Z
+updated: 2025-02-11T05:16:30.382Z
 tags:
   - win11
   - win10
@@ -52,25 +52,17 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
@@ -87,16 +79,16 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -114,9 +106,17 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -128,7 +128,7 @@ Follow these steps to reset your Winsock Catalog:
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
@@ -157,7 +157,7 @@ Restart your computer to see if the error has gone.
 4. Restart your computer to see if the error has gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
@@ -184,24 +184,24 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-fasttrack-retrosnap-replay/"><u>[New] 2024 Approved FastTrack RetroSnap Replay</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-evolution-continues-iphone-xs-photographic-advancements/"><u>[New] In 2024, The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-veiled-glance-at-digital-diary-fb/"><u>[New] In 2024, Veiled Glance at Digital Diary (FB)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/anking-top-10-budget-friendly-video-editing-apps-for-2024/"><u>[New] Ranking Top 10 Budget-Friendly Video Editing Apps for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-do-evaluation-blogs-get-payments-for-products/"><u>[Updated] Do Evaluation Blogs Get Payments for Products?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>[Updated] Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Pro Max Lock Screen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-forge-business-identity-no-cost-customizable-logo-templates-available/"><u>In 2024, Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
-<li><a href="https://common-error.techidaily.com/logitech-mouse-woes-heres-how-to-get-your-scroll-wheel-working-again/"><u>Logitech Mouse Woes? Here's How to Get Your Scroll Wheel Working Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-audio-control-in-windows-11-fixes-for-unresponsive-volume-buttons/"><u>Mastering Audio Control in Windows 11: Fixes for Unresponsive Volume Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/microsoft-compatibility-telemetry-impact-on-storage-reducing-high-disk-consumption-in-windows-11/"><u>Microsoft Compatibility Telemetry Impact on Storage: Reducing High Disk Consumption in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-tips-bringing-hidden-desktop-windows-back-into-view/"><u>Quick Fix Tips: Bringing Hidden Desktop Windows Back Into View</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedy-for-nvidiaintel-graphic-switch-failure/"><u>Remedy for NVIDIA/Intel Graphic Switch Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-high-cpu-usage-by-runtime-broker-issue-in-windows-11-a-step-by-step-guide/"><u>Resolving the 'High CPU Usage by Runtime Broker' Issue in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-overcoming-startup-failures-error-0xc0000007b-repair/"><u>Step-by-Step Guide to Overcoming Startup Failures (Error 0Xc00#00007b) [REPAIR]</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-instructions-bringing-backoff-screen-windows-to-view/"><u>Step-by-Step Instructions: Bringing Backoff-Screen Windows to View</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-carbon-footprint-myth-how-to-truly-assess-impacts/"><u>The Carbon Footprint Myth: How to Truly Assess Impacts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-is-my-netflix-service-currently-unavailable/"><u>Troubleshooting: Is My Netflix Service Currently Unavailable?</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-google-chrome-crash-hoax-a-step-by-step-solution-approach/"><u>Unraveling Google Chrome Crash Hoax: A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-detailed-handbook-for-optimizing-googles-ai-powered-text-conversion/"><u>[New] Detailed Handbook for Optimizing Google's AI-Powered Text Conversion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expert-take-on-camstudios-recorder-efficacy/"><u>[New] In 2024, Expert Take on CamStudio's Recorder Efficacy</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-no-more-misfires-dxgidll-secured/"><u>[PUBG] No More Misfires - Dxgi.dll Secured</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-stardew-insider-exploring-ginger-island-thoroughly/"><u>[Updated] Stardew Insider Exploring Ginger Island Thoroughly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discount-alert-get-30-off-shop-now-for-the-durable-anker/"><u>Discount Alert: Get $30 Off - Shop Now for the Durable Anker</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-mend-corrupted-files-in-windows-11-using-system-file-check-sfc-and-deployment-image-servicing-dism/"><u>Effective Strategies to Mend Corrupted Files in Windows 11 Using System File Check (SFC) & Deployment Image Servicing (DISM)</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-efficiency-after-resolving-inadequate-system-resources-warning/"><u>Enhanced Efficiency After Resolving Inadequate System Resources Warning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-and-tricks-for-fixing-battlenet-wont-open-issues-the-definitive-2024-guide/"><u>Expert Tips and Tricks for Fixing Battle.net Won't Open Issues: The Definitive 2024 Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-eliminating-cod-wwii-error-4220-the-ultimate-fix-checklist/"><u>Expert Tips for Eliminating COD WWII Error 4220 - The Ultimate Fix Checklist</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/high-res-aerial-showdown-dji-vs-gopro-capture-for-2024/"><u>High-Res Aerial Showdown DJi vs GoPro Capture for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-process-abruptly-ended-error-code-1067-on-your-pc/"><u>How To Overcome 'The Process Abruptly Ended' Error Code 1067 on Your PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-x90ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo X90Ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-unique.techidaily.com/now-add-this-new-equation-to-the-second-equation-given/"><u>Now, Add This New Equation to the Second Equation Given:</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-stuck-huion-pen-problems-in-a-flash-5-essential-troubleshooting-steps/"><u>Resolve Your Stuck Huion Pen Problems in a Flash: 5 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-messages-in-kodi-a-comprehensive-guide-to-smooth-streaming/"><u>Resolving Error Messages in Kodi - A Comprehensive Guide to Smooth Streaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-steams-absent-file-permissions-issue/"><u>Resolving Steam's Absent File Permissions Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-a-dead-microphone-on-skype-calls/"><u>Step-by-Step Guide to Repairing a Dead Microphone on Skype Calls</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-refreshing-usb-audio-drivers-in-windows-operating-systems/"><u>Step-by-Step Guide: Refreshing USB Audio Drivers in Windows Operating Systems</u></a></li>
 </ul></div>
 

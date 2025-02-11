@@ -1,7 +1,7 @@
 ---
 title: "Solving the Dilemma: Surface Computer Not Charging Despite Being Plugged In"
-date: 2024-09-19T16:58:46.463Z
-updated: 2024-09-20T19:34:51.518Z
+date: 2025-02-09T00:22:09.722Z
+updated: 2025-02-11T00:11:05.243Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92cdfd07c4.jpg)
 
  If you see ‘**Input Not Supported** ‘ warning floating on your monitor, don’t worry. You can fix**Input Not Supported** error quickly and easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does the error occur to my monitor?
 
@@ -59,22 +63,8 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94693c702d.jpg)
 4. Then click**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946c1e8119.jpg)
 5. Under the monitor name that is having the Input Not Supported error, click**Display adapter properties for Display** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9472de63ac.jpg)
 6. In the popup pane, click the**Monitor** tab. In the**Screen refresh rate** , choose the**recommended** or**default** **rate** in the drop down menu.  
@@ -82,10 +72,7 @@ Here’s what you can do:
 7. Save the changes and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you’re using Windows 8 and Windows 7:
@@ -93,8 +80,18 @@ If you’re using Windows 8 and Windows 7:
 1. Right click on any**empty area** on your desktop, and select**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f17a6508.jpg)
 2. If you have multiple displays, select the display that is having the error. Then choose the**recommended resolution** , and click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f74c12c9.jpg)  
  If your current screen resolution is not proper, you’ll see a notification like this:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fc52735d.jpg)
 3. On the same pane, click**Advanced** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fec42db3.jpg)
@@ -103,10 +100,7 @@ If you’re using Windows 8 and Windows 7:
 5. Save the changes and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should fix the error and boot your computer as normal.
@@ -132,16 +126,13 @@ You should fix the error and boot your computer as normal.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9478ba7d6a.jpg)
 3. Click the**Update** button next to the flagged monitor and graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd947aa82f4c.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So there you have it – three easy methods to fix**monitor input not supported** issue. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
 
@@ -161,5 +152,24 @@ You should fix the error and boot your computer as normal.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-pros-of-choosing-best-pc-video-grabbers-for-win11-for-2024/"><u>[New] Pros of Choosing Best PC Video Grabbers for Win11 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-iphone-photo-tricks-to-transform-your-landscapes-for-2024/"><u>[Updated] Essential iPhone Photo Tricks to Transform Your Landscapes for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-streamline-filming-in-water-proven-7-tips-for-vids/"><u>[Updated] In 2024, Streamline Filming in Water Proven 7 Tips for Vids</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-error-code-0x80070643-effective-solutions-for-windows-updateinstallation-failures/"><u>Conquering Error Code 0X80070643: Effective Solutions for Windows Update/Installation Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-steps-for-unresponsive-usb-hdmi-interface-cable/"><u>DIY Repair Steps for Unresponsive USB HDMI Interface Cable</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-there-was-a-problem-boot-failures-on-your-windows-eighteen-machine/"><u>Expert Tips for Repairing ‘There Was a Problem’ Boot Failures on Your Windows Eighteen Machine</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-create-and-merge-stunning-hdr-images-in-lightroom/"><u>How to Create and Merge Stunning HDR Images in Lightroom</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-tackle-windows-update-error-0x80070002-for-smooth-operations/"><u>How to Successfully Tackle Windows Update Error 0X80070002 for Smooth Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/include-key-search-terms-ensure-that-high-value-keywords-eg-microsoft-compatibility-telemetry-high-disk-usage-are-prominent-in-your-title-to-improve-visibil27/"><u>Include Key Search Terms: Ensure that High-Value Keywords (E.g., Microsoft Compatibility Telemetry, High Disk Usage) Are Prominent in Your Title to Improve Visibility and Relevance for Those Searching on Related Topics</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-audio-adjustments-overcoming-windows-10s-volume-control-problems/"><u>Mastering Audio Adjustments - Overcoming Windows 10'S Volume Control Problems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-free-music-integration-into-video-media/"><u>New Mastering the Art of Free Music Integration Into Video Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-pro-templates-of-the-year-free-version/"><u>Premier Pro Templates of the Year - Free Version</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-computers-freeze-frame-repairing-a-laptops-unresponsive-input-device/"><u>Revive Your Computer’s Freeze-Frame: Repairing a Laptop's Unresponsive Input Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-astro-performance-update-and-install-steps/"><u>Streamlining Astro Performance: Update & Install Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taking-3d-printing-to-new-depths-makers-construct-an-innovative-underwater-printer-fit-for-pools-and-aquariums/"><u>Taking 3D Printing to New Depths: Makers Construct an Innovative Underwater Printer Fit for Pools and Aquariums</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-cant-i-install-the-latest-features-on-windows-1n-v1607/"><u>Why Can't I Install the Latest Features on Windows 1N V1607?</u></a></li>
+</ul></div>
 

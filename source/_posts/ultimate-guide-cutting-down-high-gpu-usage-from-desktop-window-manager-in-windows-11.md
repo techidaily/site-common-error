@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Cutting Down High GPU Usage From Desktop Window Manager in Windows 11"
-date: 2025-01-27T20:27:07.519Z
-updated: 2025-01-29T19:17:14.528Z
+date: 2025-02-06T07:40:52.368Z
+updated: 2025-02-10T22:04:20.018Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  USB Type-C sample  
  Photo from Amazon
 
@@ -50,10 +46,6 @@ The solution for this bug is very simple.
 
  Disconnect your USB Type-C devices before you shut down your computer. So this bug won’t affect your shutdown process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Power Troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Power Troubleshooter to fix the slow shut down issue.
@@ -63,17 +55,17 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
 3. Choose**Troubleshoot** in the left pane. Then click**Power** and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
 4. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Reboot your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Fast Startup feature
@@ -87,11 +79,15 @@ The solution for this bug is very simple.
 2. Change **View by Large icons** and click **Power Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
 3. Click **Choose what the power button do** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
 4. Click **Change settings that are currently unavailable** .  
@@ -103,7 +99,7 @@ The solution for this bug is very simple.
 6. Reboot your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
@@ -114,10 +110,6 @@ The solution for this bug is very simple.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -135,10 +127,18 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
 5. Copy and paste the text into the address bar and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control** “.
 6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
@@ -146,10 +146,6 @@ The solution for this bug is very simple.
 7. Click**OK** .
 
 8. Reboot your computer to apply the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: Update your driver
 
@@ -161,6 +157,10 @@ The solution for this bug is very simple.
 2. Run Driver Easy and click Scan Now button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -185,20 +185,24 @@ The solution for this bug is very simple.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-high-performance-low-price-excellent-asmr-mics-for-2024/"><u>[New] High Performance, Low Price Excellent ASMR Mics for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-reel-into-reality-how-boomers-keep-ig-audiene-hooked/"><u>[Updated] In 2024, Reel Into Reality How Boomers Keep IG Audiene Hooked</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-conversion-guide-youtube-to-igtv-for-2024/"><u>[Updated] The Ultimate Conversion Guide YouTube to IGTV for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-dvd/"><u>「ジャニーズLIVE録画指南: DVDへのシンプルなコピー手順」</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-x-fold-2-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo X Fold 2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-tutorial-for-downloading-asus-deskmouse-drivers-for-windows-systems/"><u>Complete Step-by-Step Tutorial for Downloading ASUS DeskMouse Drivers for Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-the-mystery-of-non-detectable-external-drives-fixing-unknown-usb-device-solution-steps/"><u>Decoding the Mystery of Non-Detectable External Drives – Fixing 'Unknown USB Device [Solution Steps]'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-restore-erased-texts-for-every-mobile-device/"><u>Easy Steps to Restore Erased Texts for Every Mobile Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-frustration-expert-tips-and-tricks-for-dealing-with-steam-error-code-80/"><u>Eliminating Frustration: Expert Tips and Tricks for Dealing with Steam Error Code 80</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-s17-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo S17 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-warzones-graphic-glitches-effective-strategies-for-loading-textures/"><u>Overcoming Warzone's Graphic Glitches: Effective Strategies for Loading Textures</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-error-code-1603-critical-failure-at-installation/"><u>Resolved! How To Fix Error Code 1603 – Critical Failure at Installation</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-making-your-computers-bluetooth-show-up-in-device-manager-again/"><u>Solution Guide: Making Your Computer's Bluetooth Show Up in Device Manager Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-nonfunctional-ethernet-networks-on-pc-windows-107/"><u>Step-by-Step Guide to Repairing Nonfunctional Ethernet Networks on PC (Windows 10/7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-shift-key/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Shift Key</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-cutting-edge-communication-strategies-merging-slack-with-filmoras-capabilities/"><u>[Updated] 2024 Approved Cutting-Edge Communication Strategies Merging Slack with Filmora's Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-live-stream-via-network-in-vlc/"><u>2024 Approved Step-by-Step Live Stream via Network in VLC</u></a></li>
+<li><a href="https://common-error.techidaily.com/ace-the-game-rapid-fix-tips-to-elevate-page-file-size-for-uninterrupted-rdr2-fun/"><u>Ace the Game: Rapid Fix Tips to Elevate Page File Size for Uninterrupted RDR2 Fun</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/defeating-the-netiosys-bluescreen-menace-in-windows-systems/"><u>Defeating the NETIO.SYS Bluescreen Menace in Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-your-crusader-kings-iii-adventure-from-unexpectedly-ending-due-to-pc-crashes/"><u>How To Prevent Your Crusader Kings III Adventure From Unexpectedly Ending Due to PC Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-functionality-on-your-windows-10-display/"><u>How to Restore Brightness Functionality on Your Windows 10 Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209807541-keyboard-problems-at-boot-up-heres-your-solution/"><u>Keyboard Problems at Boot-Up? Here's Your Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/nvidia-share-not-responding-solved/"><u>NVIDIA Share Not Responding [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-hdcp-restrictions-for-better-display-performance-a-complete-guide/"><u>Overcoming HDCP Restrictions for Better Display Performance: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-overcoming-issues-with-creating-directx-graphics-device-d3d/"><u>Resolved: Overcoming Issues with Creating DirectX Graphics Device (D3D)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-engagement-boosted-with-gpt-wisdom/"><u>Social Media Engagement Boosted with GPT Wisdom</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-instructions-producing-alluring-video-thumbnails-on-youtube-for-2024/"><u>Step-by-Step Instructions Producing Alluring Video Thumbnails on YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-tips-for-dealing-with-twitch-error-4000/"><u>Step-by-Step Troubleshooting Tips for Dealing with Twitch Error 4000</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-2024-range-extenders-the-ultimate-selection-for-wide-area-coverage/"><u>Top 2024 Range Extenders: The Ultimate Selection for Wide Area Coverage</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-pc-cant-close-windows-11-properly/"><u>Troubleshooting Tips for When Your PC Can't Close Windows 11 Properly</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/up-to-date-graphics-hardware-how-to-verify-and-update-with-yl-solutions/"><u>Up-to-Date Graphics Hardware: How to Verify and Update with YL Solutions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor/"><u>Updated What Is an AI Video Editor?</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-updates-not-installing-heres-your-comprehensive-solution-guide/"><u>Windows 10 Updates Not Installing? Here's Your Comprehensive Solution Guide</u></a></li>
 </ul></div>
 

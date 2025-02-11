@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Solutions: How To Get Google Chrome Back On Track When It's Unresponsive"
-date: 2025-01-24T04:10:58.674Z
-updated: 2025-01-29T21:45:37.123Z
+date: 2025-02-05T18:52:07.577Z
+updated: 2025-02-11T03:55:58.264Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -46,10 +42,6 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -79,6 +71,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -86,7 +82,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -107,11 +103,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -126,6 +130,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -134,17 +142,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,15 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-idea-to-impact-advanced-editing-techniques-for-youtube-creators-for-2024/"><u>[New] From Idea to Impact Advanced Editing Techniques for YouTube Creators for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-clip-perfection-achieved-through-blended-methodologies/"><u>[Updated] In 2024, Clip Perfection Achieved Through Blended Methodologies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-shuffle-youtube-playlist/"><u>[Updated] In 2024, How to Shuffle YouTube Playlist</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-million-mark-geminis-game-changing-leap-forward/"><u>$1 Million Mark: Gemini’s Game-Changing Leap Forward</u></a></li>
-<li><a href="https://common-error.techidaily.com/app-cant-open-using-built-in-administrator-account-solved/"><u>App Can’t Open Using Built-In Administrator Account [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-shift-key-operation-step-by-step-fixes/"><u>How to Restore Shift Key Operation - Step by Step Fixes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-strategies-for-succeeding-with-facebook-video-marketing-and-revenue/"><u>In 2024, Strategies for Succeeding with Facebook Video Marketing and Revenue</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mediamasher-suite-for-2024/"><u>MediaMasher Suite for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-clean-slate-refreshing-and-resetting-windows-10-made-easy/"><u>Quick Fixes for a Clean Slate: Refreshing and Resetting Windows 10 Made Easy</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-recovery-addressing-the-msvcp140dll-lack/"><u>System Recovery: Addressing the MSVCP140.dll Lack</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-steady-shots-expert-tips-on-tripods-in-vlog-production/"><u>2024 Approved Steady Shots Expert Tips on Tripods in Vlog Production</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-winre-sfc-and-dism-tools-for-effective-windows-11-system-restoration/"><u>Exploring WinRE, SFC & DISM Tools for Effective Windows 11 System Restoration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-your-photos-right-with-top-tools-editors-for-2024/"><u>Frame Your Photos Right with Top Tools Editors for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-or-update-broadcom-gige-network-drivers-for-optimal-performance-on-windows-10/"><u>How to Install or Update Broadcom GigE Network Drivers for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-digitally-chronicled-tweets-of-the-year-so-far/"><u>In 2024, Digitally Chronicled Tweets of the Year So Far</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f15-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F15 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-2023-no-cost-live-stream-tools-cross-platform-edition/"><u>In 2024, Top 2023 No-Cost Live Stream Tools Cross-Platform Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-note-30-vip-racing-edition-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Note 30 VIP Racing Edition Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-playback-overcoming-spotify-web-player-lag-issues/"><u>Optimizing Playback: Overcoming Spotify Web Player Lag Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-1011-non-responsive-acer-laptop-keys/"><u>Resolving: Windows 10/11, Non-Responsive Acer Laptop Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208158927-steam-update-woes-heres-how-you-can-ensure-successful-downloads/"><u>Steam Update Woes? Here's How You Can Ensure Successful Downloads!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-schoolwork-with-our-picked-collection-of-homework-helper-apps-for-the-whole-family/"><u>Streamline Schoolwork with Our Picked Collection of Homework Helper Apps for the Whole Family</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-trackpad-cursor-problem-on-windows-11/"><u>Troubleshooting the Missing TrackPad Cursor Problem on Windows 11</u></a></li>
 </ul></div>
 

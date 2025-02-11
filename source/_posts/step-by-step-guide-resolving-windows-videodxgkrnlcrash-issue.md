@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving Windows Video_Dxgkrnl_Crash Issue"
-date: 2024-09-18T17:07:09.516Z
-updated: 2024-09-20T16:32:14.117Z
+date: 2025-02-04T02:36:11.946Z
+updated: 2025-02-10T22:42:43.671Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
  A media driver your computer needs is missing. This could be a DVD, USB, or Hard disk driver. If you have a CD, DVD, or USB flash drive with the driver on it, please insert it now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix A media driver your computer needs is missing
 
  Here are the solutions you can try. You don’t need to try them all; Just work your way down until your problem is solved.
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -62,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 4) Try to install Windows again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Try another USB port
 
  If re-plugging the USB drive doesn’t work, you can try another USB port:
@@ -71,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
@@ -82,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
 
 4) Try to install Windows again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the settings in BIOS
 
@@ -107,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
  4) Save the settings and try to install Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Change the ISO file format
 
  The ISO file faulty can also cause the issue, so you can try to change the ISO file format to solve the issue.
@@ -135,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
@@ -169,5 +168,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-infinite-recorders-without-bounds/"><u>[New] 2024 Approved Infinite Recorders Without Bounds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamlining-video-sharing-between-twitter-and-tumblr/"><u>[New] 2024 Approved Streamlining Video Sharing Between Twitter and Tumblr</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-best-5-youtube-tag-generators-and-tips-to-tag-videos-properly-for-2024/"><u>[New] Best 5 YouTube Tag Generators & Tips to Tag Videos Properly for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-8-strategies-in-digital-sound-logging-techniques/"><u>[Updated] 2024 Approved Top 8 Strategies in Digital Sound Logging Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-pc-failed-to-start-up-correctly-a-comprehensive-guide/"><u>Fixing the 'PC Failed to Start Up Correctly': A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-chrome-back-on-track-expert-fixes-for-unresponsiveness/"><u>Get Your Chrome Back on Track: Expert Fixes for Unresponsiveness</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/privacy-centric-explore-instagram-stories-anon-on-your-devices-for-2024/"><u>Privacy-Centric Explore Instagram Stories Anon on Your Devices for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-update-0x80240034-failure-a-step-by-step-guide/"><u>Resolving the Windows 11 Update 0X80240034 Failure - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-elevation-requests-in-windows-os-versions-11107/"><u>Step-by-Step Guide: Overcoming Elevation Requests in Windows OS (Versions 11/10/7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tangles-resolved-how-to-reactivate-sleeping-pcs/"><u>Tech Tangles Resolved: How to Reactivate Sleeping PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-caused-by-the-windows-1011-desktop-window-manager/"><u>Top 5 Solutions for Reducing GPU Load Caused by the Windows 10/11 Desktop Window Manager</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-6-iphone-security-apps-ultimate-protection-on-the-go/"><u>Top 6 iPhone Security Apps: Ultimate Protection on the Go</u></a></li>
+</ul></div>
 

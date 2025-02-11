@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models!
-date: 2025-01-27T00:03:58.653Z
-updated: 2025-01-30T00:39:30.513Z
+date: 2025-02-06T00:30:51.292Z
+updated: 2025-02-11T03:57:09.764Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -71,19 +71,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,10 +107,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -123,7 +123,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -131,7 +131,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -184,21 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-solutions-for-an-unresponsive-obs-video-source/"><u>[New] 2024 Approved Solutions for an Unresponsive OBS Video Source</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rom-raw-footage-to-polished-content-youtube-studio-edition/"><u>[New] From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-streamline-marketing-with-top-rated-video-tags-generators/"><u>2024 Approved Streamline Marketing with Top-Rated Video Tags Generators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decrease-windows-wmi-usage-on-pcs/"><u>Decrease Windows WMi Usage on PCs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/engineer-meme-creation-in-adobe-for-2024/"><u>Engineer Meme Creation in Adobe for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/file-explorer-not-responding-in-windows-10-solved/"><u>File Explorer Not Responding in Windows 10 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-high-network-activity-caused-by-svchostexe-net-svcs/"><u>How To Resolve High Network Activity Caused by svchost.exe (Net Svcs)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-nuc-driver-update-fast-and-simple-steps-for-optimal-system-functionality/"><u>Intel NUC Driver Update: Fast & Simple Steps for Optimal System Functionality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nokia-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nokia Phone Now with These Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-a-sluggish-keyboard-response/"><u>Quick Solutions: Resolving a Sluggish Keyboard Response</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-elevated-memory-use-by-microsoft-compatibility-telemetry-in-windows-10/"><u>Resolving Elevated Memory Use by Microsoft Compatibility Telemetry in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-this-device-is-not-found-error-with-code-24-on-windows-1087/"><u>Resolving the 'This Device Is Not Found' Error with Code 24 on Windows 10/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-running-swf-files-in-google-chrome-shockwave-flash-fixed/"><u>Successfully Running SWF Files in Google Chrome – Shockwave Flash Fixed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/surface-key-error-now-functional/"><u>Surface Key Error, Now Functional</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/tailoring-speech-interpretation-a-guide-with-google-translate-for-2024/"><u>Tailoring Speech Interpretation A Guide with Google Translate for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-unlimited-soundscape-best-budget-friendly-audio-mixer-software-ranked-for-2024/"><u>The Unlimited Soundscape Best Budget-Friendly Audio Mixer Software Ranked for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlicensed-legal-tracks-downloads-for-gaming/"><u>[New] 2024 Approved Unlicensed Legal Tracks Downloads for Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-following-scrutiny-unorthodox-ideas/"><u>[Updated] Following Scrutiny Unorthodox Ideas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-boundaries-custom-font-use-in-after-effects/"><u>2024 Approved Breaking Boundaries Custom Font Use in After Effects</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-extract-and-save-fb-videos-the-cutting-edge-of-top-5/"><u>2024 Approved Extract and Save FB Videos The Cutting Edge of Top 5</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-digest-guidelines-tips-for-successful-vlogs-for-2024/"><u>Daily Digest Guidelines Tips for Successful Vlogs for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-disk-checks-and-fixes-with-the-chkdsk-command-on-windows/"><u>Effective Disk Checks and Fixes with the ChkDsk Command on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209021298-how-to-fix-the-irritating-cracking-sound-from-your-pcs-speakers-on-windows-operating-systems/"><u>How to Fix the Irritating Cracking Sound From Your PC's Speakers on Windows Operating Systems.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-pdf-solutions-chatgpts-fastest-plugin-choices/"><u>Innovative PDF Solutions: ChatGPT's Fastest Plugin Choices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-battle-arena-solutions-to-fix-intermittent-freezes-in-naraka-quest/"><u>Mastering the Battle Arena: Solutions to Fix Intermittent Freezes in Naraka Quest</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-oculus-device-malfunctions-a-step-by-step-guide/"><u>Solving Oculus Device Malfunctions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-resource-shortage-solutions-overcoming-service-request-failed-messages/"><u>System Resource Shortage Solutions: Overcoming 'Service Request Failed' Messages</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-4-fixes-for-when-your-dns-server-isnt-working-properly/"><u>Top 4 Fixes for When Your DNS Server Isn’t Working Properly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-restore-5-techniques-for-a-functional-touchscreen-on-windows-11/"><u>Troubleshoot and Restore: 5 Techniques for a Functional Touchscreen on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unsuccessful-hardware-transfer-in-windows-10-systems/"><u>Troubleshooting Unsuccessful Hardware Transfer in Windows 10 Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair Scrolling Problems with Your PC's Touchpad on Windows 10
-date: 2024-09-19T17:39:29.104Z
-updated: 2024-09-20T17:20:18.335Z
+date: 2025-02-04T05:45:07.476Z
+updated: 2025-02-10T22:54:48.060Z
 tags:
   - win11
   - win10
@@ -64,6 +64,10 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-48-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Wait for this process to be complete. Then, try pairing your Bluetooth devices to your PC again.
 
  If your Bluetooth still won’t discover devices, then read on and try the next fix.
@@ -80,35 +84,33 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-59-45.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Set the**Startup Type** to **Automatic** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-02-50.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Try connecting your Bluetooth devices to test your problem.
 
 If your issue continues to occur, then try the next solution, below.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update Bluetooth driver
 
@@ -127,10 +129,7 @@ If your issue continues to occur, then try the next solution, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -138,6 +137,10 @@ If your issue continues to occur, then try the next solution, below.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-07-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart your PC, then try reconnecting your Bluetooth devices to test your issue.
 
@@ -159,5 +162,23 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-integrating-cognitive-science-into-organizational-leadership-practices/"><u>[New] Integrating Cognitive Science Into Organizational Leadership Practices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-exclusive-list-of-premium-online-and-desktop-gif-makers/"><u>[Updated] 2024 Approved Exclusive List of Premium Online & Desktop GIF Makers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-best-of-editing-filmoras-captivating-features/"><u>[Updated] 2024 Approved The Best of Editing Filmora's Captivating Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-ios-platforms-for-experiencing-classic-psp-games-for-2024/"><u>[Updated] Top 5 iOS Platforms for Experiencing Classic PSP Games for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-essential-fixes-for-fbm-not-working-here/"><u>10 Essential Fixes for FBM Not Working Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/crackling-noise-in-computer-speakers-easy-solutions-for-windows-users-fixed/"><u>Crackling Noise in Computer Speakers? Easy Solutions for Windows Users [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-continuous-usb-recognition-failures-on-your-pc/"><u>Effective Solutions for Continuous USB Recognition Failures on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-of-avi-to-mkv-using-vlc-and-handbrake-methods/"><u>Free Online Conversion of AVI to MKV: Using VLC & HandBrake Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-high-disk-usage-caused-by-microsoft-telemetry-on-windows-10-systems/"><u>How to Fix High Disk Usage Caused by Microsoft Telemetry on Windows 10 Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-google-pixel-8-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Google Pixel 8 Pro FRP Bypass</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-corsair-icue-on-windows-11-or-10-free-software-available-for-download/"><u>Install Corsair iCUE on Windows 11 or 10 – Free Software Available for Download</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/maximize-android-gaming-with-funimate-apk-download-for-2024/"><u>Maximize Android Gaming with Funimate APK Download for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-continuous-double-click-issue-with-computer-mouse/"><u>Resolved: Continuous Double-Click Issue with Computer Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-geforce-experience-launching-problems-a-comprehensive-guide/"><u>Resolving GeForce Experience Launching Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-windows-11-hosted-mode-connectivity-failure/"><u>Solving the Problem: Windows 11 Hosted Mode Connectivity Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-laptop-trackpad-issues-on-windows-11-8-and-7/"><u>Troubleshooting Guide: Fixing Laptop Trackpad Issues on Windows 11, 8 & 7</u></a></li>
+</ul></div>
 

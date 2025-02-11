@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Shockwave Flash No Longer Supported by Google Chrome"
-date: 2024-09-16T17:36:01.784Z
-updated: 2024-09-20T16:35:15.137Z
+date: 2025-02-09T17:39:39.030Z
+updated: 2025-02-11T01:44:32.879Z
 tags:
   - win11
   - win10
@@ -42,6 +42,11 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 3. Toggle off all the extensions on your Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome, play the same content and see if it works smoothly.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If yes, you can try to enable the extensions one by one until you find out the one responsible. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to **Fix 2** .
 
 ---
@@ -55,10 +60,24 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -82,10 +101,7 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update or re-install Google Chrome
@@ -100,13 +116,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -133,5 +142,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/operating-system-not-found-or-missing-operating-system-error-fixed/"><u>“Operating System Not Found” Or “Missing Operating System” Error Fixed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-recommended-steadicams-for-drone-videography/"><u>[New] Expert-Recommended Steadicams for Drone Videography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-future-of-imaging-embracing-quantum-hdr/"><u>[Updated] The Future of Imaging Embracing Quantum HDR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-insiders-take-on-best-3d-blu-ray-players/"><u>2024 Approved Exclusive Insider's Take on Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://common-error.techidaily.com/aoc-monitors-not-showing-up-get-them-working-on-windows-11-with-these-fixes/"><u>AOC Monitors Not Showing Up? Get Them Working on Windows 11 with These Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-top-ten-list-best-4k-game-laptops/"><u>Exclusive Top Ten List Best 4K Game Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-resolving-driver-failure-due-to-incorrect-user-settings/"><u>Fixing the Issue: Resolving 'Driver Failure' Due to Incorrect User Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-phantom-v-flip-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-how-to-create-time-travel-teleportation-effects/"><u>In 2024, How to Create Time Travel Teleportation Effects?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>In 2024, Mastering the Art of Viral Videos 1M+ Audience Journey</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-high-voltage-spikes-in-networking-hub-connections/"><u>Resolving High Voltage Spikes in Networking Hub Connections</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-resolving-windows-11-startup-problems-efficiently/"><u>Step-by-Step Tutorial: Resolving Windows 11 Startup Problems Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-to-overcome-resource-disputes-within-it-frameworks/"><u>Strategies to Overcome Resource Disputes Within IT Frameworks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-11-audio-levels-that-wont-adjust/"><u>Troubleshooting Guide: Fixing Windows 11 Audio Levels That Won't Adjust</u></a></li>
+</ul></div>
 

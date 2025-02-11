@@ -1,7 +1,7 @@
 ---
 title: "Windows & Linux: Elevated Your PC’s Speed - Effective Steps to Tackle Unwanted Shell-Induced CPU Load"
-date: 2024-09-14T19:27:55.982Z
-updated: 2024-09-20T16:06:04.962Z
+date: 2025-02-10T04:23:28.928Z
+updated: 2025-02-10T21:16:05.436Z
 tags:
   - win11
   - win10
@@ -53,23 +53,19 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
 2. Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/update-and-security.jpg)
 3. Click**Check for updates** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/updates-1.jpg)
 4. Update your OS as required, and restart your computer to see if the issue has been resolved.
 
-If Updating your Windows is not helping, move on to the second fix.
-
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If Updating your Windows is not helping, move on to the second fix.
 
 ### Fix 2: Use a static desktop background
 
@@ -83,7 +79,15 @@ If Updating your Windows is not helping, move on to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this step still can’t improve the CPU usage, move on to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Use a different photo viewer app
 
@@ -96,15 +100,17 @@ If Updating your Windows is not helping, move on to the second fix.
 2. Select**Apps.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-app.jpg)
 3. Select**Default apps** , then click**Photos** (which is the default photo viewer app in Windows).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
 4. Switch to another app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/choose-an-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then check if that resolves the issue. If nothing changes, you might need to repair corrupt system files.
@@ -124,10 +130,7 @@ Here’s how to use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
@@ -139,13 +142,6 @@ Here’s how to use Fortect to repair your system files:
 1. Right-click**Start** button and select**Run** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. **Type** **the following** into the command line and press**Enter** :  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `%systemroot%\system32\msdt.exe -id MaintenanceDiagnostic`  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/run-troubleshooting.jpg)
@@ -165,20 +161,23 @@ Here’s how to use Fortect to repair your system files:
 1. Right-click**Start** button and select**Run** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. Type**msconfig** and press**Enter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/msconfig.jpg)
-3. On the **Services**  tab of System Configuration, select **Hide all Microsoft services** , and then select **Disable all** . Click **Apply** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/msconfig.jpg)
+3. On the **Services**  tab of System Configuration, select **Hide all Microsoft services** , and then select **Disable all** . Click **Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot1-1.jpg)
 4. On the **Startup**  tab of System Configuration, click **Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot2.jpg)
 5. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot3-1.jpg)
 6. Go back to the **System Configuration** window and click **OK** to save the changes you just made.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot4.jpg)
@@ -205,6 +204,11 @@ Here’s how to use Fortect to repair your system files:
 3. On the **General**  tab, select **Normal startup** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot6.jpg)
 4. Select the **Services**  tab, clear the check box beside **Hide all Microsoft services** , select **Enable all** , then select **Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot7.jpg)
 5. Select the **Startup**  tab, then select **Open Task Manager** .
 6. In Task Manager, Enable all of the startup programs you had Disabled before, and then select **OK** .
@@ -228,5 +232,24 @@ Here’s how to use Fortect to repair your system files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-ratings.techidaily.com/1-comparatif-complet-choix-entre-historique-de-fichiers-et-sauvegardes-windows/"><u>1. Comparatif Complet: Choix Entre Historique De Fichiers Et Sauvegardes Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-a-non-charging-plugged-in-surface-pc-easy-tips-and-solutions/"><u>Dealing with a Non-Charging Plugged In Surface PC: Easy Tips and Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/evaluating-the-value-of-apples-airpods-pro-is-investing-in-sound-quality-worthwhile-zdnet-review/"><u>Evaluating the Value of Apple's AirPods Pro - Is Investing in Sound Quality Worthwhile? [ZDNet Review]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-no-playable-source-error-in-windows-a-comprehensive-guide/"><u>Fixing the 'No Playable Source' Error in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-startup-freezing-problems-effectively/"><u>How to Resolve Windows 11 Startup Freezing Problems Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-13t-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi 13T</u></a></li>
+<li><a href="https://win-dash.techidaily.com/liver-transplantation-in-btc-patients-requires-strict-criteria-to-be-met-due-to-cancer-recurrence-concerns/"><u>Liver Transplantation in BTC Patients Requires Strict Criteria to Be Met Due to Cancer Recurrence Concerns.</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-efficiency-essential-strategies-for-windows-11-users-36/"><u>Mastering Efficiency: Essential Strategies for Windows 11 Users (36)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-homes-optimize-daily-tasks-with-gpt/"><u>Maximizing Homes: Optimize Daily Tasks with GPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-persistent-screen-shaking-problems-within-windows-tenth-generation/"><u>Overcoming the Persistent Screen Shaking Problems Within Windows Tenth Generation</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-installation-issue-error-code-0x800f081f-during-net-framework-35-setup/"><u>Resolving Installation Issue: Error Code 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/schritt-fur-schritt-anleitung-zum-hinzufugen-von-untertiteln-zu-mp4-videodateien/"><u>Schritt-Für-Schritt-Anleitung Zum Hinzufügen Von Untertiteln Zu MP4-Videodateien</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-up-your-storytelling-effortless-text-addition-for-video-clips-with-photos/"><u>Step Up Your Storytelling Effortless Text Addition for Video Clips with Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-wacom-stylus-problems-on-windows-1110-systems/"><u>Step-by-Step Solution for Wacom Stylus Problems on Windows 11/10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-escaping-from-windows-10s-never-ending-restart-cycle/"><u>Step-by-Step Troubleshooting: Escaping From Windows 10'S Never-Ending Restart Cycle</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-binkw32dll-errors-for-smooth-computer-operation/"><u>Troubleshooting binkw32.dll Errors for Smooth Computer Operation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reveals-savvy-shoppers-choice-for-best-alternative-to-appleanker-magsafe-wallets-on-steep-discounts/"><u>ZDNet Reveals: Savvy Shoppers' Choice for Best Alternative to Apple/Anker MagSafe Wallets on Steep Discounts</u></a></li>
+</ul></div>
 

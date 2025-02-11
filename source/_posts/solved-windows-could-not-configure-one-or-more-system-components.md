@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Windows Could Not Configure One or More System Components"
-date: 2025-01-24T00:42:25.701Z
-updated: 2025-01-30T03:54:13.128Z
+date: 2025-02-09T01:36:00.134Z
+updated: 2025-02-10T17:53:10.858Z
 tags:
   - win11
   - win10
@@ -34,18 +34,26 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
@@ -76,14 +80,6 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -135,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -175,24 +175,22 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-device-entry-guide-to-googles-video-conferencing-for-2024/"><u>[New] Device Entry Guide to Google's Video Conferencing for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-reveal-your-future-design-with-our-selection-of-top-9-websites-for-type-innovation/"><u>[New] Reveal Your Future Design with Our Selection of Top 9 Websites for Type Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-apples-powerhouses-the-mac-mini-and-mac-studio-showdown-is-the-m2-chip-superior-to-the-m1/"><u>Comparing Apple's Powerhouses: The Mac Mini and Mac Studio Showdown - Is the M2 Chip Superior to the M1?</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-new-directive-balancing-social-interaction-for-younger-users/"><u>Facebook's New Directive: Balancing Social Interaction for Younger Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/faceoff-in-ai-dialogue-can-claude-outperform-chatgpt-as-a-better-chatbot/"><u>Faceoff in AI Dialogue: Can Claude Outperform ChatGPT as a Better Chatbot?</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-shell-common-dll-has-stopped-working-error-solved/"><u>Fix Windows Shell Common Dll Has Stopped Working Error [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-offline-to-online-mastering-the-connection-of-a-non-syncing-xbox-one-controller/"><u>From Offline to Online: Mastering the Connection of a Non-Syncing Xbox One Controller</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-fn-keys-in-your-asus-laptop-a-step-by-step-guide/"><u>How to Fix Unresponsive Fn Keys in Your ASUS Laptop - A Step by Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-display-flicker-problems/"><u>How To Resolve Windows 10 Display Flicker Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/huion-pen-malfunction-heres-how-to-restore-functionality-fast/"><u>Huion Pen Malfunction? Here's How to Restore Functionality Fast</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a15-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A15 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-14-pro-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 14 Pro Max Properly | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-2020-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2020) Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/revive-your-vanished-snaps-mastering-the-art-of-permanent-screenshot-retrieval-using-ifinds-data-salvage-solution/"><u>Revive Your Vanished Snaps: Mastering the Art of Permanent Screenshot Retrieval Using iFinD's Data Salvage Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/steams-missing-assets-a-comprehvehicle-on-reinstating-user-privileges/"><u>Steam's Missing Assets: A Comprehvehicle on Reinstating User Privileges</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-the-stubborn-windows-update-error-0x8024401c-in-win-10-and-win-11/"><u>Step-by-Step Solutions to the Stubborn Windows Update Error 0X8024401c in Win 10 and Win 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-non-functional-usb-to-hdmi-connector/"><u>Troubleshooting Guide: Fixing Your Non-Functional USB to HDMI Connector</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-sound-settings-how-to-repair-unresponsive-microphones/"><u>Troubleshooting Windows 10 Sound Settings: How to Repair Unresponsive Microphones</u></a></li>
+<li><a href="https://common-error.techidaily.com/net-framework-35-setup-error-resolution-how-to-address-and-correct-error-0x800f081f/"><u>.NET Framework 3.5 Setup Error Resolution: How to Address and Correct Error 0X800F081F</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expertsnap-recording-tool-win-10-version/"><u>[New] In 2024, ExpertSnap Recording Tool, Win 10 Version</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-starters-kit-establishing-yourself-on-youtube-profitably/"><u>[Updated] In 2024, Starter's Kit Establishing Yourself on YouTube Profitably</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-issues-and-resolutions-for-the-failed-windows-11-update-version-1607/"><u>Common Issues & Resolutions for the Failed Windows 11 Update (Version 1607)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-samsung-galaxy-note20-ultra-with-5g-connectivity-features/"><u>Comprehensive Review of the Samsung Galaxy Note20 Ultra with 5G Connectivity Features</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/demystifying-vimeo-top-choice-for-filmmakers/"><u>Demystifying Vimeo Top Choice for Filmmakers</u></a></li>
+<li><a href="https://common-error.techidaily.com/destiny-2-wont-start-here-are-solutions-to-fix-initialization-errors/"><u>Destiny 2 Won't Start? Here Are Solutions to Fix Initialization Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-resolve-right-click-issues-with-a-mouse-in-windows-10/"><u>Easy Steps to Resolve Right Click Issues with a Mouse in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-mobile-tech-with-these-8-advanced-ai-applications-for-phones/"><u>Enhance Your Mobile Tech with These 8 Advanced AI Applications for Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-stability-in-windows-driver-foundation-tackling-excessive-processor-load/"><u>Enhancing Stability in Windows Driver Foundation - Tackling Excessive Processor Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-startup-screens-vanishing-in-monster-hunter-world/"><u>Expert Solutions for Startup Screens Vanishing in Monster Hunter: World</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-ios-psp-emulation-tools-top-5/"><u>In 2024, Essential iOS PSP Emulation Tools, Top 5</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>New How To Get More NFL Viewers For Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-microphone-not-working-on-google-hangouts-with-ease/"><u>Resolve Microphone Not Working on Google Hangouts With Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-definitive-guide-to-the-ipad-air-with-m2-chip-apple-delivers-the-top-of-the-line-tablet-you-need-as-revealed-by-zdnet/"><u>The Definitive Guide to the iPad Air with M2 Chip: Apple Delivers the Top-of-the-Line Tablet You Need, as Revealed by ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolve-access-denied-error-in-printer-driver-setup/"><u>Troubleshooting Tips: Resolve 'Access Denied' Error in Printer Driver Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-the-notorious-livekernelevent-117-error/"><u>Ultimate Troubleshooting Tips for the Notorious LiveKernelEvent 117 Error</u></a></li>
 </ul></div>
 

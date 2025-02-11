@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Solve Directory Name Invalid Issues Now"
-date: 2024-09-19T19:14:20.349Z
-updated: 2024-09-20T17:59:38.808Z
+date: 2025-02-06T03:13:44.927Z
+updated: 2025-02-11T00:23:53.339Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. **[Update the Corsair Keyboard driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your keyboard
 
  Most Corsair keyboards have a reset function to fix unexpected issues, including the lighting failure. Depending on the type of Corsair keyboard you’re using, here’s how to reset it:
@@ -32,6 +36,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 #### Wired keyboard  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Unplug your keyboard from your computer.
 2. Press and hold the**ESC** key (or the**FN + F4** keys).
@@ -41,6 +49,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 #### Wireless keyboard  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
@@ -60,6 +72,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -70,31 +86,16 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -116,5 +117,24 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/treamline-your-vlogs-sound-with-effective-tips/"><u>[New] Streamline Your Vlog's Sound with Effective Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-verified-posts-do-they-matter/"><u>[Updated] Instagram Verified Posts - Do They Matter?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-comprehensive-guide-to-mastering-facetune-app-features/"><u>[Updated] The Comprehensive Guide to Mastering Facetune App Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-unplugged-android-gaming-apps-no-internet-required/"><u>Best Unplugged Android Gaming Apps (No Internet Required)</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-werfaultexe-hurdle-tips-and-tricks-for-stable-windows/"><u>Bypassing the werFault.exe Hurdle: Tips & Tricks for Stable Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-addressing-the-hamachi-service-stopped-trouble-on-your-system/"><u>Effective Techniques for Addressing the 'Hamachi Service Stopped' Trouble on Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-wireless-mouse-fails-in-windows-11-and-10/"><u>Fixing the Issue: Why Your Wireless Mouse Fails in Windows 11 & 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-completo-para-personalizar-seu-gif-com-texto-metodos-supremos-e-otimizados-para-google/"><u>Guia Completo Para Personalizar Seu GIF Com Texto: Métodos Supremos E Otimizados Para Google</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-bypass-the-configuring-windows-stuck-phase-and-continue-setup/"><u>How to Bypass the 'Configuring Windows' Stuck Phase and Continue Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-functional-microphone-on-skype/"><u>How to Fix a Non-Functional Microphone on Skype</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oneplus-ace-2-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For OnePlus Ace 2 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/the-ultimate-guide-discovering-the-leading-5-web-based-images-compression-tools/"><u>The Ultimate Guide: Discovering the Leading 5 Web-Based Images Compression Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fix-unsupported-operating-system-warning-and-prevent-exit-during-installation/"><u>Troubleshooting Guide: Fix Unsupported Operating System Warning & Prevent Exit During Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-non-functional-integrated-webcam-issues-in-windows/"><u>Troubleshooting Steps: Resolving Non-Functional Integrated Webcam Issues in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-rated-lightweight-laptop-ideal-for-telecommuters-featured-on-zdnet/"><u>Ultimate Guide: Top-Rated Lightweight Laptop Ideal for Telecommuters, Featured on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-troubleshooting-harnessing-the-power-of-sfc-and-dism-utilities/"><u>Windows 10 Troubleshooting: Harnessing the Power of SFC and DISM Utilities</u></a></li>
+</ul></div>
 

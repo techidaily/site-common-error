@@ -1,7 +1,7 @@
 ---
 title: "Dormant Devices Down: Windows 11/10 Woes"
-date: 2025-01-26T23:39:59.725Z
-updated: 2025-01-30T02:03:19.643Z
+date: 2025-02-10T08:23:44.804Z
+updated: 2025-02-10T16:43:56.473Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ The good news is that it can be fixed quickly and easily.
 * [Solution 3: Disable USB Root Hubs](#h-solution-3-disable-usb-root-hubs)
 * [Solution 4. Modify your network adapter properties](#h-solution-4-modify-your-network-adapter-properties)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Quick & Easy
 
  First of all, try to restart your Windows 10 computer. No kidding! A complete reboot can always fix a lot of weird issues. Thus be sure to try it at first as it’s easy enough to take.
@@ -55,10 +51,6 @@ The good news is that it can be fixed quickly and easily.
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand any dialog and**right-click** on your device to choose**Update driver** . Choose**Update driver** and click**Search automatically for updated driver software** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c88ea4cdfe.jpg)
 3. Then Windows will start to detect the update for your device.
@@ -77,20 +69,20 @@ The good news is that it can be fixed quickly and easily.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  If updating the driver didn’t help you, go on to follow other solutions:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Disable USB Root Hubs
 
@@ -99,6 +91,10 @@ The good news is that it can be fixed quickly and easily.
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
 3. After disabling your USB Root Hubs, check if the CPU usage comes down.
@@ -109,6 +105,10 @@ To check which USB Root Hub is for your keyboard and mouse:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 4\. Modify your network adapter properties
 
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
@@ -116,18 +116,22 @@ To check which USB Root Hub is for your keyboard and mouse:
 2. Expand the**Network adapters** category. Right-click on your network adapter (it should be the one with a manufacturer brand name like Intel, Realtek, Ralink, Qualcomm, Broadcom, etc.) and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca7c0b78a4.jpg)
 3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
 4. See if the system interrupts still consume a high CPU usage on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 5: Repair system files
 
@@ -143,10 +147,6 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 6: Consider a system reset
 
@@ -175,21 +175,18 @@ To check which USB Root Hub is for your keyboard and mouse:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cementing-climactic-conclusions/"><u>[New] In 2024, Cementing Climactic Conclusions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-channeling-success-emulating-top-video-bloggers-techniques/"><u>[New] In 2024, Channeling Success Emulating Top Video Bloggers' Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-5-key-players-to-triple-your-youtube-views/"><u>[New] In 2024, The 5 Key Players to Triple Your YouTube Views</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-xs-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone XS Max? How to Fix it?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/automate-your-data-safety-three-effective-methods-for-scheduling-file-backups-on-windows-10/"><u>Automate Your Data Safety: Three Effective Methods for Scheduling File Backups on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/blurred-text-on-windows-10-discover-the-remedies-to-restore-clarity/"><u>Blurred Text on Windows 10? Discover the Remedies to Restore Clarity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elevate-your-battle-ultimate-fixes-for-low-fps-troubleshooting-in-valheim-2024-guide/"><u>Elevate Your Battle: Ultimate Fixes for Low FPS Troubleshooting in Valheim - 2024 Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-for-unresponsive-discord-mic/"><u>Fix for Unresponsive Discord Mic</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-best-in-gaming-displays-with-alienwares-360-hz-oled-monitor-high-score-meets-low-cost/"><u>Get the Best in Gaming Displays with Alienware’s 360 Hz OLED Monitor - High Score Meets Low Cost</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-ethernet-connectivity-issues-on-your-windows-desktop/"><u>How to Solve Ethernet Connectivity Issues on Your Windows Desktop</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-a-step-by-step-guide-to-overcoming-hosted-network-issues/"><u>Mastering Windows 11: A Step-by-Step Guide to Overcoming Hosted Network Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-touchscreen-in-windows-11-with-these-5-solutions/"><u>Reviving Your Touchscreen in Windows 11 with These 5 Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-dns-problems-fast-effective-solutions-for-non-responsive-servers/"><u>Solve Your DNS Problems Fast: Effective Solutions for Non-Responsive Servers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-essential-tutorial-for-making-memes-on-9gag/"><u>The Essential Tutorial for Making Memes on 9GAG</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-your-hearthstone-lag-instantly/"><u>Troubleshoot and Fix Your Hearthstone Lag Instantly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-filmmakers-companion-achieving-tiktok-video-react-wonders-with-filmora/"><u>[New] 2024 Approved Filmmaker's Companion Achieving TikTok Video React Wonders with Filmora</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tailoring-twitter-video-thumbnails-a-step-by-step-guide-for-2024/"><u>[New] Tailoring Twitter Video Thumbnails A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fubotv-on-firestick-master-these-tricks-for-hassle-free-streaming/"><u>FuboTV on Firestick? Master These Tricks for Hassle-Free Streaming</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-yuva-2-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Yuva 2</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone XR iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-edge-40-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Edge 40 Device</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/movies-are-quite-different-from-the-video-you-recorded-and-edited-no-worries-this-article-explains-why-there-are-differences-between-self-made-videos-and-mo/"><u>Movies Are Quite Different From the Video You Recorded and Edited. No Worries, This Article Explains Why There Are Differences Between Self-Made Videos and Movies, as Well as Simple yet Detailed Steps to Make Cinematic Look Videos with FCPX</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206300481-resolve-the-bluetooth-not-detected-on-windows-11-fast-fix-guide/"><u>Resolve the Bluetooth Not Detected on Windows 11 - Fast Fix Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-chrome-couldnt-load-plugin-a-detailed-guide-for-windows-11/"><u>The Ultimate Fix for 'Chrome Couldn't Load Plugin': A Detailed Guide for Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-get-your-airpods-working-with-windows/"><u>Troubleshooting Step-by-Step: Get Your AirPods Working with Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-causes-behind-a-non-starting-personal-computer/"><u>Understanding the Causes Behind a Non-Starting Personal Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-blurry-text-heres-how-to-fix-it/"><u>Windows 11 Blurry Text? Here's How to Fix It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unplugging Pauses: A Guide to Smooth Gaming"
-date: 2024-09-11T23:13:02.428Z
-updated: 2024-09-15T11:28:02.392Z
+date: 2025-02-06T19:10:05.588Z
+updated: 2025-02-11T05:40:58.168Z
 tags:
   - win11
   - win10
@@ -47,16 +47,14 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 2. Right-click on the programs you don’t need to run at the moment and click **End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7311c0152.jpg)
 3. After that, we can also prioritize PUBG. Click the**Details** tab, right-click on your**PUBG** and click**Set priority** \>**High** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Lower your game resolution
 
@@ -67,6 +65,10 @@ Running PUBG in a lower resolution can also help in fixing lag:
 3. Start a game in PUBG and check if the lag in PUBG issues have been resolved. If yes, then congrats! But if the issues still persist, you should move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics drivers
 
@@ -94,6 +96,10 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change the power option and adjust for best performance
 
  By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the operating capacity of your graphics card and CPU.
@@ -105,25 +111,20 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -146,5 +147,24 @@ So to tweak the settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/esolved-shorts-display-issue-on-youtube-for-2024/"><u>[New] Resolved Shorts Display Issue on YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/averting-valorant-crashes-with-reboot-procedure/"><u>Averting Valorant Crashes with Reboot Procedure</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-your-print-device-setup-for-canon-and-wi-fi/"><u>Bridge Your Print Device: Setup for Canon & Wi-Fi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-fatal-errors-how-to-fix-xbox-game-pass-issue-code-0x00000001-in-windows-11/"><u>Clearing Up Fatal Errors: How to Fix Xbox Game Pass Issue Code 0X00000001 in Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-harmony-taking-leisinasse-using-facebook-timer/"><u>Digital Harmony: Taking Leisinasse Using Facebook Timer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-browse-instagram-privately-even-if-you-dont-have-an-account/"><u>How to Browse Instagram Privately, Even If You Don’t Have an Account</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-directx-12-graphics-device-not-set-up-problem-easily/"><u>How to Overcome 'DirectX 12 Graphics Device Not Set Up' Problem Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206258902-how-to-securely-eliminate-critical-error-scams-in-google-chrome-expert-tips-inside/"><u>How to Securely Eliminate Critical Error SCAMs in Google Chrome – Expert Tips Inside!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-epson-scanner-connectivity-problems/"><u>Overcoming Epson Scanner Connectivity Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-halo-4-ue4-fatal-error-and-stability-problems-of-2024/"><u>Overcoming Halo 4 UE4 Fatal Error and Stability Problems of 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/post-curing-is-essential-for-concrete-to-reach-its-full-strength-potential-over-time/"><u>Post-Curing Is Essential for Concrete to Reach Its Full Strength Potential over Time.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-update-error-code-0x80240034-step-by-step-guide/"><u>Resolving the Windows 11 Update Error Code 0X80240034 - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-forced-reboots-instead-of-properly-closing-on-windows-11-systems/"><u>Solving the Problem of Forced Reboots Instead of Properly Closing on Windows 11 Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-x-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone X on MetroPCS</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211249748-troubleshooting-the-wi-fi-has-been-turned-off-error-solutions-proven-effective/"><u>Troubleshooting the 'Wi-Fi Has Been Turned Off' Error: Solutions Proven Effective!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unveiling-the-greatest-fallacies-in-the-world-of-digital-coins-a-deep-dive-into-cryptos-biggest-misunderstandings/"><u>Unveiling the Greatest Fallacies in the World of Digital Coins: A Deep Dive Into Crypto's Biggest Misunderstandings</u></a></li>
+</ul></div>
 
