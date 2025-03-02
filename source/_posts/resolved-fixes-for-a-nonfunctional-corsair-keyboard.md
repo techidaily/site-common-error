@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for a Nonfunctional Corsair Keyboard"
-date: 2025-02-03T18:49:53.833Z
-updated: 2025-02-11T03:39:45.937Z
+date: 2025-02-25T12:09:59.816Z
+updated: 2025-03-02T04:47:41.204Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for my keyboard won’t type
 
@@ -71,16 +67,8 @@ If your computer is running Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665088706c.jpg)
 2. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
 3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
@@ -93,10 +81,6 @@ If your computer is running Windows 11:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your computer is running Windows 7:
 
 1. On the taskbar of your desktop, click the **Start button** , then select**Control Panel** .  
@@ -105,10 +89,6 @@ If your computer is running Windows 7:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766794641a7.jpg)
 3. Click **Change how your keyboard works** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
@@ -157,19 +137,11 @@ See how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 5: Try this fix if you’re using a USB keyboard
 
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
@@ -208,24 +180,18 @@ Try to type some words using your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace/"><u>[New] A Guide to Formulating Successful Product Sponsorships in YouTubespace</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-accelerate-artistry-in-windows-11-photoshop/"><u>[New] Accelerate Artistry in Windows 11 Photoshop</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-engage-viewers-with-powerful-channel-building-stories/"><u>[New] Engage Viewers with Powerful Channel-Building Stories</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-mastering-speed-eradicating-background-bgs-in-a-flash-for-2024/"><u>[Updated] Mastering Speed Eradicating Background Bgs in a Flash for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ranked-worlds-best-anime-opening-music-for-2024/"><u>[Updated] Ranked World's Best Anime Opening Music for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-students-guide-to-engaging-with-top-10-history-vids-for-2024/"><u>[Updated] Students' Guide to Engaging with Top 10 History Vids for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-crafting-engaging-haul-videos/"><u>2024 Approved The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/creating-a-high-quality-fifa-2018-world-cup-footage-collection-for-web-sharing/"><u>Creating a High-Quality FIFA 2018 World Cup Footage Collection for Web Sharing</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-overwatch-microphone-problems-quickly-simple-solutions/"><u>Fix Overwatch Microphone Problems Quickly: Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-screen-free-beginnings-on-your-monster-hunter-world-adventure/"><u>Fixing Persistent Screen-Free Beginnings on Your Monster Hunter: World Adventure</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-oddworld-soulstorm-game-running-flawlessly-on-windows-expert-troubleshooting-steps/"><u>Get Your Oddworld: Soulstorm Game Running Flawlessly on Windows - Expert Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-usb-ports-in-windows-10-and-11/"><u>How to Fix Unresponsive USB Ports in Windows 10 and 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-to-your-broken-logitech-mouse-scroll-wheel/"><u>How to Restore Functionality to Your Broken Logitech Mouse Scroll Wheel</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-boost-your-tiktok-presence-zoom-integration-guide/"><u>In 2024, Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/lte-advanced-category-9-with-up-to-450-mbits-download-speeds-using-band-38-2x20-mhz-channel-arrangement-and-up-to-75-mbits-upload-speeds-also-supports-dl-re70/"><u>LTE Advanced – Category 9 with up to 450 Mbit/S Download Speeds Using Band 38 (2X20 MHz) Channel Arrangement and up to 75 Mbit/S Upload Speeds. Also Supports DL-RevA Protocol Aggregation, but only with Other TANGO Radios on the Network</u></a></li>
-<li><a href="https://common-error.techidaily.com/mystic-monitor-unsolved-darkness/"><u>Mystic Monitor: Unsolved Darkness</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectifying-non-responsive-copy-and-paste-on-windows-pcs/"><u>Rectifying Non-Responsive Copy & Paste on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/regain-your-batterypower-gauge-on-windows-11-effective-solutions-unveiled/"><u>Regain Your Battery/Power Gauge on Windows 11 - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-deconstructed-digital-captions-technique/"><u>[New] Deconstructed Digital Captions Technique</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-investigating-the-power-of-4-second-youtube-subscriptions/"><u>[Updated] 2024 Approved Investigating the Power of 4-Second YouTube Subscriptions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-secrets-for-skillful-extraction-of-superior-quality-videos/"><u>[Updated] 2024 Approved Secrets for Skillful Extraction of Superior Quality Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions/"><u>[Updated] The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions</u></a></li>
+<li><a href="https://common-error.techidaily.com/discover-why-and-how-to-prevent-automatic-startup-of-your-windows-10-computer/"><u>Discover Why and How to Prevent Automatic Startup of Your Windows 10 Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-rectify-the-bluetooth-unavailable-issue-in-windows-10-instructions-included/"><u>Easily Rectify the 'Bluetooth Unavailable' Issue in Windows 10 - Instructions Included</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-methods-to-insert-subtitles-onto-videos-on-android-phonestablets/"><u>Easy Methods to Insert Subtitles Onto Videos on Android Phones/Tablets</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211775481-effective-fixes-for-total-war-rome-remastered-game-crashes-solutions-inside/"><u>Effective Fixes for Total War: Rome Remastered Game Crashes - Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-pcs-printer-woes-when-windows-cant-identify-the-correct-driver/"><u>Fix Your PC's Printer Woes – When Windows Can’t Identify the Correct Driver</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-13-ultra-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi 13 Ultra – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/optimizing-content-sharing-from-twitters-to-snaps-for-2024/"><u>Optimizing Content Sharing From Twitters to Snaps for 2024</u></a></li>
 </ul></div>
 

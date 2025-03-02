@@ -1,7 +1,7 @@
 ---
 title: Revamp Xbox One Controller Functionality in PC Realm
-date: 2025-02-10T08:02:09.021Z
-updated: 2025-02-10T21:45:23.423Z
+date: 2025-02-25T02:38:19.259Z
+updated: 2025-03-02T02:27:22.108Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -39,17 +35,9 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -81,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your keyboard driver
 
  If you’re using a faulty or outdated keyboard driver, you’re likely to encounter the arrow keys not working issue. To see if that’s the case, you should update your keyboard driver to the latest version. If you don’t have the time, patience, or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -98,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -134,10 +114,6 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
@@ -147,10 +123,6 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
@@ -176,21 +148,14 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-fantastic.techidaily.com/comprehensive-overview-of-aomeis-phonebackup-software/"><u>Comprehensive Overview of AOMEI's PhoneBackup Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-keyboard-dilemma-solved-now-sparklingly-lit/"><u>Corsair Keyboard Dilemma Solved – Now Sparklingly Lit!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-fortnite-voice-chat-problems-instantly/"><u>Expert Tips for Resolving Fortnite Voice Chat Problems Instantly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-pova-5-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Pova 5 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-gt-5-240w-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme GT 5 (240W) Without PUK Codes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-essential-step-by-step-for-mac-file-formats/"><u>In 2024, The Essential Step-by-Step for Mac File Formats</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/the-depths-of-screen-capture-a-youtube-perspective-for-idevices-for-2024/"><u>Into the Depths of Screen Capture A YouTube Perspective for iDevices for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/km18-nulaxy-car-bluetooth-unit-assessment-sturdy-and-reliable-older-model/"><u>KM18 Nulaxy Car Bluetooth Unit Assessment - Sturdy and Reliable Older Model</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209982826-9781071526743-megan-e-a-competicao-culinaria/"><u>Megan e a Competição Culinária | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-common-problems-with-unsuccessful-torrent-downloads/"><u>Resolving Common Problems with Unsuccessful Torrent Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-driver-conflicts-restoring-memory-shields-on-the-ftdibus-bus-system/"><u>Resolving Driver Conflicts: Restoring Memory Shields on the Ftdibus Bus System</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-streaming-with-airplay-across-ios-13-ipads-iphones-and-new-models/"><u>Seamless Streaming with AirPlay Across iOS 13 iPads, iPhones & New Models</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-implemented-for-no-pen-or-touchscreen-interaction-on-screen-display/"><u>Solution Implemented for No Pen or Touchscreen Interaction on Screen Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-usb-port-not-supporting-hdmi-signal-transfer/"><u>Step by Step Solution for USB Port Not Supporting HDMI Signal Transfer</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-troubleshooting-absence-of-audio-hardware-on-windows/"><u>Step-by-Step Guide: Troubleshooting Absence of Audio Hardware on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-fixes-to-restore-your-windows-10-touchscreen-functionality-today/"><u>Top 5 Fixes to Restore Your Windows 10 Touchscreen Functionality Today</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-androids-leading-video-tiles-ranked-8-freepaid-collage-creators/"><u>[New] 2024 Approved Android's Leading Video Tiles Ranked #8-Free/Paid Collage Creators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sound-enriched-photography-web-presence/"><u>[Updated] 2024 Approved Sound-Enriched Photography Web Presence</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-essential-gif-tool-guide-tips-from-the-experts/"><u>2024 Approved Essential GIF Tool Guide Tips From the Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-resolving-io-device-malfunctions/"><u>Effective Solutions for Resolving I/O Device Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-dolby-sound-malfunctioning-in-microsofts-latest-os/"><u>How to Fix Dolby Sound Malfunctioning in Microsoft's Latest OS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-prime-choices-the-premier-portable-devices-for-editors/"><u>In 2024, Prime Choices The Premier Portable Devices for Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-lockup-difficulties-techniques-to-safely-close-your-system-down/"><u>Overcoming Windows 11 Lockup Difficulties: Techniques to Safely Close Your System Down</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-complete-manual-to-mobile-igtv-video-acquisition-for-2024/"><u>The Complete Manual to Mobile IGTV Video Acquisition for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-repeated-automatic-restarts-in-computers-expert-tips-inside/"><u>Understanding & Fixing Repeated Automatic Restarts in Computers - Expert Tips Inside!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fix Unsupported Operating System Warning & Prevent Exit During Installation"
-date: 2024-08-09T00:49:18.471Z
-updated: 2024-08-10T00:49:18.471Z
+date: 2025-02-28T05:44:16.195Z
+updated: 2025-03-02T07:36:38.711Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -40,23 +37,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
 
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
@@ -88,9 +75,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run DISM
 
  Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
@@ -99,9 +83,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
  Wait a while for the whole process to finish.
@@ -123,11 +104,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-keep-the-momentum-ios-and-android-gif-savings/"><u>[New] 2024 Approved How to Keep the Momentum IOS & Android GIF Savings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-elevate-iphone-videos-time-lapse-masterclass/"><u>[New] Elevate iPhone Videos Time-Lapse Masterclass</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>[Updated] In 2024, Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-converting-youtube-to-avi-videos/"><u>[Updated] The Ultimate Guide to Converting YouTube to AVI Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-mastery-how-to-add-structure-and-subdivisions-for-enhanced-content/"><u>[Updated] YouTube Mastery How to Add Structure and Subdivisions for Enhanced Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-mac-6-video-grabber-apps/"><u>2024 Approved Essential Mac 6 Video Grabber Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-disconnecting-usb-devices-comprehamo-guide-to-keeping-your-connections-secure/"><u>Dealing With Disconnecting USB Devices: Comprehamo Guide to Keeping Your Connections Secure</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-for-fixing-bluetooth-connectivity-problems-on-your-windows-11-device-year-2024/"><u>Essential Tips for Fixing Bluetooth Connectivity Problems on Your Windows 11 Device - Year 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-continuous-airplane-mode-glitch-solutions-explored/"><u>Fixing Windows 11'S Continuous Airplane Mode Glitch - Solutions Explored</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy S24+</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keeping-your-pcs-network-in-top-shape-update-the-usb-30-ethernet-controller-driver-on-windows-systems/"><u>Keeping Your PC's Network in Top Shape: Update the USB 3.0 Ethernet Controller Driver on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-laptop-black-or-white-screen-dilemma-a-comprehensive-guide/"><u>Overcoming the Laptop Black (or White) Screen Dilemma – A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/reel-rewards-navigating-monetization-streams-with-metas-insight/"><u>Reel Rewards: Navigating Monetization Streams with Meta’s Insight</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-handling-semaphore-timeout-error-code-0x80070079/"><u>Resolved: Handling 'Semaphore Timeout Error' Code 0X80070079</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-inoperative-usb-slots-on-latest-windows-operating-systems/"><u>Solving the Dilemma of Inoperative USB Slots on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-unrecognized-devices-via-bluetooth-on-windows-10-systems/"><u>Solving the Problem of Unrecognized Devices via Bluetooth on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-corsair-keyboard-wont-light-up/"><u>Troubleshooting Tips for When Your Corsair Keyboard Won't Light Up</u></a></li>
+</ul></div>
+

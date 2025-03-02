@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Against MsMpEng.exe: Reducing CPU Usage in Windows 11 – Effective Strategies Inside!"
-date: 2025-02-03T18:00:46.872Z
-updated: 2025-02-11T05:17:03.500Z
+date: 2025-02-25T04:07:48.441Z
+updated: 2025-03-01T20:22:47.757Z
 tags:
   - win11
   - win10
@@ -52,17 +52,9 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
@@ -84,17 +72,9 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
@@ -108,15 +88,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
 
@@ -137,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Restart your computer and see if your computer runs normally now.
 
@@ -167,24 +135,16 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-alternative-windows-filmmakers/"><u>[New] Alternative Windows Filmmakers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-enhance-learning-on-the-go-podcast-tips-and-tricks-for-2024/"><u>[New] Enhance Learning on the Go Podcast Tips & Tricks for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>[New] The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-inside-out-essential-vr-dictionary-words-for-2024/"><u>[Updated] Inside Out Essential VR Dictionary Words for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-bright-new-era-in-lighting-intelligent-review-of-the-fashionable-and-functional-taotronics-tt-dl16/"><u>A Bright New Era in Lighting: Intelligent Review of the Fashionable and Functional TaoTronics TT-DL16</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-with-friends-and-family-making-facetime-work-on-a-windows-desktop-or-laptop/"><u>Connect with Friends and Family: Making Facetime Work on a Windows Desktop or Laptop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-cinematography-with-lgs-innovative-31mu97-b-display/"><u>Cutting Edge Cinematography with LG's Innovative 31MU97-B Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhancing-system-efficiency-by-correcting-windows-driver-foundation-and-minimizing-cpu-load/"><u>Enhancing System Efficiency by Correcting Windows Driver Foundation and Minimizing CPU Load</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/exclusive-list-the-premier-gb-emulators-android/"><u>Exclusive List The Premier GB Emulators, Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-malfunctioning-alphabetic-keys-in-microsoft-windows-1er-11-environment/"><u>Fix Malfunctioning Alphabetic Keys in Microsoft Windows 1Er 11 Environment</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/groundbreaking-photo-editor-photonshift-tech-for-2024/"><u>Groundbreaking Photo Editor PhotonShift Tech for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-boost-viewers-interaction-via-youtube-cards/"><u>In 2024, Boost Viewers Interaction via YouTube Cards</u></a></li>
-<li><a href="https://common-error.techidaily.com/instantly-fix-solve-no-battery-found-error-with-simple-steps/"><u>Instantly Fix: Solve 'No Battery Found' Error with Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-touchpad-not-responding-heres-the-definitive-fix-for-windows-users/"><u>Lenovo Touchpad Not Responding? Here's the Definitive Fix for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-solution-eliminate-your-pcs-pitch-black-predicament-on-windows-11/"><u>Mastering the Solution: Eliminate Your PC's Pitch-Black Predicament on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205856724-solved-couldnt-load-plugin-chrome-error-on-windows-10/"><u>Solved: Couldn't Load Plugin Chrome Error on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-repairing-a-malfunctioning-touch-screen-on-windows-10/"><u>Top 5 Solutions for Repairing a Malfunctioning Touch Screen on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-popscrackling-sounds-on-your-speakers-for-win-10-or-7/"><u>Troubleshooting and Fixing Pops/Crackling Sounds on Your Speakers for Win 10 or 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-bluetooth-capabilities-on-windows-7-easy-fixes-for-users/"><u>Unlocking Bluetooth Capabilities on Windows 7: Easy Fixes for Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-grasping-your-youtube-popularity-with-precision/"><u>[Updated] 2024 Approved Grasping Your YouTube Popularity with Precision</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-gentle-echoes-mac-and-windows-sound-controls/"><u>[Updated] In 2024, Gentle Echoes Mac and Windows Sound Controls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[Updated] Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-when-you-cant-watch-netflix-solutions-inside/"><u>Diagnosing & Repairing When You Can't Watch Netflix – Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/guardian-setting-for-peaceful-windows-11-rest/"><u>Guardian Setting for Peaceful Windows 11 Rest</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 6 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-note-13-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi Note 13 5G Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-and-proficiently-implementing-cc-copyrights/"><u>In 2024, Understanding and Proficiently Implementing CC Copyrights</u></a></li>
+<li><a href="https://common-error.techidaily.com/is-keeping-msdia80dll-essential-for-your-system-performance/"><u>Is Keeping MSDIA80.DLL Essential for Your System Performance?</u></a></li>
+<li><a href="https://common-error.techidaily.com/reappearance-of-missing-desktop-icons-on-windows-10-quick-fix-guide/"><u>Reappearance of Missing Desktop Icons on Windows 10 - Quick Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/twitch-masterclass-understanding-and-solving-problem-number-4000-in-your-streaming-adventures/"><u>Twitch Masterclass: Understanding and Solving Problem Number 4000 in Your Streaming Adventures</u></a></li>
 </ul></div>
 

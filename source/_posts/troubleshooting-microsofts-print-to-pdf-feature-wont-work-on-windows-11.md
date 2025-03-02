@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Microsoft's Print-to-PDF Feature Won't Work on Windows 11"
-date: 2025-02-06T01:14:18.831Z
-updated: 2025-02-11T01:03:32.262Z
+date: 2025-02-26T14:10:30.810Z
+updated: 2025-03-02T10:00:05.791Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Check-Microsoft-Print-to-PDF.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now your print to PDF should work properly.
 
 ---
@@ -98,10 +94,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Find**Microsoft Print to PDF** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
@@ -109,10 +101,6 @@ Now your print to PDF should work properly.
  5) Click on the button**Set as default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Set-as-default-1200x803.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -127,10 +115,6 @@ Now your print to PDF should work properly.
 
 ![open the Control Panel using the command](https://images.drivereasy.com/wp-content/uploads/2021/05/open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
  3) Find and right-click on Microsoft Print to PDF under Printers dialog. Then click **Remove device** . Click **Yes**  when asked to confirm.
@@ -140,10 +124,6 @@ Now your print to PDF should work properly.
  4) Right-click on the blank area on Devices and Printers window to choose **Add devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click **The printer that I want isn’t listed** .
 
@@ -182,33 +162,17 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down and click **Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Find **Microsoft Print to PDF** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click on the button**Remove** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Remove-1200x801.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Back to the Printers & scanners window, you should see the button**Add device** .
 
@@ -221,10 +185,6 @@ Now your print to PDF should work properly.
  8) Tick**Add a local printer or network printer with manual settings** , then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Add-a-local-printer-or-network-printer-with-manual-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Select**PORTPROMPT: (Local Port)** from the drop-down list, then click**Next** .
 
@@ -257,20 +217,24 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-windows-11-start-menu-not-working/"><u>[FIXED] Windows 11 Start Menu Not Working</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-creative-content-for-fb-video-advertising/"><u>[New] 2024 Approved Mastering Creative Content for Fb Video Advertising</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-steam-content-servers-unreachable/"><u>[Solved] Steam Content Servers Unreachable</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-simplify-broadcasting-merge-obs-and-streamlabs-mac/"><u>[Updated] In 2024, Simplify Broadcasting Merge OBS and Streamlabs (Mac)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-humor-potential-quickly-kapwings-app/"><u>[Updated] Unlock Humor Potential Quickly - Kapwing's App</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-craftsmanship-in-marvellous-marvel-creation/"><u>2024 Approved Craftsmanship in Marvellous Marvel Creation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/download-friends-8-top-rated-free-fb-extractors-for-2024/"><u>Download Friends 8 Top-Rated Free FB Extractors for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-remove-unwanted-vertical-or-horizontal-lines-appearing-on-screen/"><u>Effective Techniques to Remove Unwanted Vertical or Horizontal Lines Appearing On Screen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-get-your-data-on-site-quickly-5-best-techniques-for-computer-transfer/"><u>In 2024, Get Your Data On-Site Quickly 5 Best Techniques for Computer Transfer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movaviwmaogg/"><u>Movaviによる無料WMAとOgg形式のオンライン変換ツール</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seo-sensation-a-comprehensive-guide-for-podcast-ranking-upliftment/"><u>SEO Sensation A Comprehensive Guide for Podcast Ranking Upliftment</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-failed-to-initialize-network-problem-in-dragon-ball-fighterz-expert-guide/"><u>Solving the 'Failed to Initialize Network' Problem in Dragon Ball FighterZ - Expert Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-oneplus-nord-ce-3-lite-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from OnePlus Nord CE 3 Lite 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-windows-11-problem-found-during-system-reset-complete-solution-walkthrough/"><u>Troubleshooting the Windows 11 Problem Found During System Reset - Complete Solution Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-malfunctioning-function-keyboard-buttons/"><u>Troubleshooting Tips: Fixing Malfunctioning Function Keyboard Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210298538-solved-windows-11-wont-sleep-issue/"><u>[Solved] Windows 11 Won’t Sleep Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-celebrity-inspired-glamour-videos-for-2024/"><u>[Updated] Celebrity-Inspired Glamour Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-step-by-step-ringtones-and-sounds-personalization-for-android-users/"><u>[Updated] In 2024, Step-By-Step Ringtones and Sounds Personalization for Android Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-10-filmora-editing-traits-for-fan-loyalty/"><u>[Updated] Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-vn-video-editor-pro-vs-the-competition-how-does-it-stack-up/"><u>2024 Approved VN Video Editor Pro Vs. The Competition How Does It Stack Up?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-configuration-guide-for-windows-users-resolving-external-audio-device-not-detected-issues-on-windows-11-8-and-7/"><u>Audio Configuration Guide for Windows Users - Resolving External Audio Device Not Detected Issues on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-network-initialization-issue-fixed-successfully/"><u>Dragon Ball FighterZ Network Initialization - Issue Fixed Successfully</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-phantom-v-fold-by-drfone-android/"><u>How to Bypass FRP from Tecno Phantom V Fold?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-crimson-display-malfunction-on-your-pc-or-console/"><u>How to Repair a Crimson Display Malfunction on Your PC or Console</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-clearing-up-your-video-quality-issues/"><u>In 2024, Clearing Up Your Video Quality Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-connectivity-seamless-setup-on-windows-11-and-10-unveiled/"><u>Mastering Bluetooth Connectivity: Seamless Setup on Windows 11 & 10 Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-speeding-up-the-shutdown-on-windows-10-systems/"><u>Quick Fixes for Speeding up the Shutdown on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-disappearing-windows-issue-quick-tricks-and-solutions/"><u>Resolve Disappearing Windows Issue: Quick Tricks & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-sluggishness-in-google-chrome-prompt-techniques-to-restart-and-refresh/"><u>Resolving Sluggishness in Google Chrome – Prompt Techniques to Restart and Refresh</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f04-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F04 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-weather-icon-integration-into-windows-11/"><u>Step-by-Step Guide: Weather Icon Integration Into Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-failed-attempts-to-generate-directx-output-devices/"><u>Troubleshooting and Resolving Failed Attempts to Generate DirectX Output Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-safest-and-stylish-iphone-16-16-pro-cases-of-2024-in-depth-analysis-from-industry-gurus-zdnet/"><u>Ultimate Guide to the Safest & Stylish iPhone 16 / 16 Pro Cases of 2024: In-Depth Analysis From Industry Gurus | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-how-to-restore-brightness-slider-functionality/"><u>Windows 11: How to Restore Brightness Slider Functionality</u></a></li>
 </ul></div>
 

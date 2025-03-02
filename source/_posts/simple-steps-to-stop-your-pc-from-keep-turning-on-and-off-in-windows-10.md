@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Stop Your PC From Keep Turning On and Off in Windows 10
-date: 2025-02-05T17:34:18.490Z
-updated: 2025-02-10T22:26:06.839Z
+date: 2025-02-24T10:53:08.114Z
+updated: 2025-03-02T03:01:36.819Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for Windows 10 keeps restarting
 
@@ -62,17 +58,9 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click **Startup settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Click **Restart** .
 
@@ -82,17 +70,9 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the**Windows 10 stuck in endless restart loop** problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable auto-restart
 
@@ -107,10 +87,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
 
@@ -134,19 +110,11 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and hopefully the annoying auto-restart problem has gone by now. If the problem still persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Change the power option
 
@@ -205,21 +173,21 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-convenient-youtube-viewing-activate-picture-in-picture-on-iphone/"><u>[Updated] Convenient YouTube Viewing Activate Picture-in-Picture on iPhone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-troubleshoot-flaky-airdrop-links-simple-steps-to-solutions/"><u>[Updated] Troubleshoot Flaky AirDrop Links Simple Steps to Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/breeze-through-the-process-of-correcting-double-display-mishaps-in-pc-systems/"><u>Breeze Through The Process of Correcting Double Display Mishaps in PC Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-step-by-step-tutorial-to-get-your-epson-et-4550-driver-running-on-a-pc-with-windows-os/"><u>Easy Step-by-Step Tutorial to Get Your Epson ET-4550 Driver Running on a PC with Windows OS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/estrategias-eficientes-para-duplicar-filmes-direto-do-disco-optico-no-sistema-operacional-windows/"><u>Estratégias Eficientes Para Duplicar Filmes Direto Do Disco Óptico No Sistema Operacional Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-the-ultimate-list-of-ipad-display-guards-cnet/"><u>Expert Picks: The Ultimate List of iPad Display Guards | CNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-sound-back-restarting-audio-services-on-windows-7-explained/"><u>Get Your Sound Back! Restarting Audio Services on Windows 7 Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204294201-kodi-continuous-playback-restored-no-more-buffering-issues/"><u>Kodi Continuous Playback Restored - No More Buffering Issues!</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-trackpad-not-responding-heres-how-to-repair-it-across-different-windows-versions/"><u>Lenovo Trackpad Not Responding? Here's How to Repair It Across Different Windows Versions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/listen-and-direct-voice-control-without-payment/"><u>Listen and Direct Voice Control Without Payment</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-top-tips-for-enhanced-gaming-performance-and-speed/"><u>Mastering Windows 11: Top Tips for Enhanced Gaming Performance and Speed</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202007587-resolved-incompatible-device-drivers-on-your-system-detected-solutions/"><u>Resolved: Incompatible Device Drivers on Your System Detected - Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tech-tips-how-to-get-fcp-without-money/"><u>Tech Tips How to Get FCP Without Money</u></a></li>
-<li><a href="https://fox-http.techidaily.com/techniques-for-swapping-video-content-in-android/"><u>Techniques for Swapping Video Content in Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-conversation-five-ways-to-steer-chatgpt/"><u>The Art of Conversation: Five Ways to Steer ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-update-error-code-0x802e402c/"><u>Ultimate Guide: Resolving the Windows Update Error Code 0X802e402C</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-peeling-back-layers-of-vivas-video-features/"><u>[New] Peeling Back Layers of Viva's Video Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-konverteren-van-m4a-naar-3gp-online-zoek-jij-de-goedste-oplichters-probeer-movavi/"><u>Gratis Konverteren Van M4A Naar 3GP Online - Zoek Jij De Goedste Oplichters? Probeer Movavi!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-a-failed-to-initialize-device-driver-error-setup-guide-for-users/"><u>How to Correct a 'Failed to Initialize Device Driver' Error: Setup Guide for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-failed-remote-function-invocation-in-your-network/"><u>How to Fix a Failed Remote Function Invocation in Your Network</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-reddits-hidden-gems-5-tips-for-novices-to-master-engagement-metrics/"><u>In 2024, Reddit's Hidden Gems 5 Tips for Novices to Master Engagement Metrics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-depth-examination-androids-photography-solution-lightroom/"><u>In-Depth Examination Android's Photography Solution, Lightroom</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-the-nintendo-switch-wireless-headset-friendly-with-airpods-integration/"><u>Is The Nintendo Switch Wireless Headset Friendly With AirPods Integration?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-connectivity-problems-for-warzone-gameplay-on-windows/"><u>Overcoming Connectivity Problems for Warzone Gameplay on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-d3d9-creation-faults-expert-tips-for-video-card-issues/"><u>Overcoming D3D9 Creation Faults: Expert Tips for Video Card Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/owning-your-cloud-safety-why-its-critical-not-to-rely-solely-on-vendors-zdnet-insights/"><u>Owning Your Cloud Safety: Why It's Critical Not to Rely Solely on Vendors | ZDNet Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206948543-quick-fix-for-0x800f0831-error-update-your-windows-today/"><u>Quick Fix for 0X800F0831 Error - Update Your Windows Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-microsoft-store-connectivity-issues-causing-non-opening-scenarios/"><u>Step-by-Step Fix for Microsoft Store Connectivity Issues Causing Non-Opening Scenarios</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-troubleshoot-windows-updates-not-progressing-past-1n/"><u>Step-by-Step Guide to Troubleshoot Windows Updates Not Progressing Past 1N%</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-essentials-repair-and-restoration-solutions/"><u>Windows Update Essentials: Repair & Restoration Solutions</u></a></li>
 </ul></div>
 

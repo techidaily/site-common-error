@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models!
-date: 2025-02-06T00:30:51.292Z
-updated: 2025-02-11T03:57:09.764Z
+date: 2025-02-26T09:33:48.846Z
+updated: 2025-03-01T22:48:21.749Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -71,10 +67,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -84,10 +76,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,17 +110,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -184,20 +164,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlicensed-legal-tracks-downloads-for-gaming/"><u>[New] 2024 Approved Unlicensed Legal Tracks Downloads for Gaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-following-scrutiny-unorthodox-ideas/"><u>[Updated] Following Scrutiny Unorthodox Ideas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-boundaries-custom-font-use-in-after-effects/"><u>2024 Approved Breaking Boundaries Custom Font Use in After Effects</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-extract-and-save-fb-videos-the-cutting-edge-of-top-5/"><u>2024 Approved Extract and Save FB Videos The Cutting Edge of Top 5</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-digest-guidelines-tips-for-successful-vlogs-for-2024/"><u>Daily Digest Guidelines Tips for Successful Vlogs for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-disk-checks-and-fixes-with-the-chkdsk-command-on-windows/"><u>Effective Disk Checks and Fixes with the ChkDsk Command on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209021298-how-to-fix-the-irritating-cracking-sound-from-your-pcs-speakers-on-windows-operating-systems/"><u>How to Fix the Irritating Cracking Sound From Your PC's Speakers on Windows Operating Systems.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-pdf-solutions-chatgpts-fastest-plugin-choices/"><u>Innovative PDF Solutions: ChatGPT's Fastest Plugin Choices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-battle-arena-solutions-to-fix-intermittent-freezes-in-naraka-quest/"><u>Mastering the Battle Arena: Solutions to Fix Intermittent Freezes in Naraka Quest</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-oculus-device-malfunctions-a-step-by-step-guide/"><u>Solving Oculus Device Malfunctions: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-resource-shortage-solutions-overcoming-service-request-failed-messages/"><u>System Resource Shortage Solutions: Overcoming 'Service Request Failed' Messages</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-4-fixes-for-when-your-dns-server-isnt-working-properly/"><u>Top 4 Fixes for When Your DNS Server Isn’t Working Properly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-restore-5-techniques-for-a-functional-touchscreen-on-windows-11/"><u>Troubleshoot and Restore: 5 Techniques for a Functional Touchscreen on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unsuccessful-hardware-transfer-in-windows-10-systems/"><u>Troubleshooting Unsuccessful Hardware Transfer in Windows 10 Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tailored-techniques-to-procure-tweets-gifs-for-2024/"><u>[New] Tailored Techniques to Procure Tweets GIFs for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-echoes-of-exploration-your-step-by-step-blueprint-to-becoming-a-travel-vlogger/"><u>[Updated] Echoes of Exploration Your Step-by-Step Blueprint to Becoming a Travel Vlogger</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-essential-igtv-picks-for-a-creative-edge/"><u>[Updated] In 2024, Essential IGTV Picks for a Creative Edge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-broadcasting-duels-is-wirecast-superior-to-obs/"><u>2024 Approved Broadcasting Duels Is Wirecast Superior to OBS?</u></a></li>
+<li><a href="https://common-error.techidaily.com/best-methods-to-unfreeze-your-windows-10-desktop-bar-a-guide/"><u>Best Methods to Unfreeze Your Windows 10 Desktop Bar: A Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-for-when-you-cant-reach-destiny-2-servers-a-players-handbook/"><u>Essential Fixes for When You Can't Reach Destiny 2 Servers: A Player's Handbook</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-incompatibility-updating-your-devices-driver-for-optimal-wow-performance/"><u>Fixing Incompatibility: Updating Your Device's Driver for Optimal WoW Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-c55-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco C55</u></a></li>
+<li><a href="https://common-error.techidaily.com/pam-varies-amplitude-but-not-pulse-width-or-frequency/"><u>PAM Varies Amplitude but Not Pulse Width or Frequency.</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-resolve-destiny-n-initializing-problems/"><u>Troubleshooting Steps To Resolve Destiny N Initializing Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-reboot-triggers-in-win10/"><u>Unexpected Reboot Triggers in Win10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-merge-your-videos-for-free-the-best-web-based-tools/"><u>Updated Merge Your Videos for Free The Best Web-Based Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-revenue-per-million-viewer-count-for-2024/"><u>Youtube Revenue Per Million Viewer Count for 2024</u></a></li>
 </ul></div>
 

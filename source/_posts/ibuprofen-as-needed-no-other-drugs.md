@@ -1,7 +1,7 @@
 ---
 title: Ibuprofen as Needed; No Other Drugs
-date: 2025-02-04T04:39:22.209Z
-updated: 2025-02-10T23:24:57.238Z
+date: 2025-02-23T16:26:32.751Z
+updated: 2025-03-01T23:07:24.533Z
 tags:
   - win11
   - win10
@@ -94,10 +94,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Launch CSGO in -autoconfig or -safe mode
 
  You can also try running CSGO in a different mode to see if the crashing issue disappears. Here we recommend the**\-autoconfig** mode and the**\-safe** mode.
@@ -116,27 +112,15 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-autoconfig** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-182.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Exit Steam.
 
@@ -153,10 +137,6 @@ To do so:
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
 
@@ -180,10 +160,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-184.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Launch Steam and re-run the game.
 
 5) Once the installation completes, test if the CSGO crashing issue has been solved:
@@ -202,16 +178,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
 5. Re-launch your game and hope you’re enjoying your game right now.
@@ -237,24 +205,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-add-motion-blur-effect-to-photos-in-photoshop-for-2024/"><u>[New] Add Motion Blur Effect to Photos in Photoshop for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[New] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-curating-background-beats-for-video-releases/"><u>[Updated] 2024 Approved Curating Background Beats for Video Releases</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elevate-your-live-recordings-on-facebook-with-4-methods/"><u>[Updated] 2024 Approved Elevate Your Live Recordings on Facebook with 4 Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-beyond-cyberlink-hunt-for-the-ultimate-screen-recording-app/"><u>[Updated] Beyond Cyberlink Hunt for the Ultimate Screen Recording App</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-civic-challenge-champions-premier-elections-videogames-for-2024/"><u>[Updated] Civic Challenge Champions Premier Elections Videogames for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-ios-filmmaking-software/"><u>[Updated] In 2024, Best iOS Filmmaking Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-acer-laptop-screen-flickering/"><u>How To Fix Acer Laptop Screen Flickering</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208441396-how-to-overcome-failed-update-issues-in-your-favorite-mmo-warframe/"><u>How to Overcome Failed Update Issues in Your Favorite MMO, Warframe!</u></a></li>
-<li><a href="https://common-error.techidaily.com/integrating-windows-hello-with-appropriate-camera/"><u>Integrating Windows Hello With Appropriate Camera</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/naming-conventions-editing-windows-11-user-folders/"><u>Naming Conventions: Editing Windows 11 User Folders</u></a></li>
-<li><a href="https://common-error.techidaily.com/reset-or-refresh-a-beginners-guide-to-reviving-windows-10/"><u>Reset or Refresh - A Beginner's Guide to Reviving Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-error-message-applicationexe-has-stopped-now-fixed/"><u>Resolved: Error Message 'Application.exe Has Stopped' Now Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-wacom-tablet-driver-issues-in-windows-11/"><u>Resolved: Fixing Wacom Tablet Driver Issues in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-initialization-issue-with-renderer-updated-solution-2021/"><u>Resolved: Initialization Issue with Renderer (Updated Solution, 2021)</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-hp-laptops-webcam-issues-on-windows-10-a-step-by-step-guide/"><u>Solving Your HP Laptop's Webcam Issues on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203614301-trouble-with-camera-on-windows-overcome-error-0xa00f4292-here/"><u>Trouble with Camera on Windows? Overcome Error 0xA00F4292 Here!</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstuck-your-screen-techniques-to-find-and-move-lost-windows-easily/"><u>Unstuck Your Screen: Techniques to Find and Move Lost Windows Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-3-voice-capturing-ipad-apps-reviewed/"><u>[New] 2024 Approved TOP 3 Voice Capturing iPad Apps Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-maximizing-zoom-visual-precision-effective-strategies-for-2024/"><u>[New] Maximizing Zoom Visual Precision Effective Strategies for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-through-your-instagram-post-eye-balls-for-2024/"><u>[New] Navigating Through Your Instagram Post Eye-Balls for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-guide-recording-your-youtube-livestreams/"><u>[New] Ultimate Guide Recording Your YouTube Livestreams</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-webcam-seamless-integration-with-windows-10-os/"><u>ASUS Webcam Seamless Integration with Windows 10 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-windows-10-hosted-network-wont-activate/"><u>Fixing the Issue: Why Your Windows 10 Hosted Network Won't Activate</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-problem-monitor-refuses-unrecognized-input-types/"><u>Fixing the Problem: Monitor Refuses Unrecognized Input Types</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-lenovo-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Lenovo Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-n53-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo N53 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-0x800f0831-error-update-your-windows-today/"><u>Quick Fix for 0X800F0831 Error - Update Your Windows Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-7-sound-driver-issues-quickly/"><u>Resolving Windows 7 Sound Driver Issues Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-to-get-your-lenovo-fingerprint-reader-working-again/"><u>Simple Fixes to Get Your Lenovo Fingerprint Reader Working Again</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/slowing-down-reality-crafting-slow-motion-videos-from-still-images-online/"><u>Slowing Down Reality Crafting Slow Motion Videos From Still Images Online</u></a></li>
 </ul></div>
 

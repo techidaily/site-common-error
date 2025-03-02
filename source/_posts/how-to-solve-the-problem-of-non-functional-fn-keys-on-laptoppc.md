@@ -1,7 +1,7 @@
 ---
 title: How to Solve the Problem of Non-Functional FN Keys on Laptop/PC
-date: 2025-02-04T03:29:10.938Z
-updated: 2025-02-11T01:13:57.592Z
+date: 2025-02-27T07:49:57.638Z
+updated: 2025-03-01T18:24:52.607Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -34,10 +30,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -48,10 +40,6 @@ Here’s how to do it:
  1) On your keyboard, press **the Windows logo key**  and type **microphone** , then click on **Microphone privacy settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
@@ -64,10 +52,6 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -101,10 +85,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -150,20 +130,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/osplusandroid-guide-to-invisible-youtube-viewing/"><u>[New] IOS+Android Guide to Invisible YouTube Viewing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-kickstart-your-webinar-skills-with-easy-to-follow-zoom-steps-for-2024/"><u>[New] Kickstart Your Webinar Skills with Easy-to-Follow Zoom Steps for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-fundamentals-of-high-impact-asmr-filming-and-editing/"><u>[New] The Fundamentals of High-Impact ASMR Filming & Editing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-prime-binge-worthy-hits-highest-tweets-and-view-counts/"><u>[Updated] 2024 Approved Prime Binge-Worthy Hits Highest Tweets & View Counts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-soaring-visions-with-dji-mavic-pro-insight/"><u>[Updated] 2024 Approved Soaring Visions with DJI Mavic Pro Insight</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-to-restoring-your-lenovo-mousepad-functionality-in-windows-environments/"><u>Complete Guide to Restoring Your Lenovo Mousepad Functionality in Windows Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-resolving-event-id-1000-in-windows-7810-systems/"><u>Comprehensive Guide: Resolving Event ID 1000 in Windows 7/8/10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-non-operational-copy-and-paste-in-windows-os/"><u>Fixing Non-Operational Copy and Paste in Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-svchostexe-consuming-too-much-cpu-power-in-windows-10-solution-guide/"><u>How to Fix svchost.exe Consuming Too Much CPU Power in Windows 10 - Solution Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-11-pro-max-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Pro Max Device from iCloud</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-12-mini-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 12 mini i Do? Get Answers here</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimal-camera-balance-for-drone-use-for-2024/"><u>Optimal Camera Balance for Drone Use for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208681245-resolve-win10-upgrade-stuck-on-99-proven-solutions-that-work/"><u>Resolve Win10 Upgrade Stuck on 99%: Proven Solutions That Work!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-brightness-control-malfunctions-on-windows-10-machines/"><u>Step-by-Step Guide to Repair Brightness Control Malfunctions on Windows 10 Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/untangling-the-complicated-web-of-windows-10s-0x80240034-a-step-by-step-guide-to-seamless-updates/"><u>Untangling the Complicated Web of Windows 10'S 0X80240034: A Step-by-Step Guide to Seamless Updates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ai-powered-name-ideas-for-standout-podcast-titles/"><u>[New] 2024 Approved AI-Powered Name Ideas for Standout Podcast Titles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-seamless-integration-transferring-snapchat-images-directly/"><u>[Updated] 2024 Approved Seamless Integration Transferring Snapchat Images Directly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/audience-favorites-outstanding-vr-gaming-with-google-cardboard/"><u>Audience Favorites Outstanding VR Gaming with Google Cardboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-the-shift-key-stops-working/"><u>Effective Solutions for When the Shift Key Stops Working</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-aspects-to-think-about-when-selecting-a-new-tablet-device/"><u>Essential Aspects To Think About When Selecting A New Tablet Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212143161-experience-uninterrupted-updates-on-windows-11-solve-error-code-0x800f0922-using-our-top-fixes/"><u>Experience Uninterrupted Updates on Windows 11: Solve ERROR CODE 0X800F0922 Using Our Top Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/halo-4-ue4-troubleshooting-fixing-the-fatal-error-and-preventing-crashes/"><u>Halo 4 UE4 Troubleshooting: Fixing the 'Fatal Error' And Preventing Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-hidden-items-context-menu-option-in-windows-10-and-11/"><u>How to Add a Hidden Items Context Menu Option in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-internet-explorer-running-smoothly-again/"><u>How To Get Your Internet Explorer Running Smoothly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-mic-functionality-in-windows-10-solutions-explored/"><u>How to Restore Mic Functionality in Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-reno-9a-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo Reno 9A Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-online.techidaily.com/methode-gratuite-pour-convertir-un-fichier-mpeg-en-video-wmv-sur-internet-movavi/"><u>Méthode Gratuite Pour Convertir Un Fichier MPEG en Vidéo WMV Sur Internet - Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-common-huion-pen-issues-quickly-5-proven-fixes-for-smoother-drawing/"><u>Solve Common Huion Pen Issues Quickly – 5 Proven Fixes for Smoother Drawing</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-to-combat-high-resource-drain-caused-by-wudfhostexe-on-windows-10-systems/"><u>Tips to Combat High Resource Drain Caused by WUDFHost.exe on Windows 10 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-the-leading-6-mac-video-grabber-apps/"><u>Unveiling the Leading 6 Mac Video Grabber Apps</u></a></li>
 </ul></div>
 

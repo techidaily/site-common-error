@@ -1,7 +1,7 @@
 ---
 title: Unexpected Pauses in Windows 11 Systems
-date: 2025-02-06T03:12:39.389Z
-updated: 2025-02-10T23:37:18.520Z
+date: 2025-02-23T11:34:40.259Z
+updated: 2025-03-02T05:55:35.484Z
 tags:
   - win11
   - win10
@@ -50,16 +50,8 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78b71ef2a6.png)
 2. Click **Advanced system settings** \> **Settings…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78bc1c2002.jpg)
 3. Uncheck **Automatically restart** . Then click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78c0452d84.png)
 4. Use your computer for a while to see if it restarts randomly. If the problem remains, please move on.
@@ -73,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 1. Type **Power Options**  in the search box from Start. Then click**Edit power plan** or other items relates to power settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79395b78b6.png)
 2. Click **Change advanced power settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b7941bdec4c.png)
 3. In the**Balanced** section, click **Processor power management** \> **Minimum processor state** . Then set it to a small number, like**5%** or even**0%** . Click **Apply**  \> **OK** .  
@@ -103,18 +91,10 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Run a memory check
 
@@ -135,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
 
@@ -146,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the Windows 10 computer randomly restarts problem. In that case, please move on to the next fix.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
@@ -168,19 +140,11 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Check power issue
 
  As mentioned above, an insufficient power supply is one of the most common reasons why your computer restarts automatically. This includes the power management options on your computer, and also your power supply unit or battery.
 
  In this case, you can try to**replace the power cables** and **power supply unit** (PSU) to see if your computer still keeps restarting. If so, please move on to check other possible hardware issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Make sure the computer is not overheating
 
@@ -213,20 +177,20 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ominate-youtube-with-effective-content-strategies/"><u>[New] Dominate YouTube with Effective Content Strategies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-cutting-edge-broadcasting-dslr-use-for-facebook-live-on-pcmac/"><u>[New] In 2024, Cutting-Edge Broadcasting DSLR Use for Facebook Live on PC/Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-searchingforsmartercameraspost-mycam/"><u>[New] SearchingForSmarterCamerasPost-MyCam</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-redmi-13c-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Redmi 13C 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-7-free-internet-faxing-applications-available-today/"><u>Best 7 Free Internet Faxing Applications Available Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-repair-methods-for-handling-the-0x887a0006-error-flawlessly/"><u>Easy Repair Methods for Handling the 0X887A0006 Error Flawlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-the-0x80070643-glitch-during-windows-updates-or-installs/"><u>Expert Tips for Overcoming the '0X80070643' Glitch During Windows Updates or Installs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-ogg-to-wmv-omzetting-online-kort-en-gemakkelijk-met-movavi/"><u>Gratis Ogg-to-Wmv Omzetting Online - Kort en Gemakkelijk Met Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-windows-cant-find-an-appropriate-printer-driver/"><u>Resolved: How to Fix 'Windows Can't Find an Appropriate Printer Driver'</u></a></li>
-<li><a href="https://common-error.techidaily.com/scroll-jumps-a-windows-users-guide/"><u>Scroll Jumps: A Windows User's Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-pcs-cannot-find-d3dcompiler43dll-problem/"><u>Solving Your PC's 'Cannot Find d3dcompiler_43.dll' Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-steam-solution-correcting-installation-and-update-mishaps-on-steam-platform/"><u>Step-by-Steam Solution: Correcting Installation and Update Mishaps on Steam Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-mov-in-wmv-online-gratuito-con-ease-movavi/"><u>Trasforma I Tuoi File MOV in WMV Online Gratuito Con Ease - Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-hidden-desktop-icons-on-windows-11-the-ultimate-fixes/"><u>Troubleshooting Hidden Desktop Icons on Windows 11 - The Ultimate Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-get-your-stubbornly-closed-epic-games-launcher-running-again/"><u>Troubleshooting Steps: Get Your Stubbornly Closed Epic Games Launcher Running Again</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-cross-platform-movie-recording-pc-mac-and-mobile-for-2024/"><u>[New] Cross-Platform Movie Recording PC, Mac & Mobile for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-a-comprehensive-list-of-8-authentic-propagation-tools/"><u>[New] In 2024, A Comprehensive List of 8 Authentic Propagation Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-upgrading-minecraft-stability-via-ram-adjustment-for-2024/"><u>[New] Upgrading Minecraft Stability via RAM Adjustment for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/reboot-signal-from-gaming-systems/"><u>[REBOOT] Signal From Gaming Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-the-overuse-of-processor-resources-due-to-windows-audio-graphs/"><u>Addressing the Overuse of Processor Resources Due to Windows Audio Graphs</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-fixes-for-when-your-function-keys-arent-working-properly/"><u>Common Fixes for When Your Function Keys Aren't Working Properly</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-dealing-with-inoperative-usb-gadgets-and-troublesome-port-reset-errors-on-windows-10/"><u>Comprehensive Fixes for Dealing with Inoperative USB Gadgets and Troublesome Port Reset Errors on Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-itel-p40plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Itel P40+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/list-of-top-6-cost-free-ais-resembling-sora/"><u>List of Top 6 Cost-Free AIs Resembling Sora</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-your-broadcasts-with-manycam-premier-software-for-live-videos-and-digital-camcorder-experience/"><u>Master Your Broadcasts with ManyCam - Premier Software for Live Videos & Digital Camcorder Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pixel-perfection-designing-distinctive-displays-on-win-1011-screens/"><u>Pixel Perfection: Designing Distinctive Displays on WIN 10/11 Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-halo-4s-ue4-crash-issues-strategies-for-a-smooth-gaming-experience/"><u>Resolving Halo 4'S UE4 Crash Issues : Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208943320-streamline-your-files-management-on-windows-11-a-comprehensive-file-explorer-tutorial/"><u>Streamline Your Files Management on Windows 11 - A Comprehensive File Explorer Tutorial!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-7-speaker-problems-a-step-by-step-guide/"><u>Troubleshooting Windows 7 Speaker Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/understanding-and-exploring-telegrams-online-features-for-2024/"><u>Understanding and Exploring Telegram's Online Features for 2024</u></a></li>
 </ul></div>
 

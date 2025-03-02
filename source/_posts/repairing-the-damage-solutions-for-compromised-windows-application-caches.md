@@ -1,7 +1,7 @@
 ---
 title: "Repairing the Damage: Solutions for Compromised Windows Application Caches"
-date: 2024-08-09T00:49:15.742Z
-updated: 2024-08-10T00:49:15.742Z
+date: 2025-03-01T04:03:53.518Z
+updated: 2025-03-02T12:46:57.391Z
 tags:
   - win11
   - win10
@@ -17,16 +17,10 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
 The**80240020** error happens usually when the Windows 10 files that you downloaded was not complete and the setup process still tried to do the upgrade to Windows 10\. Or it could be that your Windows 10 installation folder is unfinished or corrupted.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-code-80240020.jpg)
 
 Luckily, this is an easy question to solve. Please follow the steps below to get this problem fixed. **Step One**1) Navigate to**C:\\$Windows.\~BT**folder. If you cannot see this folder, please make sure that you have checked the hidden items.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-bt-600x427.jpg)
 
 Delete as many files in this folder as you can. You might not be able to delete all the files due to permission issues. 2) Navigate to**C:\\Windows\\SoftwareDistribution\\Download** and delete all the files in this folder. Please note that you don’t have to delete**Download**folder, but rather, you need to delete the content in it.
@@ -35,14 +29,8 @@ Delete as many files in this folder as you can. You might not be able to delete 
 
 3) Type**cmd.exe**in the search box in**Start**panel and right click the option**cmd**and choose**Run as administrator**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/run-as-administrator.jpg)Click**Yes**at this prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/uac-command-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) Type**wuauclt.exe/updatenow**and hit**Enter**key. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5394edbd33.png) **Step Two** **Warning**: Before you proceed with this step, please make sure that you have back up your registry first just in case any irreversible errors happen. Refer to this post to see[**how to backup and restore your registry**](https://tools.techidaily.com/drivereasy/download/). 1) Press**Windows key**and**R**at the same time, then type in**regedit**and hit**Enter**. When prompted for administrator permission, click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/regedit.png)
@@ -53,16 +41,10 @@ Delete as many files in this folder as you can. You might not be able to delete 
 
 3) On the right side of the pane, right click on the blank spot and select**New > DWORD (32-bit) Value**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-dword-32-bit-value-600x396.jpg)
 
 4) Rename the value to**AllowOSUpgrade**. Then double click the value and set the**Value data**to**1**. Then click**OK**to save the change.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58140207aba43-600x394.jpg)
 
  Your**Windows Update** panel should come out in a couple of seconds. If it won’t open automatically, you can open this panel from Control Panel manually. Then, you should be able to download your Windows 10 from scratch.
@@ -75,11 +57,31 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-personalize-and-protect-youtube-channel-url-made-simple/"><u>[Updated] In 2024, Personalize & Protect YouTube Channel URL Made Simple</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-insight-on-selecting-superior-valheim-seeds/"><u>[Updated] In-Depth Insight on Selecting Superior Valheim Seeds</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-error-0x887a0006-quickly-easy-step-by-step-repair-techniques-inside/"><u>Beat Error 0X887A0006 Quickly: Easy Step-by-Step Repair Techniques Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-applicationexe-stopped-functioning-error-solutions-and-tips/"><u>Fixes for 'Application.exe Stopped Functioning' Error: Solutions & Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-broken-dell-webcam-solutions-and-troubleshooting-steps/"><u>Fixing Your Broken Dell Webcam: Solutions and Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-single-shots-to-spectaculary-screenshots/"><u>From Single Shots to Spectaculary Screenshots</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-lower-gpu-usage-by-the-desktop-window-manager-in-windows-11-a-step-by-step-tutorial/"><u>How to Lower GPU Usage by the Desktop Window Manager in Windows 11: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-lava-blaze-2-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Lava Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-vrecorder-unpacked-step-by-step-download-procedures/"><u>In 2024, VRecorder Unpacked Step-by-Step Download Procedures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-strategies-to-enhance-tiktoks/"><u>Innovative Strategies to Enhance TikToks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrating-zoom-with-your-android-gadget-for-2024/"><u>Integrating Zoom with Your Android Gadget for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scene-stealers-archive-responses-await/"><u>Scene Stealers Archive Responses Await</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-speakers-now-a-tale-of-two-devices/"><u>Silent Speakers, Now a Tale of Two Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-the-missing-wacom-pen-and-touchpad-driver-issue-on-windows-10/"><u>Step-by-Step Guide: Fixing the Missing Wacom Pen & Touchpad Driver Issue on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/third-monitor-not-detected-heres-the-real-fix/"><u>Third Monitor Not Detected? Here's the Real Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-compatibility-fixing-connectivity-for-microsoft-wireless-display-adapters/"><u>Windows 11 Compatibility: Fixing Connectivity for Microsoft Wireless Display Adapters</u></a></li>
+</ul></div>
+

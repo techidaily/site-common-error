@@ -1,7 +1,7 @@
 ---
 title: "Shift Key Failure Solved: Tips for Restoring Functionality"
-date: 2024-08-09T00:49:16.905Z
-updated: 2024-08-10T00:49:16.905Z
+date: 2025-02-28T07:55:36.605Z
+updated: 2025-03-02T00:30:28.897Z
 tags:
   - win11
   - win10
@@ -25,18 +25,12 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. **[Update the Corsair Keyboard driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Reset your keyboard
 
  Most Corsair keyboards have a reset function to fix unexpected issues, including the lighting failure. Depending on the type of Corsair keyboard you’re using, here’s how to reset it:
 
 #### Wired keyboard  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
 
 1. Unplug your keyboard from your computer.
@@ -46,9 +40,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 #### Wireless keyboard  
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
 1. Turn off your keyboard.
@@ -65,20 +56,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  If you’re not comfortable playing with device drivers, we recommend using[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , a tool that detects, downloads and installs any driver updates your computer needs.
 
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -88,10 +69,6 @@ No advertising on the website.
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
@@ -111,11 +88,28 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-to-gifs-for-2024/"><u>[New] How to Convert YouTube Videos to GIFs for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-6-best-snapchat-video-editors-on-android-and-iphone/"><u>[Updated] 6 Best Snapchat Video Editors on Android and iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-guide-for-soundless-video-documentation/"><u>[Updated] In 2024, How-To Guide for Soundless Video Documentation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unlocking-success-the-journey-from-trial-to-full-conversion/"><u>1. Unlocking Success: The Journey From Trial to Full Conversion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-view-facebook-stories-anonymously2/"><u>2024 Approved How to View Facebook Stories Anonymously2</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-keeps-powering-down-heres-how-to-stop-it-from-turning-on-and-off-again/"><u>Computer Keeps Powering Down? Here's How to Stop It From Turning On and Off Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-unresponsive-usb-connections-on-windows-11-computers/"><u>Diagnosing and Fixing Unresponsive USB Connections on Windows 11 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/game-glitch-pc-freezes-in-windows-1011/"><u>Game Glitch: PC Freezes in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-when-windows-fails-to-connect-to-event-notifier-service/"><u>How to Solve When Windows Fails to Connect to Event Notifier Service</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-becoming-a-video-virtuoso-essential-tips-for-upside-down-youtube-livestreams/"><u>In 2024, Becoming a Video Virtuoso Essential Tips for Upside-Down Youtube Livestreams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-expert-choice-leading-tools-for-online-ytvideo-conversion/"><u>In 2024, Expert Choice Leading Tools for Online YTVideo Conversion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-quickly-adapt-to-changing-video-speeds-on-youtube/"><u>In 2024, Quickly Adapt to Changing Video Speeds on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/influence-unleashed-instas-most-stellar-personalities-ranked/"><u>Influence Unleashed Insta’s Most Stellar Personalities Ranked</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-audio-interruptions-solving-crackling-sound-issues-on-windows-systems/"><u>Overcome Audio Interruptions: Solving Crackling Sound Issues on Windows Systems</u></a></li>
+</ul></div>
+

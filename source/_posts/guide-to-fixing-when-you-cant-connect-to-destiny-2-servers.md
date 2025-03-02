@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing When You Can’t Connect to Destiny 2 Servers
-date: 2025-02-05T07:56:17.744Z
-updated: 2025-02-11T09:26:11.036Z
+date: 2025-03-01T14:26:15.516Z
+updated: 2025-03-02T11:45:45.113Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
@@ -64,10 +60,6 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
@@ -76,22 +68,10 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Check if your USB port works properly now. If not, try Step 4, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -136,16 +116,22 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-day-after-analysis-non-traditional-ideas/"><u>[New] 2024 Approved Day After Analysis Non-Traditional Ideas</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-tech-gear-best-win-11-webcam-recorders/"><u>2024 Approved Ultimate Tech Gear Best Win 11 Webcam Recorders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/immersing-in-apples-augmented-reality-vision-an-insider-look-at-their-innovative-iphone-powered-headset/"><u>Immersing in Apple's Augmented Reality Vision: An Insider Look at Their Innovative iPhone-Powered Headset</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-efficiency-on-your-iphone-with-ios-18-customizing-the-quick-settings-menu/"><u>Maximize Efficiency on Your iPhone with iOS 18 - Customizing the Quick Settings Menu</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimize-your-pc-reducing-high-resource-usage-of-microsoft-compatibility-telemetry-on-windows-11/"><u>Optimize Your PC: Reducing High Resource Usage of Microsoft Compatibility Telemetry on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-startup-errors-how-to-get-your-computer-running-smoothly-again/"><u>Resolving 'Startup Errors': How to Get Your Computer Running Smoothly Again</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m14-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy M14 5G can’t play AVCHD .mts video</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-print-screen-not-working-errors-in-modern-windows-operating-systems/"><u>Solving Print Screen Not Working Errors in Modern Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-how-to-fix-your-valorant-games-screen-tearing-problem/"><u>Step-by-Step Guide: How To Fix Your Valorant Game's Screen Tearing Problem</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-4-mobile-browsers-on-android-with-add-on-compatibility/"><u>Top 4 Mobile Browsers on Android with Add-On Compatibility</u></a></li>
-<li><a href="https://solve-news.techidaily.com/m4amp3web/"><u>コンパクトなM4AファイルをMP3形式にスムーズに変換するWebツールを見つけました！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-the-best-youtube-thumbnails-the-free-guide/"><u>[New] 2024 Approved How to Get the Best YouTube Thumbnails The Free Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-speedy-shot-techniques-to-boost-home-filmmaking/"><u>[New] In 2024, Speedy Shot Techniques to Boost Home Filmmaking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-dynamic-typographic-options/"><u>[Updated] Advanced Dynamic Typographic Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-ultimate-gear-premium-lenses-for-vloggers/"><u>[Updated] In 2024, Ultimate Gear Premium Lenses for Vloggers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-online-cameras-for-video-chat-and-streaming-experience/"><u>Best Online Cameras for Video Chat & Streaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-the-igfxem-module-now-operational-again/"><u>Fixing Issues with the igfxEM Module - Now Operational Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-lenovos-unresponsive-fn-key-with-simple-solutions/"><u>How to Repair Lenovo's Unresponsive FN Key with Simple Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elevate-your-virtual-presence-choose-from-these-7-devices/"><u>In 2024, Elevate Your Virtual Presence Choose From These 7 Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-a58-4g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo A58 4G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-x-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone X to iPad | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/les-meilleurs-lecteurs-de-videos-wmv-pour-mac-os-windows-11-android-et-iphone-guide-comparatif/"><u>Les Meilleurs Lecteurs De Vidéos WMV Pour Mac OS, Windows 11, Android Et iPhone - Guide Comparatif</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-resolving-the-dxgkrnl-fatal-error-in-videos-on-windows-systems/"><u>Solutions for Resolving the Dxgkrnl Fatal Error in Videos on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-gamers-handbook-reviving-a-malfunctioning-wireless-gamepad-across-all-platforms/"><u>The Gamer's Handbook: Reviving a Malfunctioning Wireless Gamepad Across All Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-call-of-duty-world-war-iis-persistent-error-code-angs-12320/"><u>Troubleshoot and Solve Call of Duty: World War II's Persistent Error Code Angs 12320!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212151043-troubleshooting-the-cache-miss-error-errcachemiss-in-google-chrome-easily/"><u>Troubleshooting the Cache Miss Error (ERR_CACHE_MISS) in Google Chrome Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fix-for-your-bluetooth-woes-in-windows-1110-a-simple-walkthrough/"><u>Ultimate Fix for Your Bluetooth Woes in Windows 11/10: A Simple Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-could-not-search-for-new-updates-solved/"><u>Windows Could Not Search For New Updates [SOLVED]</u></a></li>
 </ul></div>
 

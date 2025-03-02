@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excessive MsMpEngine.exe CPU Drain on Windows 11 [GUIDE]
-date: 2025-02-04T18:02:25.957Z
-updated: 2025-02-11T02:07:44.558Z
+date: 2025-03-01T07:43:28.251Z
+updated: 2025-03-02T03:55:50.592Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **What is svchost.exe?**
 
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **2: Disable certain svchost.exe services**
 
  Faulty svchost.exe services can also be the cause of the abnormally high CPU usage in your PC. To fix it:
@@ -65,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  1) Right-click the taskbar at the bottom of your PC desktop and click **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
@@ -92,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
@@ -109,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  1) On your keyboard, press the **Windows** **logo key** and**R** key at the same time, then type**eventvwr** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
@@ -136,21 +116,9 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -189,19 +157,24 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-mc-shelter-design-tips/"><u>[New] In 2024, Innovative MC Shelter Design Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-your-monetary-gains-on-social-media-with-snapchat/"><u>[Updated] Maximizing Your Monetary Gains on Social Media with Snapchat</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-take-your-snapchat-to-new-heights-with-cutting-edge-boomerangs-for-2024/"><u>[Updated] Take Your Snapchat to New Heights with Cutting-Edge Boomerangs for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-tips-to-improve-your-gopros-power-sustainability-for-2024/"><u>[Updated] Tips to Improve Your GoPro's Power Sustainability for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-30-mobile-video-edits-using-dji-technology-for-2024/"><u>[Updated] Top 30 Mobile Video Edits Using DJi Technology for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-speed-top-5-chrome-os-hacks-for-smoother-sailing-and-enhanced-productivity-zdnet/"><u>Boost Your Speed: Top 5 Chrome OS Hacks for Smoother Sailing & Enhanced Productivity | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-overcoming-cxfreeze-catastrophic-crashes/"><u>Effortless Solutions: Overcoming Cx_Freeze Catastrophic Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-troubleshooting-solving-the-wifi-not-working-dilemma/"><u>Effortless Troubleshooting: Solving the 'WiFi Not Working' Dilemma</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-origins-games-setting-up-made-simple/"><u>Guide to Fixing Origins Games: Setting Up Made Simple</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-sound-settings-when-the-volume-control-isnt-responding/"><u>How to Fix Windows 11 Sound Settings When the Volume Control Isn't Responding</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-login-obstacles-a-comprehensive-fix-for-user-profile-service-failure-in-windows-10-and-11/"><u>Overcoming Login Obstacles: A Comprehensive Fix for User Profile Service Failure in Windows 10 & 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/simple-troubleshooting-guide-resolving-deathloops-pc-crashes/"><u>Simple Troubleshooting Guide: Resolving Deathloop's PC Crashes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-s23-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy S23? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-insiders-pathway-to-effective-auditory-notes-for-2024/"><u>The Insider’s Pathway to Effective Auditory Notes for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximize-your-snapshots-on-android-for-2024/"><u>[New] Maximize Your Snapshots on Android for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-visual-vault-unrivaled-in-capturing-and-saving-tweets-as-animations/"><u>[New] Visual Vault Unrivaled in Capturing & Saving Tweets as Animations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-securing-your-social-media-visuals-instagram-edition/"><u>[Updated] 2024 Approved Securing Your Social Media Visuals Instagram Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ninja-legacy-continuation-game-roundup-like-the-japanese-samurai-epic-for-2024/"><u>[Updated] Ninja Legacy Continuation Game Roundup Like the Japanese Samurai Epic for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-mic-selection-for-online-talent-for-2024/"><u>[Updated] Ultimate Mic Selection for Online Talent for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-svchostexe-a-guide-to-lowering-cpu-usage-on-windows-11/"><u>Dealing with svchost.exe: A Guide to Lowering CPU Usage on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficiently-handling-error-1er-1053-guaranteeing-timely-service-reaction-to-commands/"><u>Efficiently Handling Error 1Er 1053 - Guaranteeing Timely Service Reaction to Commands</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-visionos-development-tips-apples-expert-recommendations-unveiled/"><u>Essential VisionOS Development Tips: Apple's Expert Recommendations Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-steelseries-arctis-5-microphone-issues-a-step-by-step-guide/"><u>How to Fix SteelSeries Arctis 5 Microphone Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-and-install-necessary-media-hardware-drivers-that-are-currently-missing-on-your-pc/"><u>How to Recover and Install Necessary Media Hardware Drivers that Are Currently Missing on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-mouse-malfunctions-heres-how-to-restore-functionality-and-beat-the-lag/"><u>Laptop Mouse Malfunctions? Here's How to Restore Functionality and Beat the Lag</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-resolving-endless-reboots-in-windows-11-effortlessly/"><u>Master the Art of Resolving Endless Reboots in Windows 11 Effortlessly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-filmmaking-best-cameras-for-novices-for-2024/"><u>Navigating the World of Filmmaking Best Cameras for Novices for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/nba-2k21s-viridian-flaw-unveiled-solutions-inside/"><u>NBA 2K21's Viridian Flaw Unveiled - Solutions Inside!</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-distracted-boyfriend-meme-generator/"><u>New In 2024, Distracted Boyfriend Meme Generator</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-overcoming-problems-with-microsoft-store-not-starting-up/"><u>Troubleshooting Steps for Overcoming Problems with Microsoft Store Not Starting Up</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-video-visionaries-finding-your-cms/"><u>Unison Video Visionaries Finding Your CMS</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-razer-keyboard-lit-steps-to-fix-the-led-issue-successfully/"><u>Why Isn't My Razer Keyboard Lit? Steps to Fix the LED Issue Successfully</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/dvdmov/"><u>ご利用いただきありがとう！無料DVDからMOVにする手順</u></a></li>
 </ul></div>
 

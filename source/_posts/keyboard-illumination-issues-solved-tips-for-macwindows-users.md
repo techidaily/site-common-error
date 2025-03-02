@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Illumination Issues Solved: Tips for Mac/Windows Users"
-date: 2024-09-13T16:52:10.436Z
-updated: 2024-09-20T18:47:42.212Z
+date: 2025-02-25T16:26:50.102Z
+updated: 2025-03-02T14:18:15.562Z
 tags:
   - win11
   - win10
@@ -66,13 +66,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -80,13 +73,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
@@ -116,5 +102,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-twitch-broadcasting-made-easy-on-social-media/"><u>[New] Twitch Broadcasting Made Easy on Social Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-future-of-interaction-with-microsofts-hololens-review/"><u>2024 Approved The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/basic-anatomy-explained-body-parts-in-french-156-characters/"><u>Basic Anatomy Explained: Body Parts in French (156 Characters)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-your-channels-popularity-optimal-post-dates-for-2024/"><u>Boost Your Channel's Popularity - Optimal Post Dates for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-methods-to-overcome-the-0-stalled-windows-updates/"><u>Effortless Methods to Overcome the 0% Stalled Windows Updates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-your-chat-experience-with-customized-whatsapp-tones-for-2024/"><u>Enhancing Your Chat Experience with Customized WhatsApp Tones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/eradicate-e-sports-embarrassment-fast-solutions/"><u>Eradicate E-Sports Embarrassment - Fast Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-a-deficiency-in-xinput13dll/"><u>How to Address a Deficiency in XINPUT1_3.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-msvcp140dll-is-missing-the-right-way/"><u>How to Fix 'MSVCP140.dll Is Missing' The Right Way</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-tackling-svchostexes-heavy-cpu-load-on-windows-11-systems/"><u>Step-by-Step Solutions for Tackling svchost.exe's Heavy CPU Load on Windows 11 Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-1080p-video-editing-programs/"><u>Unleash Your Creativity Top 1080P Video Editing Programs</u></a></li>
+</ul></div>
 

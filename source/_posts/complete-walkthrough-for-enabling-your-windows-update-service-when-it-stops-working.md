@@ -1,7 +1,7 @@
 ---
 title: Complete Walkthrough for Enabling Your Windows Update Service When It Stops Working
-date: 2024-08-09T00:49:17.956Z
-updated: 2024-08-10T00:49:17.956Z
+date: 2025-02-23T09:00:23.399Z
+updated: 2025-03-01T20:43:09.716Z
 tags:
   - win11
   - win10
@@ -35,18 +35,12 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  Click Power button from Start menu.  
  Then while holding **Shift**  key, click **Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-17.jpg)
 
  2)  
 
  Click **Troubleshoot**  \>**Advanced options**  \> **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-18.jpg)
 
  3)  
@@ -54,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  Select your administrator account and then enter the password if you set one before.  
  Click **Continue**  to go on.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-20.jpg)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-14.jpg)
@@ -69,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  **ren system system.001**
 **ren software software.001**
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-15.jpg)
 
  5)  
@@ -98,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  Then click **Create a recovery drive**  from the top result.  
  Click **Yes**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-10.jpg)
 
  3)  
@@ -115,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  Select your USB drive and click **Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-2.jpg)
 
  5)  
@@ -153,11 +135,27 @@ Go on to follow the on-screen instructions to complete the reinstalling.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-shorts-a-beginners-guide/"><u>[New] In 2024, YouTube Shorts A Beginner's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-perfect-voice-and-vision-for-docs/"><u>2024 Approved Crafting the Perfect Voice and Vision for Docs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/handling-60-linux-vulnerabilities-daily-why-the-linux-security-team-stays-calm-and-what-you-can-do-about-it/"><u>Handling 60 Linux Vulnerabilities Daily: Why the Linux Security Team Stays Calm and What You Can Do About It</u></a></li>
+<li><a href="https://common-error.techidaily.com/repair-steps-for-resolving-the-non-present-device-message-code-24-widows-os-xyz-series/"><u>Repair Steps for Resolving the Non-Present Device Message (Code #24) - Widows OS XYZ Series</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-call-of-duty-wwii-error-4220-a-comprehensive-guide/"><u>Resolving Call of Duty WWII Error 4220: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-privacy-and-security-fixing-connection-to-server-couldnt-be-established-in-mozilla-firebox/"><u>Reviving Your Privacy and Security: Fixing 'Connection to Server Couldn't Be Established' In Mozilla Firebox</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seconds-needed-to-watch-an-hd-20mb-video-for-2024/"><u>Seconds Needed to Watch an HD 20MB Video for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211977275-solved-laptop-keys-not-working-hp-quickly-and-easily/"><u>SOLVED: Laptop Keys Not Working HP. Quickly & Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-a-comprehensive-guide-on-resolving-windows-11s-black-display-problem/"><u>Solving the Dilemma: A Comprehensive Guide on Resolving Windows 11'S Black Display Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-directors-eye-15-essential-camera-shots-explained-for-2024/"><u>The Director's Eye 15 Essential Camera Shots Explained for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-slow-shutdowns-in-windows-11-systems/"><u>Troubleshooting and Solving Slow Shutdowns in Windows 11 Systems</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/winx-dvd-ripperipaddvd/"><u>WinX DVD RipperでiPadへのDVDコピー変換手順をご紹介</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Functionality to a Broken Keyboard at Login"
-date: 2024-08-09T00:49:15.300Z
-updated: 2024-08-10T00:49:15.300Z
+date: 2025-02-24T11:04:15.743Z
+updated: 2025-03-01T18:01:20.288Z
 tags:
   - win11
   - win10
@@ -27,16 +27,10 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
  2) In Device Manager, expand category “Keyboards”. Right-click on Logitech keyboard device name and select**Uninstall** on the context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd39ed6472.png)
 
  3) Windows will prompt you to confirm the uninstallation. Click**OK**  button to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd3f6b4d25.png)
   
  4) Reboot your PC as soon as possible. Then Windows will load the keyboard driver automatically.
@@ -57,18 +51,12 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6e699f9b.jpg)
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fc095f3.jpg)
 
 4) Restart your laptop, and check to see if your keyboard works.
@@ -86,16 +74,10 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
   
  2\. Type**services.msc** in the run box and click **OK** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd7d0f3270.png)
   
  3\. In the**Name** list of services in the Details pane, double-click**Human Interface Device Access** , and then make sure that the Startup type is set to Automatic.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd8aec4887.png) ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd93f7da33.png)
   
  4\. If you change the setting, restart the computer for the change to take effect.
@@ -110,11 +92,33 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-streamlining-presentations-in-microsoft-teams-through-snap-capture/"><u>[Updated] In 2024, Streamlining Presentations in Microsoft Teams Through Snap Capture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapshot-sophistication-expert-advice-on-editing-magic/"><u>2024 Approved Snapshot Sophistication Expert Advice on Editing Magic</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-newfound-windows-11-update-data-glitch-with-easy-fixes-for-users/"><u>Bypassing the Newfound Windows 11 Update Data Glitch with Easy Fixes for Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-poco-x6-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Poco X6 Pro.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-when-your-beat-saber-keeps-exiting-unexpectedly/"><u>Effective Solutions for When Your Beat Saber Keeps Exiting Unexpectedly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebooks-most-noteworthy-tweaks-for-todays-users-for-2024/"><u>Facebook's Most Noteworthy Tweaks for Today’s Users for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/lonicera-periclymenum-european-honeysuckle-or-woodbine-native-to-europe-it-features-twining-stems-and-fragrant-tubular-flowers-that-bloom-in-the-summer/"><u>Lonicera Periclymenum (European Honeysuckle or Woodbine): Native to Europe, It Features Twining Stems and Fragrant Tubular Flowers that Bloom in the Summer.</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-touchscreen-repair-top-5-techniques-for-windows-10-users/"><u>Mastering the Art of Touchscreen Repair: Top 5 Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205547961-miracast-troubles-beat-the-unsupported-receiving-device-error-this-year/"><u>Miracast Troubles? Beat the 'Unsupported Receiving Device' Error This Year</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-windows-1nstallation-hurdles-quick-fix-guide-for-error-0x800f0922/"><u>Overcome Your Windows 1Nstallation Hurdles: Quick Fix Guide for Error 0X800f0922</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/prime-fb-video-snatcher-and-upgrades-for-firefox/"><u>Prime FB Video Snatcher & Upgrades for FireFox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-stalled-amd-driver-in-windows-environment/"><u>Remedying Stalled AMD Driver in Windows Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-compatibility-enhanced-with-new-fixes-on-google-chrome/"><u>Shockwave Flash Compatibility Enhanced with New Fixes on Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/surprise-key-silence/"><u>Surprise Key Silence</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-your-apps-exe-file-crashes/"><u>Troubleshooting Guide: Why Your App's Exe File Crashes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-itunes-when-it-cant-link-to-your-iphone-due-to-a-missing-value/"><u>Troubleshooting iTunes When It Can’t Link to Your iPhone Due to a Missing Value</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-window-11-slow-to-shutdown-dilemma/"><u>Troubleshooting the Window 11 Slow-to-Shutdown Dilemma</u></a></li>
+</ul></div>
+

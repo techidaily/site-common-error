@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue
-date: 2025-02-07T01:19:19.170Z
-updated: 2025-02-10T22:35:56.288Z
+date: 2025-02-23T05:06:36.338Z
+updated: 2025-03-02T14:10:44.445Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ A lot Windows 10 users reported that system restore did not complete successfull
 
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
 
 1)  
@@ -42,10 +38,6 @@ Then type **msconfig** in the box and hit **Enter**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 b)  
 On the pop-up window, view on **Boot** pane.  
@@ -83,18 +75,10 @@ This time uncheck **Safe boot** to reboot your Windows 10.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5)  
 
 When it finish rebooting, run System Restore again.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
 
@@ -108,10 +92,6 @@ Then click **Update & security**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 b)  
 Click **Recovery**.  
@@ -156,22 +136,16 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-bio-engineered-healing-spaces-via-arvr/"><u>[New] Bio-Engineered Healing Spaces via AR/VR</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-power-supplies-for-gopro-hero5-genuine-and-3rd-party/"><u>[New] Premium Power Supplies for GoPro Hero5 Genuine and 3Rd-Party</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-power-of-listening-understanding-your-youtube-audience-for-2024/"><u>[New] The Power of Listening Understanding Your YouTube Audience for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-top-gopro-models-max-vs-hero-11/"><u>[Updated] Unveiling the Top GoPro Models Max Vs. Hero 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/5-youtube-video-editor-alternatives-for-2024/"><u>Best 5 YouTube Video Editor Alternatives for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/critical-windows-update-features-now-fixed-and-operational/"><u>Critical Windows Update Features Now Fixed and Operational</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-free-storage-after-resolving-the-cyclic-redundancy-check-glitches/"><u>Error-Free Storage After Resolving the Cyclic Redundancy Check Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-0xc000012f-error-in-windows-easily/"><u>How to Fix 0Xc000012f Error in Windows Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-6-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hands-on-crafting-unique-movie-closures-for-pennies/"><u>In 2024, Hands-On Crafting Unique Movie Closures for Pennies</u></a></li>
-<li><a href="https://common-error.techidaily.com/laptop-battery-wont-charge-master-quick-repairs-to-power-up-again/"><u>Laptop Battery Won't Charge? Master Quick Repairs to Power Up Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-function-to-broken-keys-on-microsofts-latest-operating-systems-win-10-win-11/"><u>Restore Function to Broken Keys on Microsoft's Latest Operating Systems (Win 10 / Win 11)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro-for-2024/"><u>Smoothly Softening Endings Audio Fades Made Simple with Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-connecting-your-microsoft-wireless-display-adapter-with-windows-aturate-as-well-as-to-improve-the-efficiency-of-the-model-itself-during-t47/"><u>Step-by-Step Guide: Connecting Your Microsoft Wireless Display Adapter with Windows Aturate, as Well as to Improve the Efficiency of the Model Itself During Training and Inference</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-excessive-svchostexe-cpu-load-in-windows-11/"><u>Step-by-Step Solutions for Excessive Svchost.exe CPU Load in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-windows-10-bluetooth-connectivity-problems-fast/"><u>Troubleshoot and Fix Windows 10 Bluetooth Connectivity Problems Fast</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/unveiling-the-intricacies-of-a-zero-day-exploit-a-comprehensive-guide-by-malwarefox/"><u>Unveiling the Intricacies of a Zero-Day Exploit: A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-immediate-screen-shotter-for-chromes/"><u>[New] In 2024, Immediate Screen Shotter for Chromes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-empower-your-digital-tales-with-complimentary-upgrades/"><u>[Updated] 2024 Approved Empower Your Digital Tales with Complimentary Upgrades</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-noise-free-recording-strategy-for-2024/"><u>[Updated] The Ultimate Noise-Free Recording Strategy for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-microsofts-compatibility-telemetry-impact-on-hard-drive-space-and-speed-for-windows-10-users/"><u>How to Reduce Microsoft's Compatibility Telemetry Impact on Hard Drive Space and Speed for Windows 10 Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-6-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 6 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-sluggish-computer-initialization-issues/"><u>Quick Solutions for Resolving Sluggish Computer Initialization Issues</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/rescatar-datos-del-disco-duro-externo-sin-perder-la-configuracion-original-metodos-efectivos/"><u>Rescatar Datos Del Disco Duro Externo Sin Perder La Configuración Original: Métodos Efectivos</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-struggling-with-windows-updates-fix-error-8007000e-instantly-and-happily/"><u>Stop Struggling with Windows Updates! Fix Error 8007000E Instantly & Happily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-print-driver-host-stopped-working-for-32-bit-software/"><u>Troubleshooting 'Print Driver Host Stopped Working' For 32-Bit Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-backspace-functionality/"><u>Troubleshooting Tips: Resolving Issues with Backspace Functionality</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-face-blur-mastery-a-step-by-step-guide-to-free-video-editing-tools/"><u>Updated In 2024, Face Blur Mastery A Step-by-Step Guide to Free Video Editing Tools</u></a></li>
 </ul></div>
 

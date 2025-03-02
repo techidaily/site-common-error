@@ -1,7 +1,7 @@
 ---
 title: "Successfully Remedied: Stuck and Unresponsive Toshiba Keyboard Keys"
-date: 2025-02-09T19:48:24.402Z
-updated: 2025-02-10T18:56:37.612Z
+date: 2025-02-26T03:47:21.217Z
+updated: 2025-03-01T21:41:49.360Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -51,19 +47,11 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -78,10 +66,6 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -129,10 +113,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -184,15 +164,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-swiftrecord-the-quick-windows-11-recorder/"><u>[New] 2024 Approved SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-offline-access-top-quality-fb-videos-at-home/"><u>[New] In 2024, Offline Access Top Quality FB Videos at Home</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/asterclass-in-conversions-top-software-for-youtube-to-avi-for-2024/"><u>[New] Masterclass in Conversions Top Software for YouTube to AVI for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-podcasting-perfection-premium-recording-mics-for-2024/"><u>[New] Podcasting Perfection Premium Recording Mics for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigate-the-1080p-landscape-for-better-fb-broadcasts/"><u>[Updated] 2024 Approved Navigate the 1080P Landscape for Better FB Broadcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-addressing-and-correcting-update-unsuccessful-in-warframe/"><u>Expert Guide: Addressing and Correcting 'Update Unsuccessful in Warframe'</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-astro-a40-microphone-issues-effective-solutions-and-tips/"><u>Fixing Your Astro A40 Microphone Issues: Effective Solutions and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-web-development-fixes-for-failed-renderer-initialization-as-of-2021/"><u>Mastering the Art of Web Development: Fixes for Failed Renderer Initialization as of 2021</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-out-of-memory-in-red-dead-redemption-2-by-expanding-your-pagefile/"><u>Resolve 'Out of Memory' In Red Dead Redemption 2 by Expanding Your Pagefile</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/writing-vlogs-a-guide-to-persuasive-scripts/"><u>Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-quickshot-screen-grab-reviews-for-2024/"><u>[New] QuickShot Screen Grab Reviews for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecrets-to-effective-video-tagging-revealed-here-for-2024/"><u>[New] Secrets to Effective Video Tagging Revealed Here for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chorus-of-commitment-best-ballads-for-marital-dreaming/"><u>2024 Approved Chorus of Commitment Best Ballads for Marital Dreaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-the-maximum-duration-limit-for-instagram-videos/"><u>2024 Approved Navigating the Maximum Duration Limit for Instagram Videos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-website-with-cookiebots-advanced-analytics-tools/"><u>Elevate Your Website with Cookiebot's Advanced Analytics Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-to-prevent-nier-automata-crashes-on-personal-computers/"><u>Essential Fixes to Prevent Nier: Automata Crashes on Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-to-rectify-typing-issues-on-your-pc-for-windows-11-7-and-8/"><u>Essential Tips to Rectify Typing Issues on Your PC - For Windows 11, 7, and 8</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-your-wacom-touchpad-wont-function-correctly/"><u>Expert Solutions for When Your Wacom Touchpad Won’t Function Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-for-service-failed-error-during-logon-on-windows-11-devices/"><u>Fix Guide for 'Service Failed' Error During Logon on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-stuck-or-damaged-scroll-wheel-on-your-logitech-mouse-expert-tips-and-tricks/"><u>Fixing the Stuck or Damaged Scroll Wheel on Your Logitech Mouse - Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-mastery-discover-how-manycam-elevates-your-online-presence-with-virtual-camera-technology/"><u>Live Streaming Mastery: Discover How ManyCam Elevates Your Online Presence with Virtual Camera Technology</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smart-solutions-apply-apple-watch-open-mac-for-2024/"><u>Smart Solutions Apply Apple Watch, Open Mac for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-right-click-not-working-top-diagnostic-steps-to-restore-your-mouse/"><u>Windows 11 Right-Click Not Working – Top Diagnostic Steps to Restore Your Mouse</u></a></li>
 </ul></div>
 

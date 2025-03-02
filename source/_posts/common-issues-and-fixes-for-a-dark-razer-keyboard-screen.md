@@ -1,7 +1,7 @@
 ---
 title: Common Issues and Fixes for a Dark Razer Keyboard Screen
-date: 2025-02-09T08:16:46.128Z
-updated: 2025-02-11T04:16:16.738Z
+date: 2025-03-01T06:03:37.551Z
+updated: 2025-03-02T08:21:36.417Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -46,10 +42,6 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -79,19 +71,11 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -116,10 +100,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -184,24 +164,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-leveraging-creator-funding-in-youtube-shorts/"><u>[Updated] Leveraging Creator Funding in YouTube Shorts</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-ways-to-turn-on-and-use-bluetooth-with-windows-11-and-10-a-complete-fix/"><u>Easy Ways to Turn On & Use Bluetooth with Windows 11 and 10 – A Complete Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-ways-to-troubleshoot-and-fix-werfaultexe-issues/"><u>Effortless Ways to Troubleshoot and Fix werFault.exe Issues</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/cing-video-soundtracks-on-digital-platforms-for-2024/"><u>Enhancing Video Soundtracks on Digital Platforms for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-and-save-screens-like-a-pro-with-your-dell/"><u>How to Record and Save Screens Like a Pro with Your Dell</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-motorola-edge-40-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Motorola Edge 40?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-valorants-perpetual-loading-problem-for-smooth-gameplay/"><u>How to Resolve Valorant's Perpetual Loading Problem for Smooth Gameplay</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 13 Pro Max</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leveraging-phone-capabilities-for-efficient-video-recording/"><u>In 2024, Leveraging Phone Capabilities for Efficient Video Recording</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-graphics-card-not-supported-hurdles-in-fortnite-for-windows-users/"><u>Overcoming 'Graphics Card Not Supported' Hurdles in Fortnite for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-driver-conflicts-in-ftdi-bus-for-restoring-memory-data-accuracy/"><u>Overcoming Driver Conflicts in FTDI Bus for Restoring Memory Data Accuracy</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-vcruntime140dll-missing-file-message/"><u>Resolved: Fixing the VCRUNTIME140.dll Missing File Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-installation-failure-fixing-error-code-80240020/"><u>Resolving Windows 11 Installation Failure: Fixing Error Code 80240020</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-rust-microphone-issue-a-comprehensive-2024-how-to/"><u>Solving Your Rust Microphone Issue: A Comprehensive 2024 How-To</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steer-clear-of-these-6-missteps-when-creating-chatgpt-requests/"><u>Steer Clear of These 6 Missteps When Creating ChatGPT Requests</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-recommended-netgear-router-models/"><u>Top Recommended Netgear Router Models</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-binkw32dll-not-found-issue-on-your-pc/"><u>Troubleshooting the binkw32.dll Not Found Issue on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-build-1607-installation-errors-and-how-to-fix-them/"><u>Windows 11 Build 1607 Installation Errors and How to Fix Them</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unified-iptv-streaming-framework/"><u>[New] 2024 Approved Unified IPTV Streaming Framework</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-facetune-guide-elevating-your-image-quality/"><u>[Updated] In 2024, Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-secure-and-stream-youtube-in-firefoxchrome/"><u>2024 Approved Secure & Stream YouTube in Firefox/Chrome</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertisseur-video-gratuit-avifichier-a-fma-sans-frais/"><u>Convertisseur Vidéo Gratuit: Avifichier À Fma Sans Frais</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-224003-solved-enjoy-uninterrupted-video-viewing/"><u>Error Code 224003 Solved: Enjoy Uninterrupted Video Viewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-microsoft-print-to-pdf-issue-on-windows-11-a-comprehensive-guide/"><u>Fixing the 'Microsoft Print to PDF' Issue on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/get-your-icloud-working-fixes-for-windows-users/"><u>Get Your iCloud Working: Fixes for Windows Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nubia-z50s-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nubia Z50S Pro FRP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resizing-and-moving-windows-beyond-the-display-edge-tips-and-tricks/"><u>Resizing and Moving Windows Beyond the Display Edge: Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-google-meet-audio-fixing-mic-issues-on-windows-1110-systems/"><u>Revive Your Google Meet Audio: Fixing Mic Issues on Windows 11/10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204983360-troubleshooting-video-files-resolve-playback-error-22403-now/"><u>Troubleshooting Video Files - Resolve Playback Error 22403 Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-sign-in-errors-with-user-profile-services/"><u>Troubleshooting Windows 11 Sign-In Errors with User Profile Services</u></a></li>
 </ul></div>
 

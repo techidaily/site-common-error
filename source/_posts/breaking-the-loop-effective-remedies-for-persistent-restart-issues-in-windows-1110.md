@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Loop: Effective Remedies for Persistent Restart Issues in Windows 11/10"
-date: 2025-02-09T18:01:21.659Z
-updated: 2025-02-10T21:28:58.573Z
+date: 2025-02-24T16:37:03.926Z
+updated: 2025-03-02T07:52:42.851Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -88,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 ` ``
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
 
@@ -123,19 +111,11 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -148,19 +128,11 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -225,16 +197,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-stop-the-sway-achieve-solidity-in-your-handhraned-gopro-video/"><u>[Updated] In 2024, Stop The Sway Achieve Solidity in Your Handhraned GoPro Video</u></a></li>
-<li><a href="https://common-error.techidaily.com/apex-legends-basic-anti-tamper-bug-effortless-solution-inside/"><u>Apex Legends Basic Anti-Tamper Bug - Effortless Solution Inside</u></a></li>
-<li><a href="https://discover-great.techidaily.com/enhance-your-livestreams-using-manycams-advanced-video-editing-and-virtual-cam-capabilities/"><u>Enhance Your Livestreams Using ManyCam's Advanced Video Editing and Virtual Cam Capabilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208186898-get-your-aoc-screen-up-and-running-again-on-windows-11-expert-fixes/"><u>Get Your AOC Screen Up and Running Again on Windows 11 - Expert Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigate-past-phantom-hazards-removing-false-positives-from-your-google-chrome-experience/"><u>Navigate Past Phantom Hazards: Removing False Positives From Your Google Chrome Experience</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208538500-swift-solutions-jumpstart-your-dead-laptop-battery-right-now/"><u>Swift Solutions: Jumpstart Your Dead Laptop Battery Right Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dynamics-of-colossal-machine-learning-constructs/"><u>The Dynamics of Colossal Machine Learning Constructs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-heart-of-adventure-polaroid-cubeplus-video-analysis/"><u>The Heart of Adventure Polaroid Cube+ Video Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-success-how-to-restore-steam-server-connections/"><u>Troubleshooting Success: How to Restore Steam Server Connections</u></a></li>
-<li><a href="https://fox-http.techidaily.com/which-streaming-application-leads-the-race-wirecast-or-obs-for-2024/"><u>Which Streaming Application Leads the Race, Wirecast or OBS for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-budget-friendly-cloud-storage-pricing-guide-2024-update/"><u>[New] Budget-Friendly Cloud Storage Pricing Guide - 2024 Update</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-decoding-ig-analytics-mastering-the-art-of-social-media-insights-for-2024/"><u>[New] Decoding IG Analytics Mastering the Art of Social Media Insights for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-earning-as-a-video-game-geek/"><u>[New] In 2024, Earning as a Video Game Geek</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streaming-quality-comparison-obs-against-shadowplay/"><u>[New] Streaming Quality Comparison OBS Against ShadowPlay</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/accessing-and-archiving-your-facebook-status-vids/"><u>Accessing and Archiving Your Facebook Status Vids</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-troublesome-loop-an-expert-guide-to-solving-the-windows-10-unplanned-reboot-issue-quickly-and-effectively/"><u>Beat the Troublesome Loop: An Expert Guide to Solving the Windows 10 Unplanned Reboot Issue Quickly and Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discovering-the-ultimate-sound-with-exceptional-speaker-systems/"><u>Beyond Bose & Sonos: Discovering The Ultimate Sound with Exceptional Speaker Systems.</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-troublesome-unregistered-class-warnings-in-your-new-windows-11-system/"><u>Bypassing Troublesome Unregistered Class Warnings in Your New Windows 11 System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-find-n3-flip-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo Find N3 Flip is off? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-resolving-touchscreen-problems-in-windows-10-discover-5-useful-techniques/"><u>Easy Solutions for Resolving Touchscreen Problems in Windows 10: Discover 5 Useful Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-enable-and-use-bluetooth-in-microsofts-latest-operating-systems/"><u>Easy Steps to Enable and Use Bluetooth in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-presentation-design-with-chatgpt-assistance/"><u>Master Presentation Design with ChatGPT Assistance</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-1110-endless-reboot-loop-effective-troubleshooting-steps/"><u>Overcome Windows 11/10 Endless Reboot Loop: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-geforce-setup-failing-to-load-preferences/"><u>Overcoming Obstacles: GeForce Setup Failing to Load Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-hamachi-connection-halt-error-with-these-simple-solutions/"><u>Resolve Your Hamachi Connection Halt Error with These Simple Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-missing-notifications-on-iphone-discover-7-effective-solutions/"><u>Solve 'Missing Notifications' On iPhone: Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-nonworking-laptop-mic-completed/"><u>Troubleshooting and Repairing a Nonworking Laptop Mic [COMPLETED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-load-within-windows-driver-framework/"><u>Troubleshooting Elevated CPU Load Within Windows Driver Framework</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-cutting-edge-ios-daw-apps-a-guide-to-the-8-best-choices-for-tablets-and-smartphones-for-2024/"><u>Updated Cutting-Edge iOS DAW Apps A Guide to the 8 Best Choices for Tablets and Smartphones for 2024</u></a></li>
 </ul></div>
 

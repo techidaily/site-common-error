@@ -1,7 +1,7 @@
 ---
 title: "Escape the Endless Loop of Boot Failures: A Step-by-Step Fixer"
-date: 2025-02-06T07:31:55.528Z
-updated: 2025-02-10T22:36:29.859Z
+date: 2025-02-27T17:38:52.071Z
+updated: 2025-03-02T08:26:43.983Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 ## **Method 1: Check the hardware**
 
  If others can’t hear you in the party chat, but you can hear them clearly, please check these possibilities below to troubleshoot your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Check your headset**
 
@@ -97,25 +93,13 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a84d947cce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Input Device** and select**Headset Connected to Controller.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Output Device** and select **Headset Connected to Controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ee7a8cb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click  **Volume Control (Headphones)** , and set the  level to**maximum** .
 
@@ -129,19 +113,11 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
 
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### in Windows 10
 
@@ -152,10 +128,6 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 2) On your desktop, right-click the   **Speaker Icon**  at the bottom right corner, then Click **Recording devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2de909d7185.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) On the**Sound** pane, click the **Recording**   tab, and check if your microphone is set as default (there will be a green check mark next to it and the Set Default button is grayed out).
 
@@ -179,10 +151,6 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
@@ -198,10 +166,6 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
  3) Scroll down and click**More sound settings** .
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
@@ -231,16 +195,19 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-stuck-on-welcome-screen-quickly-and-easily/"><u>[Solved] | Windows 11 Stuck on Welcome Screen | Quickly & Easily</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-recording-skills-for-every-lenovo-user/"><u>[Updated] In 2024, Essential Recording Skills for Every Lenovo User</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-playlist-rearrangement-made-simple-for-2024/"><u>[Updated] YouTube Playlist Rearrangement Made Simple for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-complete-walkthrough-to-resolve-the-cache-miss-error-errcachemiss-in-chrome/"><u>A Complete Walkthrough to Resolve the Cache Miss Error (ERR_CACHE_MISS) in Chrome</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-narzo-n53-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme Narzo N53 Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-v30-lite-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo V30 Lite 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-n3-flip-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo Find N3 Flip to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-mouses-right-click-functionality-in-windows-asterisk-10-a-step-by-step-tutorial/"><u>Restore Your Mouse's Right-Click Functionality in Windows Asterisk 10: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/teredos-challenge-why-the-team-struggles-to-meet-qualification-standards/"><u>Teredo's Challenge: Why the Team Struggles to Meet Qualification Standards</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-resolving-windows-error-code-31-a-comprehensive-guide/"><u>Troubleshooting and Resolving Windows Error Code 31: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-frame-rate-fluctuations-for-a-smoother-play-through-of-resident-evil-village-on-pc/"><u>Troubleshooting Frame Rate Fluctuations for a Smoother Play Through of Resident Evil Village on PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-the-art-of-motion-creating-engaging-profitable-fb-ads/"><u>[New] In 2024, Mastering the Art of Motion Creating Engaging, Profitable FB Ads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-6-mac-screen-capture-tools-expert-picks-for-2024/"><u>[Updated] Top 6 Mac Screen Capture Tools - Expert Picks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-memelife-top-meme-creator-tool-download/"><u>[Updated] Ultimate Memelife Top Meme Creator Tool Download</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/expand-your-singing-repertoire-the-freshest-tracks-added-to-karaoke-cloud-pro-as-of-march-28-201/"><u>Expand Your Singing Repertoire: The Freshest Tracks Added to Karaoke Cloud Pro as of March 28, 201#</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-what-to-expect-from-oneplus-10-speculated-release-timeline-features-and-more/"><u>In-Depth Analysis: What to Expect From OnePlus 10 - Speculated Release Timeline, Features & More</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/iphones-panoramic-videos-explained-for-fb-sharing-for-2024/"><u>IPhone's Panoramic Videos Explained for FB Sharing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-a-step-by-nstep-approach-to-eliminate-0xc000012f-bug-on-your-pc/"><u>Mastering the Fix: A Step-by-nStep Approach to Eliminate 0xC000012F Bug on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-problems-with-unresponsive-dell-laptop-keyboards/"><u>Overcoming Common Problems with Unresponsive Dell Laptop Keyboards</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/revolutionize-your-followers-list-with-top-twitter-cleanup-tools/"><u>Revolutionize Your Followers List with Top Twitter Cleanup Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-computer-restarted-unexpectedly-loop-windows-10/"><u>Solved: The Computer Restarted Unexpectedly Loop Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-photos-with-advanced-tools/"><u>Transforming Photos with Advanced Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/unplugging-the-mystery-why-your-surface-stays-chargeless-despite-connection/"><u>Unplugging the Mystery: Why Your Surface Stays Chargeless Despite Connection</u></a></li>
+<li><a href="https://win-data.techidaily.com/unveiling-top-reasons-behind-graphics-card-failures-insights-from-yl-computing-and-tech-experts/"><u>Unveiling Top Reasons Behind Graphics Card Failures: Insights From YL Computing and Tech Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/user-friendly-steps-to-overcome-windows-reboot-error-choose-proper-boot-device/"><u>User-Friendly Steps to Overcome Windows Reboot Error - Choose Proper Boot Device</u></a></li>
 </ul></div>
 

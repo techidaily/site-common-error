@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Unfreezing File Explorer in Windows 10"
-date: 2025-02-09T16:48:17.131Z
-updated: 2025-02-11T05:21:42.779Z
+date: 2025-02-24T17:20:10.036Z
+updated: 2025-03-02T08:46:11.227Z
 tags:
   - win11
   - win10
@@ -40,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -63,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
@@ -88,17 +76,9 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
@@ -107,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -144,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -175,15 +147,16 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-sunlit-scenes-android-brighten-tips/"><u>[Updated] In 2024, Sunlit Scenes Android Brighten Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-stop-frames-dropping-obs-troubleshooting-guide-for-2024/"><u>[Updated] Stop Frames Dropping OBS Troubleshooting Guide for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/aspiring-star-top-tiktok-techniques-to-amplify-your-reach/"><u>Aspiring Star Top TikTok Techniques to Amplify Your Reach</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/head-to-head-evaluating-google-cardboard-and-samsungs-vr-world/"><u>Head-to-Head Evaluating Google Cardboard and Samsung’s VR World</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-your-aoc-monitors-functionality-on-a-windows-11-system/"><u>How to Restore Your AOC Monitor's Functionality on a Windows 11 System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-illumination-incor-writings-on-visual-canvases-online/"><u>In 2024, Image Illumination Incor Writings on Visual Canvases Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/professioneel-tiff-naar-jpeg-konvertor-meest-gewone-convertisseur-voor-windows-and-mac/"><u>Professioneel TIFF Naar JPEG Konvertor: Meest Gewone Convertisseur Voor Windows & Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-resolve-windows-11-update-error-code-0x80e705b4/"><u>Step-by-Step Solutions to Resolve Windows 11 Update Error Code 0X80e705B4</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-disappeared-desktop-icon-issues-in-win10/"><u>Troubleshooting and Resolving Disappeared Desktop Icon Issues in Win10</u></a></li>
-<li><a href="https://common-error.techidaily.com/wd-my-passport-ultra-not-showing-up-in-device-manager-solutions-to-try/"><u>WD My Passport Ultra Not Showing Up in Device Manager – Solutions to Try</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-pro-tips-for-high-quality-ps3-game-screenshots/"><u>[New] 2024 Approved Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-guide-to-crafting-engaging-asmr-content/"><u>[New] 2024 Approved The Ultimate Guide to Crafting Engaging ASMR Content</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2-reconnected-solutions-to-the-common-connection-problems/"><u>Destiny 2 Reconnected: Solutions to the Common Connection Problems</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-a78-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo A78 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-netflix-connectivity-issues-expert-tips-and-tricks/"><u>How to Resolve Netflix Connectivity Issues - Expert Tips and Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-leading-virtual-reality-enhancements-for-gamers/"><u>In 2024, Leading Virtual Reality Enhancements for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-delays-fortnite-finally-starts/"><u>No More Delays: Fortnite Finally Starts</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-exe-program-crash-troubleshooting-and-fixes-successful/"><u>Overcome Your EXE Program Crash: Troubleshooting and Fixes Successful!</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-your-computers-binkw32dll-disappearance-problem/"><u>Ultimate Guide: Repairing Your Computer's binkw32.dll Disappearance Problem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-offer-get-my-recommended-best-magsafe-station-for-ipadiphone-at-a-stunning-discount-of-60-off/"><u>Unbeatable Offer! Get My Recommended Best MagSafe Station for iPad/iPhone at a Stunning Discount of 60% Off</u></a></li>
 </ul></div>
 

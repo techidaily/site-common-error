@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Rescuing Your Freezing Desktop"
-date: 2024-08-09T00:49:17.331Z
-updated: 2024-08-10T00:49:17.331Z
+date: 2025-02-27T07:29:42.307Z
+updated: 2025-03-02T06:16:53.736Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
  Is your **SteelSeries Arctis 5 Mic Not Working** ? You’re not alone – many users have reported similar issues. But don’t worry, it’s often quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the problem is resolved.
@@ -37,16 +34,10 @@ Here’s how to do it:
 
  1) On your keyboard, press **the Windows logo key** and type microphone, then click on Microphone privacy settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -67,9 +58,6 @@ Here’s how to do it:
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
@@ -78,9 +66,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -90,9 +75,6 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
@@ -104,9 +86,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -129,11 +108,33 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-ads-transformed-predicting-the-trends-for-next-year/"><u>[New] Facebook Ads Transformed Predicting the Trends for Next Year</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-achieving-professional-sound-without-a-mic/"><u>[New] The Ultimate Guide Achieving Professional Sound without a Mic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-20-mobiles-transforming-dji-aerial-video-art/"><u>[New] Top 20 Mobiles Transforming DJi Aerial Video Art</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-gadget-guidance-getting-into-googles-video-conference/"><u>[Updated] 2024 Approved Gadget Guidance Getting Into Google's Video Conference</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mystery-methods-for-innovative-illustration/"><u>[Updated] Mystery Methods for Innovative Illustration</u></a></li>
+<li><a href="https://common-error.techidaily.com/acquiring-trustedinstaller-consent-to-change-system-files/"><u>Acquiring TrustedInstaller Consent to Change System Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/bridging-platforms-posting-igtv-on-facebook-efficiently-for-2024/"><u>Bridging Platforms Posting IGTV on Facebook Efficiently for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-your-desktops-snooze-mode-troubleshoot-and-prevent-involuntary-shutdowns/"><u>Combat Your Desktop's Snooze Mode: Troubleshoot and Prevent Involuntary Shutdowns</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-windows-printer-driver-recognition-issues-successfully/"><u>Guide to Overcome Windows Printer Driver Recognition Issues Successfully</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/kunt-u-wav-voeding-verder-worden-in-webm-gratis-konverter-en-online-instellingen/"><u>Kunt U Wav-Voeding Verder Worden In Webm - Gratis Konverter En Online Instellingen</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/newbies-favorite-the-prime-tripod-choice/"><u>Newbies' Favorite: The Prime Tripod Choice</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-module-not-found-issues-in-development-projects/"><u>Overcoming 'Module Not Found' Issues in Development Projects</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-call-of-duty-wwii-error-4220-easy-solutions-and-troubleshooting-steps/"><u>Overcoming Call of Duty: WWII Error 4220 – Easy Solutions & Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/support-locked-blizzard-disconnected/"><u>Support Locked: Blizzard Disconnected</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-keys-on-windows-1011-a-step-by-step-guide/"><u>Troubleshooting Non-Responsive Keys on Windows 10/11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-non-functional-cameras-in-microsofts-latest-os/"><u>Troubleshooting Steps for Non-Functional Cameras in Microsoft's Latest OS</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-itel-s23-by-fonelab-android-recover-music/"><u>Undelete lost music from Itel S23</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-exceptional-4th-of-july-promotions-for-phones-and-plans-insights/"><u>Unveiling Exceptional 4Th of July Promotions for Phones and Plans Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/your-video-card-does-not-support-alpha-blending-fixed/"><u>Your Video Card Does Not Support Alpha Blending [FIXED]</u></a></li>
+</ul></div>
+

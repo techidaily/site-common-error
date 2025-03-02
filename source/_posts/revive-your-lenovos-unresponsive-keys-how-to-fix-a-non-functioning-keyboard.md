@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Lenovo's Unresponsive Keys: How to Fix a Non-Functioning Keyboard"
-date: 2025-02-03T22:41:09.139Z
-updated: 2025-02-11T08:32:31.980Z
+date: 2025-02-25T18:43:20.447Z
+updated: 2025-03-02T03:32:56.080Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
@@ -78,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -105,17 +97,9 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
@@ -124,10 +108,6 @@ If you have no idea how to do a system restore, refer steps below:
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Click**Yes** to confirm the restore.
 
@@ -155,17 +135,19 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-ready-set-resize-transformative-techniques-for-macs-instagram-content/"><u>2024 Approved Ready, Set, Resize Transformative Techniques for Mac's Instagram Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visual-voyages-free-thematic-tools-for-youtube/"><u>2024 Approved Visual Voyages Free Thematic Tools for YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-your-aoc-usb-display-not-recognizing-on-windows-11/"><u>How to Resolve Your AOC USB Display Not Recognizing on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208249116-how-to-troubleshoot-pc-game-crashes-in-nier-automata-solved/"><u>How to Troubleshoot PC Game Crashes in Nier: Automata - Solved</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-top-10-premium-luts-available-for-free/"><u>In 2024, Top 10 Premium LUTs, Available for FREE</u></a></li>
-<li><a href="https://extra-support.techidaily.com/learn-quick-image-text-alteration-online-resources-for-2024/"><u>Learn Quick Image Text Alteration Online Resources for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/msk-is-a-bandwidth-efficient-form-of-fm-used-in-digital-communications/"><u>MSK Is a Bandwidth-Efficient Form of FM Used in Digital Communications.</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-how-to-restore-missing-icons-on-your-desktop-in-windows-11/"><u>Solution Steps: How to Restore Missing Icons on Your Desktop in Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-and-fixing-broadcom-netlink-gigabit-ethernet-issues-in-windows-10/"><u>Troubleshooting & Fixing Broadcom NetLink Gigabit Ethernet Issues in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-windows-hello-for-windows-10-hardware-not-supported-by-default/"><u>Unlocking the Potential of Windows Hello for Windows 10 Hardware Not Supported by Default</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-the-power-of-vivacut-for-2024/"><u>Unveiling the Power of VivaCut for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-system-random-stops-w11-solution/"><u>[FIXED] System Random Stops: W11 Solution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-effective-ways-to-archive-and-record-youtube-events-for-2024/"><u>[Updated] Effective Ways to Archive and Record Youtube Events for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-easy-webcam-video-capture-using-vlc/"><u>[Updated] In 2024, Easy Webcam Video Capture Using VLC</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-mobile-games-with-optimal-inputs/"><u>Android Mobile Games with Optimal Inputs</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211737981-easy-fixes-for-windows-10-bluetooth-not-detected-problems-get-connected-now/"><u>Easy Fixes for Windows 10 Bluetooth Not Detected Problems – Get Connected Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/every-word-in-africa-the-language-mosaic/"><u>Every Word in Africa: The Language Mosaic</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-bedrock-solitude-to-java-camaraderie-via-cross-server-geysermc/"><u>From Bedrock Solitude to Java Camaraderie via Cross-Server GeyserMC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y36i-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y36i Phone Screen?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-pioneering-televised-facebook-interactions-via-live-streams/"><u>In 2024, Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-costless-conundrum-of-final-cut-pro-access/"><u>In 2024, The Costless Conundrum of Final Cut Pro Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-easy-anti-cheat-hurdle-unlocking-the-launch-of-the-new-world/"><u>Overcoming 'Easy Anti-Cheat' Hurdle: Unlocking the Launch of the New World</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-steams-unwritable-disc-mishaps-quickly/"><u>Step-by-Step Guide to Fixing Steam’s Unwritable Disc Mishaps Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-guide-eliminating-the-dxgkrnl-fatal-error-from-your-windows-videos/"><u>Step-by-Step Repair Guide: Eliminating the Dxgkrnl Fatal Error From Your Windows Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-wont-my-computer-turn-on-overcoming-boot-loading-hurdles-successfully/"><u>Why Won't My Computer Turn On? Overcoming Boot Loading Hurdles Successfully</u></a></li>
 </ul></div>
 

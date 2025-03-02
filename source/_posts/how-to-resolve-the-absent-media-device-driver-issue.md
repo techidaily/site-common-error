@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Absent Media Device Driver Issue
-date: 2025-02-06T00:36:13.125Z
-updated: 2025-02-10T22:49:55.801Z
+date: 2025-03-01T10:56:49.233Z
+updated: 2025-03-02T12:00:27.120Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ It’s possible that too many people connect to the Destiny servers during the t
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Disable DHCP for your connection
 
 If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
@@ -68,10 +64,6 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
 
@@ -86,26 +78,14 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -115,10 +95,6 @@ A missing or outdated network card driver will cause connection issues in your c
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
@@ -147,24 +123,22 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-frame-perfect-our-top-10-photo-lenses-list/"><u>2024 Approved Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-achieve-slick-sound-segmentation-in-premiere/"><u>2024 Approved How to Achieve Slick Sound Segmentation in Premiere</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-screen-tremors-and-glitches-in-surface-pro-models/"><u>Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s23-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy S23 has native MKV support?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-emotional-care-with-technology-explore-5-cutting-edge-chatgpt-therapists-and-applications/"><u>Enhancing Emotional Care with Technology: Explore 5 Cutting-Edge ChatGPT Therapists and Applications</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-intel-serial-io-driver-installation-error-for-non-supported-systems/"><u>How to Overcome the Intel Serial IO Driver Installation Error for Non-Supported Systems</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/instant-access-your-personal-selection-of-videos-awaits-at-no-charge/"><u>Instant Access - Your Personal Selection of Videos Awaits at No Charge!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/overcome-oversaturated-tiktok-drafters-through-savvy-edits/"><u>Overcome Oversaturated TikTok Drafters Through Savvy Edits</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-when-the-steam-shop-wont-load-a-comprehensive-guide/"><u>Resolving Issues When The Steam Shop Won't Load: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212019000-solution-to-pubg-structures-failure-now-fixed/"><u>Solution to PUBG Structures Failure - Now Fixed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-audio-on-your-mozilla-firefox-browser/"><u>Solved: How to Restore Audio on Your Mozilla Firefox Browser</u></a></li>
-<li><a href="https://common-error.techidaily.com/speed-up-your-pc-by-reviving-corrupted-hardware-drivers-easily/"><u>Speed Up Your PC by Reviving Corrupted Hardware Drivers Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-minecraft-loading-on-your-windows-machine-heres-the-solution-fixed/"><u>Trouble with Minecraft Loading on Your Windows Machine? Here's the Solution! [FIXED]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-reactivating-your-roku-closed-captioning/"><u>Troubleshooting Steps: Reactivating Your Roku Closed Captioning</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-laptops-touchpad-not-responding-in-windows-systems-solutions-inside/"><u>Troubleshooting Your Laptop's Touchpad Not Responding in Windows Systems – Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/unblock-your-gaming-resolving-error-loading-player-on-pc/"><u>Unblock Your Gaming: Resolving Error Loading Player on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-resolving-error-0x80004005-unspecified-issue-explained/"><u>Understanding and Resolving Error 0X80004005: Unspecified Issue Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/your-network-settings-are-blocking-party-chat-solved/"><u>Your Network Settings Are Blocking Party Chat [SOLVED]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-childhood-chariot-jamboree-fun/"><u>[New] In 2024, Childhood Chariot Jamboree Fun</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-apple-music-for-dynamic-video-enhancement/"><u>[Updated] Apple Music for Dynamic Video Enhancement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-discover-7-essential-free-audio-tracks-for-youtubers-for-2024/"><u>[Updated] Discover 7 Essential Free Audio Tracks for YouTubers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-through-vrs-bright-side-and-dark-hole/"><u>[Updated] Navigating Through VR's Bright Side & Dark Hole</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-the-world-of-laughter-how-to-create-memes-on-9gag/"><u>2024 Approved Navigating the World of Laughter How to Create Memes on 9GAG</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-walkthrough-repairing-the-service-stopped-sign-in-trouble-on-windows-11-systems/"><u>Comprehensive Walkthrough: Repairing the 'Service Stopped' Sign-In Trouble on Windows 11 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-activate-windows-hello-security-on-non-compatible-devices-running-windows-10/"><u>Guide to Activate Windows Hello Security on Non-Compatible Devices Running Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-iseebell-stands-out-among-sub-50-video-doorbells-a-comprehensive-review/"><u>How iSeeBell Stands Out Among Sub-$50 Video Doorbells – A Comprehensive Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unsupported-graphics-card-error-in-fortnite-on-windows/"><u>How to Fix 'Unsupported Graphics Card' Error in Fortnite on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-source-not-supported-errors-in-microsofts-media-player/"><u>Overcoming Source Not Supported Errors in Microsoft's Media Player</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-usb-connection-issues-expert-tips-for-keeping-devices-securely-attached/"><u>Resolve Your USB Connection Issues: Expert Tips for Keeping Devices Securely Attached</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-10-update-issue-key-strategies-for-overcoming-error-0x800f0922/"><u>Solving Windows 10 Update Issue: Key Strategies for Overcoming Error 0X800F0922</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-friend-code-to-fun-on-ps5-easy-sharing-tips-for-gamers-of-all-levels/"><u>The Friend Code to Fun on PS5: Easy Sharing Tips for Gamers of All Levels</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-smart-security-a-thorough-analysis-of-the-ring-video-doorbell-plus/"><u>Top Rated Smart Security: A Thorough Analysis of the Ring Video Doorbell Plus</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-the-windows-10-update-mess-error-0xc1900208-fixed-here/"><u>Untangling the Windows 10 Update Mess - Error 0Xc1900208 Fixed Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-does-my-pc-auto-start-a-comprehensive-solution-for-windows-10-users/"><u>Why Does My PC Auto-Start? A Comprehensive Solution for Windows 10 Users</u></a></li>
 </ul></div>
 

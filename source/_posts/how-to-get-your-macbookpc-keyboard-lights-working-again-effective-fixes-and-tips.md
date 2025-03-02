@@ -1,7 +1,7 @@
 ---
 title: "How to Get Your Macbook/PC Keyboard Lights Working Again: Effective Fixes & Tips"
-date: 2024-08-09T00:49:17.265Z
-updated: 2024-08-10T00:49:17.265Z
+date: 2025-02-23T18:11:31.625Z
+updated: 2025-03-02T03:36:24.029Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 Are you having a problem with your Corsair keyboard’s backlight suddenly going off when you’re about to play a game? Don’t worry; this is a common problem that many people have solved effortlessly. Continue reading to see how you, too, can solve it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; just walk your way down until you find the one that works.
@@ -43,9 +40,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 #### Wireless keyboard  
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
 1. Turn off your keyboard.
@@ -54,9 +48,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Fix 2: Update the Corsair keyboard driver
 
  This lighting problem may occur if you are using**the wrong keyboard driver or it’s out of date** . So you should check if there’s any updated version of your Corsair keyboard driver and upgrade to it to see if the backlight problem can be fixed.
@@ -65,9 +56,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  If you’re not comfortable playing with device drivers, we recommend using[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , a tool that detects, downloads and installs any driver updates your computer needs.
 
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,17 +67,11 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  If you haven’t installed it before, just go to the[**iCUE download page**](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F167630) and follow the setup wizard to install the latest version of iCUE first.
 
 1. Open iCUE and click the**Settings** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
 
@@ -106,11 +88,30 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-of-digital-image-preservation/"><u>[New] 2024 Approved Mastering the Art of Digital Image Preservation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aking-your-videos-farewell-count-outro-essentials-for-2024/"><u>[New] Making Your Video's Farewell Count Outro Essentials for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-the-art-of-video-crafting-on-pc-for-youtube-audiences-for-2024/"><u>[New] Unveiling the Art of Video Crafting on PC for YouTube Audiences for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-360-video-making-with-ios-devices/"><u>[Updated] 2024 Approved Mastering 360 Video Making with iOS Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-live-photos-to-videos-a-cinematic-experience/"><u>[Updated] In 2024, Live Photos to Videos A Cinematic Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-youtube-presence-using-premiere-pro/"><u>[Updated] Streamline Your YouTube Presence Using Premiere Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-beam-it-up-15-must-haves-for-your-youtube-live-stream/"><u>2024 Approved Beam It Up! 15 Must-Haves for Your YouTube Live Stream</u></a></li>
+<li><a href="https://win-bits.techidaily.com/chkdsk-error-volume-not-accessible-for-direct-reading-and-writing-top-11-methods-to-resolve-it/"><u>CHKDSK Error: Volume Not Accessible for Direct Reading & Writing – Top 11 Methods to Resolve It</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-why-is-my-corsair-backlit-keyboard-not-working/"><u>Diagnosing & Repairing: Why Is My Corsair Backlit Keyboard Not Working?</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-compatibility-issues-between-microsoft-wireless-display-adapter-and-windows-11/"><u>Expert Tips: Overcoming Compatibility Issues Between Microsoft Wireless Display Adapter and Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-system-performance-solving-audio-device-memory-leak-on-windows/"><u>Optimize System Performance: Solving Audio Device Memory Leak on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-game-crashes-in-wolfenstein-ii-resolving-write-error-for-crash-files/"><u>Overcoming Game Crashes in Wolfenstein II - Resolving Write Error for Crash Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-methods-to-thaw-out-an-unresponsive-laptop-or-desktop/"><u>Solved! Methods to Thaw Out an Unresponsive Laptop or Desktop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-unresponsive-usb-input-devices-in-windows-7/"><u>Troubleshoot and Fix Unresponsive USB Input Devices in Windows 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-dark-screen-issue-on-your-android-device/"><u>Ultimate Guide: Resolving the Dark Screen Issue on Your Android Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-svchostexes-role-in-network-usage-solutions-to-optimize-your-pc/"><u>Understanding Svchost.exe's Role in Network Usage: Solutions to Optimize Your PC</u></a></li>
+</ul></div>
+

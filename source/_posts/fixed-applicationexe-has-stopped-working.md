@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Application.exe Has Stopped Working"
-date: 2025-02-06T03:39:27.003Z
-updated: 2025-02-10T23:46:45.404Z
+date: 2025-02-27T00:18:22.229Z
+updated: 2025-03-02T05:34:39.602Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -66,10 +62,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -80,16 +72,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
@@ -115,10 +99,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -156,22 +136,21 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-stabilizing-your-gopro-footage-a-step-by-step-guide/"><u>[New] 2024 Approved Stabilizing Your GoPro Footage A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/levate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>[New] Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-pros-of-posting-to-tiktok-from-your-personal-computer-or-mac/"><u>[New] In 2024, Pros of Posting to TikTok From Your Personal Computer or MAC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-upload-gif-to-instagram-in-4-steps/"><u>2024 Approved How To Upload GIF to Instagram in 4 Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-error-resolved-a-comprehensive-guide-to-fixing-hardware-compatibility-issues/"><u>DirectX Error Resolved? A Comprehensive Guide to Fixing Hardware Compatibility Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-when-your-hp-laptops-usb-port-stops-working/"><u>DIY Fixes for When Your HP Laptop's USB Port Stops Working</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-pc-experience-through-win-pct-techniques/"><u>Enhance Your PC Experience Through Win PCT Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-non-responsive-custom-profile-adjustments/"><u>How to Resolve Non-Responsive Custom Profile Adjustments</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-a23-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy A23 5G without App | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-expert-picks-top-9-video-chat-and-conference-apps-iosandroid/"><u>In 2024, Expert Picks Top 9 Video Chat & Conference Apps iOS/Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-and-fixing-the-code-28-device-issues-on-windows/"><u>Resolved: Troubleshooting and Fixing the 'Code 28' Device Issues on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-resource-protection-error-troubleshooting-steps/"><u>Resolving 'Windows Resource Protection' Error: Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-airpods-connection-issues-on-pc-a-2024-guide/"><u>Solving Your AirPods Connection Issues on PC: A 2024 Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/success-story-fixing-and-launching-evil-genius-2-after-persistent-issues/"><u>Success Story: Fixing and Launching Evil Genius 2 After Persistent Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-windows-10s-troublesome-error-code-0x80072fed-proven-fixes-inside/"><u>Tackling Windows 10'S Troublesome Error Code 0X80072FED - Proven Fixes Inside!</u></a></li>
-<li><a href="https://win11.techidaily.com/the-power-of-pushbuttons-managing-apps-on-taskbar-and-tray/"><u>The Power of Pushbuttons: Managing Apps on Taskbar & Tray</u></a></li>
-<li><a href="https://common-error.techidaily.com/unable-to-start-the-bluetooth-stack-service-solved/"><u>Unable to Start the Bluetooth Stack Service [Solved]</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-advanced-playback-techniques-to-streamline-media-workflows/"><u>[Updated] 2024 Approved Advanced Playback Techniques to Streamline Media Workflows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adjustment-tips-for-subtle-audio-reduction-in-logic-pro-for-2024/"><u>Adjustment Tips for Subtle Audio Reduction in Logic Pro for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-rendering-api-update-for-dota-2-error-202/"><u>Fix the 'Rendering API Update' For Dota 2 Error 202</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/how-can-updating-your-software-and-drivers-boost-your-pcs-performance-insights-from-yl-computing/"><u>How Can Updating Your Software & Drivers Boost Your PC's Performance: Insights From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-game-install-and-update-failures-on-steam-platform/"><u>How to Fix Game Install and Update Failures on Steam Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-install-audio-devices-when-none-are-recognized-on-windows-11/"><u>How to Install Audio Devices When None Are Recognized on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-70-lite-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 70 Lite 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-edit-like-a-pro-title-and-description-tips-for-igtv-success/"><u>In 2024, Edit Like a Pro Title & Description Tips for IGTV Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-us-policies-promote-rapid-electrification-of-cars-with-revised-emissions-standards/"><u>New U.S. Policies Promote Rapid Electrification of Cars with Revised Emissions Standards</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-14-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 14 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ranking-the-leading-10-pixels-for-free-access-for-2024/"><u>Ranking the Leading 10 Pixels for Free Access for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-typing-woes-fix-unresponsive-letter-keys-in-windows-10-and-11/"><u>Solve Your Typing Woes: Fix Unresponsive Letter Keys in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205191382-svchostexe-cpu-hogs-in-windows-10-discover-efficient-solutions-for-immediate-relief/"><u>Svchost.exe CPU Hogs in Windows 10? Discover Efficient Solutions for Immediate Relief</u></a></li>
+<li><a href="https://common-error.techidaily.com/uninstall-and-reinstall-audio-drivers-a-remedy-for-windows-11-sound-failures/"><u>Uninstall and Reinstall Audio Drivers - A Remedy for Windows 11 Sound Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-devices-drivers-a-simple-solution-for-wow-incompatibility-issues/"><u>Update Your Device's Drivers: A Simple Solution for WoW Incompatibility Issues</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>Updated In 2024, Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
 </ul></div>
 

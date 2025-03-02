@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unknown USB Device Errors with Ease - Detailed Solutions
-date: 2024-08-09T00:49:17.802Z
-updated: 2024-08-10T00:49:17.802Z
+date: 2025-02-27T16:53:39.906Z
+updated: 2025-03-02T11:10:26.058Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 [**Method 4: Disable Fast Startup**](#method4)
 [**Method 5: Change the USB Selective Suspend Settings**](#method5)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 1: Remove the Power Supply**
 
  This method will fix the problem magically if the problem is caused by Power Supply.
@@ -56,9 +53,6 @@ Follow these steps:
 
  2\. Right-click on the device and select**Uninstall** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdbac0739e5.jpg)
 
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
@@ -91,23 +85,14 @@ Follow these steps:
 
  2\. Type**control** in the run box and click the OK button. This is to open the**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde28fa83dc.png)
 
  3\. View by Large Icons and click on**Power Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
 
  4\. Select**Choose what the power buttons do** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
 
  5\. Click on**Change settings that are corrently unavailable** .
@@ -116,25 +101,16 @@ Follow these steps:
 
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde41b1e60a.png)
 
  7\. Restart your PC and see if the problem resolves. Note your PC will boot a little slower.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## **Method 5: Change the USB Selective Suspend Settings**
 
 Follow these steps:
 
  1\. In **Power Options** , click on**Show additional plans** . (If you tried Method 2, you must know how to go to Power Options. If not, go back to Method 2 and refer to the steps to open Power Options.)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
  2\. Click**Change settings that are currently unavailable** .
@@ -143,9 +119,6 @@ Follow these steps:
 
  3\. Select **High performance** and click on**Change plan settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
  4\. Click on**Change advanced power settings** .
@@ -160,9 +133,6 @@ Follow these steps:
 
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
 
  8\. Click the**Apply** button and restart your computer.
@@ -175,11 +145,31 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-from-video-to-verse-ranking-the-best-16-platforms-for-flawless-translation-for-2024/"><u>[New] From Video to Verse Ranking the Best 16 Platforms for Flawless Translation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dish-on-titles-crafting-captivating-cookery-channel-names/"><u>[New] In 2024, Dish on Titles Crafting Captivating Cookery Channel Names</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevate-your-visuals-comprehensive-guide-to-video-enhancer-22-for-2024/"><u>[Updated] Elevate Your Visuals Comprehensive Guide to Video Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-sites-like-famebit-where-you-can-find-youtube-sponsorships/"><u>2024 Approved Sites Like FameBit Where You Can Find YouTube Sponsorships</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-image-detail-enhancement-with-top-frameer-tools/"><u>Digital Image Detail Enhancement with Top Frameer Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ensure-video-perfection-before-sharing-on-instagram-for-2024/"><u>Ensure Video Perfection Before Sharing on Instagram for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-your-pc-going-blackout-unexpectedly-a-success-story/"><u>Fixing the Issue of Your PC Going Blackout Unexpectedly - A Success Story</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-get-windows-update-back-on-track/"><u>Fixing the Issue: How to Get Windows Update Back on Track</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y100i-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y100i to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x8024200d-during-windows-updates-a-comprehensive-guide/"><u>How to Fix Error Code 0X8024200D During Windows Updates – A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-unstick-your-windows-keyboard-buttons-a-complete-guide/"><u>How to Unstick Your Windows Keyboard Buttons – A Complete Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/letztes-wort-bei-der-datenrettung-schritte-zur-wiederherstellung-von-zuvor-geloschten-ordnern/"><u>Letztes Wort Bei Der Datenrettung: Schritte Zur Wiederherstellung Von Zuvor Gelöschten Ordnern</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-g24-power-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola G24 Power – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-to-make-your-unrecognizable-usb-drive-work-again/"><u>Quick Solutions to Make Your Unrecognizable USB Drive Work Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-issues-fixing-set-up-glitches-in-your-game-developed-by-origin/"><u>Resolve Issues: Fixing Set-Up Glitches in Your Game - Developed by Origin</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-reactivating-your-devices-disabled-wi-fi-feature/"><u>Resolving the Issue: Reactivating Your Device's Disabled Wi-Fi Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-improper-image-error-on-your-pc-running-windows-11-or-10/"><u>Troubleshooting Improper Image Error on Your PC Running Windows 11 or 10</u></a></li>
+</ul></div>
+

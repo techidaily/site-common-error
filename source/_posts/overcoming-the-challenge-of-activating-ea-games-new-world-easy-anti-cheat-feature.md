@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Activating EA Games' New World Easy Anti-Cheat Feature
-date: 2025-02-04T22:06:26.092Z
-updated: 2025-02-10T21:14:09.084Z
+date: 2025-02-28T21:18:28.436Z
+updated: 2025-03-02T08:59:02.334Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ Here are some solutions that have helped people resolve the same error. You don�
 
 As many people have resolved the “**No Pen or Touch Input is available for this Display**” error on their computer by forcing a shutdown, it never hurts to perform a force shutdown and restart your computer to fix it. As the steps to force a shutdown vary from brand to brand, you can consult your computer manufacturer to do that. For example, if you’re using a Surface Pro 4, you can press and hold the**power button**for**10 seconds**, then your screen turns off and shuts down. Then press and release the power button to turn on your Surface Pro 4\. After restart, try again and see if touch screen works now. If this method doesn’t work for you, don’t worry. There are something else to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run troubleshooter in your computer
 
 The troubleshooter in your computer helps troubleshoot the hardware problems and repair it. So here’s what you need to do:
@@ -50,10 +46,6 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb109d3bc02.jpg)
 3. Click**Hardware** **and** **Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10c799b9d.jpg)
 4. Click**Hardware and Devices** . This will find and fix problems with devices and hardware.  
 
@@ -62,10 +54,6 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
 6. Restart your computer and see if it fixes the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Re-enable touch screen
 
@@ -78,10 +66,6 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11575bbfb.png)
 3. Double click**Human Interface Devices** to expand the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
 
@@ -90,10 +74,6 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
@@ -111,10 +91,6 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1405c2875.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now check and see if the “**No Pen or Touch Input is available for this Display**” error disappears. That’s it. Hope this post comes in handy and fixes your “**No Pen or Touch Input is available for this Display**” error. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
 
@@ -136,24 +112,20 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/net-framework-35-setup-error-code-0x800f081f-a-step-by-step-correction-guide/"><u>.NET Framework 3.5 Setup Error Code 0X800F081F - A Step-by-Step Correction Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-fb-videos-unleashed-with-new-mobile-app-for-2024/"><u>[New] FB Videos Unleashed with New Mobile App for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-maximize-your-digital-life-30-budget-friendly-cloud-solutions-1tbplus/"><u>[New] In 2024, Maximize Your Digital Life 30 Budget-Friendly Cloud Solutions (1TB+)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-is-there-a-cash-incentive-in-critique-videos/"><u>[Updated] In 2024, Is There a Cash Incentive in Critique Videos?</u></a></li>
-<li><a href="https://common-error.techidaily.com/audio-woes-in-win-11-ends-steps-taken/"><u>Audio Woes in Win 11 Ends: Steps Taken</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-windows-sound-driver-high-resource-utilization-problem/"><u>Diagnosing and Fixing the Window's Sound Driver High Resource Utilization Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-11-sound-settings-issue-how-to-restore-volume-functionality/"><u>Fix Windows 11 Sound Settings Issue: How to Restore Volume Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-windows-camera-error-code-0xa00f4292/"><u>How to Resolve the Windows Camera Error (Code 0Xa00f4292)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-the-critical-fatal-error-code-1603-in-software-setup/"><u>How to Successfully Resolve the Critical Fatal Error (Code 1603) in Software Setup</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-deciphering-past-visual-content-inverse-queries-and-fb-techniques/"><u>In 2024, Deciphering Past Visual Content Inverse Queries and FB Techniques</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-innovative-approaches-to-amplify-online-films-with-free-audio-sources/"><u>In 2024, Innovative Approaches to Amplify Online Films with Free Audio Sources</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-video-production-evolution-prime-lenses-for-youtube-enthusiasts/"><u>In 2024, Video Production Evolution Prime Lenses for YouTube Enthusiasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/perfect-your-photos-with-text-tips-for-adding-titles-in-microsoft-photos-for-2024/"><u>Perfect Your Photos with Text Tips for Adding Titles in Microsoft Photos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-lengthy-shutdown-delays-in-windows-10-systems/"><u>Resolving the Lengthy Shutdown Delays in Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/shift-key-malfunction-heres-how-you-can-resolve-it/"><u>Shift Key Malfunction? Here’s How You Can Resolve It</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/social-stardom-awaits-add-1k-to-your-insta-profile-each-month/"><u>Social Stardom Awaits Add 1K to Your Insta Profile Each Month</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/superior-picks-top-rated-webcam-grips/"><u>Superior Picks Top-Rated Webcam Grips</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-gameplay-upgrades-a-guide-to-achieving-smoother-faster-games/"><u>Windows 11 Gameplay Upgrades: A Guide to Achieving Smoother, Faster Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-strategy-instructing-windows-to-recognize-suitable-printer-drivers/"><u>Winning Strategy: Instructing Windows to Recognize Suitable Printer Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-insights-into-valheim-planting-methods/"><u>[Updated] Essential Insights Into Valheim Planting Methods</u></a></li>
+<li><a href="https://win-net.techidaily.com/aktivierung-des-energiezustands-in-windows-11-entdecken-sie-die-vier-effektivsten-ansatze/"><u>Aktivierung Des Energiezustands in Windows 11 - Entdecken Sie Die Vier Effektivsten Ansätze</u></a></li>
+<li><a href="https://common-error.techidaily.com/breeze-through-fixing-windows-update-error-code-0x80070002-simple-solutions-for-smooth-operations/"><u>Breeze Through Fixing Windows Update Error Code 0X80070002: Simple Solutions for Smooth Operations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-the-new-mozilla-thunderbird-52-email-client-with-enhanced-security-updates/"><u>Download the New Mozilla Thunderbird 52: Email Client with Enhanced Security Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/establishing-various-local-area-networks-lan-in-macos-enhancing-connectivity-flexibility-insights-from-zdnet/"><u>Establishing Various Local Area Networks (LAN) in macOS: Enhancing Connectivity Flexibility - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-estimate-income-from-youtube-video-snippets-for-2024/"><u>How to Estimate Income From YouTube Video Snippets for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oneplus-ace-2-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your OnePlus Ace 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-execution-errors-on-your-windows-media-player-server/"><u>How to Successfully Overcome Execution Errors on Your Windows Media Player Server</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-immersive-evolution-vrs-present-state-and-foreseen-obstacles-for-2024/"><u>Inside the Immersive Evolution VR's Present State and Foreseen Obstacles for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-repairing-steam-disk-write-failures-a-comprehensive-guide-for-smooth-installations/"><u>Master the Art of Repairing Steam Disk Write Failures - A Comprehensive Guide for Smooth Installations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/pixelated-panorama-vr-cinematic-odyssey/"><u>Pixelated Panorama VR Cinematic Odyssey</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-party-chat-features-may-be-blocked-by-your-home-wifi-setup/"><u>Solved: Why Party Chat Features May Be Blocked by Your Home WiFi Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-inert-tailored-settings-on-your-device/"><u>Solving the Problem of Inert Tailored Settings on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-microsoft-surface-pro-4-touch-screen-responding-solve-the-problem-here/"><u>Why Isn’t My Microsoft Surface Pro 4 Touch Screen Responding? Solve the Problem Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-optimization-strategies-for-enhanced-win11-speed/"><u>WMI Optimization Strategies for Enhanced Win11 Speed</u></a></li>
 </ul></div>
 

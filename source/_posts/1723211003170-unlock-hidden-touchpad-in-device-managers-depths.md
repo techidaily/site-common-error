@@ -1,7 +1,7 @@
 ---
 title: Unlock Hidden Touchpad in Device Manager's Depths
-date: 2025-02-05T04:02:42.295Z
-updated: 2025-02-11T07:11:13.854Z
+date: 2025-02-26T21:28:14.474Z
+updated: 2025-03-01T22:20:23.577Z
 tags:
   - win11
   - win10
@@ -40,23 +40,11 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. After rebooting your computer, press**Windows + I** keys to open Windows Settings and select**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-devices.jpg)
@@ -66,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
  If it doesn’t, sorry that this fix doesn’t work for you, move on to try the next below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Add the touchpad driver back manually
 
@@ -128,17 +112,9 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/03/synpatics-hid-touchpad.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** <atsupport@drivereasy.com>
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Configure the BIOS settings
 
@@ -171,10 +147,6 @@ Assigned BIOS hotkey
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Repair corrupt files
 
  If none of the above fixes work for you, you might want to consider**a holistic scan for a file check** on your PC. Because if your computer has corrupted system files or critical system files missing, your touchpad also won’t function properly.
@@ -184,10 +156,6 @@ Assigned BIOS hotkey
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
@@ -230,18 +198,14 @@ Hot Accessories
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-breakdown-free2x-webcam-tools-insight/"><u>[New] In 2024, Expert Breakdown Free2X WebCam Tools Insight</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-pc-gaming-meet-eizos-cg318-4k/"><u>2024 Approved The Future of PC Gaming Meet EIZO's CG318-4K</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-differences-between-samsungs-s10plus-and-s20-models-a-comprehensive-guide/"><u>Analyzing the Differences Between Samsung's S10+ and S20 Models: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-visual-transcript-maker/"><u>Audio Visual Transcript Maker</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-welcome-screen-glitch-in-windows-11-quick-fixes/"><u>Bypassing the Welcome Screen Glitch in Windows 11, Quick Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-non-functioning-night-light-feature-in-windows-11/"><u>Fixes for Non-Functioning Night Light Feature in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-keyboards-locked-function-buttons/"><u>How To Repair Keyboard's Locked Function Buttons</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-transcode-free-h265-files-into-h264-format-for-pc-and-mac-users/"><u>How to Transcode Free H.265 Files Into H.264 Format for PC & Mac Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-craft-effective-techniques-to-overcome-black-ops-amoortomies/"><u>Mastering the Craft: Effective Techniques to Overcome Black Ops Amoortomies</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/online-mov-to-mp4-converter-no-charge-works-on-mac-windows-and-win-11-systems/"><u>Online MOV to MP4 Converter - No Charge! Works on Mac, Windows and Win 11 Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/realtek-card-readers-secure-your-download-of-tailored-windows-10-drivers-today/"><u>Realtek Card Readers: Secure Your Download of Tailored Windows 10 Drivers Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-bargain-meta-unveils-mega-savings-on-512gb-quest-3-top-pick-for-virtual-reality-enthusiasts-zdnet/"><u>Unbeatable Bargain: Meta Unveils Mega-Savings on 512GB Quest 3, Top Pick for Virtual Reality Enthusiasts - ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-svchostexe-netsvcs-its-functions-and-solutions-for-excessive-bandwidth-use/"><u>Understanding svchost.exe: NETSVCS, Its Functions & Solutions for Excessive Bandwidth Use</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/voiding-common-errors-perfect-tripod-usage-in-video-production-for-2024/"><u>[New] Avoiding Common Errors Perfect Tripod Usage in Video Production for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-navigating-the-free-path-of-fcp/"><u>[Updated] 2024 Approved Navigating the Free Path of FCP</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-affordable-cameras-for-effective-vloggers-for-2024/"><u>[Updated] Affordable Cameras for Effective Vloggers for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-defy-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Defy 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quiet-down-a-noisy-playstation-4-diagnosis-and-repair-guide/"><u>How To Quiet Down A Noisy PlayStation 4 - Diagnosis And Repair Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-game-immersion-resolve-your-forza-horizon-4-sound-malfunction-with-these-steps/"><u>Restore Game Immersion: Resolve Your 'Forza Horizon 4' Sound Malfunction with These Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-remedies-overcoming-issues-with-inoperative-function-keys/"><u>Step-by-Step Remedies: Overcoming Issues with Inoperative Function Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-fixing-the-persistent-audio-renderer-failure-in-youtubes-windows-10-app/"><u>Step-by-Step Solutions: Fixing the Persistent Audio Renderer Failure in YouTube's Windows 10 App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-capture-cards-are-they-essential-for-your-video-needs/"><u>Understanding Capture Cards: Are They Essential for Your Video Needs?</u></a></li>
 </ul></div>
 

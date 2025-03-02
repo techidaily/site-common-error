@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Running Fortnite with Non-Compatible Graphics Hardware in Windows"
-date: 2025-02-05T04:09:11.565Z
-updated: 2025-02-10T16:13:34.870Z
+date: 2025-02-23T21:46:32.651Z
+updated: 2025-03-02T06:18:41.163Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 4. **[Reset the camera app](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the System File Checker](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the Hardware and Devices Troubleshooter
 
  It’s always a wise choice to let Windows solve the problem automatically for you first. So be sure to run this in-built troubleshooter, and apply the fix if there are any. Here’s how:
@@ -54,17 +50,9 @@ msdt.exe -id DeviceDiagnostic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click**Apply this fix** when the troubleshooter finds a fix for you.
 
 ![apply a windows suggested fix](https://images.drivereasy.com/wp-content/uploads/2021/03/image-13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5\. You may need to restart your PC for the changes to take full effect.
 
@@ -81,10 +69,6 @@ msdt.exe -id DeviceDiagnostic
  2\. Scroll down the settings page and make sure the toggle is set to**On** for Camera Access for this device and**Allow apps to access your camera** .
 
 ![allow camera access](https://images.drivereasy.com/wp-content/uploads/2021/03/image-15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there’s nothing wrong with the privacy settings, but your camera error 0xa00f4292 still persists, you can try the next fix below.
 
@@ -121,10 +105,6 @@ msdt.exe -id DeviceDiagnostic
 
 ![settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Select**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-18.png)
@@ -136,10 +116,6 @@ msdt.exe -id DeviceDiagnostic
  4\. Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-20.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It may take about a few seconds to complete. Once the reset is done, check if the camera error 0xa00f4292 has been resolved by now.
 
@@ -184,17 +160,20 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fb-forum-film-replayer-for-2024/"><u>[New] Fb Forum Film Replayer for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-blocked-operation-on-hold/"><u>Code Blocked: Operation on Hold</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/come-trovare-e-ripristinare-la-partizione-nascosta-di-backup-su-windows-10-8-o-7/"><u>Come Trovare E Ripristinare La Partizione Nascosta Di Backup Su Windows 10, 8 O 7</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-downloader-essentials-the-best-tools-for-offline-viewing/"><u>In 2024, Downloader Essentials The Best Tools For Offline Viewing</u></a></li>
-<li><a href="https://common-error.techidaily.com/nvidia-web-helper-no-disk-issue-comprehensive-solutions-and-fixes/"><u>Nvidia Web Helper 'No Disk' Issue: Comprehensive Solutions and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-graphic-glitches-in-valorant-a-step-by-step-fix-for-screen-anomalies/"><u>Overcome Graphic Glitches in VALORANT - A Step-by-Step Fix for Screen Anomalies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fix-for-mac-programs-that-refuse-to-launch-expert-tips-and-advice/"><u>Quick Fix for Mac Programs that Refuse to Launch: Expert Tips & Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-failed-creation-of-a-d3d-vertex-shader-context/"><u>Resolving Failed Creation of a D3D Vertex Shader Context</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10s-persistent-problem-unsuccessful-shutdown-followed-by-unexpected-reboot/"><u>Resolving Windows 10'S Persistent Problem: Unsuccessful Shutdown, Followed by Unexpected Reboot</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-sounds-in-battlefield-4-expert-tips-and-quick-fixes/"><u>Restore Sounds in Battlefield 4: Expert Tips & Quick Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/to-level-up-or-not-a-personal-dilemma-on-steam/"><u>To Level Up or Not: A Personal Dilemma on Steam</u></a></li>
-<li><a href="https://driver-download.techidaily.com/win-7-network-adapter-challenges-heres-how-you-can-resolve-them-easily/"><u>Win 7 Network Adapter Challenges? Here's How You Can Resolve Them Easily!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-action-camera-showdown-hero-4s-features-versus-x1000vs-capabilities/"><u>[New] 2024 Approved Action Camera Showdown Hero 4'S Features Versus X1000V's Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-10plus-best-free-online-screen-recorders/"><u>[Updated] 2024 Approved Top 10+ Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships/"><u>[Updated] In 2024, The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/easy-file-transfer-techniques-for-windows-users-by-experts-at-yl-software/"><u>Easy File Transfer Techniques for Windows Users by Experts at YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-fix-a-white-display-on-your-laptop/"><u>Effective Solutions to Fix a White Display on Your Laptop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-common-issues-why-payday-2-wont-start-up-on-your-pc/"><u>Fixes for Common Issues: Why Payday 2 Won't Start Up on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-windows-11-using-sfc-and-dism-commands-a-step-by-step-guide/"><u>How to Repair Your Windows 11 Using SFC & DISM Commands – A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max with IMEI Code?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-advanced-techniques-for-the-steam-switch-pro-controller/"><u>In 2024, Advanced Techniques for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/innovative-techniques-for-ppts-and-webcams-2023-edition/"><u>Innovative Techniques for PPTs and Webcams, 2023 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/remote-procedure-call-issues-heres-how-you-can-resolve-them/"><u>Remote Procedure Call Issues? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-d3derrnotavailable-error-a-comprehensive-guide/"><u>Resolving 'D3DERR_NOT_AVAILABLE' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-your-pc-runs-into-a-hang-on-windows-10/"><u>Step-by-Step Solution for When Your PC Runs Into a Hang on Windows 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-your-airpods-connection-issues-on-windows-1011/"><u>Ultimate Guide: Solving Your AirPods Connection Issues on Windows 10/11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Drag-and-Drop: Winning Against Slow Windows 10 Closures"
-date: 2025-02-08T03:14:28.032Z
-updated: 2025-02-11T05:37:27.306Z
+date: 2025-02-26T20:10:10.854Z
+updated: 2025-03-02T07:43:37.109Z
 tags:
   - win11
   - win10
@@ -44,17 +44,9 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -80,17 +72,9 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -110,10 +94,6 @@ _**bootrec /scanos**_
  _**bootrec /rebuildbcd**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
@@ -154,24 +134,16 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-dominating-desktops-secrets-to-viral-tiktok-videos/"><u>[New] 2024 Approved Dominating Desktops Secrets to Viral TikTok Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/30204431-new-in-2024-short-film-synopsis-must-know-points/"><u>[New] In 2024, Short Film Synopsis Must-Know Points</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-vimeo-media-with-well-defined-chapters-for-2024/"><u>[Updated] Elevate Your Vimeo Media with Well-Defined Chapters for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-gripping-gospels-intros-that-draw-ears/"><u>[Updated] In 2024, Gripping Gospels Intros That Draw Ears</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-influencer-secrets-making-your-vids-hits-hard/"><u>[Updated] Influencer Secrets Making Your Vids Hits Hard</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-old-vhs-with-new-online-techniques/"><u>[Updated] Transform Your Old VHS with New Online Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/clarified-response-handling-non-writable-memory-situations-in-location-x/"><u>Clarified Response: Handling Non-Writable Memory Situations in Location X</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unavailable-windows-hello-feature-on-windows-10-devices/"><u>Fixing Unavailable Windows Hello Feature on Windows 10 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcoming-device-not-present-errors-with-windows-operating-systems-code-24-fix/"><u>Guide to Overcoming 'Device Not Present' Errors with Windows Operating Systems (Code 24 Fix)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-7-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 7 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/master-your-zebra-zp450-printer-free-downloads-and-updates-with-easy-instructions/"><u>Master Your Zebra ZP450 Printer - Free Downloads and Updates with Easy Instructions</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-repairing-the-red-screen-error/"><u>Resolved: Step-by-Step Guide to Repairing the Red Screen Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-disabling-wireless-capability-on-electronics/"><u>Solving the Problem of Disabling Wireless Capability on Electronics</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210166882-solving-the-ps4s-notorious-ce-34878-0-glitch-steps-and-tips-inside/"><u>Solving the PS4's Notorious CE-34878-0 Glitch – Steps & Tips Inside</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/telltale-signs-your-chat-is-hidden/"><u>Telltale Signs Your Chat Is Hidden</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-solution-for-when-windows-update-fails-to-launch/"><u>The Ultimate Solution for When Windows Update Fails to Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-steam-store-connectivity/"><u>Troubleshooting Tips: Resolving Issues with Steam Store Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-lack-of-pen-and-touch-input-on-your-screen/"><u>Troubleshooting: Fixing the Lack of Pen and Touch Input on Your Screen</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-best-practices-for-seamless-transitions-using-b-roll/"><u>[Updated] In 2024, Best Practices for Seamless Transitions Using B Roll</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clear-vision-through-stillness-control/"><u>2024 Approved Clear Vision Through Stillness Control</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-luminous-techniques-crafting-captivating-cinematic-pieces/"><u>2024 Approved Luminous Techniques Crafting Captivating Cinematic Pieces</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-blues-handling-and-correcting-microsoft-update-error-0x8024402c-on-windows/"><u>Beat the Blues: Handling and Correcting Microsoft Update Error 0X8024402C on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-lire-un-dvd-sans-codec-video-librement-disponible/"><u>Comment Lire Un DVD Sans Codec Vidéo Librement Disponible</u></a></li>
+<li><a href="https://common-error.techidaily.com/instantaneous-solutions-for-preventing-your-csgo-from-crashing-unexpectedly/"><u>Instantaneous Solutions for Preventing Your CSGO From Crashing Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-troubleshoot-and-repair-your-overwatch-voice-communication-problems/"><u>Quick Fixes: How to Troubleshoot and Repair Your Overwatch Voice Communication Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-0x80244022-bug-comprehensive-guide-for-fixing-windows-update-issues/"><u>Solving the 0X80244022 Bug: Comprehensive Guide for Fixing Windows Update Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-factors-to-evaluate-prior-to-purchasing-your-next-gaming-system/"><u>Top 5 Essential Factors to Evaluate Prior to Purchasing Your Next Gaming System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-notch-bargains-at-best-buy-in-june-2024-exclusive-scoop-on-savings-from-zdnet/"><u>Top-Notch Bargains at Best Buy in June 2024: Exclusive Scoop on Savings From ZDNet!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-by-the-0x80071ac3-error-heres-how-to-fix-your-volumes-corruption-problem/"><u>Troubled by the 0X80071AC3 Error? Here's How to Fix Your Volume's Corruption Problem</u></a></li>
 </ul></div>
 

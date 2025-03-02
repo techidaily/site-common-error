@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Successfully Repairing the 'Unable to Initialize Application' Error [0xC000007B]"
-date: 2024-08-09T00:49:18.167Z
-updated: 2024-08-10T00:49:18.167Z
+date: 2025-02-24T10:16:04.828Z
+updated: 2025-03-01T17:31:05.534Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
 **USB ports not working on HP laptop** ? You’re not alone. Many users have reported the same. But the good news is, you can fix it easily!
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 fixes for USB ports not working on HP laptop
 
  All the fixes below work in**Windows 10** ,**8** and**7** . Just work your way down the list until your USB ports work properly again.
@@ -48,24 +45,15 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
 
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
@@ -85,16 +73,10 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -117,11 +99,33 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazon-primes-social-success-stories-likes-and-watches-galore/"><u>[New] 2024 Approved Amazon Prime’s Social Success Stories Likes & Watches Galore</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-learn-to-produce-must-see-fb-music-videos-today/"><u>[Updated] 2024 Approved Learn to Produce Must-See FB Music Videos Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>[Updated] The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-viral-video-vanguard-top-ten-in-one-hour-one-day-on-yt/"><u>2024 Approved Viral Video Vanguard Top Ten in One Hour, One Day on YT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-fixes-for-hp-officejet-pro-6978-printer-driver-errors/"><u>Comprehensive Fixes for HP Officejet Pro 6978 Printer Driver Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-correcting-error-0x800705b4-while-updating-your-windows-11-system/"><u>Decoding and Correcting Error 0X800705B4 While Updating Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-why-windows-cant-search-for-system-updates/"><u>Diagnosing and Repairing: Why Windows Can't Search for System Updates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-free-and-paid-luts-for-profound-canon-camera-effects/"><u>Discover Free & Paid LUTs for Profound Canon Camera Effects</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-non-functioning-dell-cameras-in-the-windows-operating-system/"><u>Effective Fixes for Non-Functioning Dell Cameras in the Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-file-explorer-freezing-issues-on-windows-10/"><u>Fixes for File Explorer Freezing Issues on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-printer-connectivity-issue-win7/"><u>Fixing Printer Connectivity Issue: Win7</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-11s-persistent-update-error-code-0x8024401c-troubleshooting-guide/"><u>How to Overcome Windows 11'S Persistent Update Error: Code 0X8024401C Troubleshooting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-starter-accessories-for-gopro-newbies-for-2024/"><u>Ideal Starter Accessories for GoPro Newbies for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-enhancing-gameplay-with-switch-pro-a-compreran-guide-for-steam-gamers/"><u>In 2024, Enhancing Gameplay with Switch Pro A Compreran Guide for Steam Gamers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-interruptions-fix-the-cannot-play-video-error-code-224003/"><u>No More Interruptions: Fix the 'Cannot Play' Video Error Code 224003</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-understanding-cyclic-redundancy-check-a-comprehensive-guide/"><u>Resolved: Understanding Cyclic Redundancy Check - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-bungie-destiny-2-server-connectivity-issues/"><u>Troubleshooting Tips for Fixing Bungie Destiny 2 Server Connectivity Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-sound-control-problems-solved-quick-fixes-for-dead-volume-buttons/"><u>Windows 11 Sound Control Problems Solved: Quick Fixes for Dead Volume Buttons</u></a></li>
+</ul></div>
+

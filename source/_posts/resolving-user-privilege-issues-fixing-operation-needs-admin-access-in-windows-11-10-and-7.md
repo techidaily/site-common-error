@@ -1,7 +1,7 @@
 ---
 title: "Resolving User Privilege Issues: Fixing 'Operation Needs Admin Access' In Windows 11, 10 & 7"
-date: 2024-08-09T00:49:17.481Z
-updated: 2024-08-10T00:49:17.481Z
+date: 2025-02-23T06:34:32.925Z
+updated: 2025-03-02T00:58:38.911Z
 tags:
   - win11
   - win10
@@ -35,19 +35,12 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
  Click Power button from Start menu.  
  Then while holding **Shift**  key, click **Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-17.jpg)
 
  2)  
 
  Click **Troubleshoot**  \>**Advanced options**  \> **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-18.jpg)
 
  3)  
@@ -67,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
  **ren system system.001**
 **ren software software.001**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-15.jpg)
 
  5)  
@@ -96,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
  Then click **Create a recovery drive**  from the top result.  
  Click **Yes**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-10.jpg)
 
  3)  
@@ -113,27 +100,12 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
  Select your USB drive and click **Next** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-2.jpg)
 
  5)  
 
  Click **Create** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-1.jpg)
 
  When it’s done, click **Finish** .
@@ -163,11 +135,29 @@ Go on to follow the on-screen instructions to complete the reinstalling.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-cutting-edge-narratives-on-airwaves/"><u>2024 Approved Cutting-Edge Narratives on Airwaves</u></a></li>
+<li><a href="https://common-error.techidaily.com/battle-the-high-resource-hog-svchostexe-strategies-to-optimize-windows-11-performance/"><u>Battle the High Resource Hog svchost.exe: Strategies to Optimize Windows 11 Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-latest-charismatic-gadgets-unveiled-secretly-last-week-a-detailed-insight/"><u>Discover Apple's Latest Charismatic Gadgets Unveiled Secretly Last Week – A Detailed Insight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-failures-in-attempted-gpt-alteration/"><u>Dissecting Failures in Attempted GPT Alteration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gamer-gold-grindings-pewdiepies-profit-profile/"><u>Gamer Gold Grindings PewDiePie's Profit Profile</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-input-device-not-recognized-by-monitor/"><u>How to Fix 'Input Device Not Recognized by Monitor'</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-diagnose-and-address-teredo-unable-to-qualify-issues/"><u>How To Successfully Diagnose and Address 'Teredo Unable to Qualify' Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-become-a-close-up-connoisseur-advanced-roleplay-tips/"><u>In 2024, Become a Close-Up Connoisseur Advanced Roleplay Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/innovative-solutions-for-windows-10-screen-saver-problems-step-by-step-guide/"><u>Innovative Solutions for Windows 10 Screen Saver Problems - Step by Step Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/notice-unable-to-retrieve-content-404-error-occurred/"><u>Notice: Unable to Retrieve Content - 404 Error Occurred</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recover-lost-messages-and-notifications-on-your-apple-device/"><u>Recover Lost Messages and Notifications on Your Apple Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Pro Max Making It Possible</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-free-fixes-for-a-laptop-that-wont-hold-a-charge-expert-advice-inside/"><u>Trouble-Free Fixes for a Laptop That Won't Hold A Charge: Expert Advice Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-0x800705b4-error-on-windows-update-for-windows-10-users/"><u>Troubleshoot & Fix 0X800705b4 Error on Windows Update for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-flickering-display-on-windows-10-computers/"><u>Troubleshooting and Repairing Flickering Display on Windows 10 Computers</u></a></li>
+</ul></div>
+

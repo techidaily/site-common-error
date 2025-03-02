@@ -1,7 +1,7 @@
 ---
 title: "Expert Solutions: Making Your HP Laptop's Malfunctioning USB Port Functional Once More"
-date: 2025-02-04T18:04:49.730Z
-updated: 2025-02-11T09:18:53.322Z
+date: 2025-02-24T19:34:44.893Z
+updated: 2025-03-02T12:39:59.290Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,16 +66,8 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
@@ -98,20 +86,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
@@ -150,24 +130,18 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-strategies-for-improving-your-interview-prowess/"><u>[New] Strategies for Improving Your Interview Prowess</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-auditory-explorers-manual-crafting-unique-sounds-and-ringtones-for-android-users/"><u>[Updated] 2024 Approved The Auditory Explorer's Manual Crafting Unique Sounds & Ringtones for Android Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-youtube-to-mp4-get-free-hd1080p-from-facebook-vids/"><u>[Updated] In 2024, YouTube-to-MP4 Get Free HD/1080P From Facebook Vids</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-optimizing-video-sequences-blend-modes-application/"><u>[Updated] Optimizing Video Sequences Blend Modes Application</u></a></li>
-<li><a href="https://common-error.techidaily.com/6-proven-ways-to-address-and-repair-werfaultexe-application-failures-in-windows/"><u>6 Proven Ways to Address and Repair werFault.exe Application Failures in Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/guide-to-overcoming-blackout-in-obs-fullscreen-for-2024/"><u>Guide to Overcoming Blackout in OBS Fullscreen for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-overloading-your-cpu-on-windows-11-solved/"><u>How to Fix MsMpEng.exe Overloading Your CPU on Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-captivating-creations-utilizing-motion-blur-effects-in-ai/"><u>In 2024, Captivating Creations Utilizing Motion Blur Effects in AI</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212219523-lsa-safety-measures-fully-operational-again-secure-your-system-now/"><u>LSA Safety Measures Fully Operational Again - Secure Your System Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-art-of-diagnosing-and-resolving-fn-key-malfunctions-on-a-dell-device/"><u>Master the Art of Diagnosing and Resolving FN Key Malfunctions on a Dell Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/nba-2k21-green-error-patched-and-solutions-unveiled/"><u>NBA 2K21 Green Error Patched and Solutions Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/out-of-service-blizzard-unavailable/"><u>Out Of Service: Blizzard Unavailable</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-io-hardware-malfunctions-a-step-by-step-guide/"><u>Resolving I/O Hardware Malfunctions: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-when-your-admin-profile-fails-to-run-an-application/"><u>Troubleshooting Steps for When Your Admin Profile Fails to Run an Application</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-installation-hurdles-with-error-code-0x800f081f-for-net-framework-35/"><u>Troubleshooting Tips: Overcoming Installation Hurdles with Error Code 0X800F081F for .NET Framework 3.5</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unleash-youtube-potential-with-smart-tags-and-titles/"><u>Unleash YouTube Potential with Smart Tags and Titles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/why-is-my-atom-heart-application-failing-at-launch/"><u>Why Is My Atom Heart Application Failing at Launch?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-download-a-chatgpt-mobile-app/"><u>Why You Shouldn't Download a ChatGPT Mobile App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-capturing-moments-with-full-screen-movies-on-iphones/"><u>[New] 2024 Approved Capturing Moments with Full-Screen Movies on iPhones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-step-by-step-fbx-capture-for-gamers/"><u>[New] 2024 Approved Step-by-Step FBX Capture For Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-iconic-nintendo-switch-combat-games-compilation-max-156/"><u>[Updated] 2024 Approved Iconic Nintendo Switch Combat Games Compilation (Max 156)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-androids-finest-moba-battles-compilation-10-edition/"><u>[Updated] Android's Finest MOBA Battles Compilation (#10 Edition)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-best-vr-games-for-google-cardboard/"><u>[Updated] In 2024, The Best VR Games for Google Cardboard</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[Updated] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/culinary-carnage-uncovered-a-riveting-overview-of-overcooked-2/"><u>Culinary Carnage Uncovered: A Riveting Overview of Overcooked! 지 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-functional-sound-driver-in-windows-7/"><u>Fixing the Non-Functional Sound Driver in Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/organizational-oversight-in-windows-setup-configured-system-parameters/"><u>Organizational Oversight in Windows Setup - Configured System Parameters</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-keyboard-solutions-for-unresponsive-keys/"><u>Reviving Your Lenovo Keyboard: Solutions for Unresponsive Keys</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-restore-audio-in-google-hangouts-when-the-mic-fails/"><u>Simple Steps to Restore Audio in Google Hangouts When the Mic Fails</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-ethernet-connectivity-issues-in-windows-117/"><u>Step-by-Step Solutions to Ethernet Connectivity Issues in Windows 11/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-technology-secrets-with-tom-in-depth-gadget-analysis/"><u>Unveiling Technology Secrets with Tom - In-Depth Gadget Analysis</u></a></li>
 </ul></div>
 

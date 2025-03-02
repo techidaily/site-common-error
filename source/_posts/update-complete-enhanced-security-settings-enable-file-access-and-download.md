@@ -1,7 +1,7 @@
 ---
 title: "Update Complete: Enhanced Security Settings Enable File Access and Download"
-date: 2024-08-09T00:49:15.465Z
-updated: 2024-08-10T00:49:15.465Z
+date: 2025-02-25T04:49:14.311Z
+updated: 2025-03-02T04:44:16.768Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 
  Before you try the following fixes, you need to make sure this slow speed issue only happened on League of Legends, which means it’s nothing to do with your internet speed. Otherwise, you may need to check your internet connection first.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,9 +39,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -64,16 +58,10 @@ Downloading again to see if it works.
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
 
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 Re-download to check.
@@ -117,15 +105,9 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -145,11 +127,31 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>[New] Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-professional-noise-reduction-software-for-video-editing/"><u>[New] In 2024, Professional Noise-Reduction Software for Video Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-iphone-screen-recording/"><u>[Updated] 2024 Approved Step-by-Step Iphone Screen Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-ways-to-record-roblox-gameplay-on-mac-for-2024/"><u>[Updated] 5 Ways to Record Roblox Gameplay on Mac for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-deciphering-authenticity-in-your-facebook-brand-community/"><u>[Updated] Deciphering Authenticity in Your Facebook Brand Community</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehvew-guide-fixing-windows-media-player-servers-that-cant-start-on-your-machine/"><u>Comprehvew Guide: Fixing Windows Media Player Servers That Can't Start on Your Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-randomly-nonfunctional-wireless-mice-in-modern-windows-environments/"><u>Diagnosing and Repairing Randomly Nonfunctional Wireless Mice in Modern Windows Environments</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-xs-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone XS Max? How to Fix it?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-real-time-broadcasting-softwares-edge-over-gear/"><u>In 2024, Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-the-art-of-saying-hello-in-spanish-dive-into-these-top-10-phrases/"><u>Mastering the Art of Saying 'Hello' In Spanish - Dive Into These Top 10 Phrases</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-disconnects-expert-tips-for-connecting-your-xbox-one-to-xbox-live-solved/"><u>No More Disconnects: Expert Tips for Connecting Your Xbox One to Xbox Live (Solved)</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-troubleshooting-resolving-the-battery-not-detected-error/"><u>Quick Troubleshooting: Resolving the 'Battery Not Detected' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-initialization-failed-error-on-age-of-empires-3/"><u>Step-by-Step Solution to 'Initialization Failed' Error on Age of Empires 3</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-recover-your-disappeared-mouse-cursor-on-windows-10-systems/"><u>Steps to Recover Your Disappeared Mouse Cursor on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-disk-read-error-messages-on-windows-11-systems/"><u>Troubleshooting and Fixing 'Disk Read Error' Messages on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-broken-keys-on-hp-notebooks-efficiently/"><u>Troubleshooting and Repairing Broken Keys on HP Notebooks Efficiently</u></a></li>
+</ul></div>
+

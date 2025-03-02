@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Print Screen Issue on Your PC: A Guide for Windows 10 & 11 Users"
-date: 2025-02-05T05:20:42.296Z
-updated: 2025-02-11T09:48:53.247Z
+date: 2025-02-25T11:12:26.964Z
+updated: 2025-03-01T22:08:25.497Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -51,10 +47,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -71,16 +63,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
@@ -98,16 +82,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -154,17 +130,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-realme-12-proplus-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Realme 12 Pro+ 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-unplanned-desktop-shuts-offs-with-these-proven-solutions/"><u>End Unplanned Desktop Shuts Offs with These Proven Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-backspace-capability-on-your-device/"><u>How to Restore Backspace Capability on Your Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-bypass-spotifys-predicted-podcast-selections/"><u>In 2024, Bypass Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition/"><u>In 2024, Extreme Capture Duo GoPro Hero5 Black Versus Hero4 Silver Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-smart-8-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Smart 8</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-prime-nintendo-switch-fighting-game-guide-max-156/"><u>In 2024, Prime Nintendo Switch Fighting Game Guide (Max 156)</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-icues-missed-device-detection-a-step-by-step-guide/"><u>Overcoming ICUE's Missed Device Detection - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-dx11-feature-level-100-issue-in-wwe-2k-battlegrounds/"><u>Resolving DX11 Feature Level 10.0 Issue in WWE 2K Battlegrounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-to-overcome-typing-latency-in-windows-10-systems/"><u>Solutions to Overcome Typing Latency in Windows 10 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-technique-for-deleting-diagnostic-information-logs-in-windows-11/"><u>Ultimate Technique for Deleting Diagnostic Information Logs in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultra-quick-vid-saver-seamlessly-score-clips-from-hundreds-of-web-portals-at-once/"><u>Ultra-Quick Vid Saver: Seamlessly Score Clips From Hundreds of Web Portals at Once</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-many-movies-fit-in-128gb-memory/"><u>[New] How Many Movies Fit in 128GB Memory</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-iphone-time-lapse-magic-a-beginners-guide/"><u>[Updated] IPhone Time-Lapse Magic A Beginner’s Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-windows-11-video-creation-and-editing-techniques/"><u>[Updated] Mastering Windows 11 Video Creation & Editing Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-zoom-class-chronicling/"><u>2024 Approved Zoom Class Chronicling</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728472543132-hdd/"><u>無愁無歉自由複製外置HDD至新位置</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-issues-and-solutions-for-dvd-compatibility-with-windows-operating-systems/"><u>Common Issues and Solutions for DVD Compatibility with Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-watch-dogs-legion-from-crashing-on-your-computer/"><u>Effective Solutions to Stop Watch Dogs: Legion From Crashing on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/game-interruptions-lead-to-reboots/"><u>Game Interruptions Lead to Reboots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-cameraphone-trackers-precision-power-performance/"><u>In 2024, Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-virtual-collaboration-share-your-screens-with-facebook-viewers/"><u>In 2024, Virtual Collaboration Share Your Screens with Facebook Viewers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/laptop-and-mobile-entrance-into-online-gatherings-google-meet-for-2024/"><u>Laptop & Mobile Entrance Into Online Gatherings (Google Meet) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-power-issues-heres-how-to-get-the-battery-charging-fast/"><u>Laptop Power Issues? Here’s How to Get the Battery Charging Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-an-unresponsive-hp-camera-when-using-windows-11/"><u>Quick Fixes for an Unresponsive HP Camera when Using Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-32bit-apps-encounter-a-print-driver-error/"><u>Solution Steps for When Your 32Bit Apps Encounter a Print Driver Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-replace-lost-media-driver-software-a-step-by-step-tutorial/"><u>Troubleshoot and Replace Lost Media Driver Software: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-ns-touchscreen-glitches-with-these-5-strategies/"><u>Troubleshoot Windows N's Touchscreen Glitches with These 5 Strategies</u></a></li>
 </ul></div>
 

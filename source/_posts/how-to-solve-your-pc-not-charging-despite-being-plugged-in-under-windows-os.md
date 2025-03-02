@@ -1,7 +1,7 @@
 ---
 title: How to Solve Your PC Not Charging Despite Being Plugged In Under Windows OS
-date: 2025-02-06T02:33:29.151Z
-updated: 2025-02-10T22:51:50.172Z
+date: 2025-02-28T03:19:26.917Z
+updated: 2025-03-02T07:24:09.546Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -55,10 +51,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -77,16 +69,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -100,10 +84,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -123,10 +103,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,20 +130,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-boost-your-content-access-free-vocal-sfx/"><u>[New] 2024 Approved Boost Your Content Access Free Vocal SFX</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-breakthroughs-in-fb-advertising-with-a-focus-on-video-content-mastery/"><u>[New] 2024 Approved Breakthroughs in FB Advertising with a Focus on Video Content Mastery</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-free-range-riffs-and-rhythms-in-free-fire/"><u>[New] 2024 Approved Free Range Riffs and Rhythms in Free Fire</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204279423-argue-how-problem-solving-leads-to-creative-thinking-innovation-and-progress-in-various-fields-eg-technology-medicine/"><u>Argue How Problem-Solving Leads to Creative Thinking, Innovation, and Progress in Various Fields (E.g., Technology, Medicine).</u></a></li>
-<li><a href="https://common-error.techidaily.com/cure-for-lidadll-absence/"><u>Cure for Lida.dll Absence</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/designing-intriguing-instagram-post-thumbnails/"><u>Designing Intriguing Instagram Post Thumbnails</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-failing-remote-procedure-call-comprehensive-guide/"><u>How to Fix a Failing Remote Procedure Call - Comprehensive Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-master-bluetooth-on-windows-11-expert-strategies-for-flawless-device-sync/"><u>How to Master Bluetooth on Windows 11: Expert Strategies for Flawless Device Sync</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>In 2024, Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimal-cameras-compatible-with-windows-hello/"><u>Optimal Cameras Compatible with Windows Hello</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/overcoming-black-screens-in-youtube-content-for-2024/"><u>Overcoming Black Screens in YouTube Content for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/problematic-update-for-windows-11-version-1607-resolution-guide/"><u>Problematic Update for Windows 11 Version 1607 - Resolution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-this-device-is-missing-code-24-on-windows-platforms/"><u>Troubleshooting Guide: Fixing the 'This Device Is Missing (Code 24)' On Windows Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/win11-and-win10-overcoming-additional-display-problems/"><u>Win11 & Win10: Overcoming Additional Display Problems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-launching-your-first-telegram-marketing-campaign/"><u>[New] 2024 Approved Launching Your First Telegram Marketing Campaign</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-decoding-action-camera-extras-a-shoppers-map-for-2024/"><u>[New] Decoding Action Camera Extras - A Shopper’s Map for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/2-ways-to-create-a-free-win1111-system-repair-disk-or-usb-without-cost/"><u>2 Ways to Create a Free Win11/11 System Repair Disk or USB without Cost</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-snapsavvy-ai-revolutionizing-edit-processes/"><u>2024 Approved SnapSavvy AI Revolutionizing Edit Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-high-disk-usage-caused-by-microsofts-telemetry-service-in-windows-11-systems/"><u>Fixing High Disk Usage Caused by Microsoft's Telemetry Service in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-computer-running-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your Computer Running Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-critical-dxgkrnl-problem-and-restore-videos-on-windows/"><u>How to Fix the Critical Dxgkrnl Problem and Restore Videos on Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-best-selling-vr-gaming-experienences-on-oculus/"><u>In 2024, The Best-Selling VR Gaming Experienences on Oculus</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-overcome-the-preparing-to-configure-windows-issue/"><u>Resolved: Step-by-Step Guide to Overcome the 'Preparing to Configure Windows' Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-to-address-playback-difficulties-when-accessing-titles-on-netflix/"><u>Strategies to Address Playback Difficulties When Accessing Titles on Netflix</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/total-refresh-for-your-iphone-efficient-deletion-methods-revealed/"><u>Total Refresh for Your iPhone: Efficient Deletion Methods Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-failed-system-restores-in-windows-11/"><u>Understanding and Resolving Failed System Restores in Windows 11</u></a></li>
 </ul></div>
 

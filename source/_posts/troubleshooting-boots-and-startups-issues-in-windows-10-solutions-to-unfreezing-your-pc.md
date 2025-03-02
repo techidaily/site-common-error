@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Boots and Startups Issues in Windows 10: Solutions to Unfreezing Your PC"
-date: 2025-02-03T23:27:11.293Z
-updated: 2025-02-11T01:13:50.031Z
+date: 2025-02-23T22:10:32.610Z
+updated: 2025-03-02T11:14:18.756Z
 tags:
   - win11
   - win10
@@ -43,25 +43,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
@@ -70,10 +58,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 3: Rebuild icon cache
 
 You can also try these steps to rebuild the icon cache:
@@ -81,10 +65,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -113,10 +93,6 @@ If your desktop icons still don’t show up, you can perform a system restore to
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 5: Reset your computer
 
 If the steps above didn’t work for you. Resetting your computer is worth a try. It fixed the desktop icon issue for some users.
@@ -127,10 +103,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -175,20 +147,14 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-grasping-the-basics-of-av1-compression/"><u>[Updated] In 2024, Grasping the Basics of AV1 Compression</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamline-live-tv-capture-in-windows-free-methods/"><u>[Updated] Streamline Live TV Capture in Windows (Free Methods)</u></a></li>
-<li><a href="https://win11.techidaily.com/3-effective-methods-to-enhance-windows-ram-usage/"><u>3 Effective Methods to Enhance Windows' RAM Usage</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/duel-of-dvd-rippers-winx-vs-handbrake-unser-ultimativer-vergleich/"><u>Duel of DVD Rippers: WinX Vs. HandBrake - Unser Ultimativer Vergleich</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-to-overcome-entry-point-not-found-errors-in-windows-environments/"><u>Easy Solutions to Overcome Entry Point Not Found Errors in Windows Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-address-and-fix-error-0x80070079-semaphore-timed-out/"><u>Effective Solutions to Address and Fix Error 0X80070079: Semaphore Timed Out</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207770097-effortless-methods-to-revive-charging-on-your-laptop-battery/"><u>Effortless Methods to Revive Charging on Your Laptop Battery</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x8024002e-explained-a-comprehensive-guide-to-successfully-update-windows-without-issues/"><u>Error 0X8024002E Explained: A Comprehensive Guide to Successfully Update Windows Without Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-youtube-audio-processor-failure-on-your-windows-10-device/"><u>How to Correct the Youtube Audio Processor Failure on Your Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-when-your-app-wont-launch-resolving-application-failed-to-initialize-properly-error-code-0xc000007b/"><u>How to Fix the Error When Your App Won't Launch: Resolving 'Application Failed to Initialize Properly (Error Code 0xC000007B)'</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-htc-u23-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your HTC U23 Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-docooler-usb-20-camera-with-12mp-sensor-a-deal-that-exceeds-expectations/"><u>In-Depth Review of the Docooler USB 2.0 Camera with 12MP Sensor: A Deal That Exceeds Expectations</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-directx-initialization-troubleshooting-tips-for-a-smooth-launch/"><u>Mastering DirectX Initialization: Troubleshooting Tips for a Smooth Launch</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/social-media-savvy-top-trending-hashtags-for-youtubers/"><u>Social Media Savvy Top Trending Hashtags for Youtubers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-quench-your-relaxation-aspertronics-guide/"><u>[New] 2024 Approved Quench Your Relaxation Aspertronics Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>[New] In 2024, Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-squaring-the-circle-of-facebook-engagement-with-visuals/"><u>[Updated] Squaring the Circle of Facebook Engagement with Visuals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-m34-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy M34 Phone When You Forget the Password</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-non-functional-laptop-keys-in-windows-environment/"><u>Decoding: Non-Functional Laptop Keys in Windows Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/dll-deficiency-windows-core-library-absence-alert/"><u>DLL Deficiency: Windows Core Library Absence Alert</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-there-was-a-problem-resetting-your-pc-error-on-windows-10-solved/"><u>Fix There Was a Problem Resetting Your PC Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-self-activating-windows-11-computers-a-comprehensive-guide/"><u>Solving the Mystery of Self-Activating Windows 11 Computers - A Comprehensive Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-10-game-bar-alternative-recorders-for-2024/"><u>Top 10 Game Bar Alternative Recorders for 2024</u></a></li>
 </ul></div>
 

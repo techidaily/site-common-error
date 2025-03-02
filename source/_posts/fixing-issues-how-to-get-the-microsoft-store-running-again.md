@@ -1,7 +1,7 @@
 ---
 title: Fixing Issues - How To Get The Microsoft Store Running Again
-date: 2025-02-04T23:08:38.388Z
-updated: 2025-02-11T07:05:10.554Z
+date: 2025-02-27T11:35:13.232Z
+updated: 2025-03-01T16:05:36.199Z
 tags:
   - win11
   - win10
@@ -52,10 +52,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Adjust audio settings in Skype
 
  One of the most useful fixes is to disable **Automatically adjust microphone settings** in Skype according to user feedback. So we can give it a try and see if it works:
@@ -64,18 +60,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -90,17 +78,9 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27cb3d565f.jpg)
 3. Click the   **Update** button next to a flagged audio  driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27e508edd4.jpg)
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -120,10 +100,6 @@ To do so:
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
@@ -157,24 +133,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-meditative-playlist-top-10-free-tracks-for-serenity/"><u>[Updated] Meditative Playlist Top 10 Free Tracks for Serenity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pros-and-cons-ios-screen-recorder-apps-for-2024/"><u>[Updated] Pros and Cons IOS Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonize-with-inshots-music-load-functionality/"><u>2024 Approved Harmonize with InShot's Music Load Functionality</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-voice-overhaul-two-efficient-ways-revealed/"><u>2024 Approved Snapchat Voice Overhaul Two Efficient Ways Revealed</u></a></li>
-<li><a href="https://facebook.techidaily.com/app-trackings-waning-influence-among-iphone-users/"><u>App Tracking's Waning Influence Among iPhone Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-cast-errors-and-enable-smooth-streaming-from-pc-to-tv-on-windows-11/"><u>Bypass Cast Errors and Enable Smooth Streaming From PC to TV on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-continuous-halt-issues-in-computers-a-users-handbook/"><u>Diagnosing & Repairing Continuous Halt Issues in Computers – A User's Handbook</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207376954-diagnosing-the-disconnected-systems-event-notification-service-in-windows-fixed/"><u>Diagnosing the Disconnected Systems Event Notification Service in Windows - Fixed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-achieving-gentle-volume-alteration-using-fl-studio/"><u>In 2024, Achieving Gentle Volume Alteration Using FL Studio</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-investing-in-portable-monitors-justified-discover-the-top-reasons/"><u>Is Investing in Portable Monitors Justified? Discover the Top Reasons</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-the-might-in-god-of-war/"><u>Mastering the Might in 'God of War'</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-launch-darkness-errors-in-monster-hunter-world-gameplay/"><u>Overcoming Launch Darkness Errors in Monster Hunter World Gameplay</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-winsvr-server-role-failed-smb-signing-requirements-error-x0x800706b7/"><u>Quick Solutions for Resolving WinSvr Server Role Failed: SMB Signing Requirements Error - X0x800706B7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-inbox-access-gmail-on-the-windows-taskbar/"><u>Simplifying Inbox Access: Gmail on the Windows Taskbar</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-connection-problems-solved-restored-game-server-access/"><u>Steam Connection Problems Solved – Restored Game Server Access</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-activating-dx11-and-feature-level-ebitron-in-wwe-2k-battlegrounds/"><u>Troubleshooting Tips for Activating DX11 and Feature Level Ebitron in WWE 2K Battlegrounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-tutorial-deactivate-touchpad-when-connected-to-a-mouse/"><u>Windows 11 Tutorial: Deactivate Touchpad When Connected to a Mouse</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-best-cameras-for-youtube-from-beginners-to-professionals-for-2024/"><u>[New] The Best Cameras for YouTube From Beginners to Professionals for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-celebrating-the-hottest-instagram-after-effects-plugins/"><u>[Updated] 2024 Approved Celebrating the Hottest Instagram After Effects Plugins</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discovering-the-top-8-truly-efficient-advancement-services/"><u>[Updated] 2024 Approved Discovering the Top 8 Truly Efficient Advancement Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-your-windows-system-when-outdated-graphic-cards-drivers-lead-to-minecraft-failures/"><u>Diagnosing and Fixing Your Windows System: When Outdated Graphic Cards Drivers Lead to Minecraft Failures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-user-experience-tweaking-font-options-for-a-fresh-look-on-windows-11-systems/"><u>Enhancing User Experience: Tweaking Font Options for a Fresh Look on Windows 11 Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-unveiling-the-ultimate-comfort-with-the-mavix-m9-gaming-chair/"><u>Expert Analysis: Unveiling the Ultimate Comfort with the Mavix M9 Gaming Chair</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-live-lite-minute-videos-for-you/"><u>FB Live Lite Minute Videos for You</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-the-omoton-t1-tablet-stand-balances-budget-with-reliability-an-in-depth-look/"><u>How the Omoton T1 Tablet Stand Balances Budget with Reliability – An In-Depth Look</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-unshutting-a-windows-10-operating-system-on-your-pc/"><u>Solving the Issue of Unshutting a Windows 10 Operating System on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-resolving-the-serious-google-chrome-bug-alert/"><u>Step-by-Step Solution for Resolving the Serious Google Chrome Bug Alert</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sunday-through-saturday-in-korea-made-simple/"><u>Sunday Through Saturday in Korea Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-audio-issues-stop-high-cpu-consumption-now/"><u>Troubleshooting Windows Audio Issues: Stop High CPU Consumption Now</u></a></li>
 </ul></div>
 

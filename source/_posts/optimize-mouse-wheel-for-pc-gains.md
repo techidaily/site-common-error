@@ -1,7 +1,7 @@
 ---
 title: Optimize Mouse Wheel for PC Gains
-date: 2025-02-08T01:18:30.023Z
-updated: 2025-02-10T23:47:56.561Z
+date: 2025-03-01T05:52:08.228Z
+updated: 2025-03-01T23:57:34.404Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is ntoskrnl.exe?
 
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Disable Windows Search service
 
  A lot of users suggested that disabling Windows Search helps to reduce the CPU and Disk usage caused by ntoskrnl.exe. To see if this does the trick for you as well:
@@ -74,26 +66,14 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/computer-management.png)
 2. Expand**Services and Applications** and click**Services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
 3. Double-click**Windows Search** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/windwos-search-6101.jpg)
 4. In the**General** tab, click **Stop** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/stop-button.jpg)
 5. Wait for the service to stop, then press**OK** to save the change and exit.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
 
@@ -120,14 +100,6 @@ sfc /scannow
  3) System File Checker will then scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.2\. Run dism.exe
 
@@ -189,24 +161,24 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/utting-edge-techniques-youtube-trailers-through-filmoras-lens/"><u>[New] Cutting Edge Techniques YouTube Trailers Through Filmora's Lens</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-camera-to-feed-instagram-video-upload-on-desktop/"><u>[Updated] From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-airdrop-issues-quick-solutions-for-iphoneipadmac-users/"><u>2024 Approved Mastering AirDrop Issues Quick Solutions for iPhone/iPad/Mac Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-standout-80s-aesthetics-for-video-editing-pros/"><u>2024 Approved Standout '80S Aesthetics for Video Editing Pros</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-lag-in-downloading-league-of-legends-expert-tips-for-faster-setup/"><u>Bypass Lag in Downloading League of Legends - Expert Tips for Faster Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-restoring-ethernet-network-functionality-in-windows-operating-systems-windows-107/"><u>Expert Advice: Restoring Ethernet Network Functionality in Windows Operating Systems (Windows 10/7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-werfaultexe-app-crash-issues/"><u>How to Resolve Windows WerFault.exe App Crash Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y36-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y36 Face Lock?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimize-sound-speed-with-these-essential-apps-for-2024/"><u>Optimize Sound Speed with These Essential Apps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-connection-problems-dealing-with-a-missing-dhcp-server-response/"><u>Overcome Connection Problems - Dealing with a Missing DHCP Server Response</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-non-functioning-print-to-pdf-feature-in-windows-11/"><u>Overcoming the Challenge of Non-Functioning Print to PDF Feature in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-code-19-fixing-dvd-and-cd-rom-drive-issues-in-windows-10-due-to-corrupted-settings/"><u>Resolve Code 19: Fixing DVD and CD-Rom Drive Issues in Windows 10 Due to Corrupted Settings</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-crashing-problems-in-rainbow-six-siege-for-windows-users/"><u>Resolving Crashing Problems in Rainbow Six Siege for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-restore-sound-functionality-of-your-sony-ps4-headset-or-controller/"><u>Step-by-Step Solution to Restore Sound Functionality of Your Sony PS4 Headset or Controller</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-solution-to-windows-cannot-access-specified-device-path-problem/"><u>The Ultimate Solution to 'Windows Cannot Access Specified Device Path' Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-cache-miss-errors-in-chrome-browser/"><u>Troubleshooting Cache Miss Errors in Chrome Browser</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-uninstalling-applications-from-your-iphone-or-android-device/"><u>Ultimate Guide: Uninstalling Applications From Your iPhone or Android Device</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/understanding-intellectual-property-rights-on-video-screen-captures/"><u>Understanding Intellectual Property Rights on Video Screen Captures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/verizons-hottest-savings-opportunities-monthly-best-deals-on-phone-upgrades/"><u>Verizon's Hottest Savings Opportunities: Monthly Best Deals on Phone Upgrades</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-social-media-coverage-start-scale-resolution-length-for-2024/"><u>[New] Social Media Coverage Start Scale, Resolution, Length for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-step-by-step-guide-mastering-zoom-on-a-windows-10-device/"><u>[New] Step-by-Step Guide Mastering Zoom on a Windows 10 Device</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-gear-vr-latest-phone-compatibility-guide-for-2024/"><u>[Updated] Gear VR Latest Phone Compatibility Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-essential-aspect-ratio-tips-for-social-media-videos/"><u>2024 Approved Essential Aspect Ratio Tips for Social Media Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-quality-hd-videos-at-a-tap-top-10-android-choices/"><u>2024 Approved High-Quality Hd Videos at a Tap Top 10 Android Choices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-premium-cameras-for-next-level-music-video-production/"><u>2024 Approved Premium Cameras for Next-Level Music Video Production</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-googles-gemini-ai-with-chatgpt-which-is-superior/"><u>Comparing Google's Gemini AI with ChatGPT: Which Is Superior?</u></a></li>
+<li><a href="https://common-error.techidaily.com/correct-valorant-crash-enforce-system-restart/"><u>Correct Valorant Crash: Enforce System Restart</u></a></li>
+<li><a href="https://common-error.techidaily.com/enabling-digital-pen-and-touch-features-when-theyre-missing/"><u>Enabling Digital Pen and Touch Features When They're Missing</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-solving-persistent-mouse-unplugging-problems/"><u>Expert Tips on Solving Persistent Mouse Unplugging Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-steam-game-dll-mismatch-issue/"><u>Fixing Steam Game: DLL Mismatch Issue</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-idea-to-recording-a-comprehensive-guide-to-podcast-scripting/"><u>From Idea to Recording A Comprehensive Guide to Podcast Scripting</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-windows-update-running-again-heres-how-you-fix-it/"><u>Getting Windows Update Running Again? Here’s How You Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-tips-and-tricks-getting-past-windows-update-freezing-at-full-percentage/"><u>Quick Tips & Tricks: Getting Past Windows Update Freezing at Full Percentage</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-print-driver-host-service-for-32-bit-programs-failed-no-longer-occurs/"><u>Resolved: Error 'Print Driver Host Service for 32-Bit Programs Failed' No Longer Occurs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-module-not-found-errors-a-step-by-step-guide/"><u>Resolving 'Module Not Found' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-stop-code-0x0000001d-expert-solutions/"><u>Troubleshooting Stop Code 0X0000001D: Expert Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/youtube-audio-malfunctioning-in-windows-10-heres-how-to-get-it-right/"><u>YouTube Audio Malfunctioning in Windows 10? Here's How to Get It Right!</u></a></li>
 </ul></div>
 

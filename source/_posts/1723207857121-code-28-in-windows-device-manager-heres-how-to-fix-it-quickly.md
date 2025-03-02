@@ -1,7 +1,7 @@
 ---
 title: Code 28 in Windows Device Manager? Here's How to Fix It Quickly
-date: 2024-08-09T00:49:17.780Z
-updated: 2024-08-10T00:49:17.780Z
+date: 2025-03-01T00:11:42.574Z
+updated: 2025-03-02T09:09:57.658Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 ## Code 28 in Windows Device Manager? Here's How to Fix It Quickly
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e37c8ec1c80.jpg)
 
  If you’re facing the Code 28 error – _**“The drivers for this device are not installed. (Code 28)”**_  , don’t worry. In this post, you’ll learn how to fix it easily & quickly.
@@ -28,28 +25,14 @@ Here’s how to do it:
 
  1\. On your taskbar, right-click the**Start** button and select**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager.jpg)
 
  2\. Right-click the device that causes the Code 28 error, then select**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-device.jpg)
 
  3\. In the pop-up window, check the box next to**Delete the driver software for this device** and click**Uninstall** again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall.jpg)
 
  4\. After uninstalling the device, go to the manufacturer’s website to download the latest driver for your device and then follow the on-screen instructions to install it.
@@ -62,18 +45,12 @@ No advertising on the website.
 
  2\. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-now-1.jpg)
 
  3\. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
   
  Or click the**Update** button next to the flagged device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -90,11 +67,30 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-expert-tips-for-shifting-gender-identity-in-digital-imagery/"><u>[Updated] Expert Tips for Shifting Gender Identity in Digital Imagery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mp4-and-webm-extraction-from-social-media-streams-for-2024/"><u>[Updated] MP4 & WebM Extraction From Social Media Streams for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-updated-interview-playbook-for-audience-allure-for-2024/"><u>[Updated] Updated Interview Playbook for Audience Allure for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaining-unauthorized-entry-to-c-spans-vault/"><u>2024 Approved Gaining Unauthorized Entry to C-Span's Vault</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-refining-your-tiktok-profile-age-with-ease/"><u>2024 Approved Refining Your TikTok Profile Age with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-the-challenge-of-error-0x887a0006-speedy-solutions-unveiled-for-hassle-free-fixes/"><u>Conquer the Challenge of Error 0X887A0006: Speedy Solutions Unveiled for Hassle-Free Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/daily-retrospection-made-simple-with-facebooks-feature/"><u>Daily Retrospection Made Simple with Facebook's Feature</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/free-pre-designed-material-theme-for-laravel-admin-panel-a-quick-start-with-the-creativetim-templates/"><u>Free Pre-Designed Material Theme for Laravel Admin Panel - A Quick Start with the @CreativeTim Templates</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209385132-how-to-fix-livekernelevent-141-hardware-error-2024/"><u>How to Fix LiveKernelEvent 141 Hardware Error – 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-fixes-for-when-your-dns-server-is-down-no-stress-required/"><u>Immediate Fixes for When Your DNS Server Is Down - No Stress Required!</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-connection-ready-to-use-fixes-for-your-airpods-and-windows-pcs/"><u>Mastering the Connection: Ready-to-Use Fixes for Your AirPods and Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-left-vs-right-click-discrepancy-solutions-for-windows-11-users/"><u>Overcoming the Left Vs. Right Click Discrepancy: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-failed-to-connect-issue-in-overwatch-a-step-by-step-guide/"><u>Resolving the 'Failed to Connect' Issue in Overwatch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-corsair-keyboard-expert-tips-to-overcome-non-functionality-issues/"><u>Revive Your Corsair Keyboard: Expert Tips to Overcome Non-Functionality Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-sharing-your-youtube-videos-on-facebook-effortlessly/"><u>Step-by-Step Guide: Sharing Your YouTube Videos on Facebook Effortlessly</u></a></li>
+</ul></div>
+

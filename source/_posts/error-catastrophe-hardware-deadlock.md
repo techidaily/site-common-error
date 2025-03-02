@@ -1,7 +1,7 @@
 ---
 title: "Error Catastrophe: Hardware Deadlock"
-date: 2025-02-08T18:09:10.414Z
-updated: 2025-02-11T08:41:30.151Z
+date: 2025-02-26T16:43:50.304Z
+updated: 2025-03-02T12:36:00.936Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 | **Memory**           | 4 GB RAM                  |
 | **Graphics Card**    | Intel HD 4000             |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that works for you.
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Adjust the display resolution and refresh rate
 
  If screen tearing keeps occurring, it’s possible that your display resolution is configured to a higher point than what your monitor can handle. Adjusting it might help you fix the issue.
@@ -65,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 1. On your keyboard, press**Win** +**S** (the Windows logo key and the S key) and type**resolution** . Then click**Change the resolution of the display** in the search results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/search-box-resolution.jpg)
 2. Scroll down to the end and select**Advanced display settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
@@ -84,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
  Restart your PC after each time you change the settings and see if screen tearing still appears.
 
 If the problem persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2:**Disable Game Mode and fullscreen optimizations**
 
@@ -147,10 +131,6 @@ If nothing changes, you might need to check your graphic drivers.
 
 If it doesn’t do the trick, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5:**Turn on VSync**
 
  As mentioned before, screen tearing happens in the moments when the game’s frame rate is too high for your monitor to keep up. To fix that, VSync, or vertical sync, could be helpful. It is designed to synchronize the frame rate of a game with your monitor’s refresh rate.
@@ -163,10 +143,6 @@ If it doesn’t do the trick, simply move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Setting Vertical sync to**Adaptive** might also be efficient, according to some players.
 
  **For AMD users, the feature is called Wait for Vertical Refresh:**
@@ -178,24 +154,12 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click**Always on** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
 
  To enable VSync in Valorant, go to**Settings** \>**VIDEO** \>**GRAPHICS QUALITY** , and set VSync to**ON** :  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-vsync-on.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When VSync is on, you should turn off**Limit FPS Always** in Valorant, or the two settings might conflict with each other.
 
@@ -227,10 +191,6 @@ If it doesn’t help, move on to the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/adv-display-settings.jpg)
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
@@ -272,20 +232,19 @@ For AMD users:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-art-of-adding-emojis-to-youtube-comments/"><u>[New] 2024 Approved The Art of Adding Emojis to YouTube Comments</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-easy-technique-storing-tweet-videos-and-images-on-cellphone/"><u>[New] Easy Technique Storing Tweet Videos and Images on Cellphone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-insiders-blueprint-for-finding-hidden-youtube-files/"><u>[New] The Insider's Blueprint for Finding Hidden YouTube Files</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-duel-for-dominance-physical-vs-virtual-spectacle/"><u>2024 Approved Duel for Dominance Physical vs Virtual Spectacle</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/avoid-feed-overload-how-to-stop-followers/"><u>Avoid Feed Overload How to Stop Followers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conversational-couture-tailoring-pick-up-lines-in-spanish/"><u>Conversational Couture: Tailoring Pick-Up Lines in Spanish</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-the-freezing-problem-nier-rereplications-stable-gameplay-tips/"><u>End the Freezing Problem - NieR: ReReplication's Stable Gameplay Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/hp-keyboard-malfunctions-5-easy-steps-to-restore-functionality/"><u>HP Keyboard Malfunctions? 5 Easy Steps to Restore Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024-updated-d-link-router-passwords-collection/"><u>July 2024 Updated D-Link Router Passwords Collection</u></a></li>
-<li><a href="https://common-error.techidaily.com/login-blues-overcoming-keyboard-errors-during-boot-process/"><u>Login Blues: Overcoming Keyboard Errors During Boot Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-solve-your-sims-4-launching-issues-today/"><u>Quick Guide: Solve Your Sims 4 Launching Issues Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-rpc-server-deserialization-error-on-your-windows-machine/"><u>Resolving the 'RPC Server Deserialization Error' On Your Windows Machine</u></a></li>
-<li><a href="https://article-tips.techidaily.com/sparks-last-stand-dji-mavic-air-emerges-as-gamers-choice-for-2024/"><u>Spark’s Last Stand? DJI Mavic Air Emerges as Gamer's Choice for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-user-privilege-issues-for-critical-operations-on-windows-versions/"><u>Troubleshooting User Privilege Issues for Critical Operations on Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/warframe-update-not-working-heres-how-you-can-successfully-retry-the-process/"><u>Warframe Update Not Working? Here's How You Can Successfully Retry the Process</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/10-cool-features-that-make-you-love-filmora-video-editor/"><u>10 Cool Features That Make You Love Filmora Video Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-overview-of-basic-and-simplified-hdr-photography/"><u>An Overview of Basic and Simplified HDR Photography</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208134679-bypass-windows-update-problem-0x80070002-with-these-quick-solutions/"><u>Bypass Windows Update Problem 0X80070002 with These Quick Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-comparison-should-freelancers-trust-bing-chat-over-chatgpt-eight-essential-points-you-must-know/"><u>Chatbot Comparison: Should Freelancers Trust Bing Chat Over ChatGPT? Eight Essential Points You Must Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-the-darkness-overcoming-google-chromes-intimidating-black-screen-challenge/"><u>Decode the Darkness: Overcoming Google Chrome's Intimidating Black Screen Challenge</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xbox-sxs-signals-of-absence/"><u>Exploring Xbox S/X's Signals of Absence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-personalize-your-google-meet-experience-with-fresh-backgrounds/"><u>In 2024, Personalize Your Google Meet Experience with Fresh Backgrounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-render-error-initialization-failure-patch-of-2021/"><u>Solutions for 'Render Error - Initialization Failure' Patch of 2021</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-pubg-construction-delays-and-missing-structures/"><u>Solved: How to Fix PUBG Construction Delays & Missing Structures</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-when-windows-10-fails-to-detect-logitech-input-devices/"><u>Solving the Issue: When Windows 10 Fails to Detect Logitech Input Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-ultimate-guide-for-converting-tiktok-sounds-into-practical-phone-alarms/"><u>The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-error-0x80070ebdc-in-windows-updates/"><u>Troubleshooting Tips for Fixing Error 0X80070ebdc in Windows Updates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-honor-magic-vs-2-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor Magic Vs 2 FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-effective-car-battery-jump-starters-comprehensive-analysis-by-autotechreview/"><u>Ultimate Guide to the Most Effective Car Battery Jump Starters - Comprehensive Analysis by AutoTechReview</u></a></li>
 </ul></div>
 

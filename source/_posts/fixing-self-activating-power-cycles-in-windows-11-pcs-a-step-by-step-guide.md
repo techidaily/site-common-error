@@ -1,7 +1,7 @@
 ---
 title: "Fixing Self-Activating Power Cycles in Windows 11 PCs: A Step-by-Step Guide"
-date: 2024-08-09T00:49:15.344Z
-updated: 2024-08-10T00:49:15.344Z
+date: 2025-02-24T04:59:11.702Z
+updated: 2025-03-02T00:25:56.818Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -37,9 +34,6 @@ Here’s how to do it:
 
  1) On your keyboard, press **the Windows logo key** and type microphone, then click on Microphone privacy settings.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
@@ -72,9 +66,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -82,31 +73,19 @@ Here’s how to do it:
 To do so:
 
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -129,11 +108,31 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-sound-recording-tools-11-selection/"><u>[New] Elite Sound Recording Tools - #11 Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-vllos-user-driven-feedback/"><u>[New] Examining VLLO's User-Driven Feedback</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-sustained-disconnection-technique-from-youtube-shorts/"><u>[Updated] Sustained Disconnection Technique From YouTube Shorts</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-update-error-in-windows-a-comprehensive-fix-guide/"><u>Bypassing 'Update Error' In Windows: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/cant-get-your-pdf-to-print-quick-tips-for-a-smooth-printout/"><u>Can't Get Your PDF to Print? Quick Tips for a Smooth Printout!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-lenovo-thinkpad-x12-detachable-is-the-go-to-choice-for-2-in-1-devices-with-unrivaled-keyboard-quality/"><u>Discover Why the Lenovo ThinkPad X12 Detachable Is the Go-To Choice for 2-in-1 Devices with Unrivaled Keyboard Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208872573-essential-media-driver-missing-fix-now/"><u>Essential Media Driver Missing? Fix Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-surface-pro-4-pen-working-a-step-by-step-troubleshooting-guide/"><u>Get Your Surface Pro 4 Pen Working: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-guide-complet-transformer-des-fichiers-quicktime-qt-en-mp4-sur-internet-via-movavi/"><u>Gratuit - Guide Complet : Transformer Des Fichiers QuickTime (QT) en MP4 Sur Internet via Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211142121-hidden-sd-trouble-break-free-now/"><u>Hidden SD Trouble, Break Free Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-corrupt-drivers-easily-and-quickly/"><u>How to Fix Corrupt Drivers Easily & Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-deploy-bots-in-your-discord-space-a-comprehensive-guide/"><u>How to Successfully Deploy Bots in Your Discord Space: A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-8-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 8</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-device-connection-failures-when-casting-from-windows-11-expert-advice/"><u>Resolving Device Connection Failures When Casting From Windows 11 [Expert Advice]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-savvy-users-top-picks-android-and-iphones-best-ai-apps/"><u>Tech-Savvy Users' Top Picks: Android & iPhone's Best AI Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unexpected-computer-power-downs-a-comprehensive-guide/"><u>Troubleshooting Unexpected Computer Power Downs: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unleash-new-sounds-top-7-voice-transformation-android-apps/"><u>Unleash New Sounds Top 7 Voice Transformation Android Apps</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows Update Troubleshooting: A Step-by-Step Fix to Error 80244019"
-date: 2025-02-07T01:13:42.444Z
-updated: 2025-02-11T03:00:27.321Z
+date: 2025-02-25T18:06:11.920Z
+updated: 2025-03-02T13:56:35.961Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/47ffc6f56df8f55aee8393dc2516df4e9eefe4f14
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 fixes for **Mouse keeps disconnecting**
 
 Here are 3 fixes that have helped other users resolve the mouse keeps disconnecting problem. Just work your way down the list until the problem is resolved.
@@ -43,10 +39,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
@@ -54,18 +46,10 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
@@ -73,10 +57,6 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -120,18 +100,19 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-skyrocketing-sales-with-high-roi-in-dynamic-fb-ad-creations/"><u>[New] 2024 Approved Skyrocketing Sales with High ROI in Dynamic FB Ad Creations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-convert-and-share-optimal-tools-for-youtube-to-avi-transfers-for-2024/"><u>[Updated] Convert & Share Optimal Tools for YouTube-to-AVI Transfers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-skyrocket-your-youtube-speed-with-effective-render-techniques/"><u>[Updated] In 2024, Skyrocket Your YouTube Speed with Effective Render Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-your-journey-with-hdr-in-ps/"><u>2024 Approved From Novice to Pro Your Journey with HDR in PS</u></a></li>
-<li><a href="https://common-error.techidaily.com/combat-automatic-sleep-mode-easy-remedies-for-stable-pc-performance/"><u>Combat Automatic Sleep Mode – Easy Remedies for Stable PC Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/elevate-your-windows-11-gaming-performance-essential-adjustments-and-tweaks/"><u>Elevate Your Windows 11 Gaming Performance – Essential Adjustments & Tweaks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-guides-by-tom-comprehensive-hardware-insights/"><u>Expert Guides by Tom: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-driverpowerstatefailure-issue/"><u>How to Fix DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-funny-face-of-freedom-top-20-pranks-at-facebooks-barracks/"><u>In 2024, The Funny Face of Freedom Top 20 Pranks at Facebook's Barracks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-shots-essential-photography-edits-for-2024/"><u>Perfect Shots Essential Photography Edits for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectify-unseen-windows-1011-window-2/"><u>Rectify Unseen Windows 10/11 Window #2</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-easy-steam-disk-write-errors/"><u>Step-by-Step Guide: Overcoming Easy Steam Disk Write Errors</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-next-wave-of-social-media-top-apps-as-periscope-alternates-for-2024/"><u>The Next Wave of Social Media Top Apps as Periscope Alternates for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-imagelogger-screen-logger-xtreme-for-2024/"><u>[New] ImageLogger Screen Logger Xtreme for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-an-in-depth-look-at-time-lapse-photography-using-ipad/"><u>[New] In 2024, An In-Depth Look at Time-Lapse Photography Using iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist-for-2024/"><u>[Updated] Harmonize Your Preferences How to Create an Engaging YouTube Playlist for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-photo-editing-blur-or-eliminate-unwanted-borders/"><u>2024 Approved Professional Photo Editing Blur or Eliminate Unwanted Borders</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-and-repairing-continuous-boot-issues-on-desktop-pcs/"><u>Bypassing and Repairing Continuous Boot Issues on Desktop PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-minecrafts-opengl-error-messages-and-glitches/"><u>Expert Tips for Resolving Minecraft's OpenGL Error Messages and Glitches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-nord-3-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from OnePlus Nord 3 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-journey-to-storytelling-gear-selection-guide/"><u>In 2024, Journey to Storytelling Gear Selection Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-handheld-tech-to-eliminate-shaky-screenshot-videos/"><u>In 2024, Top Handheld Tech to Eliminate Shaky Screenshot Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-inadequate-system-resources-preventing-completion-of-services/"><u>Resolved: Inadequate System Resources Preventing Completion of Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-overcoming-directx-hardware-component-creation-errors/"><u>Resolved: Overcoming DirectX Hardware Component Creation Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-windows-10-bluetooth-connectivity-problems/"><u>Troubleshoot and Resolve Windows 10 Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-error-code-0x80071ac3-how-to-fix-a-corrupted-disk/"><u>Understanding Error Code 0X80071AC3: How to Fix a Corrupted Disk</u></a></li>
 </ul></div>
 

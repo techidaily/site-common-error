@@ -1,7 +1,7 @@
 ---
 title: Guide to Restoring Wi-Fi Capability When It’s Disabled [Problem Solved]
-date: 2025-02-04T17:09:07.388Z
-updated: 2025-02-10T16:12:35.236Z
+date: 2025-02-25T17:09:47.606Z
+updated: 2025-03-02T03:22:53.247Z
 tags:
   - win11
   - win10
@@ -48,14 +48,6 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -66,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
@@ -77,22 +65,10 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
 
@@ -139,18 +115,17 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-detailed-procedure-for-sending-time-synchronized-srt-files-online/"><u>[New] Detailed Procedure for Sending Time-Synchronized SRT Files Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-into-the-future-mastering-instagram-filters-for-enhanced-imagery/"><u>[New] In 2024, Step Into the Future Mastering Instagram Filters for Enhanced Imagery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>[Updated] In 2024, Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-shorts-revenue-sharing-explained-how-much-will-i-make/"><u>[Updated] YouTube Shorts Revenue Sharing Explained How Much Will I Make?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-the-color-grading-revolution-with-lightrooms-best-10-luts/"><u>2024 Approved Leading the Color Grading Revolution with LightRoom’s Best 10 LUTs</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-frustration-solved-restoring-functionality-between-keyboard-and-computer/"><u>Bluetooth Frustration Solved: Restoring Functionality Between Keyboard and Computer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/camstudio-full-features-analysis-for-2024/"><u>CamStudio Full Features Analysis for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-the-aw-snap-mishap-in-chrome/"><u>Expert Advice on Repairing the 'Aw, Snap!' Mishap in Chrome</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-canon-imageclass-mf4800-printing-drivers-step-by-step-download-tutorial/"><u>Install Canon ImageCLASS MF4800 Printing Drivers: Step-by-Step Download Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-your-game-launch-tackling-common-origins-setup-problems/"><u>Mastering Your Game Launch: Tackling Common Origins Setup Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209966933-quick-fixes-for-when-your-device-reports-no-battery-easy-steps-inside/"><u>Quick Fixes for When Your Device Reports No Battery – Easy Steps Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-window-10-explore-bar-erratic-top-hook-scrolling-problem/"><u>Resolving the Window 10 Explore Bar Erratic Top-Hook Scrolling Problem</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-strategies-for-capturing-lol-matches-for-2024/"><u>Top Strategies for Capturing LOL Matches for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-scouring-youtubes-discussions/"><u>[New] 2024 Approved Scouring YouTubes' Discussions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iy-guide-to-turning-youtube-screen-time-into-a-free-screencast/"><u>[New] DIY Guide to Turning YouTube Screen Time Into a FREE Screencast</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-storage-management-on-win-1011/"><u>Enhancing Storage Management on Win 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unspecified-error-understanding-and-solving-problem-0x800n4005/"><u>Fixing 'Unspecified Error': Understanding and Solving Problem 0X800n4005</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-red-screen-dilemma-a-comprehensive-solutions-overview/"><u>Fixing Windows 11'S Red Screen Dilemma - A Comprehensive Solutions Overview</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-network-connection-errors-due-to-unplugged-cables/"><u>Fixing Windows Network Connection Errors Due to Unplugged Cables</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/latest-guide-troubleshooting-miracast-connectivity/"><u>Latest Guide: Troubleshooting Miracast Connectivity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ding-sound-wonders-without-the-use-of-a-microphone/"><u>Recording Sound Wonders Without the Use of a Microphone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-cannot-reach-live-config-servers-troubleshooting-guide/"><u>Resolving 'Cannot Reach Live Config Servers': Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-secure-trustwise-modification-rights-on-your-system-files/"><u>Steps to Secure TrustWise Modification Rights on Your System Files</u></a></li>
 </ul></div>
 

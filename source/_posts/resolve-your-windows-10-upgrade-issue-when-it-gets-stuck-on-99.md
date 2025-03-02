@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Windows 10 Upgrade Issue When It Gets Stuck on 99%%
-date: 2025-02-07T04:01:11.409Z
-updated: 2025-02-11T04:36:54.860Z
+date: 2025-02-23T02:41:07.656Z
+updated: 2025-03-01T23:35:23.284Z
 tags:
   - win11
   - win10
@@ -50,19 +50,11 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to all flagged devices to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -76,10 +68,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
@@ -87,10 +75,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
@@ -103,10 +87,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
@@ -144,10 +124,6 @@ Now check to see your mic is back on track.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -155,10 +131,6 @@ Now check to see your mic is back on track.
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to fire up the **Settings** window. Then, select **Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
@@ -193,18 +165,22 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-achieve-superior-mp4-output-from-instagram-videos-2-ways/"><u>[New] 2024 Approved Achieve Superior MP4 Output From Instagram Videos 2 Ways</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>[Updated] In 2024, Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-premier-list-of-smartphone-compatible-vr-headset/"><u>[Updated] In 2024, The Premier List of Smartphone-Compatible VR Headset</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-alteration-a-guide-to-video-color-correction-11-parts/"><u>2024 Approved The Art of Alteration A Guide to Video Color Correction (11 Parts)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/covert-observers-fb-flashbacks-reader-for-2024/"><u>Covert Observers FB Flashbacks Reader for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/daily-dough-pewdiepies-earnings-breakdown/"><u>Daily Dough PewDiePie's Earnings Breakdown</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ideal-12-substitutes-for-itunes-navigate-windows-and-mac-alternatives-ahead-of-2024/"><u>Discover the Ideal 12 Substitutes for iTunes: Navigate Windows & Mac Alternatives Ahead of 2024!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-device-not-found-effortless-fixes-to-connect-your-usb-storage-device-again/"><u>Overcoming 'Device Not Found': Effortless Fixes to Connect Your USB Storage Device Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-detected-audio-enhancement-glitches-easily/"><u>Overcoming Windows Detected Audio Enhancement Glitches Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-non-responsive-keyboard-typing/"><u>Resolved Issue: Non-Responsive Keyboard Typing</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-for-mic-problems-on-windows-10-computers-quick-fixes-inside/"><u>Solution for Mic Problems on Windows 10 Computers - Quick Fixes Inside!</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-methods-for-successfully-recording-google-hangouts-a-guide-for-pc-and-mac-users/"><u>Top Methods for Successfully Recording Google Hangouts: A Guide for PC and Mac Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ensuring-compatible-hardware-for-optimal-performance-in-world-of-warcraft/"><u>Troubleshooting: Ensuring Compatible Hardware for Optimal Performance in World of Warcraft</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-journey-to-unlicensed-beauty-open-source-portfolits/"><u>[New] 2024 Approved Journey to Unlicensed Beauty Open-Source Portfolits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-level-up-your-farming-life-explore-7-14-mods/"><u>2024 Approved Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-x90s-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-buzzwords-a-critical-look-at-opting-out-of-the-iphone-gro-up-16-expert-analysis/"><u>Beyond Buzzwords: A Critical Look at Opting Out of the iPhone Gro-Up 16 - Expert Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-solution-to-correct-the-defective-keyboard-not-working-properly/"><u>Complete Solution to Correct the Defective Keyboard Not Working Properly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dive-deep-into-images-with-nikon-coolpix-p1000-superzoom/"><u>Dive Deep Into Images with Nikon COOLPIX P1000 Superzoom</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-strategies-for-fixing-windows-1903-feature-update-complications/"><u>Efficient Strategies for Fixing Windows 1903 Feature Update Complications</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-access-issues-unlocking-the-installation-drive-on-windows-10/"><u>Fixing Access Issues: Unlocking the Installation Drive on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/get-inside-windows-credentials-manager-with-win11s-11-strategies/"><u>Get Inside Windows Credentials Manager with Win11's 11 Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-rid-of-lag-in-minecraft-top-tips-and-fixes/"><u>Getting Rid of Lag in Minecraft - Top Tips and Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-c53-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme C53 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-responsive-fn-keys-effective-solutions-and-tips/"><u>Resolving Non-Responsive Fn Keys - Effective Solutions and Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revised-service-setup-inf-validated/"><u>Revised Service Setup: INF Validated</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplify-your-pc-life-expert-guide-to-using-windows-11-file-explorer/"><u>Simplify Your PC Life: Expert Guide to Using Windows 11 File Explorer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trouble-connecting-to-nintendo-switch-online-server-issues-or-personal-connection/"><u>Trouble Connecting to Nintendo Switch Online: Server Issues or Personal Connection?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211230678-troubleshooting-pubg-building-loading-errors-effective-fixes-inside/"><u>Troubleshooting PUBG Building Loading Errors - Effective Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-the-solution-addressing-entry-point-not-detected-in-windows-environments/"><u>Unlock the Solution: Addressing Entry Point Not Detected in Windows Environments</u></a></li>
 </ul></div>
 

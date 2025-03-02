@@ -1,7 +1,7 @@
 ---
 title: From Frustration to Success with NVIDIA Setup
-date: 2024-09-14T16:41:48.632Z
-updated: 2024-09-20T19:30:49.953Z
+date: 2025-02-28T16:46:36.935Z
+updated: 2025-03-02T04:35:38.070Z
 tags:
   - win11
   - win10
@@ -117,22 +117,8 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
 
@@ -142,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
@@ -178,5 +157,23 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-ps4-screens-with-obs-full-steps/"><u>[New] Mastering PS4 Screens with OBS Full Steps</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-digitale-transformation-mit-von-fraunhofer-und-abbeyy-geheime-schritte-in-das-neue-norm/"><u>1. Digitale Transformation Mit Von Fraunhofer Und ABBEYY - Geheime Schritte in Das Neue 'Norm'</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-24-repair-steps-overcoming-device-not-present-issues-in-windows-operating-systems/"><u>Error Code 24 Repair Steps: Overcoming Device Not Present Issues in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-unresponsive-keyboard-navigation-buttons-top-strategies-inside/"><u>Fix Unresponsive Keyboard Navigation Buttons - Top Strategies Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-it-common-issues-and-fixes-for-non-working-arrow-key-functionality/"><u>Fixed It! Common Issues and Fixes for Non-Working Arrow Key Functionality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-update-error-0x8007001f-successfully/"><u>How to Overcome Windows Update Error 0X8007001f Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-screen-brightness-malfunction/"><u>How to Resolve Windows 11 Screen Brightness Malfunction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protect-your-privacy-detecting-and-responding-to-unauthorized-airtag-tracking-in-depth-tutorial/"><u>Protect Your Privacy: Detecting and Responding to Unauthorized AirTag Tracking - In-Depth Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram-for-2024/"><u>Quick-Start Guide Making Your GIFS Count as Emoji Stickers in Telegram for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-driver-failed-errors-in-your-device-adjust-user-settings/"><u>Resolving 'Driver Failed' Errors in Your Device - Adjust User Settings</u></a></li>
+<li><a href="https://win-latest.techidaily.com/resolving-boot-record-problems-a-guide-using-bootrec-and-bcdboot-in-cmd/"><u>Resolving Boot Record Problems: A Guide Using Bootrec & Bcdboot in CMD</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-a-non-existent-touchpad-icon/"><u>Solutions for a Non-Existent Touchpad Icon?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/utorrent-peer-connection-woes-how-to-diagnose-and-fix-common-problems-quickly/"><u>UTorrent Peer Connection Woes - How to Diagnose & Fix Common Problems Quickly</u></a></li>
+</ul></div>
 

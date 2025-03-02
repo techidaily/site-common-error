@@ -1,7 +1,7 @@
 ---
 title: Surface Pen Not Working [Solved]
-date: 2025-02-06T00:26:22.173Z
-updated: 2025-02-10T17:11:29.105Z
+date: 2025-02-24T12:18:03.720Z
+updated: 2025-03-01T20:12:58.876Z
 tags:
   - win11
   - win10
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Wait for Windows to detect and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
@@ -72,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Check to see if your mouse can work properly now.
 
@@ -113,10 +105,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
@@ -125,10 +113,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Check for Windows Updates
 
  If none of the fixes above worked, updating your system is very likely the solution to your issue. In most cases, Windows updates can address bugs related to both hardware and software. Here is how to do it:
@@ -136,10 +120,6 @@ OR
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -171,14 +151,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>[New] Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-understanding-and-fixing-the-6ba-issue-in-windows-updates/"><u>1. Understanding and Fixing the 6BA Issue in Windows Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169904091-digital-discounts-on-xbox-series-xs-unlocked/"><u>Digital Discounts on Xbox Series X|S Unlocked</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-windows-store-cache-errors-expert-advice/"><u>How To Repair Your Windows Store Cache Errors – Expert Advice</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-unexpected-computer-shutdown-issues/"><u>Resolved: How to Fix Unexpected Computer Shutdown Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-dell-laptop-keyboard/"><u>Troubleshooting Guide: Fixing a Nonfunctional Dell Laptop Keyboard</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/k-creative-potential-access-free-sfx/"><u>Unlock Creative Potential, Access Free SFX</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-10s-restart-riddle-expert-strategies-to-restore-stability/"><u>Winning Against Windows 10'S Restart Riddle: Expert Strategies to Restore Stability</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-guide-to-perfecting-slow-motion-on-your-android-device/"><u>[New] In 2024, Step-by-Step Guide to Perfecting Slow Motion on Your Android Device</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-text-artistry-in-ae-our-top-10-recommendations/"><u>[New] In 2024, Text Artistry in AE Our Top 10 Recommendations</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209666746-solved-valorant-dx11-feature-level-100-is-required-to-run-the-engine/"><u>[SOLVED] Valorant ''DX11 Feature Level 10.0 Is Required to Run the Engine</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-free-youtube-revenue-predictor-tools/"><u>[Updated] Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivating-license-validity-remaining-time-alert-on-winoses/"><u>Deactivating License Validity Remaining Time Alert on WinOSes</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-solutions-for-fixing-error-code-0x80072f8f-on-your-pc-running-windows-11-or-10/"><u>Definitive Solutions for Fixing Error Code 0X80072f8f on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-complete-blackout-issue-during-launch-of-monster-hunter-world/"><u>Fixing the Complete Blackout Issue During Launch of Monster Hunter World</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210055096-9781989838358-guided-mindfulness-meditations-for-anxiety-stress-relief-and-overcoming-insomnia/"><u>Guided Mindfulness Meditations for Anxiety, Stress Relief and Overcoming Insomnia | Free Book</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>In 2024, Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capturing-whatsapp-call-data-a-compreayers-guide/"><u>In 2024, Capturing WhatsApp Call Data A Compreayer's Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/opencl-dll-absence-common-troubleshooting-steps/"><u>OpenCL DLL Absence: Common Troubleshooting Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-pinnacle-of-insta-grids-our-curated-list-of-best-tools/"><u>The Pinnacle of Insta Grids Our Curated List of Best Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-why-isnt-my-print-screen-working-solutions-for-windows-1110/"><u>Troubleshooting: Why Isn't My Print Screen Working? Solutions for Windows 11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-the-infinite-waiting-screen-of-valorant-with-proven-fixes/"><u>Unstuck the Infinite Waiting Screen of Valorant with Proven Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/use-geo-targeted-keywords-if-applicable-if-youre-targeting-specific-regions-or-local-audiences-consider-incorporating-geo-targeted-keywords-into-your-titles123/"><u>Use Geo-Targeted Keywords (if Applicable): If You're Targeting Specific Regions or Local Audiences, Consider Incorporating Geo-Targeted Keywords Into Your Titles for Better Relevance and Visibility in Those Areas</u></a></li>
 </ul></div>
 

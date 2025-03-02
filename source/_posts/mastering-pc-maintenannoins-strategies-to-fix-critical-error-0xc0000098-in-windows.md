@@ -1,7 +1,7 @@
 ---
 title: "Mastering PC Maintenannoins: Strategies to Fix Critical Error 0xC0000098 in Windows"
-date: 2024-09-15T17:34:25.107Z
-updated: 2024-09-20T17:58:43.630Z
+date: 2025-02-22T16:37:05.136Z
+updated: 2025-03-02T11:06:36.852Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -91,13 +84,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Type **the following command** and press **Enter** :  
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -125,5 +111,26 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-collection-of-sandbox-game-picks/"><u>[New] 2024 Approved The Ultimate Collection of Sandbox Game Picks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-infusing-identity-tips-for-iconic-podcast-graphics/"><u>[New] Infusing Identity Tips for Iconic Podcast Graphics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-android-video-editor-app-roundup/"><u>[Updated] In 2024, The Ultimate Android Video Editor App Roundup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovate-iconoclastic-images-using-giphy/"><u>2024 Approved Innovate Iconoclastic Images Using Giphy</u></a></li>
+<li><a href="https://common-error.techidaily.com/battleye-service-installed-successfully-troubleshooting-guide-updated/"><u>BattlEye Service Installed Successfully - Troubleshooting Guide Updated</u></a></li>
+<li><a href="https://video-capture.techidaily.com/bulk-conversion-from-mpga-to-mp3-a-comprehensive-guide/"><u>Bulk Conversion From MPGA to MP3: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-to-overcome-your-livekernelevent-117-dilemma/"><u>Comprehensive Tips to Overcome Your LiveKernelEvent 117 Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/correctly-resolving-the-program-cant-start-error-code-is-0xc000007b-a-comprehensive-fixer/"><u>Correctly Resolving 'The Program Can’t Start, Error Code Is 0xC000007B' - A Comprehensive Fixer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-methods-to-retrieve-and-save-youtube-captions-for-offline-use/"><u>Easy Methods to Retrieve and Save YouTube Captions for Offline Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-broken-spacebar-on-your-windows-11-laptop-or-pc/"><u>How to Fix a Broken Spacebar on Your Windows 11 Laptop or PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-missing-mouse-icon-on-your-windows-11-pc-expert-solutions/"><u>How to Fix a Missing Mouse Icon on Your Windows 11 PC – Expert Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-pc-from-falling-asleep-automatically-simple-fixes/"><u>How to Stop Your PC From Falling Asleep Automatically - Simple Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y78-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y78 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-efficiency-how-to-lower-cyberpunk-2077s-heavy-load-on-your-processor/"><u>Maximize Efficiency: How to Lower Cyberpunk 2077'S Heavy Load on Your Processor</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211773409-no-luck-with-your-pdf-printer-let-us-guide-you-to-quick-fixes/"><u>No Luck with Your PDF Printer? Let Us Guide You to Quick Fixes.</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-win11-crashes-guide-to-solve/"><u>No More Win11 Crashes: Guide to Solve</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/now-available-8-groundbreaking-ai-assistants-for-you/"><u>Now Available: 8 Groundbreaking AI Assistants for You</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-development-woes-heres-how-you-can-speed-up-building-loading-times/"><u>PUBG Development Woes? Here's How You Can Speed Up Building Loading Times</u></a></li>
+</ul></div>
 

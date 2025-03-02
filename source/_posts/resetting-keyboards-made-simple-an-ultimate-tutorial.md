@@ -1,7 +1,7 @@
 ---
 title: "Resetting Keyboards Made Simple: An Ultimate Tutorial"
-date: 2024-09-14T19:00:14.239Z
-updated: 2024-09-20T16:05:56.664Z
+date: 2025-02-26T20:05:23.690Z
+updated: 2025-03-02T04:29:31.292Z
 tags:
   - win11
   - win10
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
@@ -86,13 +79,6 @@ If you have no idea how to do a system restore, refer steps below:
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**control** and hit Enter to open the Control Panel.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) View by **Small icons** and click **System** .
 
@@ -114,13 +100,6 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
@@ -128,13 +107,6 @@ If you have no idea how to do a system restore, refer steps below:
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -156,5 +128,20 @@ If you have no idea how to do a system restore, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-streamlining-post-production-with-luts-in-ae/"><u>[Updated] In 2024, Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-airborne-mass-movers-selecting-the-best-drones/"><u>2024 Approved Airborne Mass Movers Selecting the Best Drones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-resolve-logitech-g430-microphone-issues-quickly/"><u>Expert Tips to Resolve Logitech G430 Microphone Issues Quickly</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-cookiebot-drives-successful-online-presence-and-visibility/"><u>How Cookiebot Drives Successful Online Presence & Visibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-the-remote-procedure-call-service-not-responding-error-in-windows-systems/"><u>How to Repair the Remote Procedure Call Service Not Responding Error in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-remedies-restore-functionality-to-faulty-logitech-keyboards/"><u>Immediate Remedies: Restore Functionality to Faulty Logitech Keyboards</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone SE</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-quickcut-youtube-artist/"><u>In 2024, QuickCut YouTube Artist</u></a></li>
+<li><a href="https://common-error.techidaily.com/initiating-windows-11-successfully-remedies-for-persistent-freezing-at-startup/"><u>Initiating Windows 11 Successfully: Remedies for Persistent Freezing at Startup</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunction-learn-how-to-stop-incorrect-letter-inputs/"><u>Keyboard Malfunction? Learn How to Stop Incorrect Letter Inputs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/personal-evolution-building-an-enduring-youtubing-identity-for-2024/"><u>Personal Evolution Building an Enduring YouTubing Identity for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-tips-to-speed-up-boot-time-for-windows-7-users/"><u>Quick Tips to Speed Up Boot Time for Windows 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-wacom-graphics-tablet/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Wacom Graphics Tablet</u></a></li>
+</ul></div>
 

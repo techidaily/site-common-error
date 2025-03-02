@@ -1,7 +1,7 @@
 ---
 title: Cursor Continuous Display Troubles? Learn How to Fix It Now!
-date: 2025-02-05T20:38:53.035Z
-updated: 2025-02-11T00:57:45.366Z
+date: 2025-03-01T14:37:29.933Z
+updated: 2025-03-01T16:57:09.376Z
 tags:
   - win11
   - win10
@@ -39,24 +39,12 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
@@ -66,17 +54,9 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -120,16 +100,22 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-elevation-strategy-quickly-reach-your-10k-view-quota/"><u>[New] In 2024, Channel Elevation Strategy – Quickly Reach Your 10K View Quota</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-iphone-x-identity-verification-restoring-biometric-lock/"><u>[New] Mastering iPhone X Identity Verification Restoring Biometric Lock</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-secrets-to-improve-your-gopro-videos/"><u>[New] Top Secrets to Improve Your GoPro Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-beginners-blueprint-setting-up-on-youtube/"><u>[Updated] In 2024, A Beginner's Blueprint Setting Up on YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>[Updated] In 2024, Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-prolong-your-pcs-durability-with-expert-advice-by-yl-computing-and-yl-software/"><u>How to Prolong Your PC’s Durability with Expert Advice by YL Computing and YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-windows-error-651/"><u>Quick Solutions for Resolving Windows Error 651</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-failed-to-login-through-user-profile-service/"><u>Step-by-Step Fix for 'Failed to Login Through User Profile Service'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-missing-bluetooth-devices-in-windows-11-without-hassle/"><u>Troubleshoot Missing Bluetooth Devices in Windows 11 Without Hassle</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-nonfunctional-usb-mouse-on-your-pc-top-solutions/"><u>Troubleshooting a Nonfunctional USB Mouse on Your PC: Top Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-word-potential-with-ai-powered-automated-drafting/"><u>Unlock Word Potential with AI-Powered Automated Drafting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-av-producers-the-ultimate-web-watchlist/"><u>[New] Innovative AV Producers The Ultimate Web Watchlist</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-full-guide-to-premiere-pro-full-screen-preview/"><u>[Updated] In 2024, Full Guide to Premiere Pro Full Screen Preview</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-quintessential-list-of-top-tier-gaming-cams-for-live-viewers-for-2024/"><u>[Updated] The Quintessential List of Top-Tier Gaming Cams for Live Viewers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/1718002228046-2024-approved-differences-between-iphone-x-face-id-and-samsung-face-recognition/"><u>2024 Approved Differences Between iPhone X Face ID & Samsung Face Recognition</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-error-successful-miracast-setup-with-unsupported-gadgets/"><u>Beat the Error: Successful Miracast Setup with Unsupported Gadgets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-imyfone-d-back-overview-tips-benefits-and-user-experience/"><u>Complete IMyFone D-Back Overview – Tips, Benefits, & User Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/disabling-touchpad-on-windows-10-whenever-a-mouse-is-connected-a-simple-guide/"><u>Disabling Touchpad on Windows 10 Whenever a Mouse Is Connected – A Simple Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-read-only-windows-file-constraints/"><u>Easing Read-Only Windows File Constraints</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-fixing-a-nonfunctional-mic-on-your-astro-a40-laptop/"><u>Effective Remedies for Fixing a Nonfunctional Mic on Your Astro A40 Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-functional-mic-issue-in-windows-11-troubleshooting-guide/"><u>Fixing a Non-Functional Mic Issue in Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-persistent-screen-shimmer-on-windows-11/"><u>Fixing the Persistent Screen Shimmer on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gigabyte-motherboard-driver-download-and-install-for-windows/"><u>Gigabyte Motherboard Driver Download & Install for Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-convertidor-de-archivos-3gp-en-linea-movavi/"><u>Gratis Convertidor De Archivos 3GP en Línea - Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-are-you-violating-copyright-by-screenrecording-youtube/"><u>In 2024, Are You Violating Copyright by ScreenRecording YouTube?</u></a></li>
+<li><a href="https://common-error.techidaily.com/us-caribbean/"><u>U.S. Caribbean</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209616525-unstick-your-windows-update-clearing-that-persistent-100-barrier-now-solved/"><u>Unstick Your Windows Update: Clearing that Persistent 100% Barrier – Now Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-unexpected-reboots/"><u>Windows 10: Unexpected Reboots</u></a></li>
 </ul></div>
 

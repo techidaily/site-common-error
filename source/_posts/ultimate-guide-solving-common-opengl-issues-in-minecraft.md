@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Common OpenGL Issues in Minecraft"
-date: 2024-09-15T17:36:28.157Z
-updated: 2024-09-20T17:43:08.226Z
+date: 2025-02-28T08:32:58.769Z
+updated: 2025-03-02T04:25:37.951Z
 tags:
   - win11
   - win10
@@ -62,13 +62,6 @@ Here’s how you can do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Uninstall and reinstall all your USB controller drivers
 
  This problem could be also caused by your**misconfigured USB controller drivers** , uninstalling and reinstalling them could fix it.
@@ -82,13 +75,6 @@ See how to do it:
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
 5. **Repeat** the step 4 for all your**other USB controllers drivers** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you uninstall all your USB controller drivers,**restart your computer** to let Windows reinstall the USB controller drivers automatically. Then check if the error still pops up.
 
@@ -128,13 +114,6 @@ Restart your computer to see if the error disappears.
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
@@ -160,13 +139,6 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e389af4af.jpg)
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **If you’re using Windows 7:**
 
 1. On your keyboard, press the**Windows logo key** , then press**Pause** .
@@ -174,13 +146,6 @@ See how to do it:
 3. Double-click**Universal Serial Bus Controllers** .
 4. Right-click on your first USB controller driver to select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e45a3304f.jpg)
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
 
@@ -206,5 +171,26 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-a-comprehensive-guide-to-subtitle-sharing-on-tumblr-and-discord/"><u>[New] A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-removing-discord-servers-step-by-step/"><u>[Updated] Removing Discord Servers Step-by-Step</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50i-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50i</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-microsofts-update-hurdle-correcting-code-0x800f0922-on-windows-11/"><u>Bypassing Microsoft’s Update Hurdle: Correcting Code 0X800f0922 on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-stop-your-csgo-from-unexpectedly-crashing/"><u>Effective Ways to Stop Your CS:GO From Unexpectedly Crashing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-speaker-distortion-issue-a-comprehensive-guide/"><u>Fixing Window's Speaker Distortion Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restoring-accessibility-of-your-disregarded-usb-flash-memory/"><u>Guide: Restoring Accessibility of Your Disregarded USB Flash Memory</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206802848-how-to-successfully-repair-windows-update-glitches-now/"><u>How To Successfully Repair Windows Update Glitches, Now!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-diminuendo-design-guiding-sounds-in-adobe-premiere/"><u>In 2024, Diminuendo Design Guiding Sounds In Adobe Premiere</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-media-drives-troubleshooting-tips-for-the-persistent-error-39-on-your-cddvd-drive/"><u>Mastering Media Drives: Troubleshooting Tips for the Persistent Error 39 on Your CD/DVD Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-disk-usage-by-curtailing-microsofts-telemetry-features-in-windows-11/"><u>Optimizing Disk Usage by Curtailing Microsoft's Telemetry Features in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-missing-desktop-icons-on-windows-10/"><u>Resolved: Fixing Missing Desktop Icons on Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-cut-off-youtube-shorts-link-for-2024/"><u>Step-by-Step Guide Cut Off YouTube Shorts Link for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-video-collage-apps-of-the-year-a-comprehensive-review/"><u>Top 12 Video Collage Apps of the Year: A Comprehensive Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-hp-laptop-usb-issues-comprehensive-guide/"><u>Troubleshooting HP Laptop USB Issues - Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mobile-video-mastery-top-split-screen-apps-for-iphone-and-android/"><u>Updated In 2024, Mobile Video Mastery Top Split Screen Apps for iPhone and Android</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix HP Keyboard Issues Fast - Solutions for Unresponsive Laptop Buttons
-date: 2025-02-06T00:57:38.576Z
-updated: 2025-02-11T00:39:50.851Z
+date: 2025-03-01T06:43:46.079Z
+updated: 2025-03-02T12:00:21.189Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -75,19 +71,11 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,10 +110,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -145,10 +129,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,18 +164,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-learn-the-basics-of-digital-distortion/"><u>[New] 2024 Approved Learn the Basics of Digital Distortion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-cinematic-blackout-premiere-pro-guide/"><u>[New] Cinematic Blackout - Premiere Pro Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-evergreen-most-watched-video-catalog/"><u>[Updated] YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experience-seamless-conversations-with-chat-gpt-expert-insights-and-review-on-the-leading-ai-bot-in-chat-technology/"><u>Experience Seamless Conversations with Chat GPT: Expert Insights and Review on the Leading AI Bot in Chat Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-power-up-choosing-between-directx-11-and-12/"><u>Graphics Power Up: Choosing Between DirectX 11 & 12</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-15-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 15 Pro Max without Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/issue-with-windows-11-version-1607-upgrade-failed-update-and-possible-solutions/"><u>Issue with Windows 11 Version 1607 Upgrade: Failed Update and Possible Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/long-talks-short-wait-unveiling-jabra-talk-25-specs/"><u>Long Talks, Short Wait: Unveiling Jabra Talk 25 Specs</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-headphone-woes-dealing-with-logitech-g930-outages/"><u>Solve Your Headphone Woes: Dealing with Logitech G930 Outages</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/top-ranked-ringtones-to-enhance-your-call-experience/"><u>Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-corrective-steps-for-damaged-windows-marketplace-cache-files/"><u>Troubleshooting and Corrective Steps for Damaged Windows Marketplace Cache Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-a-frozen-overwatch-voice-chat-steps-for-instant-resolution/"><u>Unstick a Frozen Overwatch Voice Chat: Steps for Instant Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-quickly-solve-your-windowslinux-high-cpu-issues-direct-actions-against-the-root-cause-shell-infrastructures/"><u>(Solution) Quickly Solve Your Windows/Linux High CPU Issues – Direct Actions Against the Root Cause, Shell Infrastructures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-inside-a-virtual-reality-device-a-basic-overview/"><u>[New] 2024 Approved Inside a Virtual Reality Device A Basic Overview</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-sharing-youtube-content-seamlessly-in-instagram-stories/"><u>[New] In 2024, Sharing YouTube Content Seamlessly in Instagram Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-vanish-3-melee-disguise-4-rises/"><u>[New] In 2024, Vanish 3 Melee Disguise 4 Rises</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-youtube-to-facebook-sharing-pathways-for-2024/"><u>[New] Navigating YouTube to Facebook Sharing Pathways for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-laptop-plugged-in-not-charging-on-windows-11/"><u>[Solved] Laptop Plugged in, Not Charging on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frolic-in-fun-the-best-comedy-centric-concepts-for-shorter-videos-for-2024/"><u>[Updated] Frolic in Fun The Best Comedy-Centric Concepts for Shorter Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rapid-growth-on-instagram-the-like-video-duo-power/"><u>2024 Approved Rapid Growth on Instagram The Like-Video Duo Power</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-the-binkw32dll-file-not-found-message-expert-tips/"><u>Eliminating the 'binkw32.dll' File Not Found Message: Expert Tips</u></a></li>
+<li><a href="https://discover-help.techidaily.com/how-to-fix-a-faulty-motherboard-due-to-corrupted-bios-expert-advice-from-yl-computing/"><u>How to Fix a Faulty Motherboard Due to Corrupted BIOS: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-on-your-lenovo-laptops-stuck-keys/"><u>How to Restore Functionality on Your Lenovo Laptop's Stuck Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-slow-shutdown-woes-a-guide-for-windows-10-users/"><u>Overcome Slow Shutdown Woes: A Guide for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-high-network-activity-issues-a-closer-look-at-svchostexe-and-its-impact-on-your-system/"><u>Resolve High Network Activity Issues: A Closer Look at svchost.exe and Its Impact on Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-microsofts-version-1803-windows-10-update-fixed/"><u>Resolving Issues with Microsoft's Version 1803 Windows 10 Update [FIXED]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-your-presentations-essential-steps-to-update-microsoft-powerpoint-documents/"><u>Revamp Your Presentations: Essential Steps to Update Microsoft PowerPoint Documents</u></a></li>
+<li><a href="https://games-able.techidaily.com/social-sandbox-crafting-friendly-multiplayer-strategies-for-mc/"><u>Social Sandbox: Crafting Friendly Multiplayer Strategies for MC</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-laptop-power-problems-heres-why-it-might-not-be-charging/"><u>Windows 10 Laptop Power Problems? Here's Why It Might Not Be Charging</u></a></li>
 </ul></div>
 

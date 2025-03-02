@@ -1,7 +1,7 @@
 ---
 title: Resolving High Disk Usage by Microsoft Compatibility Telemetry in Windows 11
-date: 2025-02-06T17:58:50.497Z
-updated: 2025-02-10T16:44:01.179Z
+date: 2025-02-28T20:18:48.717Z
+updated: 2025-03-01T22:53:38.795Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
@@ -56,17 +52,9 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
@@ -79,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -100,17 +84,9 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -121,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
@@ -175,18 +147,19 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-streamline-your-content-advanced-tricks-with-youtube-studio-editor/"><u>[New] 2024 Approved Streamline Your Content Advanced Tricks with YouTube Studio Editor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-chorus-of-commitment-best-ballads-for-marital-dreaming/"><u>[New] Chorus of Commitment Best Ballads for Marital Dreaming</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-edge-40-neo-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Edge 40 Neo Fingerprint Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-solutions-to-prevent-your-battle-royale-game-from-crashing-down/"><u>Essential Solutions to Prevent Your Battle Royale Game From Crashing Down</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-use-capcut-translate-to-transform-video-content/"><u>In 2024, How To Use CapCut Translate to Transform Video Content</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-itel-p55-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Itel P55 FRP Without Computer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/quick-guide-how-to-seamlessly-mirror-your-instagram-stories-and-posts-to-your-smart-tv-or-any-display-device/"><u>Quick Guide: How to Seamlessly Mirror Your Instagram Stories and Posts to Your Smart TV or Any Display Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-instructions-to-fix-unresponsive-function-fn-keys-in-dell-notebooks/"><u>Step-by-Step Instructions to Fix Unresponsive Function (Fn) Keys in Dell Notebooks</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-fixes-oddworld-soulstorm-pc-game-crashes-troubleshooting-guide/"><u>Successfully Fixes Oddworld: Soulstorm PC Game Crashes - Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-deep-gaming-audio-bliss-save-big-with-the-top-rated-speakers-now-60-discounted-on-amazon-zdnet-insights/"><u>Unlock Deep Gaming Audio Bliss: Save Big with the Top-Rated Speakers Now 60% Discounted on Amazon - ZDNet Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-and-hosted-networks-solving-connection-problems-successfully/"><u>Windows 11 & Hosted Networks: Solving Connection Problems Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-class-registration-fix-ultimate-guide-for-a-smooth-run/"><u>Windows 11 Class Registration Fix - Ultimate Guide for a Smooth Run</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boost-engagement-on-youtube-by-adding-emojis-for-2024/"><u>[New] Boost Engagement on YouTube by Adding Emojis for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-the-snapchat-ecosystem-for-biz-growth/"><u>[New] Navigating the Snapchat Ecosystem for Biz Growth</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-the-dynamics-of-instagram-highlight-categories/"><u>[Updated] 2024 Approved Navigating the Dynamics of Instagram Highlight Categories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-converting-live-streamed-youtubes-into-animated-gif-formats/"><u>[Updated] In 2024, Converting Live Streamed YouTubes Into Animated GIF Formats</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-livestream-lifters-for-modern-audiences/"><u>[Updated] Livestream Lifters for Modern Audiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-to-restore-lenovo-mouse-functionality-in-windows-os/"><u>Effective Remedies to Restore Lenovo Mouse Functionality in Windows OS</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-reliable-is-miraris-kids-alarm-clock-a-detailed-product-review/"><u>How Reliable Is Mirari's Kids' Alarm Clock: A Detailed Product Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-fix-reactivate-your-local-security-protocols-now/"><u>Immediate Fix: Reactivate Your Local Security Protocols Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/iphonemp3m4r/"><u>IPhoneへのアプリ起動でMP3ファイルからカスタム着信メロディを作成するM4Rへの変換方法</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-excellence-in-depth-analysis-of-the-prestigious-samsung-galaxy-s10-phone/"><u>Mastering Excellence: In-Depth Analysis of the Prestigious Samsung Galaxy S10 Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/optimizing-age-information-in-tiktok-profiles/"><u>Optimizing Age Information in TikTok Profiles</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-stalled-windows-updates-a-step-by-step-guide/"><u>Resolving Stalled Windows Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-strategies-to-tackle-the-windows-update-at-zero-percent-conundrum/"><u>Seamless Strategies to Tackle the Windows Update at Zero Percent Conundrum</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-8007000e-update-issue-on-your-pc/"><u>Step-by-Step Guide: Resolving the 8007000E Update Issue on Your PC</u></a></li>
 </ul></div>
 

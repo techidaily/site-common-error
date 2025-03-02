@@ -1,7 +1,7 @@
 ---
 title: The IT Professional's Checklist for Fixing a Frozen System
-date: 2025-02-03T22:48:26.970Z
-updated: 2025-02-11T01:56:48.496Z
+date: 2025-02-25T13:56:59.322Z
+updated: 2025-03-02T01:13:32.820Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -63,10 +59,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 3: Rebuild icon cache
 
 You can also try these steps to rebuild the icon cache:
@@ -74,10 +66,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -87,10 +75,6 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -104,16 +88,8 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -147,10 +123,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
@@ -177,19 +149,17 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-escape-the-frown-mastery-in-dodging-facebook-restrictions-for-2024/"><u>[New] Escape the Frown Mastery in Dodging Facebook Restrictions for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prowl-these-top-ranked-sites-for-generous-vector-imagery-access/"><u>[New] Prowl These Top-Ranked Sites for Generous Vector Imagery Access</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-musical-journey-top-6-music-vids-on-android/"><u>[Updated] Streamline Your Musical Journey - Top 6 Music Vids on Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208263035-beating-the-windows-10-update-blues-cracking-code-0xc1900208-successfully/"><u>Beating the Windows 10 Update Blues: Cracking Code 0xC1900208 Successfully!</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-the-importance-of-xinput13dll-in-systems/"><u>Deciphering the Importance of XINPUT1_3.dll in Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-call-of-duty-world-war-ii-glitch-tackling-error-code-4220/"><u>Eliminating Call of Duty World War II Glitch - Tackling Error Code 4220</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-tips-and-tricks-to-restore-system-stability/"><u>Fixing 'Windows Resource Protection Failed' - Tips and Tricks to Restore System Stability</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-start-at-vectors-beginning-a-short-overview-of-forms-and-tools/"><u>In 2024, Start at Vector's Beginning A Short Overview of Forms & Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/insta-trends-staying-ahead-with-innovative-video-content-for-2024/"><u>Insta-Trends Staying Ahead with Innovative Video Content for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/journey-to-the-ultimate-vr-cycling-spaces-for-2024/"><u>Journey to the Ultimate VR Cycling Spaces for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/mouse-miracle-wireless-connection-reinstated/"><u>Mouse Miracle: Wireless Connection Reinstated</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-oppo-a1x-5g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Oppo A1x 5G has been deleted.</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-pc-a-step-by-step-guide-to-repairing-damaged-windows-11-files/"><u>Reviving Your PC: A Step-by-Step Guide to Repairing Damaged Windows 11 Files</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-14-ultra-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi 14 Ultra to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-infiltrating-hidden-user-communications-on-yt-platforms-for-2024/"><u>[New] Infiltrating Hidden User Communications on YT Platforms for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-core-principles-in-internet-story-development/"><u>[Updated] 2024 Approved Core Principles in Internet Story Development</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-amplify-focus-on-the-little-things-with-videoleap-zoom-for-2024/"><u>[Updated] Amplify Focus on the Little Things with VideoLeap Zoom for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-getting-comfortable-with-zoom-a-beginners-tutorial-for-2024/"><u>[Updated] Getting Comfortable with Zoom A Beginner’s Tutorial for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-tricks-to-acquire-dry-stock-photography-for-2024/"><u>[Updated] Tricks to Acquire Dry Stock Photography for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/disconnection-directive-protocols-for-abandoning-fb-business-accounts/"><u>Disconnection Directive: Protocols for Abandoning FB Business Accounts</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-your-strugnents-with-red-screen-expert-troubleshooting-steps-revealed/"><u>End Your Strugnents with RED Screen - Expert Troubleshooting Steps Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-vcruntime140dll-error-essential-steps-to-resolve-the-missing-file-issue-and-restart-your-apps-in-windows-11/"><u>Fix VCRUNTIME140.dll Error: Essential Steps to Resolve the 'Missing File' Issue & Restart Your Apps in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-subtle-sound-reduction-tactics-with-garageband/"><u>In 2024, Subtle Sound Reduction Tactics with Garageband</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-an-unstartable-laptop-or-desktop-system/"><u>Resolving the Issue of an Unstartable Laptop or Desktop System</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-lag-problems-in-fallout-4/"><u>Ultimate Guide: Solving Lag Problems in Fallout 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-volume-adjustment-woes-heres-how-you-can-get-the-sound-back-on-track/"><u>Windows 10 Volume Adjustment Woes? Here's How You Can Get the Sound Back On Track!</u></a></li>
 </ul></div>
 

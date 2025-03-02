@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fixing Lenovo's Unresponsive Fingerprint Reader with Minimal Hassle"
-date: 2024-08-09T00:49:18.533Z
-updated: 2024-08-10T00:49:18.533Z
+date: 2025-02-24T11:30:40.641Z
+updated: 2025-03-02T05:54:54.911Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  If you are dealing with this error, you can check the methods below that can help you get rid of it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1) Access violation error
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
@@ -44,25 +41,10 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
 **ii.** Press**Win + R** and then enter “_**sysdm.cpl**_ “;
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
 
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
@@ -79,14 +61,8 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
 **d)**  In addition to all the causes above, an**incompatible** **RAM** (Random Access Memory, shown by images below, an essential part of the computer) can also result in Access violation error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
@@ -97,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
 
 To resolve this error, you can try the methods below.
@@ -114,10 +87,6 @@ To resolve this error, you can try the methods below.
 
  To use Driver Easy to fix faulty drivers, you need to download and install it. Then open the program and click on**Scan Now** button. All the devices on your computer will be scanned and checked within a few seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
@@ -152,9 +121,6 @@ To resolve this error, you can try the methods below.
 
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
@@ -171,9 +137,6 @@ To repair BCD:
 
  If you are using Windows 8 or 10, click   **Next > Repair your computer > Troubleshoot > Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
 
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
@@ -210,11 +173,33 @@ bootrec /rebuildbcd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-the-starscape-a-guide-to-influencers-for-your-needs/"><u>[New] In 2024, Navigating the Starscape A Guide to Influencers for Your Needs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-story-structuring-at-its-core/"><u>[New] Story Structuring at Its Core</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-audio-alchemy-instagram-video-to-mp3-a-compreayers-guide-for-2024/"><u>[Updated] Audio Alchemy Instagram Video to Mp3 - A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-data-integration-seminar-mastering-advanced-data-processing-techniques-for-business-excellence/"><u>ABBYY Data Integration Seminar – Mastering Advanced Data Processing Techniques for Business Excellence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplifying-photos-keeping-precision-for-2024/"><u>Amplifying Photos Keeping Precision for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-high-cpu-usage-by-msmpengexe-in-windows-11-a-comprehensive-guide/"><u>Dealing with High CPU Usage by MsMpEng.exe in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/enhance-your-digital-presence-with-manycam-top-tips-for-using-virtual-webcams-in-live-video-production/"><u>Enhance Your Digital Presence with ManyCam: Top Tips for Using Virtual Webcams in Live Video Production</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-for-pubg-players-experiencing-persistent-building-load-failures/"><u>Essential Fixes for PUBG Players Experiencing Persistent Building Load Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-successfully-pair-your-bluetooth-keyboard-with-a-windows-or-mac-computer-again/"><u>Expert Advice: Successfully Pair Your Bluetooth Keyboard with a Windows or Mac Computer Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/hardware-hurdle-surface-keys-resolved/"><u>Hardware Hurdle: Surface Keys Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-the-noentrypointfound-error-on-your-computers-operating-system/"><u>How To Repair The ‘NoEntryPointFound’ Error on Your Computer's Operating System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-9-gif-recipes-for-capturing-windows-graphics-fun/"><u>In 2024, Essential 9 GIF Recipes for Capturing Windows Graphics Fun</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-s17t-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo S17t? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-elite-selection-best-selling-mac-audio-editing-tools-ranked/"><u>New In 2024, The Elite Selection Best-Selling Mac Audio Editing Tools, Ranked</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-copy-and-paste-functionality-errors-on-your-windows-11-pc/"><u>Resolving 'Copy & Paste' Functionality Errors on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fix-for-the-apex-anti-cheat-system-bug-now-solved/"><u>Simple Fix for the Apex Anti-Cheat System Bug - Now Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-reducing-msmpengexes-high-resource-drain-on-windows-10-pc/"><u>Solution for Reducing MsMpEng.exe's High Resource Drain on Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-touchpad-how-to-restore-scrolling-functionality/"><u>Troubleshooting Windows 11 Touchpad: How to Restore Scrolling Functionality</u></a></li>
+<li><a href="https://article-files.techidaily.com/video-freelancers-talent-agreement-form/"><u>Video Freelancers Talent Agreement Form</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Unfreezing Your PC When Running Windows 11
-date: 2025-02-09T20:12:47.138Z
-updated: 2025-02-10T22:36:52.254Z
+date: 2025-02-26T22:02:57.617Z
+updated: 2025-03-02T14:24:22.948Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Your**Windows Store** has been acting up recently.
 2. **[Create a new Windows Store cache folder](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Microsoft store](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reset the Windows Store cache
 
  As the error message suggests, the problem often happens when the  Windows Store cache  is damaged. By**resetting the Windows Store cache** , we can clear the cache of the apps and hopefully solve the problem.
@@ -49,10 +45,6 @@ Your**Windows Store** has been acting up recently.
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Once completed, Windows Store will pop open.
 
@@ -71,10 +63,6 @@ Your**Windows Store** has been acting up recently.
  1) On your keyboard, press**the Windows logo key** and type**users** . Then  click**Users** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae96c7d1dc08.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Copy & paste **windowsstore** into the search box and double-click on **Microsoft.WindowsStore\_8wekyb3d8bbwe** .
 
@@ -99,10 +87,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
@@ -114,10 +98,6 @@ Your**Windows Store** has been acting up recently.
  4) Restart your computer and check if the problem has been sorted out.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Want us to fix the problem for you?
 
@@ -142,18 +122,22 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-essential-steps-for-effective-screen-capture-in-adobe-captivity-for-2024/"><u>[New] Essential Steps for Effective Screen Capture in Adobe Captivity for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-3ip-apps-to-record-clear-speech-on-ipads/"><u>[New] In 2024, Best 3iP Apps to Record Clear Speech on iPads</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-masterfb-mp4-hacking-facebook-videos-with-ease/"><u>[Updated] MasterFB-MP4 Hacking Facebook Videos with Ease</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-360-degree-panoramic-shot-systems/"><u>2024 Approved 360 Degree Panoramic Shot Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/accelerate-your-typing-experience-effective-fixes-for-lagging-keys-in-the-latest-windows-operating-system/"><u>Accelerate Your Typing Experience: Effective Fixes for Lagging Keys in the Latest Windows Operating System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-edge-analysis-techniques-unlocking-the-potential-of-gpt-3/"><u>Cutting-Edge Analysis Techniques: Unlocking the Potential of GPT-3</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-svchostexe-overusing-system-resources-on-windows-11/"><u>Effective Fixes for svchost.exe Overusing System Resources on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-0x8024402c-a-step-by-step-guide/"><u>Fixing Windows Update Error 0X8024402C: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-av1-your-initial-journey-for-2024/"><u>Navigating AV1 Your Initial Journey for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-process-for-reverting-your-pc-from-windows-881-back-to-windows-7-pro-version/"><u>Step-by-Step Process for Reverting Your PC From Windows 8/8.1 Back to Windows 7 Pro Version</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-repairing-itbm-driver-accessibility-problems/"><u>Troubleshooting and Repairing ITBM Driver Accessibility Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-for-pc-to-prevent-system-freezes/"><u>Troubleshooting Nier: Automata for PC to Prevent System Freezes</u></a></li>
+<li><a href="https://common-error.techidaily.com/camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eciphering-youtube-popularity-factors-for-higher-placement/"><u>[New] Deciphering YouTube Popularity Factors for Higher Placement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-hosting-charismatic-chats-keeping-audiences-hooked-live-for-2024/"><u>[New] Hosting Charismatic Chats Keeping Audiences Hooked Live for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-launch-long-growth-the-10-best-youtube-business-channels/"><u>[New] Quick Launch, Long Growth The 10 Best YouTube Business Channels</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-skyrims-infinite-load-screen-effective-troubleshooting-techniques/"><u>Defeating Skyrim's Infinite Load Screen: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-unity-initialization-graphics-glitch-beginner-friendly-tips/"><u>Effortless Fix for Unity Initialization Graphics Glitch - Beginner-Friendly Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-complications-with-the-windows-1903-os-update/"><u>How to Overcome Complications with the Windows 1903 OS Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-logitech-brio-webcam-driver-for-windows-7-8-or-10-free-download-guide/"><u>How to Update Your Logitech Brio Webcam Driver for Windows 7, 8 or 10 - Free Download Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-19-critical-examples-of-the-metaverse-unveiled/"><u>In 2024, 19 Critical Examples of the Metaverse Unveiled</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-halt-autoplay-youtube-recommendations/"><u>In 2024, Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c22-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C22 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/opening-troubled-chrome-remediation-tips-for-win11-users-here/"><u>Opening Troubled Chrome: Remediation Tips for Win11 Users Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-apexs-anti-cheat-issues/"><u>Step-by-Step Solution to Overcome Apex's Anti-Cheat Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-6-social-media-platforms-for-business/"><u>Top 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-astro-a40-microphone-issues-quick-fixes-and-solutions/"><u>Troubleshoot Your Astro A40 Microphone Issues: Quick Fixes & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-class-not-registered-problem-on-windows-10-systems/"><u>Troubleshooting the Class Not Registered Problem on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-puzzle-of-twitch-error-code-4000/"><u>Ultimate Guide: Solving the Puzzle of Twitch Error Code 4000</u></a></li>
 </ul></div>
 
